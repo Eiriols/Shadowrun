@@ -13,4 +13,9 @@ Group has been hired to steal a package before it gets shipped off. Currently th
 	- Weight - 15kg
 	- Size - 60x40x30cm
 	- Description - Padded Box (Contents Private)
-	- Hazard Info - Magical Source
+	- Hazard Info - Magical Focus
+	- Security Info - Tip Sensor, Drop Sensor, Tracking (On Box), Security Seals (Magic and Physical not specified in info)
+- Magical Focus 
+	- Force 8
+	- Enchanting Focus
+	- Shallow Silver Bowl with a Mirrored Finish

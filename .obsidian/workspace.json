@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Session 0.md",
+                "file": "Runs/Run 1 - Parcel Interception.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Session 0"
+              "title": "Run 1 - Parcel Interception"
             }
           }
         ]
@@ -171,8 +171,8 @@
   },
   "active": "51e64e62b00ef95e",
   "lastOpenFiles": [
-    "Session 0.md",
     "Session Notes/Session 0.md",
+    "Session 0.md",
     "PCs/- Laurie.md",
     "PCs/- Kev.md",
     "PCs/- Jack.md",
