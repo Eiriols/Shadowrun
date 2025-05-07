@@ -1,0 +1,104 @@
+{"timestamp":"2025-05-07T14:53:12.742Z","level":"INFO","message":"Starting sync"}
+{"timestamp":"2025-05-07T14:54:34.193Z","level":"INFO","message":"Starting first sync"}
+{"timestamp":"2025-05-07T14:54:34.491Z","level":"INFO","message":"Starting first sync from remote files"}
+{"timestamp":"2025-05-07T14:54:34.810Z","level":"INFO","message":"Received create event","additional_data":"Session 0.md"}
+{"timestamp":"2025-05-07T14:54:34.816Z","level":"INFO","message":"Received create event","additional_data":"Characters"}
+{"timestamp":"2025-05-07T14:54:34.854Z","level":"INFO","message":"Received create event","additional_data":"Characters/Alex -.md"}
+{"timestamp":"2025-05-07T14:54:34.858Z","level":"INFO","message":"Received create event","additional_data":"Characters/Jack -.md"}
+{"timestamp":"2025-05-07T14:54:34.864Z","level":"INFO","message":"Received create event","additional_data":"Characters/Kev -.md"}
+{"timestamp":"2025-05-07T14:54:34.869Z","level":"INFO","message":"Received create event","additional_data":"Characters/Laurie -.md"}
+{"timestamp":"2025-05-07T14:54:34.874Z","level":"INFO","message":"Updated just downloaded created file","additional_data":"Session 0.md"}
+{"timestamp":"2025-05-07T14:54:34.947Z","level":"INFO","message":"Updated just downloaded created file","additional_data":"Characters/Alex -.md"}
+{"timestamp":"2025-05-07T14:54:34.956Z","level":"INFO","message":"Updated just downloaded created file","additional_data":"Characters/Jack -.md"}
+{"timestamp":"2025-05-07T14:54:34.969Z","level":"INFO","message":"Updated just downloaded created file","additional_data":"Characters/Kev -.md"}
+{"timestamp":"2025-05-07T14:54:34.989Z","level":"INFO","message":"Updated just downloaded created file","additional_data":"Characters/Laurie -.md"}
+{"timestamp":"2025-05-07T14:54:37.087Z","level":"INFO","message":"Sync done"}
+{"timestamp":"2025-05-07T14:54:47.425Z","level":"INFO","message":"Received delete event","additional_data":"Characters/Alex -.md"}
+{"timestamp":"2025-05-07T14:54:47.426Z","level":"INFO","message":"Received delete event","additional_data":"Characters/Jack -.md"}
+{"timestamp":"2025-05-07T14:54:47.426Z","level":"INFO","message":"Received delete event","additional_data":"Characters/Kev -.md"}
+{"timestamp":"2025-05-07T14:54:47.426Z","level":"INFO","message":"Received delete event","additional_data":"Characters/Laurie -.md"}
+{"timestamp":"2025-05-07T14:54:47.427Z","level":"INFO","message":"Received delete event","additional_data":"Characters"}
+{"timestamp":"2025-05-07T14:54:47.511Z","level":"INFO","message":"Updated deleted file","additional_data":"Characters/Alex -.md"}
+{"timestamp":"2025-05-07T14:54:47.514Z","level":"INFO","message":"Updated deleted file","additional_data":"Characters/Jack -.md"}
+{"timestamp":"2025-05-07T14:54:47.536Z","level":"INFO","message":"Updated deleted file","additional_data":"Characters/Kev -.md"}
+{"timestamp":"2025-05-07T14:54:47.542Z","level":"INFO","message":"Updated deleted file","additional_data":"Characters/Laurie -.md"}
+{"timestamp":"2025-05-07T14:54:48.817Z","level":"INFO","message":"Starting sync"}
+{"timestamp":"2025-05-07T14:54:50.511Z","level":"INFO","message":"Starting sync"}
+{"timestamp":"2025-05-07T14:54:53.491Z","level":"INFO","message":"Received create event","additional_data":"Untitled.md"}
+{"timestamp":"2025-05-07T14:54:53.541Z","level":"INFO","message":"Updated created file","additional_data":"Untitled.md"}
+{"timestamp":"2025-05-07T14:54:55.678Z","level":"INFO","message":"Received create event","additional_data":"Untitled"}
+{"timestamp":"2025-05-07T14:54:59.018Z","level":"INFO","message":"Received rename event","additional_data":"Characters"}
+{"timestamp":"2025-05-07T14:55:10.845Z","level":"INFO","message":"Received create event","additional_data":"Untitled 1.md"}
+{"timestamp":"2025-05-07T14:55:10.980Z","level":"INFO","message":"Updated created file","additional_data":"Untitled 1.md"}
+{"timestamp":"2025-05-07T14:55:19.514Z","level":"INFO","message":"Received rename event","additional_data":"- Alex.md"}
+{"timestamp":"2025-05-07T14:55:19.583Z","level":"INFO","message":"Received create event","additional_data":"- Alex.md"}
+{"timestamp":"2025-05-07T14:55:19.590Z","level":"INFO","message":"Received modify event","additional_data":"Session Notes/Session 0.md"}
+{"timestamp":"2025-05-07T14:55:19.623Z","level":"INFO","message":"Updated created file","additional_data":"- Alex.md"}
+{"timestamp":"2025-05-07T14:55:19.624Z","level":"INFO","message":"Received delete event","additional_data":"Untitled.md"}
+{"timestamp":"2025-05-07T14:55:19.643Z","level":"INFO","message":"Updated deleted file","additional_data":"Untitled.md"}
+{"timestamp":"2025-05-07T14:55:27.614Z","level":"INFO","message":"Received rename event","additional_data":"- Jack.md"}
+{"timestamp":"2025-05-07T14:55:27.632Z","level":"INFO","message":"Received create event","additional_data":"- Jack.md"}
+{"timestamp":"2025-05-07T14:55:27.649Z","level":"INFO","message":"Received modify event","additional_data":"Session Notes/Session 0.md"}
+{"timestamp":"2025-05-07T14:55:27.681Z","level":"INFO","message":"Updated created file","additional_data":"- Jack.md"}
+{"timestamp":"2025-05-07T14:55:27.705Z","level":"INFO","message":"Received delete event","additional_data":"Untitled 1.md"}
+{"timestamp":"2025-05-07T14:55:27.709Z","level":"INFO","message":"Updated deleted file","additional_data":"Untitled 1.md"}
+{"timestamp":"2025-05-07T14:55:32.087Z","level":"INFO","message":"Received rename event","additional_data":"Characters/- Jack.md"}
+{"timestamp":"2025-05-07T14:55:32.093Z","level":"INFO","message":"Received create event","additional_data":"Characters/- Jack.md"}
+{"timestamp":"2025-05-07T14:55:32.094Z","level":"INFO","message":"Received rename event","additional_data":"Characters/- Alex.md"}
+{"timestamp":"2025-05-07T14:55:32.102Z","level":"INFO","message":"Received create event","additional_data":"Characters/- Alex.md"}
+{"timestamp":"2025-05-07T14:55:32.105Z","level":"INFO","message":"Updated created file","additional_data":"Characters/- Jack.md"}
+{"timestamp":"2025-05-07T14:55:32.107Z","level":"INFO","message":"Received delete event","additional_data":"- Jack.md"}
+{"timestamp":"2025-05-07T14:55:32.123Z","level":"INFO","message":"Updated created file","additional_data":"Characters/- Alex.md"}
+{"timestamp":"2025-05-07T14:55:32.125Z","level":"INFO","message":"Received delete event","additional_data":"- Alex.md"}
+{"timestamp":"2025-05-07T14:55:32.139Z","level":"INFO","message":"Updated deleted file","additional_data":"- Jack.md"}
+{"timestamp":"2025-05-07T14:55:32.153Z","level":"INFO","message":"Updated deleted file","additional_data":"- Alex.md"}
+{"timestamp":"2025-05-07T14:55:44.914Z","level":"INFO","message":"Received create event","additional_data":"PCs/- Kev 1.md"}
+{"timestamp":"2025-05-07T14:55:44.991Z","level":"INFO","message":"Updated created file","additional_data":"PCs/- Kev 1.md"}
+{"timestamp":"2025-05-07T14:55:48.652Z","level":"INFO","message":"Received create event","additional_data":"PCs/- Laurie 1.md"}
+{"timestamp":"2025-05-07T14:55:48.723Z","level":"INFO","message":"Updated created file","additional_data":"PCs/- Laurie 1.md"}
+{"timestamp":"2025-05-07T14:55:51.008Z","level":"INFO","message":"Received rename event","additional_data":"Characters/- Kev 1.md"}
+{"timestamp":"2025-05-07T14:55:51.015Z","level":"INFO","message":"Received create event","additional_data":"Characters/- Kev 1.md"}
+{"timestamp":"2025-05-07T14:55:51.025Z","level":"INFO","message":"Updated created file","additional_data":"Characters/- Kev 1.md"}
+{"timestamp":"2025-05-07T14:55:51.027Z","level":"INFO","message":"Received delete event","additional_data":"PCs/- Kev 1.md"}
+{"timestamp":"2025-05-07T14:55:51.053Z","level":"INFO","message":"Updated deleted file","additional_data":"PCs/- Kev 1.md"}
+{"timestamp":"2025-05-07T14:55:52.967Z","level":"INFO","message":"Received rename event","additional_data":"Characters/- Laurie 1.md"}
+{"timestamp":"2025-05-07T14:55:52.974Z","level":"INFO","message":"Received create event","additional_data":"Characters/- Laurie 1.md"}
+{"timestamp":"2025-05-07T14:55:52.988Z","level":"INFO","message":"Updated created file","additional_data":"Characters/- Laurie 1.md"}
+{"timestamp":"2025-05-07T14:55:52.994Z","level":"INFO","message":"Received delete event","additional_data":"PCs/- Laurie 1.md"}
+{"timestamp":"2025-05-07T14:55:53.012Z","level":"INFO","message":"Updated deleted file","additional_data":"PCs/- Laurie 1.md"}
+{"timestamp":"2025-05-07T14:55:57.318Z","level":"INFO","message":"Received rename event","additional_data":"Characters/- Kev.md"}
+{"timestamp":"2025-05-07T14:55:57.349Z","level":"INFO","message":"Received create event","additional_data":"Characters/- Kev.md"}
+{"timestamp":"2025-05-07T14:55:57.353Z","level":"INFO","message":"Received modify event","additional_data":"Session Notes/Session 0.md"}
+{"timestamp":"2025-05-07T14:55:57.377Z","level":"INFO","message":"Updated created file","additional_data":"Characters/- Kev.md"}
+{"timestamp":"2025-05-07T14:55:57.378Z","level":"INFO","message":"Received delete event","additional_data":"Characters/- Kev 1.md"}
+{"timestamp":"2025-05-07T14:55:57.392Z","level":"INFO","message":"Updated deleted file","additional_data":"Characters/- Kev 1.md"}
+{"timestamp":"2025-05-07T14:56:00.134Z","level":"INFO","message":"Received rename event","additional_data":"Characters/- Laurie.md"}
+{"timestamp":"2025-05-07T14:56:00.147Z","level":"INFO","message":"Received create event","additional_data":"Characters/- Laurie.md"}
+{"timestamp":"2025-05-07T14:56:00.156Z","level":"INFO","message":"Received modify event","additional_data":"Session Notes/Session 0.md"}
+{"timestamp":"2025-05-07T14:56:00.173Z","level":"INFO","message":"Updated created file","additional_data":"Characters/- Laurie.md"}
+{"timestamp":"2025-05-07T14:56:00.175Z","level":"INFO","message":"Received delete event","additional_data":"Characters/- Laurie 1.md"}
+{"timestamp":"2025-05-07T14:56:00.194Z","level":"INFO","message":"Updated deleted file","additional_data":"Characters/- Laurie 1.md"}
+{"timestamp":"2025-05-07T14:56:05.584Z","level":"INFO","message":"Starting sync"}
+{"timestamp":"2025-05-07T14:56:15.656Z","level":"INFO","message":"Received rename event","additional_data":"Characters/Alex -.md"}
+{"timestamp":"2025-05-07T14:56:15.665Z","level":"INFO","message":"Received create event","additional_data":"Characters/Alex -.md"}
+{"timestamp":"2025-05-07T14:56:15.675Z","level":"INFO","message":"Updated created file","additional_data":"Characters/Alex -.md"}
+{"timestamp":"2025-05-07T14:56:15.680Z","level":"INFO","message":"Received delete event","additional_data":"Characters/- Alex.md"}
+{"timestamp":"2025-05-07T14:56:15.695Z","level":"INFO","message":"Updated deleted file","additional_data":"Characters/- Alex.md"}
+{"timestamp":"2025-05-07T14:56:22.201Z","level":"INFO","message":"Received rename event","additional_data":"Characters/Laurie -.md"}
+{"timestamp":"2025-05-07T14:56:22.219Z","level":"INFO","message":"Received create event","additional_data":"Characters/Laurie -.md"}
+{"timestamp":"2025-05-07T14:56:22.234Z","level":"INFO","message":"Updated created file","additional_data":"Characters/Laurie -.md"}
+{"timestamp":"2025-05-07T14:56:22.236Z","level":"INFO","message":"Received delete event","additional_data":"Characters/- Laurie.md"}
+{"timestamp":"2025-05-07T14:56:22.256Z","level":"INFO","message":"Updated deleted file","additional_data":"Characters/- Laurie.md"}
+{"timestamp":"2025-05-07T14:56:27.285Z","level":"INFO","message":"Received rename event","additional_data":"Characters/Kev -.md"}
+{"timestamp":"2025-05-07T14:56:27.312Z","level":"INFO","message":"Received create event","additional_data":"Characters/Kev -.md"}
+{"timestamp":"2025-05-07T14:56:27.327Z","level":"INFO","message":"Updated created file","additional_data":"Characters/Kev -.md"}
+{"timestamp":"2025-05-07T14:56:27.329Z","level":"INFO","message":"Received delete event","additional_data":"Characters/- Kev.md"}
+{"timestamp":"2025-05-07T14:56:27.347Z","level":"INFO","message":"Updated deleted file","additional_data":"Characters/- Kev.md"}
+{"timestamp":"2025-05-07T14:56:33.416Z","level":"INFO","message":"Starting sync"}
+{"timestamp":"2025-05-07T14:56:38.432Z","level":"INFO","message":"Received rename event","additional_data":"Characters/Jack -.md"}
+{"timestamp":"2025-05-07T14:56:38.449Z","level":"INFO","message":"Received create event","additional_data":"Characters/Jack -.md"}
+{"timestamp":"2025-05-07T14:56:38.469Z","level":"INFO","message":"Updated created file","additional_data":"Characters/Jack -.md"}
+{"timestamp":"2025-05-07T14:56:38.472Z","level":"INFO","message":"Received delete event","additional_data":"Characters/- Jack.md"}
+{"timestamp":"2025-05-07T14:56:38.497Z","level":"INFO","message":"Updated deleted file","additional_data":"Characters/- Jack.md"}
+{"timestamp":"2025-05-07T14:56:40.061Z","level":"INFO","message":"Starting sync"}
+{"timestamp":"2025-05-07T14:56:40.114Z","level":"INFO","message":"Nothing to sync"}
