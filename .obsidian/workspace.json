@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Runs/Run 1 - Parcel Interception.md",
+                "file": "World/Berlin - City.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Run 1 - Parcel Interception"
+              "title": "Berlin - City"
             }
           }
         ]
@@ -170,6 +170,7 @@
   },
   "active": "51e64e62b00ef95e",
   "lastOpenFiles": [
+    "Runs/Run 1 - Parcel Interception.md",
     "Session Notes/Session 0.md",
     "Session 0.md",
     "PCs/- Laurie.md",
@@ -183,9 +184,8 @@
     "NPCs/- AI.md",
     "Characters",
     "Characters",
-    "Runs/Run 1 - Parcel Interception.md",
     "Runs",
-    "World/- City.md",
+    "World/Berlin - City.md",
     "NPCs/Untitled.md",
     "NPCs/- Fixer.md",
     "NPCs",
