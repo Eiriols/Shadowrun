@@ -4,24 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "7227396aca0215de",
+        "id": "06b01bd66d872f6d",
         "type": "tabs",
         "children": [
           {
-            "id": "51e64e62b00ef95e",
+            "id": "789cd7ecdcaacc78",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World/Berlin - City.md",
+                "file": "World/Berlin Districts/Aztech Schönewalde.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Berlin - City"
+              "title": "Aztech Schönewalde"
+            }
+          },
+          {
+            "id": "8ba4e23d5526f3bc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World/Berlin Districts/Charlottenburg-Wilmersdorf.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Charlottenburg-Wilmersdorf"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -165,33 +180,58 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "timelines-revamped:Insert Timeline Event": false,
+      "timelines-revamped:Insert Timeline Event (Frontmatter)": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "51e64e62b00ef95e",
+  "active": "8ba4e23d5526f3bc",
   "lastOpenFiles": [
-    "Runs/Run 1 - Parcel Interception.md",
+    "World/Berlin Districts/Aztech Schönewalde.md",
+    "World/Berlin Districts/AGC Siemens city.md",
+    "Critters.md",
+    "World/Berlin Districts/Oranieburg.md",
+    "World/Berlin Districts/Mitte.md",
+    "World/Berlin Districts/Exterritoriales Gebiet.md",
+    "World/Berlin - City.md",
+    "World/Berlin Districts/Kreuzhain.md",
+    "World/Allied German States.md",
+    "excalibrain.md",
     "Session Notes/Session 0.md",
-    "Session 0.md",
-    "PCs/- Laurie.md",
-    "PCs/- Kev.md",
-    "PCs/- Jack.md",
+    "Runs/Run 1 - Parcel Interception.md",
     "PCs/- Alex.md",
-    "Characters/Laurie -.md",
-    "Characters/Kev -.md",
-    "Characters/Jack -.md",
-    "Characters/Alex -.md",
-    "NPCs/- AI.md",
+    "PCs/- Jack.md",
+    "World/Berlin Districts",
+    "World/Maps/Aztech S Berlin Map.png",
+    "World/Berlin Districts/Reinickendorf.md",
+    "World/Berlin Districts/Pankow.md",
+    "World/Berlin Districts/Z-IC Tegel.md",
+    "World/Berlin Districts/Zehlendorf.md",
+    "World/Berlin Districts/Strausberg-Fredersdorf.md",
+    "World/Berlin Districts/Spandau.md",
+    "World/Berlin Districts/Schönefeld.md",
+    "World/Berlin Districts/S-K Templehof.md",
+    "World/Berlin Districts/Renrakusan.md",
+    "World/Berlin Districts/Potsdam.md",
+    "World/Maps/Pankow Berlin Map.png",
+    "World/Berlin Districts/Marzahn.md",
+    "World/Berlin Districts/Lichtenberg.md",
+    "World/Maps/Z-IC Tegel Berlin Map.png",
+    "World/Maps/Zehlendorf Berlin Map.png",
+    "World/Maps/Strausberg Berlin Map.png",
+    "World/Maps/Spandau Berlin Map.png",
+    "World/Maps/Sconefeld Berlin Map.png",
+    "World/Maps/Templehof Berlin Map.png",
+    "World/Maps/Renrakusan Berlin Map.png",
+    "World/Maps/Reinickendorf Berlin Map.png",
+    "World/Maps",
     "Characters",
     "Characters",
     "Runs",
-    "World/Berlin - City.md",
-    "NPCs/Untitled.md",
-    "NPCs/- Fixer.md",
     "NPCs",
     "World",
     "Session Notes",
-    "PCs",
-    "Welcome.md"
+    "PCs"
   ]
 }

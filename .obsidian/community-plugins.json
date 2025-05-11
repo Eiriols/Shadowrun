@@ -1,1 +1,8 @@
-[]
+[
+  "obsidian-timeline",
+  "dataview",
+  "excalibrain",
+  "obsidian-excalidraw-plugin",
+  "persistent-graph",
+  "virtual-linker"
+]
