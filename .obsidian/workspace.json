@@ -181,14 +181,13 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "timelines-revamped:Insert Timeline Event": false,
-      "timelines-revamped:Insert Timeline Event (Frontmatter)": false,
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
   "active": "8ba4e23d5526f3bc",
   "lastOpenFiles": [
     "World/Berlin Districts/Aztech Schönewalde.md",
+    "World/Berlin Districts/Charlottenburg-Wilmersdorf.md",
     "World/Berlin Districts/AGC Siemens city.md",
     "Critters.md",
     "World/Berlin Districts/Oranieburg.md",
@@ -216,7 +215,6 @@
     "World/Berlin Districts/Potsdam.md",
     "World/Maps/Pankow Berlin Map.png",
     "World/Berlin Districts/Marzahn.md",
-    "World/Berlin Districts/Lichtenberg.md",
     "World/Maps/Z-IC Tegel Berlin Map.png",
     "World/Maps/Zehlendorf Berlin Map.png",
     "World/Maps/Strausberg Berlin Map.png",
