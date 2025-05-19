@@ -2,7 +2,7 @@
 #### Neighbours
 [[Lichtenberg]]
 [[Köpenick]]
-[[Gropius town]]
+[[Gropiusstadt]]
 [[S-K Templehof]]
 [[Charlottenburg-Wilmersdorf]]
 [[Mitte]]

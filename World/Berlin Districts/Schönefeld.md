@@ -1,7 +1,7 @@
 
 #### Neighbours
 [[Köpenick]]
-[[Gropius town]]
+[[Gropiusstadt]]
 [[Zehlendorf]]
 [[Shiawase Halde 12-3]]
 #### Map

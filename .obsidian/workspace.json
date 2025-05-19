@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World/Berlin Districts/Charlottenburg-Wilmersdorf.md",
+                "file": "World/Berlin Districts/Gropiusstadt.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Charlottenburg-Wilmersdorf"
+              "title": "Gropiusstadt"
             }
           }
         ],
@@ -186,13 +186,16 @@
   },
   "active": "8ba4e23d5526f3bc",
   "lastOpenFiles": [
+    "World/Berlin Districts/Köpenick.md",
+    "World/Berlin Districts/Gropiusstadt.md",
+    "World/Berlin Districts/Falkensee.md",
+    "World/Berlin Districts/Exterritoriales Gebiet.md",
     "World/Berlin Districts/Aztech Schönewalde.md",
     "World/Berlin Districts/Charlottenburg-Wilmersdorf.md",
     "World/Berlin Districts/AGC Siemens city.md",
     "Critters.md",
     "World/Berlin Districts/Oranieburg.md",
     "World/Berlin Districts/Mitte.md",
-    "World/Berlin Districts/Exterritoriales Gebiet.md",
     "World/Berlin - City.md",
     "World/Berlin Districts/Kreuzhain.md",
     "World/Allied German States.md",
@@ -211,10 +214,7 @@
     "World/Berlin Districts/Spandau.md",
     "World/Berlin Districts/Schönefeld.md",
     "World/Berlin Districts/S-K Templehof.md",
-    "World/Berlin Districts/Renrakusan.md",
-    "World/Berlin Districts/Potsdam.md",
     "World/Maps/Pankow Berlin Map.png",
-    "World/Berlin Districts/Marzahn.md",
     "World/Maps/Z-IC Tegel Berlin Map.png",
     "World/Maps/Zehlendorf Berlin Map.png",
     "World/Maps/Strausberg Berlin Map.png",

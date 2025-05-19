@@ -3,6 +3,6 @@
 [[Schönefeld]]
 [[Marzahn]]
 [[Kreuzhain]]
-[[Gropius town]]
+[[Gropiusstadt]]
 #### Map
 ![[Kopenick Berlin Map.png]]

@@ -2,7 +2,7 @@
 #### Neighbours
 [[Charlottenburg-Wilmersdorf]]
 [[Kreuzhain]]
-[[Gropius town]]
+[[Gropiusstadt]]
 [[Zehlendorf]]
 #### Map
 ![[Templehof Berlin Map.png]]

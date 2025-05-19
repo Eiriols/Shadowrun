@@ -6,7 +6,7 @@ The area that was known as the Spandau Forest is now off limits to protect the r
 #### Neighbours
 [[Exterritoriales Gebiet]]
 [[Reinickendorf]]
-[[Lake Falkensee]]
+[[Falkensee]]
 [[Spandau]]
 #### Map
 ![[Aztech S Berlin Map.png]]

@@ -1,6 +1,6 @@
 
 #### Neighbours
-[[Lake Falkensee]]
+[[Falkensee]]
 [[Aztech Schönewalde]]
 [[Z-IC Tegel]]
 [[Charlottenburg-Wilmersdorf]]

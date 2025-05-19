@@ -4,7 +4,7 @@
 [[Spandau]]
 [[Charlottenburg-Wilmersdorf]]
 [[S-K Templehof]]
-[[Gropius town]]
+[[Gropiusstadt]]
 [[Schönefeld]]
 #### Map
 ![[Zehlendorf Berlin Map.png]]
