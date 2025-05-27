@@ -1,4 +1,3 @@
-
 ### Districts
 
 | District                       | Patrons & People                                                                                          | Power |
@@ -6,7 +5,7 @@
 | [[AGC Siemens city]]           | AG Chemie (Corp)                                                                                          | 4     |
 | [[Aztech Schönewalde]]         | Aztechnology (Corp)                                                                                       | 4     |
 | [[Charlottenburg-Wilmersdorf]] | DeMeKo. (Corp)                                                                                            | 4     |
-| [[Falkensee]]             | End stop for the hopeless, where those who are too extreme even for the same open Berlin end. High crime. | 1     |
+| [[Falkensee]]                  | End stop for the hopeless, where those who are too extreme even for the same open Berlin end. High crime. | 1     |
 | [[Gropiusstadt]]               | The Horde (Mafia)                                                                                         | 3     |
 | [[Köpenick]]                   | Awakened Communities (SINless)                                                                            | 2     |
 | [[Kreuzhain]]                  | Old Anarchists (SINless)                                                                                  | 1     |
