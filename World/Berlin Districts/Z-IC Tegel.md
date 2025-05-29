@@ -1,9 +1,19 @@
+The high-profile façade of the district and thus also of Zeta-ImpChem is the Alt-Tegel center. Here you will find the Tegelwelt and the Schöner Leben Body Mall, which satisfy visitors' shopping cravings. If the weather permits, you can walk along the (non-navigable) Tegel Harbour and enjoy the picturesque townhouses and city villas up to the wonderfully wide and green Greenwich Promenade, from which you can take ferries and excursion steamers to various destinations in and outside of Berlin.
 
+At the end of the promenade is the Biotechnology Park Berlin (BTPB) with its public squares and promenades that invite you to linger and promote the medical advances and future visions of Z-IC and Schering via information areas with touch screens as well as holo and AR installations. The headquarters of Schering is also located here, which was incorporated when Reinickendorf was taken over and whose atrium including the permanent exhibition "200 Years of Schering 1871 - 2071" is open to the public. Schering's marketing department is located directly in the neighboring "Berlin's first high-rise", the Borsigturm, which is made of red bricks. The offices of Schering subsidiaries and suppliers are also located in the area, as well as cafés and restaurants that cater to employees and visitors. Finally, to the south is the large Schering factory on Egellstrasse, whose conveyor belts are directly connected to the logistics center at the M-Bahn station Holzhauser Strasse and to Berlin-Tegel Airport.
+
+The part of the district that was previously Tegel begins south of Bernauer Strasse. An endless area of ​​densely packed Zeta-ImpChem research and production facilities surrounded by a high wall and located around the Tegel airport. The group relies on a straight, efficient, closely interlinked and, above all, clinically clean environment and not on comfort.
+#### New buildings
+The rest of the areas newly integrated into the Tegel area are either still green brownfields or are already being extensively torn up by excavators. The latest projects include a new residential area around the Reiherwerder peninsula as well as the new ZetaSEC corporate security training center directly north of it. The plan is to offer 2,082 senior employees on the western shore of Lake Tegel a more comfortable alternative to the cramped life in the high-security zone at the airport. The water rescue center on Lindwerder is also a new project, which is intended to monitor access to Lake Tegel. There are already speedboats and two helicopters on the island, but the base itself is still a makeshift structure made of modular containers. The plan is to build a bunker with guns and a monitoring center for sensor buoys, which are currently being deployed throughout the entire area of ​​the part of Lake Tegel controlled by Z-IC
+
+In the takeover area there were already some points used by Z-IC, such as the Zeta Business Club Villa Borsig, a kind of mixture of seminar center, business lounge and meeting place for lobbyists and politicians, as well as the Tegel recreation park, which is located at the end of Campestrasse and serves as a local recreation area and also houses enclosures of animals and critters that can be admired here.
+
+Directly next to the high-security zone is the Z-IC Research Hospital Berlin, which is one of the most modern facilities in Europe. The local cosmetic surgery beds are almost permanently fully booked and are also very important within the group.
 #### Neighbours
 [[Reinickendorf]]
 [[Mitte]]
 [[Spandau]]
-[[AGC Siemens city]]
+[[AGC Siemensstadt]]
 [[Charlottenburg-Wilmersdorf]]
-#### Map
+### Map
 ![[Z-IC Tegel Berlin Map.png]]

@@ -1,32 +1,32 @@
-### Districts
+## Districts
+| District                       | District    | Description                                                                                                                                                                             |
+| ------------------------------ | ----------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[AGC Siemensstadt]]           | Corporate   | Formerly "Groß-Siemensstadt", owned by AG Chemie. A wild tangle of production facilities with high environmental impact and lousy working conditions. Headquarters of the MSI Arcology. |
+| [[Aztech Schönewalde]]         | Corporate   | Owned by Aztechnology. Rurally kept with many critter breeding and research facilities.                                                                                                 |
+| [[Charlottenburg-Wilmersdorf]] | Alternative | Usually just abbreviated to “Chawi”. Nobel  with many top-class locations such as the Metropolis-Arkologie of the DeMeKo.                                                               |
+| [[Falkensee]]                  | Alternative | Final stop for the hopeless, where those who are too extreme even for Berlin, which is so open, end up. High crime rate.                                                                |
+| [[Gropiusstadt]]               | Alternative | Worst slum dominated by the horde, who have at least built up some economy here.                                                                                                        |
+| [[Köpenick]]                   | Alternative | Green district where awakened communities live and where hemp is grown.                                                                                                                 |
+| [[Kreuzhain]]                  | Alternative | Formerly "Friedrichshain-Kreuzberg". Tolerant district where old anarchists live right next to the emirate.                                                                             |
+| [[Lichtenberg]]                | Alternative | District that is largely self-organized as a cooperative.                                                                                                                               |
+| [[Marzahn]]                    | Alternative | Before 2077 "Marzahn-Hellersdorf", which had become a theater of war for the underworld since the death of Pjotr ​​Gargari.                                                             |
+| [[Mitte]]                      | Norm        | Rich district in which BERVAG dominates. A tourist hotspot in the center, left to its own devices on the outside.                                                                       |
+| [[Oranieburg]]                 | Alternative | Dominated by the Federal Border Guard, which carries out the will of the ADL here.                                                                                                      |
+| [[Pankow]]                     | Alternative | Vory-dominated district, which is still one step away from conditions like in Marzahn.                                                                                                  |
+| [[Potsdam]]                    | Norm        | Is under the thumb of the Prussian Foundation, which wants to create an idealized image of old Prussia while ignoring the needs of ordinary citizens.                                   |
+| [[Reinickendorf]]              | Norm        | After losing territory to Z-IC Tegel, the district now has an uncertain future ahead of it.                                                                                             |
+| [[Renrakusan]]                 | Corporate   | Formerly "Prenzlauer Berg", owned by Renraku Computer Systems. A miniaturized version of Neo-Tokyo with its cultural peculiarities.                                                     |
+| [[S-K Templehof]]              | Corporate   | A corporate utopia owned by Saeder-Krupp that is extremely secure.                                                                                                                      |
+| [[Schönefeld]]                 | Norm        | Industrialized district. Dominated by the major airport Berlin-Schönefeld International and Messerschmitt-Kawasaki.                                                                     |
+| [[Spandau]]                    | Alternative | Until 2078 standard district. Isolationist powder keg between Aztech propaganda, right-wing dregs and impending loss of value.                                                          |
+| [[Strausberg-Fredersdorf]]     | Norm        | Usually just referred to as "Strausberg", this is an industrial area with factory fortresses and commercial ruins that is increasingly sinking into the muck of illegal waste disposal. |
+| [[Zehlendorf]]                 | Norm        | District with lots of greenery and even more money, dominated by the Evo Corporation and Proteus. Old Fuchi tunnels run under the district.                                             |
+| [[Z-IC Tegel]]                 | Corporate   | Owned by Zeta-ImpChem. Recently grown through the takeover of the Reinickendorf area, dominated by research and development around the company's own airport.                           |
 
-| District                       | Patrons & People                                                                                          | Power |
-| ------------------------------ | --------------------------------------------------------------------------------------------------------- | ----- |
-| [[AGC Siemens city]]           | AG Chemie (Corp)                                                                                          | 4     |
-| [[Aztech Schönewalde]]         | Aztechnology (Corp)                                                                                       | 4     |
-| [[Charlottenburg-Wilmersdorf]] | DeMeKo. (Corp)                                                                                            | 4     |
-| [[Falkensee]]                  | End stop for the hopeless, where those who are too extreme even for the same open Berlin end. High crime. | 1     |
-| [[Gropiusstadt]]               | The Horde (Mafia)                                                                                         | 3     |
-| [[Köpenick]]                   | Awakened Communities (SINless)                                                                            | 2     |
-| [[Kreuzhain]]                  | Old Anarchists (SINless)                                                                                  | 1     |
-| [[Lichtenberg]]                | Cooperatives (SINless)                                                                                    | 2     |
-| [[Marzahn]]                    | The Underworld. (Gangs)                                                                                   | 1     |
-| [[Mitte]]                      | BERVAG (Corp)                                                                                             | 4     |
-| [[Oranieburg]]                 | Federal Border Guard (Government)                                                                         | 4     |
-| [[Pankow]]                     | Vory (Mafia)                                                                                              | 2     |
-| [[Potsdam]]                    | Prussian Foundation (Corp)                                                                                | 3     |
-| [[Reinickendorf]]              | CVP (Religous)                                                                                            | 2     |
-| [[Renrakusan]]                 | Renraku Computer Systems (Corp)                                                                           | 4     |
-| [[S-K Templehof]]              | Saeder-Krupp (Corp)                                                                                       | 4     |
-| [[Schönefeld]]                 | Industrialized district (SINed)                                                                           | 2     |
-| [[Spandau]]                    | Recently Anarchistic (SINed)                                                                              | 2     |
-| [[Strausberg-Fredersdorf]]     | Insustrial (SINed)                                                                                        | 1     |
-| [[Zehlendorf]]                 | Evo Corporation and Proteus (Corp)                                                                        | 4     |
-| [[Z-IC Tegel]]                 | Zeta-ImpChem (Corp)                                                                                       | 4     |
-### MAP
+## MAP
 
 ![[Full Berlin Map.png]]
-### History
+## History
 ```timeline
 [line-3, body-3]
 + 1990

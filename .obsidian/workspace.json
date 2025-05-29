@@ -20,23 +20,24 @@
               "icon": "lucide-file",
               "title": "Berlin - City"
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "a829574a03b2b738",
+        "type": "tabs",
+        "children": [
           {
-            "id": "9b245c06e439cd7c",
+            "id": "c4ad93d02e01a49e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "World/Berlin Districts/Köpenick.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Köpenick"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -181,39 +182,43 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "publish:Publish changes...": false
     }
   },
-  "active": "9b245c06e439cd7c",
+  "active": "c4ad93d02e01a49e",
   "lastOpenFiles": [
-    "World/Berlin - City.md",
-    "World/Berlin Districts/Köpenick.md",
-    "World/Berlin Districts/Charlottenburg-Wilmersdorf.md",
-    "World/Berlin Districts/Aztech Schönewalde.md",
-    "World/Berlin Districts/Gropiusstadt.md",
-    "World/Berlin Districts/Falkensee.md",
-    "World/Berlin Districts/Exterritoriales Gebiet.md",
-    "World/Berlin Districts/AGC Siemens city.md",
-    "Critters.md",
-    "World/Berlin Districts/Oranieburg.md",
-    "World/Berlin Districts/Mitte.md",
-    "World/Berlin Districts/Kreuzhain.md",
-    "World/Allied German States.md",
-    "excalibrain.md",
-    "Session Notes/Session 0.md",
-    "Runs/Run 1 - Parcel Interception.md",
-    "PCs/- Alex.md",
-    "PCs/- Jack.md",
-    "World/Berlin Districts",
-    "World/Maps/Aztech S Berlin Map.png",
-    "World/Berlin Districts/Reinickendorf.md",
-    "World/Berlin Districts/Pankow.md",
-    "World/Berlin Districts/Z-IC Tegel.md",
     "World/Berlin Districts/Zehlendorf.md",
+    "World/Berlin Districts/Z-IC Tegel.md",
     "World/Berlin Districts/Strausberg-Fredersdorf.md",
     "World/Berlin Districts/Spandau.md",
     "World/Berlin Districts/Schönefeld.md",
     "World/Berlin Districts/S-K Templehof.md",
+    "World/Berlin Districts/Renrakusan.md",
+    "World/Berlin Districts/Reinickendorf.md",
+    "World/Berlin Districts/Potsdam.md",
+    "World/Berlin Districts/Pankow.md",
+    "World/Berlin Districts/Oranieburg.md",
+    "World/Berlin Districts/Mitte.md",
+    "World/Berlin Districts/Marzahn.md",
+    "World/Berlin Districts/Lichtenberg.md",
+    "World/Berlin Districts/Kreuzhain.md",
+    "World/Berlin Districts/Köpenick.md",
+    "World/Berlin Districts/Gropiusstadt.md",
+    "World/Berlin - City.md",
+    "World/Berlin Districts/Falkensee.md",
+    "World/Berlin Districts/Exterritoriales Gebiet.md",
+    "World/Berlin Districts/Charlottenburg-Wilmersdorf.md",
+    "World/Berlin Districts/Aztech Schönewalde.md",
+    "World/Berlin Districts/AGC Siemensstadt.md",
+    "Session Notes/Session 0.md",
+    "General",
+    "Runs/Run 2",
+    "Runs/Run 1",
+    "World/Allied German States.md",
+    "Critters.md",
+    "World/Berlin Districts",
+    "World/Maps/Aztech S Berlin Map.png",
     "World/Maps/Pankow Berlin Map.png",
     "World/Maps/Z-IC Tegel Berlin Map.png",
     "World/Maps/Zehlendorf Berlin Map.png",
@@ -228,8 +233,6 @@
     "Characters",
     "Runs",
     "NPCs",
-    "World",
-    "Session Notes",
-    "PCs"
+    "World"
   ]
 }

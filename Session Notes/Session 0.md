@@ -12,17 +12,17 @@
 	- consequences will be based on the characters making mistakes over me making it harsh
 - People are generally unsure on the vibes they want so it's likely I'll decide and adjust as we go
 ### PCs
-#### [[PCs/- Alex]]
+#### [[- Alex]]
 
 Rigger/Tank/Smuggler
-#### [[PCs/- Laurie]]
+#### [[- Laurie]]
 
 Decker
 
 Decker who has AI personality
-#### [[PCs/- Kev]]
+#### [[- Kev]]
 
 Street Samurai
-#### [[PCs/- Jack]]
+#### [[- Jack]]
 
 Spellcaster

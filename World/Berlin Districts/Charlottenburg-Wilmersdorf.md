@@ -8,8 +8,7 @@ The villa colonies are called Neu-Westend and Grunewald. The latter also include
 #### City West
 In "City West" there is above all a landmark of Berlin: the Kaiser Wilhelm Memorial Church. The local Kurfürstendamm was built over with a glass roof and relief road, which is why the KuDamm Mall forms Europe's longest mall. Together with the New European Centre, which was inaugurated in 2070 and the noble department store KaDeWe, this complex forms one of the largest, completely climate-protected shopping and experience worlds outside of Asia.
 ### Neighbours
-[[Mitte]]
-[[AGC Siemens city]]
+[[AGC Siemensstadt]]
 [[Spandau]]
 [[Zehlendorf]]
 [[S-K Templehof]]

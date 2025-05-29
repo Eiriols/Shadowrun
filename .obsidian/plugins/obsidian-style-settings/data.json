@@ -1,0 +1,15 @@
+{
+  "shiba-theme-settings@@shiba-accent-colors": "accent-lily",
+  "shiba-theme-settings@@shib-minimal-cards-style-select": "minimal-cards-style1",
+  "shiba-theme-settings@@folder-style-change-options-colorful": "shiba-color-folder-background",
+  "shiba-theme-settings@@folder-style-change-options-colors-palette": "folder-colorful-one",
+  "shiba-theme-settings@@shib-colorful-folders-radius": 3,
+  "shiba-theme-settings@@translucent-pane-style-settings": "shib-setting-default-frosted-glass",
+  "shiba-theme-settings@@shib-transparent-setting-panel": false,
+  "blue-topaz-theme@@color-scheme-options": "color-scheme-options-flamingo",
+  "blue-topaz-theme@@background-settings-workplace-background-image": false,
+  "blue-topaz-theme@@background-image-settings-switch": false,
+  "blue-topaz-theme@@left-ribbon-style": "bt-bubble-ribbon-hide-left",
+  "blue-topaz-theme@@search-bar-style-option": "default-search-bar",
+  "blue-topaz-theme@@bt-status-on": false
+}
