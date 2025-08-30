@@ -11,10 +11,14 @@
             "id": "ad81c7b8f1f5c763",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "World/Berlin Districts/Aztech Schönewalde.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Aztech Schönewalde"
             }
           }
         ]
@@ -168,16 +172,17 @@
   },
   "active": "ad81c7b8f1f5c763",
   "lastOpenFiles": [
+    "World/Berlin - City.md",
+    "World/Berlin Districts/Schönefeld.md",
+    "PCs/- Alex.md",
     "World/Allied German States.md",
     "World/Berlin Districts/Mitte.md",
     "World/Berlin Districts/Falkensee.md",
     "World/Berlin Districts/Aztech Schönewalde.md",
-    "World/Berlin - City.md",
     "World/Berlin Districts/Zehlendorf.md",
     "World/Berlin Districts/Z-IC Tegel.md",
     "World/Berlin Districts/Strausberg-Fredersdorf.md",
     "World/Berlin Districts/Spandau.md",
-    "World/Berlin Districts/Schönefeld.md",
     "World/Berlin Districts/S-K Templehof.md",
     "World/Berlin Districts/Renrakusan.md",
     "World/Berlin Districts/Reinickendorf.md",
@@ -196,7 +201,6 @@
     "General",
     "Runs/Run 2",
     "Runs/Run 1",
-    "Critters.md",
     "World/Berlin Districts",
     "World/Maps/Aztech S Berlin Map.png",
     "World/Maps/Pankow Berlin Map.png",

@@ -1,4 +1,4 @@
-**Aztech-Schönwalde** (nickname _Aztwalde_) is an exterterritorial district controlled by Aztechnology.
+**Aztech-Aztech-Schönwalde** (nickname _Aztwalde_) is an extraterritorial district controlled by Aztechnology.
 
 It is entirely dedicated to breeding critters. The area is full of forests, wet meadows and bogs. While there were towns and people there, the original Schönwaldians were forced out by Aztech moving south. The towns now either house employees or are left empty.
 
