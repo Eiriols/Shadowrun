@@ -1,0 +1,2092 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<character>
+  <createdversion>5.225.733</createdversion>
+  <minimumappversion>5.214.1</minimumappversion>
+  <appversion>5.225.733</appversion>
+  <gameedition>SR5</gameedition>
+  <settings>67e25032-2a4e-42ca-97fa-69f7f608236c</settings>
+  <settingshashcode>-888807181</settingshashcode>
+  <buildmethod>Priority</buildmethod>
+  <sources>
+    <source>SR5</source>
+    <source>AET</source>
+    <source>AP</source>
+    <source>BTB</source>
+    <source>BOTL</source>
+    <source>BLB</source>
+    <source>BB</source>
+    <source>CA</source>
+    <source>CF</source>
+    <source>DTR</source>
+    <source>DT</source>
+    <source>FA</source>
+    <source>GH3</source>
+    <source>HT</source>
+    <source>HS</source>
+    <source>KK</source>
+    <source>KC</source>
+    <source>LCD</source>
+    <source>NF</source>
+    <source>NP</source>
+    <source>QSR</source>
+    <source>R5</source>
+    <source>RG</source>
+    <source>RF</source>
+    <source>SASS</source>
+    <source>SSP</source>
+    <source>SFB</source>
+    <source>SFME</source>
+    <source>SFM</source>
+    <source>SFCC</source>
+    <source>SPS</source>
+    <source>SRM0803</source>
+    <source>SRM0804</source>
+    <source>SS</source>
+    <source>SG</source>
+    <source>SGE</source>
+    <source>SW</source>
+    <source>TCT</source>
+    <source>SL</source>
+    <source>TSG</source>
+    <source>TVG</source>
+  </sources>
+  <customdatadirectorynames>
+    <directoryname>Chrome Flesh Stealth Errata</directoryname>
+    <directoryname>Dark Terrors Stealth Errata</directoryname>
+    <directoryname>Forbidden Arcana Stealth Errata</directoryname>
+    <directoryname>No Future Stealth Errata</directoryname>
+  </customdatadirectorynames>
+  <metatype>Elf</metatype>
+  <metatypeid>b3259991-b315-4dbe-ae3c-51f71a1116e2</metatypeid>
+  <metatypebp>0</metatypebp>
+  <metavariant>Dryad</metavariant>
+  <metavariantid>bdb50e49-57c6-4179-a78f-9f56003b40ef</metavariantid>
+  <metatypecategory>Metahuman</metatypecategory>
+  <movement />
+  <walk>2/1/0</walk>
+  <run>4/0/0</run>
+  <sprint>2/1/0</sprint>
+  <walkalt>2/1/0</walkalt>
+  <runalt>4/0/0</runalt>
+  <sprintalt>2/1/0</sprintalt>
+  <initiativedice>1</initiativedice>
+  <prioritymetatype>D</prioritymetatype>
+  <priorityattributes>B</priorityattributes>
+  <priorityspecial>A</priorityspecial>
+  <priorityskills>C</priorityskills>
+  <priorityresources>E</priorityresources>
+  <prioritytalent>Magician</prioritytalent>
+  <priorityskills>
+    <priorityskill>Spellcasting</priorityskill>
+    <priorityskill>Summoning</priorityskill>
+  </priorityskills>
+  <essenceatspecialstart>6</essenceatspecialstart>
+  <name />
+  <mainmugshotindex>-1</mainmugshotindex>
+  <mugshots />
+  <gender />
+  <age />
+  <eyes />
+  <height />
+  <weight />
+  <skin />
+  <hair />
+  <description />
+  <background />
+  <concept />
+  <notes />
+  <alias />
+  <playername />
+  <gamenotes />
+  <primaryarm>Right</primaryarm>
+  <karma>0</karma>
+  <special>0</special>
+  <totalspecial>0</totalspecial>
+  <totalattributes>20</totalattributes>
+  <edgeused>0</edgeused>
+  <contactpoints>9</contactpoints>
+  <spelllimit>10</spelllimit>
+  <cfplimit>0</cfplimit>
+  <ainormalprogramlimit>0</ainormalprogramlimit>
+  <aiadvancedprogramlimit>0</aiadvancedprogramlimit>
+  <currentcounterspellingdice>0</currentcounterspellingdice>
+  <currentliftcarryhits>0</currentliftcarryhits>
+  <basecarrylimit>10</basecarrylimit>
+  <baseliftlimit>15</baseliftlimit>
+  <totalcarriedweight>0</totalcarriedweight>
+  <encumbranceinterval>15</encumbranceinterval>
+  <streetcred>0</streetcred>
+  <notoriety>0</notoriety>
+  <publicawareness>0</publicawareness>
+  <burntstreetcred>0</burntstreetcred>
+  <baseastralreputation>0</baseastralreputation>
+  <basewildreputation>0</basewildreputation>
+  <created>False</created>
+  <nuyen>6000</nuyen>
+  <startingnuyen>6000</startingnuyen>
+  <nuyenbp>0</nuyenbp>
+  <adept>False</adept>
+  <magician>True</magician>
+  <technomancer>False</technomancer>
+  <ai>False</ai>
+  <cyberwaredisabled>False</cyberwaredisabled>
+  <initiationdisabled>False</initiationdisabled>
+  <critter>False</critter>
+  <prototypetranshuman>0</prototypetranshuman>
+  <attributes>
+    <attribute>
+      <name>DEP</name>
+      <metatypemin>1</metatypemin>
+      <metatypemax>1</metatypemax>
+      <metatypeaugmax>1</metatypeaugmax>
+      <base>0</base>
+      <karma>0</karma>
+      <metatypecategory>Special</metatypecategory>
+      <totalvalue>1</totalvalue>
+    </attribute>
+    <attribute>
+      <name>INT</name>
+      <metatypemin>1</metatypemin>
+      <metatypemax>6</metatypemax>
+      <metatypeaugmax>10</metatypeaugmax>
+      <base>0</base>
+      <karma>0</karma>
+      <metatypecategory>Standard</metatypecategory>
+      <totalvalue>1</totalvalue>
+    </attribute>
+    <attribute>
+      <name>MAGAdept</name>
+      <metatypemin>1</metatypemin>
+      <metatypemax>6</metatypemax>
+      <metatypeaugmax>6</metatypeaugmax>
+      <base>0</base>
+      <karma>0</karma>
+      <metatypecategory>Special</metatypecategory>
+      <totalvalue>1</totalvalue>
+    </attribute>
+    <attribute>
+      <name>CHA</name>
+      <metatypemin>3</metatypemin>
+      <metatypemax>8</metatypemax>
+      <metatypeaugmax>12</metatypeaugmax>
+      <base>0</base>
+      <karma>0</karma>
+      <metatypecategory>Standard</metatypecategory>
+      <totalvalue>3</totalvalue>
+    </attribute>
+    <attribute>
+      <name>REA</name>
+      <metatypemin>1</metatypemin>
+      <metatypemax>6</metatypemax>
+      <metatypeaugmax>10</metatypeaugmax>
+      <base>0</base>
+      <karma>0</karma>
+      <metatypecategory>Standard</metatypecategory>
+      <totalvalue>1</totalvalue>
+    </attribute>
+    <attribute>
+      <name>AGI</name>
+      <metatypemin>2</metatypemin>
+      <metatypemax>7</metatypemax>
+      <metatypeaugmax>11</metatypeaugmax>
+      <base>0</base>
+      <karma>0</karma>
+      <metatypecategory>Standard</metatypecategory>
+      <totalvalue>2</totalvalue>
+    </attribute>
+    <attribute>
+      <name>MAG</name>
+      <metatypemin>6</metatypemin>
+      <metatypemax>6</metatypemax>
+      <metatypeaugmax>6</metatypeaugmax>
+      <base>0</base>
+      <karma>0</karma>
+      <metatypecategory>Special</metatypecategory>
+      <totalvalue>6</totalvalue>
+    </attribute>
+    <attribute>
+      <name>EDG</name>
+      <metatypemin>1</metatypemin>
+      <metatypemax>6</metatypemax>
+      <metatypeaugmax>6</metatypeaugmax>
+      <base>0</base>
+      <karma>0</karma>
+      <metatypecategory>Special</metatypecategory>
+      <totalvalue>1</totalvalue>
+    </attribute>
+    <attribute>
+      <name>RES</name>
+      <metatypemin>1</metatypemin>
+      <metatypemax>6</metatypemax>
+      <metatypeaugmax>6</metatypeaugmax>
+      <base>0</base>
+      <karma>0</karma>
+      <metatypecategory>Special</metatypecategory>
+      <totalvalue>1</totalvalue>
+    </attribute>
+    <attribute>
+      <name>ESS</name>
+      <metatypemin>0</metatypemin>
+      <metatypemax>6</metatypemax>
+      <metatypeaugmax>6</metatypeaugmax>
+      <base>0</base>
+      <karma>0</karma>
+      <metatypecategory>Special</metatypecategory>
+      <totalvalue>1</totalvalue>
+    </attribute>
+    <attribute>
+      <name>WIL</name>
+      <metatypemin>1</metatypemin>
+      <metatypemax>6</metatypemax>
+      <metatypeaugmax>10</metatypeaugmax>
+      <base>0</base>
+      <karma>0</karma>
+      <metatypecategory>Standard</metatypecategory>
+      <totalvalue>1</totalvalue>
+    </attribute>
+    <attribute>
+      <name>STR</name>
+      <metatypemin>1</metatypemin>
+      <metatypemax>5</metatypemax>
+      <metatypeaugmax>9</metatypeaugmax>
+      <base>0</base>
+      <karma>0</karma>
+      <metatypecategory>Standard</metatypecategory>
+      <totalvalue>1</totalvalue>
+    </attribute>
+    <attribute>
+      <name>LOG</name>
+      <metatypemin>1</metatypemin>
+      <metatypemax>6</metatypemax>
+      <metatypeaugmax>10</metatypeaugmax>
+      <base>0</base>
+      <karma>0</karma>
+      <metatypecategory>Standard</metatypecategory>
+      <totalvalue>1</totalvalue>
+    </attribute>
+    <attribute>
+      <name>BOD</name>
+      <metatypemin>1</metatypemin>
+      <metatypemax>6</metatypemax>
+      <metatypeaugmax>10</metatypeaugmax>
+      <base>0</base>
+      <karma>0</karma>
+      <metatypecategory>Standard</metatypecategory>
+      <totalvalue>1</totalvalue>
+    </attribute>
+  </attributes>
+  <magenabled>True</magenabled>
+  <initiategrade>0</initiategrade>
+  <resenabled>False</resenabled>
+  <submersiongrade>0</submersiongrade>
+  <depenabled>False</depenabled>
+  <groupmember>False</groupmember>
+  <groupname />
+  <groupnotes />
+  <totaless>6.0</totaless>
+  <physicalcmfilled>0</physicalcmfilled>
+  <stuncmfilled>0</stuncmfilled>
+  <psyche>False</psyche>
+  <newskills>
+    <skillptsmax>28</skillptsmax>
+    <skillgrpsmax>2</skillgrpsmax>
+    <skills>
+      <skill>
+        <guid>6285d356-c4ad-4e3b-82d3-bbac34ae190e</guid>
+        <suid>b52f7575-eebf-41c4-938d-df3397b5ee68</suid>
+        <isknowledge>False</isknowledge>
+        <skillcategory>Technical Active</skillcategory>
+        <requiresgroundmovement>False</requiresgroundmovement>
+        <requiresswimmovement>False</requiresswimmovement>
+        <requiresflymovement>False</requiresflymovement>
+        <karma>0</karma>
+        <base>0</base>
+        <notes />
+        <notesColor>Chocolate</notesColor>
+        <name>Aeronautics Mechanic</name>
+        <buywithkarma>False</buywithkarma>
+      </skill>
+      <skill>
+        <guid>c6dc714a-879d-4f18-84e7-f9e067d4232f</guid>
+        <suid>fc89344f-daa6-438e-b61d-23f10dd13e44</suid>
+        <isknowledge>False</isknowledge>
+        <skillcategory>Magical Active</skillcategory>
+        <requiresgroundmovement>False</requiresgroundmovement>
+        <requiresswimmovement>False</requiresswimmovement>
+        <requiresflymovement>False</requiresflymovement>
+        <karma>0</karma>
+        <base>0</base>
+        <notes />
+        <notesColor>Chocolate</notesColor>
+        <name>Alchemy</name>
+        <buywithkarma>False</buywithkarma>
+      </skill>
+      <skill>
+        <guid>c034c072-158b-4790-b0ed-6b031e6c248d</guid>
+        <suid>e09e5aa7-e496-41a2-97ce-17f577361888</suid>
+        <isknowledge>False</isknowledge>
+        <skillcategory>Technical Active</skillcategory>
+        <requiresgroundmovement>False</requiresgroundmovement>
+        <requiresswimmovement>False</requiresswimmovement>
+        <requiresflymovement>False</requiresflymovement>
+        <karma>0</karma>
+        <base>0</base>
+        <notes />
+        <notesColor>Chocolate</notesColor>
+        <name>Animal Handling</name>
+        <buywithkarma>False</buywithkarma>
+      </skill>
+      <skill>
+        <guid>51e76975-9eba-44be-afa1-d0521c2f8705</guid>
+        <suid>74a68a9e-8c5b-4998-8dbb-08c1e768afc3</suid>
+        <isknowledge>False</isknowledge>
+        <skillcategory>Pseudo-Magical Active</skillcategory>
+        <requiresgroundmovement>False</requiresgroundmovement>
+        <requiresswimmovement>False</requiresswimmovement>
+        <requiresflymovement>False</requiresflymovement>
+        <karma>0</karma>
+        <base>0</base>
+        <notes />
+        <notesColor>Chocolate</notesColor>
+        <name>Arcana</name>
+        <buywithkarma>False</buywithkarma>
+      </skill>
+      <skill>
+        <guid>56fd39cf-be4f-4711-b8b5-7e5a83121a9b</guid>
+        <suid>1537ca5c-fa93-4c05-b073-a2a0eed91b8e</suid>
+        <isknowledge>False</isknowledge>
+        <skillcategory>Combat Active</skillcategory>
+        <requiresgroundmovement>False</requiresgroundmovement>
+        <requiresswimmovement>False</requiresswimmovement>
+        <requiresflymovement>False</requiresflymovement>
+        <karma>0</karma>
+        <base>0</base>
+        <notes />
+        <notesColor>Chocolate</notesColor>
+        <name>Archery</name>
+        <buywithkarma>False</buywithkarma>
+      </skill>
+      <skill>
+        <guid>b58f79b1-4249-4413-a935-158aef881079</guid>
+        <suid>ada6d9b2-e451-4289-be45-7085fa34a51a</suid>
+        <isknowledge>False</isknowledge>
+        <skillcategory>Technical Active</skillcategory>
+        <requiresgroundmovement>False</requiresgroundmovement>
+        <requiresswimmovement>False</requiresswimmovement>
+        <requiresflymovement>False</requiresflymovement>
+        <karma>0</karma>
+        <base>0</base>
+        <notes />
+        <notesColor>Chocolate</notesColor>
+        <name>Armorer</name>
+        <buywithkarma>False</buywithkarma>
+      </skill>
+      <skill>
+        <guid>4947b24a-ce7e-4fce-bec2-d1d9477fb25c</guid>
+        <suid>955d9376-3066-469d-8670-5170c1d59020</suid>
+        <isknowledge>False</isknowledge>
+        <skillcategory>Magical Active</skillcategory>
+        <requiresgroundmovement>False</requiresgroundmovement>
+        <requiresswimmovement>False</requiresswimmovement>
+        <requiresflymovement>False</requiresflymovement>
+        <karma>0</karma>
+        <base>0</base>
+        <notes />
+        <notesColor>Chocolate</notesColor>
+        <name>Artificing</name>
+        <buywithkarma>False</buywithkarma>
+      </skill>
+      <skill>
+        <guid>5e13b300-0e8b-426a-bfb1-0f20ffc5e24c</guid>
+        <suid>2f4c706f-5ac5-4774-8a45-3b4667989a20</suid>
+        <isknowledge>False</isknowledge>
+        <skillcategory>Technical Active</skillcategory>
+        <requiresgroundmovement>False</requiresgroundmovement>
+        <requiresswimmovement>False</requiresswimmovement>
+        <requiresflymovement>False</requiresflymovement>
+        <karma>0</karma>
+        <base>0</base>
+        <notes />
+        <notesColor>Chocolate</notesColor>
+        <name>Artisan</name>
+        <buywithkarma>False</buywithkarma>
+      </skill>
+      <skill>
+        <guid>08dfc6f9-1220-4387-8fb2-48633f337682</guid>
+        <suid>59318078-e071-411b-9194-7222560e9f4a</suid>
+        <isknowledge>False</isknowledge>
+        <skillcategory>Magical Active</skillcategory>
+        <requiresgroundmovement>False</requiresgroundmovement>
+        <requiresswimmovement>False</requiresswimmovement>
+        <requiresflymovement>False</requiresflymovement>
+        <karma>0</karma>
+        <base>0</base>
+        <notes />
+        <notesColor>Chocolate</notesColor>
+        <name>Assensing</name>
+        <buywithkarma>False</buywithkarma>
+      </skill>
+      <skill>
+        <guid>0be15ab4-3d5b-449f-80ef-65cc4954dec4</guid>
+        <suid>b7599a42-ceed-4558-b357-865aa3e317f5</suid>
+        <isknowledge>False</isknowledge>
+        <skillcategory>Magical Active</skillcategory>
+        <requiresgroundmovement>False</requiresgroundmovement>
+        <requiresswimmovement>False</requiresswimmovement>
+        <requiresflymovement>False</requiresflymovement>
+        <karma>0</karma>
+        <base>0</base>
+        <notes />
+        <notesColor>Chocolate</notesColor>
+        <name>Astral Combat</name>
+        <buywithkarma>False</buywithkarma>
+      </skill>
+      <skill>
+        <guid>55d3ca4e-ff94-431a-8fbe-c29fdbed5e43</guid>
+        <suid>788b387b-ee41-4e6a-bf22-481a8cc4cf9f</suid>
+        <isknowledge>False</isknowledge>
+        <skillcategory>Combat Active</skillcategory>
+        <requiresgroundmovement>False</requiresgroundmovement>
+        <requiresswimmovement>False</requiresswimmovement>
+        <requiresflymovement>False</requiresflymovement>
+        <karma>0</karma>
+        <base>0</base>
+        <notes />
+        <notesColor>Chocolate</notesColor>
+        <name>Automatics</name>
+        <buywithkarma>False</buywithkarma>
+      </skill>
+      <skill>
+        <guid>770dd353-62b9-490e-b710-c1d1f068ab2b</guid>
+        <suid>5e5f2f7f-f63b-4f65-a65d-91b3d4523c6f</suid>
+        <isknowledge>False</isknowledge>
+        <skillcategory>Technical Active</skillcategory>
+        <requiresgroundmovement>False</requiresgroundmovement>
+        <requiresswimmovement>False</requiresswimmovement>
+        <requiresflymovement>False</requiresflymovement>
+        <karma>0</karma>
+        <base>0</base>
+        <notes />
+        <notesColor>Chocolate</notesColor>
+        <name>Automotive Mechanic</name>
+        <buywithkarma>False</buywithkarma>
+      </skill>
+      <skill>
+        <guid>14b99301-1c12-4c2a-936a-bd10fc934e32</guid>
+        <suid>9a2d9175-d445-45ca-842d-90223ad13f05</suid>
+        <isknowledge>False</isknowledge>
+        <skillcategory>Magical Active</skillcategory>
+        <requiresgroundmovement>False</requiresgroundmovement>
+        <requiresswimmovement>False</requiresswimmovement>
+        <requiresflymovement>False</requiresflymovement>
+        <karma>0</karma>
+        <base>0</base>
+        <notes />
+        <notesColor>Chocolate</notesColor>
+        <name>Banishing</name>
+        <buywithkarma>False</buywithkarma>
+      </skill>
+      <skill>
+        <guid>649a3d37-5a15-4bca-940d-b57b1686ad4e</guid>
+        <suid>dfba7c09-3d95-43fd-be75-39b3e8b22cd3</suid>
+        <isknowledge>False</isknowledge>
+        <skillcategory>Magical Active</skillcategory>
+        <requiresgroundmovement>False</requiresgroundmovement>
+        <requiresswimmovement>False</requiresswimmovement>
+        <requiresflymovement>False</requiresflymovement>
+        <karma>0</karma>
+        <base>0</base>
+        <notes />
+        <notesColor>Chocolate</notesColor>
+        <name>Binding</name>
+        <buywithkarma>False</buywithkarma>
+      </skill>
+      <skill>
+        <guid>e757f6dd-edb5-4544-882a-fd8d07d7c15e</guid>
+        <suid>ba624682-a5c0-4cf5-b47b-1021e6a1800d</suid>
+        <isknowledge>False</isknowledge>
+        <skillcategory>Technical Active</skillcategory>
+        <requiresgroundmovement>False</requiresgroundmovement>
+        <requiresswimmovement>False</requiresswimmovement>
+        <requiresflymovement>False</requiresflymovement>
+        <karma>0</karma>
+        <base>0</base>
+        <notes />
+        <notesColor>Chocolate</notesColor>
+        <name>Biotechnology</name>
+        <buywithkarma>False</buywithkarma>
+      </skill>
+      <skill>
+        <guid>c2e4520a-b85f-4902-9407-e56b8254d22e</guid>
+        <suid>48763fa5-4b89-48c7-80ff-d0a2761de4c0</suid>
+        <isknowledge>False</isknowledge>
+        <skillcategory>Combat Active</skillcategory>
+        <requiresgroundmovement>False</requiresgroundmovement>
+        <requiresswimmovement>False</requiresswimmovement>
+        <requiresflymovement>False</requiresflymovement>
+        <karma>0</karma>
+        <base>0</base>
+        <notes />
+        <notesColor>Chocolate</notesColor>
+        <name>Blades</name>
+        <buywithkarma>False</buywithkarma>
+      </skill>
+      <skill>
+        <guid>16adaa50-38b4-445c-8820-f8d48aab5836</guid>
+        <suid>bd4d977a-cbd4-4289-99bb-896caed6786a</suid>
+        <isknowledge>False</isknowledge>
+        <skillcategory>Technical Active</skillcategory>
+        <requiresgroundmovement>False</requiresgroundmovement>
+        <requiresswimmovement>False</requiresswimmovement>
+        <requiresflymovement>False</requiresflymovement>
+        <karma>0</karma>
+        <base>0</base>
+        <notes />
+        <notesColor>Chocolate</notesColor>
+        <name>Chemistry</name>
+        <buywithkarma>False</buywithkarma>
+      </skill>
+      <skill>
+        <guid>d744dfb3-02da-45cc-9b3d-ed4a4306d279</guid>
+        <suid>cd9f6bf7-fa48-464b-9a8f-c7ce26713a72</suid>
+        <isknowledge>False</isknowledge>
+        <skillcategory>Combat Active</skillcategory>
+        <requiresgroundmovement>False</requiresgroundmovement>
+        <requiresswimmovement>False</requiresswimmovement>
+        <requiresflymovement>False</requiresflymovement>
+        <karma>0</karma>
+        <base>0</base>
+        <notes />
+        <notesColor>Chocolate</notesColor>
+        <name>Clubs</name>
+        <buywithkarma>False</buywithkarma>
+      </skill>
+      <skill>
+        <guid>c3687422-87cb-4231-b4d8-8b20a36a601d</guid>
+        <suid>1c14bf0d-cc69-4126-9a95-1f2429c11aa5</suid>
+        <isknowledge>False</isknowledge>
+        <skillcategory>Technical Active</skillcategory>
+        <requiresgroundmovement>False</requiresgroundmovement>
+        <requiresswimmovement>False</requiresswimmovement>
+        <requiresflymovement>False</requiresflymovement>
+        <karma>0</karma>
+        <base>0</base>
+        <notes />
+        <notesColor>Chocolate</notesColor>
+        <name>Computer</name>
+        <buywithkarma>False</buywithkarma>
+      </skill>
+      <skill>
+        <guid>1503a506-42e6-41f6-a77e-b74304a07a5c</guid>
+        <suid>6d7f48d3-84a1-4fce-90d3-58d566f70fa6</suid>
+        <isknowledge>False</isknowledge>
+        <skillcategory>Social Active</skillcategory>
+        <requiresgroundmovement>False</requiresgroundmovement>
+        <requiresswimmovement>False</requiresswimmovement>
+        <requiresflymovement>False</requiresflymovement>
+        <karma>0</karma>
+        <base>0</base>
+        <notes />
+        <notesColor>Chocolate</notesColor>
+        <name>Con</name>
+        <buywithkarma>False</buywithkarma>
+      </skill>
+      <skill>
+        <guid>9273c729-5ccb-4e86-9cb2-9aa1450313a6</guid>
+        <suid>3db81bcc-264b-47e1-847c-06bdacd88973</suid>
+        <isknowledge>False</isknowledge>
+        <skillcategory>Magical Active</skillcategory>
+        <requiresgroundmovement>False</requiresgroundmovement>
+        <requiresswimmovement>False</requiresswimmovement>
+        <requiresflymovement>False</requiresflymovement>
+        <karma>0</karma>
+        <base>0</base>
+        <notes />
+        <notesColor>Chocolate</notesColor>
+        <name>Counterspelling</name>
+        <buywithkarma>False</buywithkarma>
+      </skill>
+      <skill>
+        <guid>fae25d8d-dcd4-42ef-82d0-a85c42b85409</guid>
+        <suid>7143f979-aa48-4cc8-a29c-e010400e6e11</suid>
+        <isknowledge>False</isknowledge>
+        <skillcategory>Technical Active</skillcategory>
+        <requiresgroundmovement>False</requiresgroundmovement>
+        <requiresswimmovement>False</requiresswimmovement>
+        <requiresflymovement>False</requiresflymovement>
+        <karma>0</karma>
+        <base>0</base>
+        <notes />
+        <notesColor>Chocolate</notesColor>
+        <name>Cybercombat</name>
+        <buywithkarma>False</buywithkarma>
+      </skill>
+      <skill>
+        <guid>c07e12cd-81bc-4855-a46f-d7399c2bff8c</guid>
+        <suid>9b386fe5-83b3-436f-9035-efd1c0f7a680</suid>
+        <isknowledge>False</isknowledge>
+        <skillcategory>Technical Active</skillcategory>
+        <requiresgroundmovement>False</requiresgroundmovement>
+        <requiresswimmovement>False</requiresswimmovement>
+        <requiresflymovement>False</requiresflymovement>
+        <karma>0</karma>
+        <base>0</base>
+        <notes />
+        <notesColor>Chocolate</notesColor>
+        <name>Cybertechnology</name>
+        <buywithkarma>False</buywithkarma>
+      </skill>
+      <skill>
+        <guid>f7aaf444-a1f8-47bb-8143-5601c49b5b65</guid>
+        <suid>276877e1-5cdf-4e95-befd-13c1abb5ae02</suid>
+        <isknowledge>False</isknowledge>
+        <skillcategory>Technical Active</skillcategory>
+        <requiresgroundmovement>False</requiresgroundmovement>
+        <requiresswimmovement>False</requiresswimmovement>
+        <requiresflymovement>False</requiresflymovement>
+        <karma>0</karma>
+        <base>0</base>
+        <notes />
+        <notesColor>Chocolate</notesColor>
+        <name>Demolitions</name>
+        <buywithkarma>False</buywithkarma>
+      </skill>
+      <skill>
+        <guid>c248703f-8a2d-4715-a532-5f722dbd71ab</guid>
+        <suid>a9d9b686-bc4a-4347-b011-ff8f41455965</suid>
+        <isknowledge>False</isknowledge>
+        <skillcategory>Magical Active</skillcategory>
+        <requiresgroundmovement>False</requiresgroundmovement>
+        <requiresswimmovement>False</requiresswimmovement>
+        <requiresflymovement>False</requiresflymovement>
+        <karma>0</karma>
+        <base>0</base>
+        <notes />
+        <notesColor>Chocolate</notesColor>
+        <name>Disenchanting</name>
+        <buywithkarma>False</buywithkarma>
+      </skill>
+      <skill>
+        <guid>4ef5a8cd-49cc-492a-9918-ae4f259aaf0e</guid>
+        <suid>9b2416b2-3e2b-4dd6-ab9d-530f493c1c22</suid>
+        <isknowledge>False</isknowledge>
+        <skillcategory>Physical Active</skillcategory>
+        <requiresgroundmovement>False</requiresgroundmovement>
+        <requiresswimmovement>False</requiresswimmovement>
+        <requiresflymovement>False</requiresflymovement>
+        <karma>0</karma>
+        <base>0</base>
+        <notes />
+        <notesColor>Chocolate</notesColor>
+        <name>Disguise</name>
+        <buywithkarma>False</buywithkarma>
+      </skill>
+      <skill>
+        <guid>9de9baa7-a430-4680-a6ba-517274e7df68</guid>
+        <suid>23c3320c-5010-4b2e-ac46-76f0a86af0b9</suid>
+        <isknowledge>False</isknowledge>
+        <skillcategory>Physical Active</skillcategory>
+        <requiresgroundmovement>False</requiresgroundmovement>
+        <requiresswimmovement>False</requiresswimmovement>
+        <requiresflymovement>False</requiresflymovement>
+        <karma>0</karma>
+        <base>0</base>
+        <notes />
+        <notesColor>Chocolate</notesColor>
+        <name>Diving</name>
+        <buywithkarma>False</buywithkarma>
+      </skill>
+      <skill>
+        <guid>1b776eda-3ccd-4740-b5fb-90affd65f6c5</guid>
+        <suid>2c8e5f20-e52d-4844-89e9-51b92dba47df</suid>
+        <isknowledge>False</isknowledge>
+        <skillcategory>Technical Active</skillcategory>
+        <requiresgroundmovement>False</requiresgroundmovement>
+        <requiresswimmovement>False</requiresswimmovement>
+        <requiresflymovement>False</requiresflymovement>
+        <karma>0</karma>
+        <base>0</base>
+        <notes />
+        <notesColor>Chocolate</notesColor>
+        <name>Electronic Warfare</name>
+        <buywithkarma>False</buywithkarma>
+      </skill>
+      <skill>
+        <guid>68b151b1-c30e-41a2-a57b-5724bdf3175d</guid>
+        <suid>3f93335c-49d6-4904-a97e-4c942ab05b59</suid>
+        <isknowledge>False</isknowledge>
+        <skillcategory>Physical Active</skillcategory>
+        <requiresgroundmovement>False</requiresgroundmovement>
+        <requiresswimmovement>False</requiresswimmovement>
+        <requiresflymovement>False</requiresflymovement>
+        <karma>0</karma>
+        <base>0</base>
+        <notes />
+        <notesColor>Chocolate</notesColor>
+        <name>Escape Artist</name>
+        <buywithkarma>False</buywithkarma>
+      </skill>
+      <skill>
+        <guid>1223ec7e-2fcd-45b7-a88d-e4d11f3ac98e</guid>
+        <suid>b20acd11-f102-40f3-a641-e3c420fbdb91</suid>
+        <isknowledge>False</isknowledge>
+        <skillcategory>Social Active</skillcategory>
+        <requiresgroundmovement>False</requiresgroundmovement>
+        <requiresswimmovement>False</requiresswimmovement>
+        <requiresflymovement>False</requiresflymovement>
+        <karma>0</karma>
+        <base>0</base>
+        <notes />
+        <notesColor>Chocolate</notesColor>
+        <name>Etiquette</name>
+        <buywithkarma>False</buywithkarma>
+      </skill>
+      <skill>
+        <guid>c52507f0-e0fd-4797-8978-0994de269b6d</guid>
+        <suid>47cb1e8b-c285-4c54-9aaa-75305ad6dd4f</suid>
+        <isknowledge>False</isknowledge>
+        <skillcategory>Technical Active</skillcategory>
+        <requiresgroundmovement>False</requiresgroundmovement>
+        <requiresswimmovement>False</requiresswimmovement>
+        <requiresflymovement>False</requiresflymovement>
+        <karma>0</karma>
+        <base>0</base>
+        <notes />
+        <notesColor>Chocolate</notesColor>
+        <name>First Aid</name>
+        <buywithkarma>False</buywithkarma>
+      </skill>
+      <skill>
+        <guid>ef6ef704-088c-452c-8708-dea3da55af5a</guid>
+        <suid>27db6e2a-a49f-4232-b150-e676b8dacb52</suid>
+        <isknowledge>False</isknowledge>
+        <skillcategory>Physical Active</skillcategory>
+        <requiresgroundmovement>False</requiresgroundmovement>
+        <requiresswimmovement>False</requiresswimmovement>
+        <requiresflymovement>True</requiresflymovement>
+        <karma>0</karma>
+        <base>0</base>
+        <notes />
+        <notesColor>Chocolate</notesColor>
+        <name>Flight</name>
+        <buywithkarma>False</buywithkarma>
+      </skill>
+      <skill>
+        <guid>55a5f4ac-e174-4bd0-ad5c-02931e385b0a</guid>
+        <suid>c9f52f97-a284-44a7-8af6-802dd3ed554f</suid>
+        <isknowledge>False</isknowledge>
+        <skillcategory>Technical Active</skillcategory>
+        <requiresgroundmovement>False</requiresgroundmovement>
+        <requiresswimmovement>False</requiresswimmovement>
+        <requiresflymovement>False</requiresflymovement>
+        <karma>0</karma>
+        <base>0</base>
+        <notes />
+        <notesColor>Chocolate</notesColor>
+        <name>Forgery</name>
+        <buywithkarma>False</buywithkarma>
+      </skill>
+      <skill>
+        <guid>fec8294c-dd7a-4e08-8bdc-04bcab695fe1</guid>
+        <suid>f510ccc3-cf95-4461-b2f7-e966daaa5a91</suid>
+        <isknowledge>False</isknowledge>
+        <skillcategory>Physical Active</skillcategory>
+        <requiresgroundmovement>False</requiresgroundmovement>
+        <requiresswimmovement>False</requiresswimmovement>
+        <requiresflymovement>False</requiresflymovement>
+        <karma>0</karma>
+        <base>0</base>
+        <notes />
+        <notesColor>Chocolate</notesColor>
+        <name>Free-Fall</name>
+        <buywithkarma>False</buywithkarma>
+      </skill>
+      <skill>
+        <guid>fe53fd59-e798-46e4-84a6-4aee44e00a52</guid>
+        <suid>58452cff-44ea-41c6-a554-28a869149b27</suid>
+        <isknowledge>False</isknowledge>
+        <skillcategory>Vehicle Active</skillcategory>
+        <requiresgroundmovement>False</requiresgroundmovement>
+        <requiresswimmovement>False</requiresswimmovement>
+        <requiresflymovement>False</requiresflymovement>
+        <karma>0</karma>
+        <base>0</base>
+        <notes />
+        <notesColor>Chocolate</notesColor>
+        <name>Gunnery</name>
+        <buywithkarma>False</buywithkarma>
+      </skill>
+      <skill>
+        <guid>a1911e5f-1493-4530-bc7b-214a1336b350</guid>
+        <suid>a9fa961d-07e5-46da-8edc-403ae3e6cc75</suid>
+        <isknowledge>False</isknowledge>
+        <skillcategory>Physical Active</skillcategory>
+        <requiresgroundmovement>False</requiresgroundmovement>
+        <requiresswimmovement>False</requiresswimmovement>
+        <requiresflymovement>False</requiresflymovement>
+        <karma>0</karma>
+        <base>0</base>
+        <notes />
+        <notesColor>Chocolate</notesColor>
+        <name>Gymnastics</name>
+        <buywithkarma>False</buywithkarma>
+      </skill>
+      <skill>
+        <guid>452ba684-c283-4e01-82fc-37b5d9369018</guid>
+        <suid>c2bb65f5-4a6b-49bf-9925-ef6434cb6929</suid>
+        <isknowledge>False</isknowledge>
+        <skillcategory>Technical Active</skillcategory>
+        <requiresgroundmovement>False</requiresgroundmovement>
+        <requiresswimmovement>False</requiresswimmovement>
+        <requiresflymovement>False</requiresflymovement>
+        <karma>0</karma>
+        <base>0</base>
+        <notes />
+        <notesColor>Chocolate</notesColor>
+        <name>Hacking</name>
+        <buywithkarma>False</buywithkarma>
+      </skill>
+      <skill>
+        <guid>b2f45e7c-8e78-4917-9a32-ae70d6369037</guid>
+        <suid>41e184e0-7273-403a-9300-fa29a1707bf0</suid>
+        <isknowledge>False</isknowledge>
+        <skillcategory>Technical Active</skillcategory>
+        <requiresgroundmovement>False</requiresgroundmovement>
+        <requiresswimmovement>False</requiresswimmovement>
+        <requiresflymovement>False</requiresflymovement>
+        <karma>0</karma>
+        <base>0</base>
+        <notes />
+        <notesColor>Chocolate</notesColor>
+        <name>Hardware</name>
+        <buywithkarma>False</buywithkarma>
+      </skill>
+      <skill>
+        <guid>ea0fae65-e85c-4f29-9e8a-77f89c397b21</guid>
+        <suid>64841e6e-9487-4b63-80a1-dcad6eb78179</suid>
+        <isknowledge>False</isknowledge>
+        <skillcategory>Combat Active</skillcategory>
+        <requiresgroundmovement>False</requiresgroundmovement>
+        <requiresswimmovement>False</requiresswimmovement>
+        <requiresflymovement>False</requiresflymovement>
+        <karma>0</karma>
+        <base>0</base>
+        <notes />
+        <notesColor>Chocolate</notesColor>
+        <name>Heavy Weapons</name>
+        <buywithkarma>False</buywithkarma>
+      </skill>
+      <skill>
+        <guid>6fd2a5a7-7f91-44c4-8747-75daa3d47286</guid>
+        <suid>e7e5a43f-9762-4863-86dc-3fd7799e53a2</suid>
+        <isknowledge>False</isknowledge>
+        <skillcategory>Social Active</skillcategory>
+        <requiresgroundmovement>False</requiresgroundmovement>
+        <requiresswimmovement>False</requiresswimmovement>
+        <requiresflymovement>False</requiresflymovement>
+        <karma>0</karma>
+        <base>0</base>
+        <notes />
+        <notesColor>Chocolate</notesColor>
+        <name>Impersonation</name>
+        <buywithkarma>False</buywithkarma>
+      </skill>
+      <skill>
+        <guid>1b81d84a-5cb8-48de-a72e-afb2b1f1c662</guid>
+        <suid>935621c5-d384-42f2-a740-1fa349fa85a1</suid>
+        <isknowledge>False</isknowledge>
+        <skillcategory>Technical Active</skillcategory>
+        <requiresgroundmovement>False</requiresgroundmovement>
+        <requiresswimmovement>False</requiresswimmovement>
+        <requiresflymovement>False</requiresflymovement>
+        <karma>0</karma>
+        <base>0</base>
+        <notes />
+        <notesColor>Chocolate</notesColor>
+        <name>Industrial Mechanic</name>
+        <buywithkarma>False</buywithkarma>
+      </skill>
+      <skill>
+        <guid>5bb27066-363c-4d1a-96d0-6c97292cf2b1</guid>
+        <suid>3b34b209-00be-42b8-b4ac-cc7dea08af8a</suid>
+        <isknowledge>False</isknowledge>
+        <skillcategory>Social Active</skillcategory>
+        <requiresgroundmovement>False</requiresgroundmovement>
+        <requiresswimmovement>False</requiresswimmovement>
+        <requiresflymovement>False</requiresflymovement>
+        <karma>0</karma>
+        <base>0</base>
+        <notes />
+        <notesColor>Chocolate</notesColor>
+        <name>Instruction</name>
+        <buywithkarma>False</buywithkarma>
+      </skill>
+      <skill>
+        <guid>ec90d917-735f-4177-9ea7-b37ec232890f</guid>
+        <suid>9de43fad-b365-4e73-bc06-91dd571b858a</suid>
+        <isknowledge>False</isknowledge>
+        <skillcategory>Social Active</skillcategory>
+        <requiresgroundmovement>False</requiresgroundmovement>
+        <requiresswimmovement>False</requiresswimmovement>
+        <requiresflymovement>False</requiresflymovement>
+        <karma>0</karma>
+        <base>0</base>
+        <notes />
+        <notesColor>Chocolate</notesColor>
+        <name>Intimidation</name>
+        <buywithkarma>False</buywithkarma>
+      </skill>
+      <skill>
+        <guid>330b8d8f-edd1-48c0-b5e2-69b99e9275ed</guid>
+        <suid>963a548d-c629-4a13-a3e3-31b085a42e20</suid>
+        <isknowledge>False</isknowledge>
+        <skillcategory>Social Active</skillcategory>
+        <requiresgroundmovement>False</requiresgroundmovement>
+        <requiresswimmovement>False</requiresswimmovement>
+        <requiresflymovement>False</requiresflymovement>
+        <karma>0</karma>
+        <base>0</base>
+        <notes />
+        <notesColor>Chocolate</notesColor>
+        <name>Leadership</name>
+        <buywithkarma>False</buywithkarma>
+      </skill>
+      <skill>
+        <guid>afedf227-8252-4914-bdb8-8c8e29ee7105</guid>
+        <suid>09fbc992-9fad-4f2d-ab56-725bac943dc6</suid>
+        <isknowledge>False</isknowledge>
+        <skillcategory>Technical Active</skillcategory>
+        <requiresgroundmovement>False</requiresgroundmovement>
+        <requiresswimmovement>False</requiresswimmovement>
+        <requiresflymovement>False</requiresflymovement>
+        <karma>0</karma>
+        <base>0</base>
+        <notes />
+        <notesColor>Chocolate</notesColor>
+        <name>Locksmith</name>
+        <buywithkarma>False</buywithkarma>
+      </skill>
+      <skill>
+        <guid>8b595d3b-fe84-4ddb-9782-466df2b90296</guid>
+        <suid>64088b25-de37-4d71-8800-4a430fde08af</suid>
+        <isknowledge>False</isknowledge>
+        <skillcategory>Combat Active</skillcategory>
+        <requiresgroundmovement>False</requiresgroundmovement>
+        <requiresswimmovement>False</requiresswimmovement>
+        <requiresflymovement>False</requiresflymovement>
+        <karma>0</karma>
+        <base>0</base>
+        <notes />
+        <notesColor>Chocolate</notesColor>
+        <name>Longarms</name>
+        <buywithkarma>False</buywithkarma>
+      </skill>
+      <skill>
+        <guid>4b93584f-c17e-4e7a-bcd0-b7a4b90db540</guid>
+        <suid>938be691-4b3d-49a2-a673-bbf9924ce8f0</suid>
+        <isknowledge>False</isknowledge>
+        <skillcategory>Technical Active</skillcategory>
+        <requiresgroundmovement>False</requiresgroundmovement>
+        <requiresswimmovement>False</requiresswimmovement>
+        <requiresflymovement>False</requiresflymovement>
+        <karma>0</karma>
+        <base>0</base>
+        <notes />
+        <notesColor>Chocolate</notesColor>
+        <name>Medicine</name>
+        <buywithkarma>False</buywithkarma>
+      </skill>
+      <skill>
+        <guid>e30ef6a6-edc6-4e61-a54a-ff91a776a1b4</guid>
+        <suid>48cc79be-f75e-4fe6-8721-7864c9f231f6</suid>
+        <isknowledge>False</isknowledge>
+        <skillcategory>Technical Active</skillcategory>
+        <requiresgroundmovement>False</requiresgroundmovement>
+        <requiresswimmovement>False</requiresswimmovement>
+        <requiresflymovement>False</requiresflymovement>
+        <karma>0</karma>
+        <base>0</base>
+        <notes />
+        <notesColor>Chocolate</notesColor>
+        <name>Nautical Mechanic</name>
+        <buywithkarma>False</buywithkarma>
+      </skill>
+      <skill>
+        <guid>399ab2b9-15ab-4c93-8ce6-3b3fbe370351</guid>
+        <suid>f8037e7f-d48b-452b-8f66-2e0c36677fea</suid>
+        <isknowledge>False</isknowledge>
+        <skillcategory>Technical Active</skillcategory>
+        <requiresgroundmovement>False</requiresgroundmovement>
+        <requiresswimmovement>False</requiresswimmovement>
+        <requiresflymovement>False</requiresflymovement>
+        <karma>0</karma>
+        <base>0</base>
+        <notes />
+        <notesColor>Chocolate</notesColor>
+        <name>Navigation</name>
+        <buywithkarma>False</buywithkarma>
+      </skill>
+      <skill>
+        <guid>6615cc71-57c7-49ae-b0e1-30843d16c9bc</guid>
+        <suid>729c9cee-ef8f-492d-aa7f-17ec1bc3816e</suid>
+        <isknowledge>False</isknowledge>
+        <skillcategory>Social Active</skillcategory>
+        <requiresgroundmovement>False</requiresgroundmovement>
+        <requiresswimmovement>False</requiresswimmovement>
+        <requiresflymovement>False</requiresflymovement>
+        <karma>0</karma>
+        <base>0</base>
+        <notes />
+        <notesColor>Chocolate</notesColor>
+        <name>Negotiation</name>
+        <buywithkarma>False</buywithkarma>
+      </skill>
+      <skill>
+        <guid>d881b99c-f3f5-48aa-9ff6-4473ef94b4a9</guid>
+        <suid>17fbaafa-8dbb-4f29-9244-5ae1cd4ac42f</suid>
+        <isknowledge>False</isknowledge>
+        <skillcategory>Physical Active</skillcategory>
+        <requiresgroundmovement>False</requiresgroundmovement>
+        <requiresswimmovement>False</requiresswimmovement>
+        <requiresflymovement>False</requiresflymovement>
+        <karma>0</karma>
+        <base>0</base>
+        <notes />
+        <notesColor>Chocolate</notesColor>
+        <name>Palming</name>
+        <buywithkarma>False</buywithkarma>
+      </skill>
+      <skill>
+        <guid>4d2b85e8-6efb-455e-997e-c636ddfbc008</guid>
+        <suid>04e1eb3e-e82d-485b-a7fd-1e677df2a070</suid>
+        <isknowledge>False</isknowledge>
+        <skillcategory>Physical Active</skillcategory>
+        <requiresgroundmovement>False</requiresgroundmovement>
+        <requiresswimmovement>False</requiresswimmovement>
+        <requiresflymovement>False</requiresflymovement>
+        <karma>0</karma>
+        <base>0</base>
+        <notes />
+        <notesColor>Chocolate</notesColor>
+        <name>Perception</name>
+        <buywithkarma>False</buywithkarma>
+      </skill>
+      <skill>
+        <guid>d0c5e79c-defe-4777-85cb-04e34101c4d9</guid>
+        <suid>53f96d6a-363b-4c14-be1d-68e74930c67b</suid>
+        <isknowledge>False</isknowledge>
+        <skillcategory>Social Active</skillcategory>
+        <requiresgroundmovement>False</requiresgroundmovement>
+        <requiresswimmovement>False</requiresswimmovement>
+        <requiresflymovement>False</requiresflymovement>
+        <karma>0</karma>
+        <base>0</base>
+        <notes />
+        <notesColor>Chocolate</notesColor>
+        <name>Performance</name>
+        <buywithkarma>False</buywithkarma>
+      </skill>
+      <skill>
+        <guid>8979e25c-73bf-4241-9b8e-285e25554a3b</guid>
+        <suid>3ba9397e-f790-44ca-ae40-15a2356e348d</suid>
+        <isknowledge>False</isknowledge>
+        <skillcategory>Vehicle Active</skillcategory>
+        <requiresgroundmovement>False</requiresgroundmovement>
+        <requiresswimmovement>False</requiresswimmovement>
+        <requiresflymovement>False</requiresflymovement>
+        <karma>0</karma>
+        <base>0</base>
+        <notes />
+        <notesColor>Chocolate</notesColor>
+        <name>Pilot Aerospace</name>
+        <buywithkarma>False</buywithkarma>
+      </skill>
+      <skill>
+        <guid>5506cfe6-7ca6-4e45-822e-f81439996b8e</guid>
+        <suid>10d5c887-a1e5-4cca-8613-3a28f1aab810</suid>
+        <isknowledge>False</isknowledge>
+        <skillcategory>Vehicle Active</skillcategory>
+        <requiresgroundmovement>False</requiresgroundmovement>
+        <requiresswimmovement>False</requiresswimmovement>
+        <requiresflymovement>False</requiresflymovement>
+        <karma>0</karma>
+        <base>0</base>
+        <notes />
+        <notesColor>Chocolate</notesColor>
+        <name>Pilot Aircraft</name>
+        <buywithkarma>False</buywithkarma>
+      </skill>
+      <skill>
+        <guid>9ed02615-276e-480b-aeff-948ca1fe0e76</guid>
+        <suid>ae91a8a6-80e7-4f52-b9eb-21725a5528a4</suid>
+        <isknowledge>False</isknowledge>
+        <skillcategory>Vehicle Active</skillcategory>
+        <requiresgroundmovement>False</requiresgroundmovement>
+        <requiresswimmovement>False</requiresswimmovement>
+        <requiresflymovement>False</requiresflymovement>
+        <karma>0</karma>
+        <base>0</base>
+        <notes />
+        <notesColor>Chocolate</notesColor>
+        <name>Pilot Ground Craft</name>
+        <buywithkarma>False</buywithkarma>
+      </skill>
+      <skill>
+        <guid>d7799ce2-fd9a-4cc5-b140-029d166e6438</guid>
+        <suid>b8a24d87-465a-4365-9948-038fe1ac62c4</suid>
+        <isknowledge>False</isknowledge>
+        <skillcategory>Vehicle Active</skillcategory>
+        <requiresgroundmovement>False</requiresgroundmovement>
+        <requiresswimmovement>False</requiresswimmovement>
+        <requiresflymovement>False</requiresflymovement>
+        <karma>0</karma>
+        <base>0</base>
+        <notes />
+        <notesColor>Chocolate</notesColor>
+        <name>Pilot Walker</name>
+        <buywithkarma>False</buywithkarma>
+      </skill>
+      <skill>
+        <guid>d2c04469-193e-41c2-bfc1-fba9cf7e9067</guid>
+        <suid>1579818e-af85-47cd-8c9f-2e86e9dc19da</suid>
+        <isknowledge>False</isknowledge>
+        <skillcategory>Vehicle Active</skillcategory>
+        <requiresgroundmovement>False</requiresgroundmovement>
+        <requiresswimmovement>False</requiresswimmovement>
+        <requiresflymovement>False</requiresflymovement>
+        <karma>0</karma>
+        <base>0</base>
+        <notes />
+        <notesColor>Chocolate</notesColor>
+        <name>Pilot Watercraft</name>
+        <buywithkarma>False</buywithkarma>
+      </skill>
+      <skill>
+        <guid>6e3f6721-b734-4301-92b8-4d729981e0f5</guid>
+        <suid>adf31a50-b228-4e09-a09c-46ab9f5e59a1</suid>
+        <isknowledge>False</isknowledge>
+        <skillcategory>Combat Active</skillcategory>
+        <requiresgroundmovement>False</requiresgroundmovement>
+        <requiresswimmovement>False</requiresswimmovement>
+        <requiresflymovement>False</requiresflymovement>
+        <karma>0</karma>
+        <base>0</base>
+        <notes />
+        <notesColor>Chocolate</notesColor>
+        <name>Pistols</name>
+        <buywithkarma>False</buywithkarma>
+      </skill>
+      <skill>
+        <guid>0f18381b-4692-44aa-beac-490e85f529d5</guid>
+        <suid>a6287e62-6a3b-43ce-b6e0-20f3655910e2</suid>
+        <isknowledge>False</isknowledge>
+        <skillcategory>Magical Active</skillcategory>
+        <requiresgroundmovement>False</requiresgroundmovement>
+        <requiresswimmovement>False</requiresswimmovement>
+        <requiresflymovement>False</requiresflymovement>
+        <karma>0</karma>
+        <base>0</base>
+        <notes />
+        <notesColor>Chocolate</notesColor>
+        <name>Ritual Spellcasting</name>
+        <buywithkarma>False</buywithkarma>
+      </skill>
+      <skill>
+        <guid>34490721-378f-4dac-8b64-8e781f5870fe</guid>
+        <suid>1531b2d8-6116-4be4-87b0-232dba1fc447</suid>
+        <isknowledge>False</isknowledge>
+        <skillcategory>Physical Active</skillcategory>
+        <requiresgroundmovement>True</requiresgroundmovement>
+        <requiresswimmovement>False</requiresswimmovement>
+        <requiresflymovement>False</requiresflymovement>
+        <karma>0</karma>
+        <base>0</base>
+        <notes />
+        <notesColor>Chocolate</notesColor>
+        <name>Running</name>
+        <buywithkarma>False</buywithkarma>
+      </skill>
+      <skill>
+        <guid>aa746504-c06c-4899-87da-3ad37f6d6c72</guid>
+        <suid>9cff9aa7-d092-4f89-8b7b-3ab835818874</suid>
+        <isknowledge>False</isknowledge>
+        <skillcategory>Physical Active</skillcategory>
+        <requiresgroundmovement>False</requiresgroundmovement>
+        <requiresswimmovement>False</requiresswimmovement>
+        <requiresflymovement>False</requiresflymovement>
+        <karma>0</karma>
+        <base>0</base>
+        <notes />
+        <notesColor>Chocolate</notesColor>
+        <name>Sneaking</name>
+        <buywithkarma>False</buywithkarma>
+      </skill>
+      <skill>
+        <guid>764fc831-3a1e-4eb3-878d-728f9b18fe3f</guid>
+        <suid>b693f3bf-48dc-4570-9743-d94d14ee698b</suid>
+        <isknowledge>False</isknowledge>
+        <skillcategory>Technical Active</skillcategory>
+        <requiresgroundmovement>False</requiresgroundmovement>
+        <requiresswimmovement>False</requiresswimmovement>
+        <requiresflymovement>False</requiresflymovement>
+        <karma>0</karma>
+        <base>0</base>
+        <notes />
+        <notesColor>Chocolate</notesColor>
+        <name>Software</name>
+        <buywithkarma>False</buywithkarma>
+      </skill>
+      <skill>
+        <guid>83c0f824-7ff5-454c-be24-eab9e3cefc40</guid>
+        <suid>c4367a39-4065-4b1d-aa62-e9dce377e452</suid>
+        <isknowledge>False</isknowledge>
+        <skillcategory>Magical Active</skillcategory>
+        <requiresgroundmovement>False</requiresgroundmovement>
+        <requiresswimmovement>False</requiresswimmovement>
+        <requiresflymovement>False</requiresflymovement>
+        <karma>0</karma>
+        <base>0</base>
+        <notes />
+        <notesColor>Chocolate</notesColor>
+        <name>Spellcasting</name>
+        <buywithkarma>False</buywithkarma>
+      </skill>
+      <skill>
+        <guid>86e72d65-c1f4-4735-9280-074da793733a</guid>
+        <suid>51e34c6c-b07f-45f4-8a5e-8f2b617ed32f</suid>
+        <isknowledge>False</isknowledge>
+        <skillcategory>Magical Active</skillcategory>
+        <requiresgroundmovement>False</requiresgroundmovement>
+        <requiresswimmovement>False</requiresswimmovement>
+        <requiresflymovement>False</requiresflymovement>
+        <karma>0</karma>
+        <base>0</base>
+        <notes />
+        <notesColor>Chocolate</notesColor>
+        <name>Summoning</name>
+        <buywithkarma>False</buywithkarma>
+      </skill>
+      <skill>
+        <guid>bcc3417d-574a-441e-94b2-6bfed0ffd015</guid>
+        <suid>89ee1730-053a-400f-a13a-4fbadae015f0</suid>
+        <isknowledge>False</isknowledge>
+        <skillcategory>Physical Active</skillcategory>
+        <requiresgroundmovement>False</requiresgroundmovement>
+        <requiresswimmovement>False</requiresswimmovement>
+        <requiresflymovement>False</requiresflymovement>
+        <karma>0</karma>
+        <base>0</base>
+        <notes />
+        <notesColor>Chocolate</notesColor>
+        <name>Survival</name>
+        <buywithkarma>False</buywithkarma>
+      </skill>
+      <skill>
+        <guid>666a94c3-4bed-4c74-ac9a-efdf18c84ae4</guid>
+        <suid>0dbcb9cd-f824-4b5d-a387-90d33318b04c</suid>
+        <isknowledge>False</isknowledge>
+        <skillcategory>Physical Active</skillcategory>
+        <requiresgroundmovement>False</requiresgroundmovement>
+        <requiresswimmovement>True</requiresswimmovement>
+        <requiresflymovement>False</requiresflymovement>
+        <karma>0</karma>
+        <base>0</base>
+        <notes />
+        <notesColor>Chocolate</notesColor>
+        <name>Swimming</name>
+        <buywithkarma>False</buywithkarma>
+      </skill>
+      <skill>
+        <guid>af04c0ff-7555-4543-a645-9e7b8698925c</guid>
+        <suid>867a6fa0-7d98-4cde-83a4-b33dd39de08e</suid>
+        <isknowledge>False</isknowledge>
+        <skillcategory>Combat Active</skillcategory>
+        <requiresgroundmovement>False</requiresgroundmovement>
+        <requiresswimmovement>False</requiresswimmovement>
+        <requiresflymovement>False</requiresflymovement>
+        <karma>0</karma>
+        <base>0</base>
+        <notes />
+        <notesColor>Chocolate</notesColor>
+        <name>Throwing Weapons</name>
+        <buywithkarma>False</buywithkarma>
+      </skill>
+      <skill>
+        <guid>c7875b58-dfa4-4282-8cb4-6bc0a7964801</guid>
+        <suid>7ed2f3e0-a791-4cb7-ba3e-ac785fdc3d7e</suid>
+        <isknowledge>False</isknowledge>
+        <skillcategory>Physical Active</skillcategory>
+        <requiresgroundmovement>False</requiresgroundmovement>
+        <requiresswimmovement>False</requiresswimmovement>
+        <requiresflymovement>False</requiresflymovement>
+        <karma>0</karma>
+        <base>0</base>
+        <notes />
+        <notesColor>Chocolate</notesColor>
+        <name>Tracking</name>
+        <buywithkarma>False</buywithkarma>
+      </skill>
+      <skill>
+        <guid>793d14c1-448f-4e96-b908-693d34d1aa51</guid>
+        <suid>4fcd40cb-4b02-4b7e-afcb-f44d46cd5706</suid>
+        <isknowledge>False</isknowledge>
+        <skillcategory>Combat Active</skillcategory>
+        <requiresgroundmovement>False</requiresgroundmovement>
+        <requiresswimmovement>False</requiresswimmovement>
+        <requiresflymovement>False</requiresflymovement>
+        <karma>0</karma>
+        <base>0</base>
+        <notes />
+        <notesColor>Chocolate</notesColor>
+        <name>Unarmed Combat</name>
+        <buywithkarma>False</buywithkarma>
+      </skill>
+    </skills>
+    <knoskills />
+    <skilljackknowledgeskills />
+    <groups>
+      <group>
+        <karma>0</karma>
+        <base>0</base>
+        <isbroken>False</isbroken>
+        <id>bf3b8784-1ab3-4cbc-a27c-c11ac167ec63</id>
+        <name>Acting</name>
+      </group>
+      <group>
+        <karma>0</karma>
+        <base>0</base>
+        <isbroken>False</isbroken>
+        <id>debc1402-a95f-484e-b43c-cd34c9ee7ad6</id>
+        <name>Athletics</name>
+      </group>
+      <group>
+        <karma>0</karma>
+        <base>0</base>
+        <isbroken>False</isbroken>
+        <id>b3605295-5bec-429b-a95f-485bd3df9591</id>
+        <name>Biotech</name>
+      </group>
+      <group>
+        <karma>0</karma>
+        <base>0</base>
+        <isbroken>False</isbroken>
+        <id>30fb9ebf-6e97-408e-b5a2-032e09740707</id>
+        <name>Close Combat</name>
+      </group>
+      <group>
+        <karma>0</karma>
+        <base>0</base>
+        <isbroken>False</isbroken>
+        <id>7a5a1592-8f7c-44ef-aad6-425140d8a973</id>
+        <name>Conjuring</name>
+      </group>
+      <group>
+        <karma>0</karma>
+        <base>0</base>
+        <isbroken>False</isbroken>
+        <id>8461ef1f-6035-422b-979d-746fee143d31</id>
+        <name>Cracking</name>
+      </group>
+      <group>
+        <karma>0</karma>
+        <base>0</base>
+        <isbroken>False</isbroken>
+        <id>a09343fa-ffdb-4382-8325-3bf4148881a0</id>
+        <name>Electronics</name>
+      </group>
+      <group>
+        <karma>0</karma>
+        <base>0</base>
+        <isbroken>False</isbroken>
+        <id>b9b9c938-43bc-4998-95a9-2bacce9d60b7</id>
+        <name>Enchanting</name>
+      </group>
+      <group>
+        <karma>0</karma>
+        <base>0</base>
+        <isbroken>False</isbroken>
+        <id>e5db19b8-8d68-406b-89ae-ca18d552bdca</id>
+        <name>Engineering</name>
+      </group>
+      <group>
+        <karma>0</karma>
+        <base>0</base>
+        <isbroken>False</isbroken>
+        <id>970bd406-6de4-4635-b02d-d53edc55f7d7</id>
+        <name>Firearms</name>
+      </group>
+      <group>
+        <karma>0</karma>
+        <base>0</base>
+        <isbroken>False</isbroken>
+        <id>887403ab-e353-41c4-bdcf-e14b41dde2c7</id>
+        <name>Influence</name>
+      </group>
+      <group>
+        <karma>0</karma>
+        <base>2</base>
+        <isbroken>False</isbroken>
+        <id>b4c30a76-8642-4712-97da-6382d562ec11</id>
+        <name>Outdoors</name>
+      </group>
+      <group>
+        <karma>0</karma>
+        <base>0</base>
+        <isbroken>False</isbroken>
+        <id>09685b10-c216-43f8-a0c9-5d7a053b3a9a</id>
+        <name>Sorcery</name>
+      </group>
+      <group>
+        <karma>0</karma>
+        <base>0</base>
+        <isbroken>False</isbroken>
+        <id>3bedd0a0-e427-423c-a7d8-d742b2500b47</id>
+        <name>Stealth</name>
+      </group>
+    </groups>
+  </newskills>
+  <contacts />
+  <spells />
+  <foci />
+  <stackedfoci />
+  <powers />
+  <spirits />
+  <complexforms />
+  <aiprograms />
+  <martialarts />
+  <limitmodifiers />
+  <armors />
+  <weapons>
+    <weapon>
+      <sourceid>63dcfdb6-bbd9-4a58-bbf4-cd35f7614fdc</sourceid>
+      <guid>379acfd2-c371-4e8f-96d6-06522396f26e</guid>
+      <name>Unarmed Attack</name>
+      <category>Unarmed</category>
+      <type>Melee</type>
+      <spec />
+      <spec2 />
+      <reach>0</reach>
+      <damage>({STR})S</damage>
+      <ap>-</ap>
+      <mode>0</mode>
+      <rc>0</rc>
+      <ammo>0</ammo>
+      <cyberware>False</cyberware>
+      <ammocategory />
+      <ammoslots>1</ammoslots>
+      <sizecategory />
+      <firingmode>DogBrain</firingmode>
+      <minrating />
+      <maxrating />
+      <rating>0</rating>
+      <accuracy>Physical</accuracy>
+      <activeammoslot>1</activeammoslot>
+      <conceal>0</conceal>
+      <avail>0</avail>
+      <cost>0</cost>
+      <weight />
+      <useskill />
+      <useskillspec />
+      <range />
+      <alternaterange />
+      <rangemultiply>1</rangemultiply>
+      <singleshot>1</singleshot>
+      <shortburst>3</shortburst>
+      <longburst>6</longburst>
+      <fullburst>10</fullburst>
+      <suppressive>20</suppressive>
+      <allowsingleshot>True</allowsingleshot>
+      <allowshortburst>True</allowshortburst>
+      <allowlongburst>True</allowlongburst>
+      <allowfullburst>True</allowfullburst>
+      <allowsuppressive>True</allowsuppressive>
+      <source>SR5</source>
+      <page>132</page>
+      <parentid>9ea8b0ac-163b-46b7-8d6c-7a0eacd747ba</parentid>
+      <allowaccessory>False</allowaccessory>
+      <weaponname />
+      <included>False</included>
+      <equipped>True</equipped>
+      <requireammo>True</requireammo>
+      <accuracy>Physical</accuracy>
+      <mount />
+      <stolen>False</stolen>
+      <extramount />
+      <location />
+      <notes />
+      <notesColor>Chocolate</notesColor>
+      <discountedcost>False</discountedcost>
+      <weaponslots />
+      <doubledcostweaponslots />
+      <active>False</active>
+      <homenode>False</homenode>
+      <devicerating />
+      <programlimit />
+      <overclocked>None</overclocked>
+      <attack />
+      <sleaze />
+      <dataprocessing />
+      <firewall />
+      <attributearray />
+      <modattack />
+      <modsleaze />
+      <moddataprocessing />
+      <modfirewall />
+      <modattributearray />
+      <canswapattributes>False</canswapattributes>
+      <matrixcmfilled>0</matrixcmfilled>
+      <wirelessbonus />
+      <wirelesson>True</wirelesson>
+      <sortorder>0</sortorder>
+      <weapontype>melee</weapontype>
+    </weapon>
+  </weapons>
+  <cyberwares />
+  <qualities>
+    <quality>
+      <sourceid>8ec5c9bb-aeb9-42f2-a436-a60f764adfe4</sourceid>
+      <guid>dadcc548-9cbc-4828-8aba-329b90f2a555</guid>
+      <name>Low-Light Vision</name>
+      <extra />
+      <bp>4</bp>
+      <implemented>True</implemented>
+      <contributetobp>True</contributetobp>
+      <contributetolimit>False</contributetolimit>
+      <stagedpurchase>False</stagedpurchase>
+      <doublecareer>True</doublecareer>
+      <canbuywithspellpoints>False</canbuywithspellpoints>
+      <metagenic>False</metagenic>
+      <print>True</print>
+      <qualitytype>Positive</qualitytype>
+      <qualitysource>Metatype</qualitysource>
+      <mutant>False</mutant>
+      <source>SR5</source>
+      <page>66</page>
+      <sourcename />
+      <bonus />
+      <firstlevelbonus />
+      <naturalweapons />
+      <notes />
+      <notesColor>Chocolate</notesColor>
+    </quality>
+    <quality>
+      <sourceid>a030d7e2-755b-4f71-b848-ad9772fba242</sourceid>
+      <guid>1743d657-43f1-4caf-8fe5-1ecb3fa9a16a</guid>
+      <name>Distinctive Style</name>
+      <extra />
+      <bp>0</bp>
+      <implemented>True</implemented>
+      <contributetobp>True</contributetobp>
+      <contributetolimit>False</contributetolimit>
+      <stagedpurchase>False</stagedpurchase>
+      <doublecareer>True</doublecareer>
+      <canbuywithspellpoints>False</canbuywithspellpoints>
+      <metagenic>False</metagenic>
+      <print>True</print>
+      <qualitytype>Negative</qualitytype>
+      <qualitysource>Improvement</qualitysource>
+      <mutant>False</mutant>
+      <source>SR5</source>
+      <page>80</page>
+      <sourcename>Glamour</sourcename>
+      <bonus />
+      <firstlevelbonus />
+      <naturalweapons />
+      <notes>DISTINCTIVE STYLE
+BONUS: 5 KARMA
+A character with the Distinctive Style quality has at least one aspect of his appearance, mannerism, or personality that makes him inconveniently memorable. Choices for Distinctive Style include, but are by no means limited to: tattoos that cannot be easily concealed, an accent or atypical manner of speaking, bizarre fashion choices, scars, gang or prison signs, flashy custom augmentations, or non-metahuman modifications like a tail. Note that what’s distinctive in one culture or location may not be in another.
+Whatever Distinctive Style the player selects makes her character easy to remember. Anyone who attempts to identify, trace, or physically locate this character (or gain information about him via legwork) receives a +2 dice pool modifier for relevant tests. If an NPC makes a Memory Test (p. 152) to determine how much they recall about the character, reduce the Difficulty Threshold by 1, to a minimum of 1.
+This quality is physical in nature and does not apply to astral searches. This quality may only be taken once.
+This quality is incompatible with Blandness.</notes>
+      <notesColor>Chocolate</notesColor>
+    </quality>
+    <quality>
+      <sourceid>35103093-5f41-4d42-a2b5-6fbb64f627b1</sourceid>
+      <guid>71baf937-9c4d-40cd-b1f2-813203e426c2</guid>
+      <name>Glamour</name>
+      <extra />
+      <bp>12</bp>
+      <implemented>True</implemented>
+      <contributetobp>True</contributetobp>
+      <contributetolimit>False</contributetolimit>
+      <stagedpurchase>False</stagedpurchase>
+      <doublecareer>True</doublecareer>
+      <canbuywithspellpoints>False</canbuywithspellpoints>
+      <metagenic>True</metagenic>
+      <print>True</print>
+      <qualitytype>Positive</qualitytype>
+      <qualitysource>Metatype</qualitysource>
+      <mutant>False</mutant>
+      <source>RF</source>
+      <page>115</page>
+      <sourcename />
+      <bonus>
+        <addqualities>
+          <addquality>Distinctive Style</addquality>
+        </addqualities>
+        <skillcategory>
+          <name>Social Active</name>
+          <bonus>1</bonus>
+          <exclude>Intimidation</exclude>
+        </skillcategory>
+        <sociallimit>2</sociallimit>
+      </bonus>
+      <firstlevelbonus />
+      <naturalweapons />
+      <notes>GLAMOUR
+COST: 12 KARMA
+A character with Glamour is paranaturally gifted so that all sapient beings perceive him as moving with unearthly grace. His countenance always seems radiant, and his voice is soul wrenching and laden with emotion. People may describe him as angelic or fairylike, and everyone he speaks to cannot help but feel moved and inspired. Sapient beings always respond with awe, deference, and kindness to the character as long as he does not act hostile. The character adds 2 to his Social limit and has a +1 dice pool modifier to all Social Skill Tests, with the exception of Intimidation. This quality renders the character particularly memorable, and he suffers from the effects of Distinctive Style quality (p.</notes>
+      <notesColor>Chocolate</notesColor>
+    </quality>
+    <quality>
+      <sourceid>33a1a0ed-20b8-4ddd-9070-2b460a5455b7</sourceid>
+      <guid>c7a60b16-1645-4379-ab8c-de81f0feaa92</guid>
+      <name>Symbiosis</name>
+      <extra />
+      <bp>-5</bp>
+      <implemented>True</implemented>
+      <contributetobp>True</contributetobp>
+      <contributetolimit>False</contributetolimit>
+      <stagedpurchase>False</stagedpurchase>
+      <doublecareer>True</doublecareer>
+      <canbuywithspellpoints>False</canbuywithspellpoints>
+      <metagenic>True</metagenic>
+      <print>True</print>
+      <qualitytype>Negative</qualitytype>
+      <qualitysource>Metatype</qualitysource>
+      <mutant>False</mutant>
+      <source>RF</source>
+      <page>122</page>
+      <sourcename />
+      <bonus />
+      <firstlevelbonus />
+      <naturalweapons />
+      <notes>SYMBIOSIS
+BONUS: 5 KARMA
+If the character sets up residence in a certain location for a sustained period of time (more than a season, though the gamemaster determines the specific time period) he gradually becomes attuned to the place and his surroundings. While this grants the character a preternaturally intuitive understanding of the environment and its inhabitants, the bonding can be fatal when it occurs in polluted or desolate urban environments.
+In game terms, the character’s biorhythm and senses gradually adapt to the environment (Essence x 100 meters in radius) around his permanent residence—the place where he spends most of his time. The character makes a Body +Willpower (3) Test each month; if they succeed, they are attuned to their environment. If they fail, they are unattuned and left to feel incomplete or lost. It may be that the area in which they live is one where they do not want to be attuned and they want to actively resist the attunement. In that case, they get a –1 dice pool modifier on the test.
+Once the bond is formed, it can only be broken if the character changes his home to form a new bond. They have to live in the new place for a full month to have a chance to break the old bond, and the bond is not broken until they succeed at the Body + Willpower (3) Test in the new neighborhood.
+Symbiosis provides the character with preternatural insight and connection to everything living within his sphere of attunement. This grants him a +1 dice pool modifier on any Skill Test involving the Outdoor Skill Group as well as a modifier to all Social Tests with individuals residing within the area. In addition, the character possesses an intuitive grasp of what’s going on around him, and he is emotionally affected by the condition of the land. If a fire breaks out, he instantly becomes alarmed. If all inhabitants in the area coexist peacefully, he is blissful and healthy, providing +1 to any Healing Tests performed while in the neighborhood. On the other hand, environmental and social problems—like drug abuse, gang violence, and pollution—produce a somatic response in the character, leaving him sick and depleted; treat as a persistent Mild Allergy until the situation is rectified.</notes>
+      <notesColor>Chocolate</notesColor>
+    </quality>
+    <quality>
+      <sourceid>0e741331-d776-4be8-abc5-4101228abdef</sourceid>
+      <guid>06565d62-bd8a-43f5-b7b0-227b6052201a</guid>
+      <name>Magician</name>
+      <extra />
+      <bp>30</bp>
+      <implemented>True</implemented>
+      <contributetobp>True</contributetobp>
+      <contributetolimit>False</contributetolimit>
+      <stagedpurchase>False</stagedpurchase>
+      <doublecareer>True</doublecareer>
+      <canbuywithspellpoints>False</canbuywithspellpoints>
+      <metagenic>False</metagenic>
+      <print>True</print>
+      <qualitytype>Positive</qualitytype>
+      <qualitysource>Heritage</qualitysource>
+      <mutant>False</mutant>
+      <source>SR5</source>
+      <page>69</page>
+      <sourcename />
+      <bonus>
+        <enableattribute>
+          <name>MAG</name>
+        </enableattribute>
+        <enabletab>
+          <name>magician</name>
+        </enabletab>
+        <unlockskills>Magician</unlockskills>
+      </bonus>
+      <firstlevelbonus />
+      <naturalweapons />
+      <notes>MAGICIANS
+• Magicians can astrally perceive.
+• Magicians can astrally project.
+• Magicians can choose freely from the magical skills or skill groups (Sorcery, Conjuring, Enchanting).
+• Magicians can cast spells, conjure spirits, or enchant magical items.
+• At character creation, magicians who cast spells, perform rituals, or create alchemical preparations may know a maximum number of formulae from each group equal to their Magic Rating x 2 (i.e., Magic Rating of 4 allows 8 spells, 8 rituals, 8 alchemical preparations).</notes>
+      <notesColor>Chocolate</notesColor>
+    </quality>
+    <quality>
+      <sourceid>bb16aae9-b511-47b2-93c4-217918346cc8</sourceid>
+      <guid>03204cea-b1a3-4223-a21e-59929caf59ed</guid>
+      <name>Changeling (Class II SURGE)</name>
+      <extra />
+      <bp>15</bp>
+      <implemented>True</implemented>
+      <contributetobp>True</contributetobp>
+      <contributetolimit>False</contributetolimit>
+      <stagedpurchase>False</stagedpurchase>
+      <doublecareer>False</doublecareer>
+      <canbuywithspellpoints>False</canbuywithspellpoints>
+      <metagenic>False</metagenic>
+      <print>True</print>
+      <qualitytype>Positive</qualitytype>
+      <qualitysource>Selected</qualitysource>
+      <mutant>False</mutant>
+      <source>RF</source>
+      <page>103</page>
+      <sourcename />
+      <bonus>
+        <metageniclimit>30</metageniclimit>
+      </bonus>
+      <firstlevelbonus />
+      <naturalweapons />
+      <notes />
+      <notesColor>Chocolate</notesColor>
+    </quality>
+    <quality>
+      <sourceid>fe67d02c-e9f0-4d8f-9888-adbea2797376</sourceid>
+      <guid>a47ff110-5c4f-4efe-88fe-b2beb56a3765</guid>
+      <name>Dermal Alteration (Bark Skin)</name>
+      <extra />
+      <bp>5</bp>
+      <implemented>True</implemented>
+      <contributetobp>True</contributetobp>
+      <contributetolimit>True</contributetolimit>
+      <stagedpurchase>False</stagedpurchase>
+      <doublecareer>True</doublecareer>
+      <canbuywithspellpoints>False</canbuywithspellpoints>
+      <metagenic>True</metagenic>
+      <print>True</print>
+      <qualitytype>Positive</qualitytype>
+      <qualitysource>Selected</qualitysource>
+      <mutant>False</mutant>
+      <source>RF</source>
+      <page>113</page>
+      <sourcename />
+      <bonus>
+        <armor group="0">2</armor>
+      </bonus>
+      <firstlevelbonus />
+      <naturalweapons />
+      <notes>This skin contains woven cellulose fibers and wooden filaments that make it resemble tree bark in appearance and hardness. Bark Skin confers +2 armor and is cumulative with any worn armor.</notes>
+      <notesColor>Chocolate</notesColor>
+    </quality>
+    <quality>
+      <sourceid>5ce51789-1ed2-446a-8aff-5f7f70969507</sourceid>
+      <guid>90987758-9a0c-4a40-81fd-a7199702a65c</guid>
+      <name>Photometabolism</name>
+      <extra />
+      <bp>4</bp>
+      <implemented>True</implemented>
+      <contributetobp>True</contributetobp>
+      <contributetolimit>True</contributetolimit>
+      <stagedpurchase>False</stagedpurchase>
+      <doublecareer>True</doublecareer>
+      <canbuywithspellpoints>False</canbuywithspellpoints>
+      <metagenic>True</metagenic>
+      <print>True</print>
+      <qualitytype>Positive</qualitytype>
+      <qualitysource>Selected</qualitysource>
+      <mutant>False</mutant>
+      <source>RF</source>
+      <page>117</page>
+      <sourcename />
+      <bonus>
+        <lifestylecost>-10</lifestylecost>
+      </bonus>
+      <firstlevelbonus />
+      <naturalweapons />
+      <notes>PHOTOMETABOLISM
+COST: 4 KARMA
+The character possesses an organ, such as chloroplast skin or grasslike body hair, that supplements his energy needs via photosynthesis. Even when the character’s organ is fully exposed to sunlight, this process only creates enough nourishment for the recipient to supplement his diet, not to replace it. Characters with Photometabolism reduce their Lifestyle costs by ten percent. However, since the character’s overall physical well-being and energy increase in the sunlight, the character feels uncomfortable at night or in the shade, suffering a –1 dice pool penalty on all Social Tests. Photometabolism is incompatible with the Nocturnal quality (p. 121) and with all skin and hair modifications.</notes>
+      <notesColor>Chocolate</notesColor>
+    </quality>
+  </qualities>
+  <lifestyles />
+  <gears />
+  <vehicles />
+  <metamagics />
+  <arts />
+  <enhancements />
+  <critterpowers />
+  <initiationgrades />
+  <improvements>
+    <improvement>
+      <target />
+      <improvedname>1743d657-43f1-4caf-8fe5-1ecb3fa9a16a</improvedname>
+      <sourcename>71baf937-9c4d-40cd-b1f2-813203e426c2</sourcename>
+      <min>0</min>
+      <max>0</max>
+      <aug>0</aug>
+      <augmax>0</augmax>
+      <val>0</val>
+      <rating>1</rating>
+      <exclude />
+      <condition />
+      <improvementttype>SpecificQuality</improvementttype>
+      <improvementsource>Quality</improvementsource>
+      <custom>False</custom>
+      <customname />
+      <customid />
+      <customgroup />
+      <addtorating>0</addtorating>
+      <enabled>1</enabled>
+      <order>0</order>
+      <notes />
+      <notesColor>Chocolate</notesColor>
+    </improvement>
+    <improvement>
+      <target />
+      <improvedname>Social Active</improvedname>
+      <sourcename>71baf937-9c4d-40cd-b1f2-813203e426c2</sourcename>
+      <min>0</min>
+      <max>0</max>
+      <aug>0</aug>
+      <augmax>0</augmax>
+      <val>1</val>
+      <rating>1</rating>
+      <exclude>Intimidation</exclude>
+      <condition />
+      <improvementttype>SkillCategory</improvementttype>
+      <improvementsource>Quality</improvementsource>
+      <custom>False</custom>
+      <customname />
+      <customid />
+      <customgroup />
+      <addtorating>0</addtorating>
+      <enabled>1</enabled>
+      <order>0</order>
+      <notes />
+      <notesColor>Chocolate</notesColor>
+    </improvement>
+    <improvement>
+      <target />
+      <improvedname>Social</improvedname>
+      <sourcename>71baf937-9c4d-40cd-b1f2-813203e426c2</sourcename>
+      <min>0</min>
+      <max>0</max>
+      <aug>0</aug>
+      <augmax>0</augmax>
+      <val>2</val>
+      <rating>1</rating>
+      <exclude />
+      <condition />
+      <improvementttype>SocialLimit</improvementttype>
+      <improvementsource>Quality</improvementsource>
+      <custom>False</custom>
+      <customname />
+      <customid />
+      <customgroup />
+      <addtorating>0</addtorating>
+      <enabled>1</enabled>
+      <order>0</order>
+      <notes />
+      <notesColor>Chocolate</notesColor>
+    </improvement>
+    <improvement>
+      <unique>enableattribute</unique>
+      <target />
+      <improvedname>MAG</improvedname>
+      <sourcename>06565d62-bd8a-43f5-b7b0-227b6052201a</sourcename>
+      <min>0</min>
+      <max>0</max>
+      <aug>0</aug>
+      <augmax>0</augmax>
+      <val>0</val>
+      <rating>0</rating>
+      <exclude />
+      <condition />
+      <improvementttype>Attribute</improvementttype>
+      <improvementsource>Quality</improvementsource>
+      <custom>False</custom>
+      <customname />
+      <customid />
+      <customgroup />
+      <addtorating>0</addtorating>
+      <enabled>1</enabled>
+      <order>0</order>
+      <notes />
+      <notesColor>Chocolate</notesColor>
+    </improvement>
+    <improvement>
+      <unique>enabletab</unique>
+      <target />
+      <improvedname>Magician</improvedname>
+      <sourcename>06565d62-bd8a-43f5-b7b0-227b6052201a</sourcename>
+      <min>0</min>
+      <max>0</max>
+      <aug>0</aug>
+      <augmax>0</augmax>
+      <val>0</val>
+      <rating>0</rating>
+      <exclude />
+      <condition />
+      <improvementttype>SpecialTab</improvementttype>
+      <improvementsource>Quality</improvementsource>
+      <custom>False</custom>
+      <customname />
+      <customid />
+      <customgroup />
+      <addtorating>0</addtorating>
+      <enabled>1</enabled>
+      <order>0</order>
+      <notes />
+      <notesColor>Chocolate</notesColor>
+    </improvement>
+    <improvement>
+      <target />
+      <improvedname>Magician</improvedname>
+      <sourcename>06565d62-bd8a-43f5-b7b0-227b6052201a</sourcename>
+      <min>0</min>
+      <max>0</max>
+      <aug>0</aug>
+      <augmax>0</augmax>
+      <val>0</val>
+      <rating>1</rating>
+      <exclude />
+      <condition />
+      <improvementttype>SpecialSkills</improvementttype>
+      <improvementsource>Quality</improvementsource>
+      <custom>False</custom>
+      <customname />
+      <customid />
+      <customgroup />
+      <addtorating>0</addtorating>
+      <enabled>1</enabled>
+      <order>0</order>
+      <notes />
+      <notesColor>Chocolate</notesColor>
+    </improvement>
+    <improvement>
+      <target />
+      <improvedname>Spellcasting</improvedname>
+      <sourcename />
+      <min>0</min>
+      <max>0</max>
+      <aug>0</aug>
+      <augmax>0</augmax>
+      <val>5</val>
+      <rating>1</rating>
+      <exclude />
+      <condition />
+      <improvementttype>SkillBase</improvementttype>
+      <improvementsource>Heritage</improvementsource>
+      <custom>False</custom>
+      <customname />
+      <customid />
+      <customgroup />
+      <addtorating>0</addtorating>
+      <enabled>1</enabled>
+      <order>0</order>
+      <notes />
+      <notesColor>Chocolate</notesColor>
+    </improvement>
+    <improvement>
+      <target />
+      <improvedname>Summoning</improvedname>
+      <sourcename />
+      <min>0</min>
+      <max>0</max>
+      <aug>0</aug>
+      <augmax>0</augmax>
+      <val>5</val>
+      <rating>1</rating>
+      <exclude />
+      <condition />
+      <improvementttype>SkillBase</improvementttype>
+      <improvementsource>Heritage</improvementsource>
+      <custom>False</custom>
+      <customname />
+      <customid />
+      <customgroup />
+      <addtorating>0</addtorating>
+      <enabled>1</enabled>
+      <order>0</order>
+      <notes />
+      <notesColor>Chocolate</notesColor>
+    </improvement>
+    <improvement>
+      <target />
+      <improvedname />
+      <sourcename>03204cea-b1a3-4223-a21e-59929caf59ed</sourcename>
+      <min>0</min>
+      <max>0</max>
+      <aug>0</aug>
+      <augmax>0</augmax>
+      <val>30</val>
+      <rating>1</rating>
+      <exclude />
+      <condition />
+      <improvementttype>MetageneticLimit</improvementttype>
+      <improvementsource>Quality</improvementsource>
+      <custom>False</custom>
+      <customname />
+      <customid />
+      <customgroup />
+      <addtorating>0</addtorating>
+      <enabled>1</enabled>
+      <order>0</order>
+      <notes />
+      <notesColor>Chocolate</notesColor>
+    </improvement>
+    <improvement>
+      <unique>group0</unique>
+      <target />
+      <improvedname />
+      <sourcename>a47ff110-5c4f-4efe-88fe-b2beb56a3765</sourcename>
+      <min>0</min>
+      <max>0</max>
+      <aug>0</aug>
+      <augmax>0</augmax>
+      <val>2</val>
+      <rating>1</rating>
+      <exclude />
+      <condition />
+      <improvementttype>Armor</improvementttype>
+      <improvementsource>Quality</improvementsource>
+      <custom>False</custom>
+      <customname />
+      <customid />
+      <customgroup />
+      <addtorating>0</addtorating>
+      <enabled>1</enabled>
+      <order>0</order>
+      <notes />
+      <notesColor>Chocolate</notesColor>
+    </improvement>
+    <improvement>
+      <target />
+      <improvedname />
+      <sourcename>90987758-9a0c-4a40-81fd-a7199702a65c</sourcename>
+      <min>0</min>
+      <max>0</max>
+      <aug>0</aug>
+      <augmax>0</augmax>
+      <val>-10</val>
+      <rating>1</rating>
+      <exclude />
+      <condition />
+      <improvementttype>LifestyleCost</improvementttype>
+      <improvementsource>Quality</improvementsource>
+      <custom>False</custom>
+      <customname />
+      <customid />
+      <customgroup />
+      <addtorating>0</addtorating>
+      <enabled>1</enabled>
+      <order>0</order>
+      <notes />
+      <notesColor>Chocolate</notesColor>
+    </improvement>
+  </improvements>
+  <sustainedobjects />
+  <drugs />
+  <mentorspirits />
+  <expenses />
+  <gearlocations />
+  <armorlocations />
+  <vehiclelocations />
+  <weaponlocations />
+  <improvementgroups />
+  <calendar />
+  <calculatedvalues>
+    <physicalcm>9</physicalcm>
+    <physicalcmthresholdoffset>0</physicalcmthresholdoffset>
+    <physicalcmoverflow>2</physicalcmoverflow>
+    <stuncm>9</stuncm>
+    <stuncmthresholdoffset>0</stuncmthresholdoffset>
+  </calculatedvalues>
+</character>

@@ -1,0 +1,4705 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<character>
+  <createdversion>5.216.0</createdversion>
+  <minimumappversion>5.214.1</minimumappversion>
+  <appversion>5.222.0</appversion>
+  <gameedition>SR5</gameedition>
+  <settings>67e25032-2a4e-42ca-97fa-69f7f608236c</settings>
+  <buildmethod>Priority</buildmethod>
+  <sources>
+    <source>SR5</source>
+    <source>AET</source>
+    <source>AP</source>
+    <source>BTB</source>
+    <source>BOTL</source>
+    <source>BLB</source>
+    <source>BB</source>
+    <source>CA</source>
+    <source>CF</source>
+    <source>DTR</source>
+    <source>DT</source>
+    <source>FA</source>
+    <source>GH3</source>
+    <source>HT</source>
+    <source>HS</source>
+    <source>KK</source>
+    <source>KC</source>
+    <source>LCD</source>
+    <source>NF</source>
+    <source>NP</source>
+    <source>R5</source>
+    <source>RG</source>
+    <source>RF</source>
+    <source>SASS</source>
+    <source>SSP</source>
+    <source>SFB</source>
+    <source>SFME</source>
+    <source>SFM</source>
+    <source>SFCC</source>
+    <source>SPS</source>
+    <source>SRM0803</source>
+    <source>SRM0804</source>
+    <source>SS</source>
+    <source>SG</source>
+    <source>SGE</source>
+    <source>SW</source>
+    <source>TCT</source>
+    <source>SL</source>
+    <source>TSG</source>
+    <source>TVG</source>
+  </sources>
+  <metatype>Elf</metatype>
+  <metatypeid>b3259991-b315-4dbe-ae3c-51f71a1116e2</metatypeid>
+  <metatypebp>0</metatypebp>
+  <metavariant>Dryad</metavariant>
+  <metavariantid>bdb50e49-57c6-4179-a78f-9f56003b40ef</metavariantid>
+  <metatypecategory>Metahuman</metatypecategory>
+  <movement />
+  <walk>2/1/0</walk>
+  <run>4/0/0</run>
+  <sprint>2/1/0</sprint>
+  <walkalt>2/1/0</walkalt>
+  <runalt>4/0/0</runalt>
+  <sprintalt>2/1/0</sprintalt>
+  <initiativedice>1</initiativedice>
+  <prioritymetatype>D</prioritymetatype>
+  <priorityattributes>B</priorityattributes>
+  <priorityspecial>A</priorityspecial>
+  <priorityskills>C</priorityskills>
+  <priorityresources>E</priorityresources>
+  <prioritytalent>Magician</prioritytalent>
+  <priorityskills>
+    <priorityskill>Spellcasting</priorityskill>
+    <priorityskill>Ritual Spellcasting</priorityskill>
+  </priorityskills>
+  <essenceatspecialstart>6</essenceatspecialstart>
+  <name>Telbrina Cornts</name>
+  <mainmugshotindex>-1</mainmugshotindex>
+  <mugshots />
+  <gender />
+  <age />
+  <eyes />
+  <height />
+  <weight />
+  <skin />
+  <hair />
+  <description />
+  <background />
+  <concept />
+  <notes />
+  <alias>Sapple</alias>
+  <playername />
+  <gamenotes />
+  <primaryarm>Right</primaryarm>
+  <karma>1</karma>
+  <special>0</special>
+  <totalspecial>0</totalspecial>
+  <totalattributes>20</totalattributes>
+  <edgeused>0</edgeused>
+  <contactpoints>18</contactpoints>
+  <contactpointsused>0</contactpointsused>
+  <spelllimit>10</spelllimit>
+  <cfplimit>0</cfplimit>
+  <ainormalprogramlimit>0</ainormalprogramlimit>
+  <aiadvancedprogramlimit>0</aiadvancedprogramlimit>
+  <currentcounterspellingdice>0</currentcounterspellingdice>
+  <currentliftcarryhits>0</currentliftcarryhits>
+  <basecarrylimit>20</basecarrylimit>
+  <baseliftlimit>-79228162514264337593543950335</baseliftlimit>
+  <totalcarriedweight>0.000</totalcarriedweight>
+  <encumbranceinterval>-79228162514264337593543950335</encumbranceinterval>
+  <streetcred>0</streetcred>
+  <notoriety>0</notoriety>
+  <publicawareness>0</publicawareness>
+  <burntstreetcred>0</burntstreetcred>
+  <baseastralreputation>0</baseastralreputation>
+  <basewildreputation>0</basewildreputation>
+  <created>False</created>
+  <nuyen>844.000</nuyen>
+  <startingnuyen>6000</startingnuyen>
+  <nuyenbp>10</nuyenbp>
+  <adept>False</adept>
+  <magician>True</magician>
+  <technomancer>False</technomancer>
+  <ai>False</ai>
+  <cyberwaredisabled>False</cyberwaredisabled>
+  <initiationdisabled>False</initiationdisabled>
+  <critter>False</critter>
+  <prototypetranshuman>0</prototypetranshuman>
+  <attributes>
+    <attribute>
+      <name>BOD</name>
+      <metatypemin>1</metatypemin>
+      <metatypemax>6</metatypemax>
+      <metatypeaugmax>10</metatypeaugmax>
+      <base>2</base>
+      <karma>0</karma>
+      <metatypecategory>Standard</metatypecategory>
+      <totalvalue>3</totalvalue>
+    </attribute>
+    <attribute>
+      <name>AGI</name>
+      <metatypemin>2</metatypemin>
+      <metatypemax>7</metatypemax>
+      <metatypeaugmax>11</metatypeaugmax>
+      <base>1</base>
+      <karma>0</karma>
+      <metatypecategory>Standard</metatypecategory>
+      <totalvalue>3</totalvalue>
+    </attribute>
+    <attribute>
+      <name>REA</name>
+      <metatypemin>1</metatypemin>
+      <metatypemax>6</metatypemax>
+      <metatypeaugmax>10</metatypeaugmax>
+      <base>2</base>
+      <karma>0</karma>
+      <metatypecategory>Standard</metatypecategory>
+      <totalvalue>3</totalvalue>
+    </attribute>
+    <attribute>
+      <name>STR</name>
+      <metatypemin>1</metatypemin>
+      <metatypemax>5</metatypemax>
+      <metatypeaugmax>9</metatypeaugmax>
+      <base>1</base>
+      <karma>0</karma>
+      <metatypecategory>Standard</metatypecategory>
+      <totalvalue>2</totalvalue>
+    </attribute>
+    <attribute>
+      <name>CHA</name>
+      <metatypemin>3</metatypemin>
+      <metatypemax>8</metatypemax>
+      <metatypeaugmax>12</metatypeaugmax>
+      <base>3</base>
+      <karma>0</karma>
+      <metatypecategory>Standard</metatypecategory>
+      <totalvalue>6</totalvalue>
+    </attribute>
+    <attribute>
+      <name>INT</name>
+      <metatypemin>1</metatypemin>
+      <metatypemax>6</metatypemax>
+      <metatypeaugmax>10</metatypeaugmax>
+      <base>3</base>
+      <karma>0</karma>
+      <metatypecategory>Standard</metatypecategory>
+      <totalvalue>4</totalvalue>
+    </attribute>
+    <attribute>
+      <name>LOG</name>
+      <metatypemin>1</metatypemin>
+      <metatypemax>6</metatypemax>
+      <metatypeaugmax>10</metatypeaugmax>
+      <base>3</base>
+      <karma>0</karma>
+      <metatypecategory>Standard</metatypecategory>
+      <totalvalue>4</totalvalue>
+    </attribute>
+    <attribute>
+      <name>WIL</name>
+      <metatypemin>1</metatypemin>
+      <metatypemax>6</metatypemax>
+      <metatypeaugmax>10</metatypeaugmax>
+      <base>5</base>
+      <karma>0</karma>
+      <metatypecategory>Standard</metatypecategory>
+      <totalvalue>6</totalvalue>
+    </attribute>
+    <attribute>
+      <name>EDG</name>
+      <metatypemin>1</metatypemin>
+      <metatypemax>6</metatypemax>
+      <metatypeaugmax>6</metatypeaugmax>
+      <base>0</base>
+      <karma>0</karma>
+      <metatypecategory>Special</metatypecategory>
+      <totalvalue>1</totalvalue>
+    </attribute>
+    <attribute>
+      <name>MAG</name>
+      <metatypemin>6</metatypemin>
+      <metatypemax>6</metatypemax>
+      <metatypeaugmax>6</metatypeaugmax>
+      <base>0</base>
+      <karma>0</karma>
+      <metatypecategory>Special</metatypecategory>
+      <totalvalue>6</totalvalue>
+    </attribute>
+    <attribute>
+      <name>MAGAdept</name>
+      <metatypemin>1</metatypemin>
+      <metatypemax>6</metatypemax>
+      <metatypeaugmax>10</metatypeaugmax>
+      <base>0</base>
+      <karma>0</karma>
+      <metatypecategory>Special</metatypecategory>
+      <totalvalue>1</totalvalue>
+    </attribute>
+    <attribute>
+      <name>RES</name>
+      <metatypemin>1</metatypemin>
+      <metatypemax>6</metatypemax>
+      <metatypeaugmax>6</metatypeaugmax>
+      <base>0</base>
+      <karma>0</karma>
+      <metatypecategory>Special</metatypecategory>
+      <totalvalue>1</totalvalue>
+    </attribute>
+    <attribute>
+      <name>ESS</name>
+      <metatypemin>0</metatypemin>
+      <metatypemax>6</metatypemax>
+      <metatypeaugmax>6</metatypeaugmax>
+      <base>0</base>
+      <karma>0</karma>
+      <metatypecategory>Standard</metatypecategory>
+      <totalvalue>1</totalvalue>
+    </attribute>
+    <attribute>
+      <name>DEP</name>
+      <metatypemin>1</metatypemin>
+      <metatypemax>1</metatypemax>
+      <metatypeaugmax>1</metatypeaugmax>
+      <base>0</base>
+      <karma>0</karma>
+      <metatypecategory>Special</metatypecategory>
+      <totalvalue>1</totalvalue>
+    </attribute>
+  </attributes>
+  <magenabled>True</magenabled>
+  <initiategrade>0</initiategrade>
+  <resenabled>False</resenabled>
+  <submersiongrade>0</submersiongrade>
+  <depenabled>False</depenabled>
+  <groupmember>False</groupmember>
+  <groupname />
+  <groupnotes />
+  <totaless>6</totaless>
+  <tradition>
+    <sourceid>61819d3f-2ca6-4e1e-9d66-5d94c1560733</sourceid>
+    <guid>0e8a9de9-3585-4d46-8af9-168f8c3925d0</guid>
+    <traditiontype>MAG</traditiontype>
+    <name>Green Magic</name>
+    <extra />
+    <spiritform>Materialization</spiritform>
+    <drain>{WIL} + {CHA}</drain>
+    <source>FA</source>
+    <page>80</page>
+    <spiritcombat>Plant Spirit</spiritcombat>
+    <spiritdetection>Spirit of Earth</spiritdetection>
+    <spirithealth>Spirit of Water</spirithealth>
+    <spiritillusion>Spirit of Air</spiritillusion>
+    <spiritmanipulation>Spirit of Fire</spiritmanipulation>
+    <spirits />
+    <bonus />
+  </tradition>
+  <physicalcmfilled>0</physicalcmfilled>
+  <stuncmfilled>0</stuncmfilled>
+  <psyche>False</psyche>
+  <newskills>
+    <skillptsmax>28</skillptsmax>
+    <skillgrpsmax>2</skillgrpsmax>
+    <skills>
+      <skill>
+        <guid>a33ebacc-af50-490c-8a6b-1322d2588e19</guid>
+        <suid>b52f7575-eebf-41c4-938d-df3397b5ee68</suid>
+        <isknowledge>False</isknowledge>
+        <skillcategory>Technical Active</skillcategory>
+        <requiresgroundmovement>False</requiresgroundmovement>
+        <requiresswimmovement>False</requiresswimmovement>
+        <requiresflymovement>False</requiresflymovement>
+        <karma>0</karma>
+        <base>0</base>
+        <notes />
+        <notesColor>Chocolate</notesColor>
+        <name>Aeronautics Mechanic</name>
+        <buywithkarma>False</buywithkarma>
+      </skill>
+      <skill>
+        <guid>ba7fa124-5848-40d8-a3c2-94591800fd8f</guid>
+        <suid>fc89344f-daa6-438e-b61d-23f10dd13e44</suid>
+        <isknowledge>False</isknowledge>
+        <skillcategory>Magical Active</skillcategory>
+        <requiresgroundmovement>False</requiresgroundmovement>
+        <requiresswimmovement>False</requiresswimmovement>
+        <requiresflymovement>False</requiresflymovement>
+        <karma>0</karma>
+        <base>4</base>
+        <notes />
+        <notesColor>Chocolate</notesColor>
+        <name>Alchemy</name>
+        <buywithkarma>False</buywithkarma>
+      </skill>
+      <skill>
+        <guid>90a87fdb-fe67-46d7-9b85-474714b3af28</guid>
+        <suid>e09e5aa7-e496-41a2-97ce-17f577361888</suid>
+        <isknowledge>False</isknowledge>
+        <skillcategory>Physical Active</skillcategory>
+        <requiresgroundmovement>False</requiresgroundmovement>
+        <requiresswimmovement>False</requiresswimmovement>
+        <requiresflymovement>False</requiresflymovement>
+        <karma>0</karma>
+        <base>0</base>
+        <notes />
+        <notesColor>Chocolate</notesColor>
+        <name>Animal Handling</name>
+        <buywithkarma>False</buywithkarma>
+      </skill>
+      <skill>
+        <guid>a9025680-16b2-46ec-9a54-a7be9f0a0452</guid>
+        <suid>74a68a9e-8c5b-4998-8dbb-08c1e768afc3</suid>
+        <isknowledge>False</isknowledge>
+        <skillcategory>Pseudo-Magical Active</skillcategory>
+        <requiresgroundmovement>False</requiresgroundmovement>
+        <requiresswimmovement>False</requiresswimmovement>
+        <requiresflymovement>False</requiresflymovement>
+        <karma>0</karma>
+        <base>6</base>
+        <notes />
+        <notesColor>Chocolate</notesColor>
+        <name>Arcana</name>
+        <buywithkarma>False</buywithkarma>
+      </skill>
+      <skill>
+        <guid>af03f707-ddfe-4190-b533-c9730295c75a</guid>
+        <suid>1537ca5c-fa93-4c05-b073-a2a0eed91b8e</suid>
+        <isknowledge>False</isknowledge>
+        <skillcategory>Combat Active</skillcategory>
+        <requiresgroundmovement>False</requiresgroundmovement>
+        <requiresswimmovement>False</requiresswimmovement>
+        <requiresflymovement>False</requiresflymovement>
+        <karma>0</karma>
+        <base>0</base>
+        <notes />
+        <notesColor>Chocolate</notesColor>
+        <name>Archery</name>
+        <buywithkarma>False</buywithkarma>
+      </skill>
+      <skill>
+        <guid>41499482-e577-4cfd-9bc4-0b876f0e01f3</guid>
+        <suid>ada6d9b2-e451-4289-be45-7085fa34a51a</suid>
+        <isknowledge>False</isknowledge>
+        <skillcategory>Technical Active</skillcategory>
+        <requiresgroundmovement>False</requiresgroundmovement>
+        <requiresswimmovement>False</requiresswimmovement>
+        <requiresflymovement>False</requiresflymovement>
+        <karma>0</karma>
+        <base>0</base>
+        <notes />
+        <notesColor>Chocolate</notesColor>
+        <name>Armorer</name>
+        <buywithkarma>False</buywithkarma>
+      </skill>
+      <skill>
+        <guid>77ba753e-aa22-4c28-a504-ec30a7a4c30f</guid>
+        <suid>955d9376-3066-469d-8670-5170c1d59020</suid>
+        <isknowledge>False</isknowledge>
+        <skillcategory>Magical Active</skillcategory>
+        <requiresgroundmovement>False</requiresgroundmovement>
+        <requiresswimmovement>False</requiresswimmovement>
+        <requiresflymovement>False</requiresflymovement>
+        <karma>0</karma>
+        <base>3</base>
+        <notes />
+        <notesColor>Chocolate</notesColor>
+        <name>Artificing</name>
+        <buywithkarma>False</buywithkarma>
+      </skill>
+      <skill>
+        <guid>1f2ecc17-ab52-4bee-86b2-beda10aab5b8</guid>
+        <suid>2f4c706f-5ac5-4774-8a45-3b4667989a20</suid>
+        <isknowledge>False</isknowledge>
+        <skillcategory>Technical Active</skillcategory>
+        <requiresgroundmovement>False</requiresgroundmovement>
+        <requiresswimmovement>False</requiresswimmovement>
+        <requiresflymovement>False</requiresflymovement>
+        <karma>0</karma>
+        <base>0</base>
+        <notes />
+        <notesColor>Chocolate</notesColor>
+        <name>Artisan</name>
+        <buywithkarma>False</buywithkarma>
+      </skill>
+      <skill>
+        <guid>cc847cf8-dc5e-4f88-bf59-0e093aa41446</guid>
+        <suid>59318078-e071-411b-9194-7222560e9f4a</suid>
+        <isknowledge>False</isknowledge>
+        <skillcategory>Magical Active</skillcategory>
+        <requiresgroundmovement>False</requiresgroundmovement>
+        <requiresswimmovement>False</requiresswimmovement>
+        <requiresflymovement>False</requiresflymovement>
+        <karma>0</karma>
+        <base>4</base>
+        <notes />
+        <notesColor>Chocolate</notesColor>
+        <name>Assensing</name>
+        <buywithkarma>False</buywithkarma>
+      </skill>
+      <skill>
+        <guid>81c7c7fa-b60b-4f9f-bbe9-af1ef48993f2</guid>
+        <suid>b7599a42-ceed-4558-b357-865aa3e317f5</suid>
+        <isknowledge>False</isknowledge>
+        <skillcategory>Magical Active</skillcategory>
+        <requiresgroundmovement>False</requiresgroundmovement>
+        <requiresswimmovement>False</requiresswimmovement>
+        <requiresflymovement>False</requiresflymovement>
+        <karma>2</karma>
+        <base>0</base>
+        <notes />
+        <notesColor>Chocolate</notesColor>
+        <name>Astral Combat</name>
+        <buywithkarma>False</buywithkarma>
+      </skill>
+      <skill>
+        <guid>e5bcddef-2985-4c01-a029-b1f3a71b4655</guid>
+        <suid>788b387b-ee41-4e6a-bf22-481a8cc4cf9f</suid>
+        <isknowledge>False</isknowledge>
+        <skillcategory>Combat Active</skillcategory>
+        <requiresgroundmovement>False</requiresgroundmovement>
+        <requiresswimmovement>False</requiresswimmovement>
+        <requiresflymovement>False</requiresflymovement>
+        <karma>0</karma>
+        <base>0</base>
+        <notes />
+        <notesColor>Chocolate</notesColor>
+        <name>Automatics</name>
+        <buywithkarma>False</buywithkarma>
+      </skill>
+      <skill>
+        <guid>df59828c-9f19-49f6-a4c8-7d7e138a4278</guid>
+        <suid>5e5f2f7f-f63b-4f65-a65d-91b3d4523c6f</suid>
+        <isknowledge>False</isknowledge>
+        <skillcategory>Technical Active</skillcategory>
+        <requiresgroundmovement>False</requiresgroundmovement>
+        <requiresswimmovement>False</requiresswimmovement>
+        <requiresflymovement>False</requiresflymovement>
+        <karma>0</karma>
+        <base>0</base>
+        <notes />
+        <notesColor>Chocolate</notesColor>
+        <name>Automotive Mechanic</name>
+        <buywithkarma>False</buywithkarma>
+      </skill>
+      <skill>
+        <guid>67524020-0e1a-45b9-835a-dbe97e6252f6</guid>
+        <suid>9a2d9175-d445-45ca-842d-90223ad13f05</suid>
+        <isknowledge>False</isknowledge>
+        <skillcategory>Magical Active</skillcategory>
+        <requiresgroundmovement>False</requiresgroundmovement>
+        <requiresswimmovement>False</requiresswimmovement>
+        <requiresflymovement>False</requiresflymovement>
+        <karma>0</karma>
+        <base>0</base>
+        <notes />
+        <notesColor>Chocolate</notesColor>
+        <name>Banishing</name>
+        <buywithkarma>False</buywithkarma>
+      </skill>
+      <skill>
+        <guid>0a90f9c2-86df-4837-be4d-26fec67795b4</guid>
+        <suid>dfba7c09-3d95-43fd-be75-39b3e8b22cd3</suid>
+        <isknowledge>False</isknowledge>
+        <skillcategory>Magical Active</skillcategory>
+        <requiresgroundmovement>False</requiresgroundmovement>
+        <requiresswimmovement>False</requiresswimmovement>
+        <requiresflymovement>False</requiresflymovement>
+        <karma>0</karma>
+        <base>0</base>
+        <notes />
+        <notesColor>Chocolate</notesColor>
+        <name>Binding</name>
+        <buywithkarma>False</buywithkarma>
+      </skill>
+      <skill>
+        <guid>0f7818b3-c269-4f40-a08e-b3a671b1b8b9</guid>
+        <suid>ba624682-a5c0-4cf5-b47b-1021e6a1800d</suid>
+        <isknowledge>False</isknowledge>
+        <skillcategory>Technical Active</skillcategory>
+        <requiresgroundmovement>False</requiresgroundmovement>
+        <requiresswimmovement>False</requiresswimmovement>
+        <requiresflymovement>False</requiresflymovement>
+        <karma>0</karma>
+        <base>0</base>
+        <notes />
+        <notesColor>Chocolate</notesColor>
+        <name>Biotechnology</name>
+        <buywithkarma>False</buywithkarma>
+      </skill>
+      <skill>
+        <guid>b47ec8bd-6f08-455d-91b9-969a1eac565f</guid>
+        <suid>48763fa5-4b89-48c7-80ff-d0a2761de4c0</suid>
+        <isknowledge>False</isknowledge>
+        <skillcategory>Combat Active</skillcategory>
+        <requiresgroundmovement>False</requiresgroundmovement>
+        <requiresswimmovement>False</requiresswimmovement>
+        <requiresflymovement>False</requiresflymovement>
+        <karma>0</karma>
+        <base>0</base>
+        <notes />
+        <notesColor>Chocolate</notesColor>
+        <name>Blades</name>
+        <buywithkarma>False</buywithkarma>
+      </skill>
+      <skill>
+        <guid>d7407079-6a35-4c9a-b814-7b74627a5c18</guid>
+        <suid>bd4d977a-cbd4-4289-99bb-896caed6786a</suid>
+        <isknowledge>False</isknowledge>
+        <skillcategory>Technical Active</skillcategory>
+        <requiresgroundmovement>False</requiresgroundmovement>
+        <requiresswimmovement>False</requiresswimmovement>
+        <requiresflymovement>False</requiresflymovement>
+        <karma>0</karma>
+        <base>0</base>
+        <notes />
+        <notesColor>Chocolate</notesColor>
+        <name>Chemistry</name>
+        <buywithkarma>False</buywithkarma>
+      </skill>
+      <skill>
+        <guid>c474d05c-e8c4-4572-9db6-378e9374bd0a</guid>
+        <suid>cd9f6bf7-fa48-464b-9a8f-c7ce26713a72</suid>
+        <isknowledge>False</isknowledge>
+        <skillcategory>Combat Active</skillcategory>
+        <requiresgroundmovement>False</requiresgroundmovement>
+        <requiresswimmovement>False</requiresswimmovement>
+        <requiresflymovement>False</requiresflymovement>
+        <karma>0</karma>
+        <base>0</base>
+        <notes />
+        <notesColor>Chocolate</notesColor>
+        <name>Clubs</name>
+        <buywithkarma>False</buywithkarma>
+      </skill>
+      <skill>
+        <guid>6fdea334-a404-41fc-a915-3b3ec17f91f3</guid>
+        <suid>1c14bf0d-cc69-4126-9a95-1f2429c11aa5</suid>
+        <isknowledge>False</isknowledge>
+        <skillcategory>Technical Active</skillcategory>
+        <requiresgroundmovement>False</requiresgroundmovement>
+        <requiresswimmovement>False</requiresswimmovement>
+        <requiresflymovement>False</requiresflymovement>
+        <karma>0</karma>
+        <base>0</base>
+        <notes />
+        <notesColor>Chocolate</notesColor>
+        <name>Computer</name>
+        <buywithkarma>False</buywithkarma>
+      </skill>
+      <skill>
+        <guid>8898efea-5b8f-499f-a6fa-167d68f5e06a</guid>
+        <suid>6d7f48d3-84a1-4fce-90d3-58d566f70fa6</suid>
+        <isknowledge>False</isknowledge>
+        <skillcategory>Social Active</skillcategory>
+        <requiresgroundmovement>False</requiresgroundmovement>
+        <requiresswimmovement>False</requiresswimmovement>
+        <requiresflymovement>False</requiresflymovement>
+        <karma>0</karma>
+        <base>0</base>
+        <notes />
+        <notesColor>Chocolate</notesColor>
+        <name>Con</name>
+        <buywithkarma>False</buywithkarma>
+      </skill>
+      <skill>
+        <guid>c944d2e3-6d66-4cd5-99ec-52939f17911e</guid>
+        <suid>3db81bcc-264b-47e1-847c-06bdacd88973</suid>
+        <isknowledge>False</isknowledge>
+        <skillcategory>Magical Active</skillcategory>
+        <requiresgroundmovement>False</requiresgroundmovement>
+        <requiresswimmovement>False</requiresswimmovement>
+        <requiresflymovement>False</requiresflymovement>
+        <karma>0</karma>
+        <base>4</base>
+        <notes />
+        <notesColor>Chocolate</notesColor>
+        <name>Counterspelling</name>
+        <buywithkarma>False</buywithkarma>
+      </skill>
+      <skill>
+        <guid>0809462f-a28c-422c-b5f9-47e57511d757</guid>
+        <suid>7143f979-aa48-4cc8-a29c-e010400e6e11</suid>
+        <isknowledge>False</isknowledge>
+        <skillcategory>Technical Active</skillcategory>
+        <requiresgroundmovement>False</requiresgroundmovement>
+        <requiresswimmovement>False</requiresswimmovement>
+        <requiresflymovement>False</requiresflymovement>
+        <karma>0</karma>
+        <base>0</base>
+        <notes />
+        <notesColor>Chocolate</notesColor>
+        <name>Cybercombat</name>
+        <buywithkarma>False</buywithkarma>
+      </skill>
+      <skill>
+        <guid>f9c78dcc-3db7-46c2-ac00-f852687d5eaf</guid>
+        <suid>9b386fe5-83b3-436f-9035-efd1c0f7a680</suid>
+        <isknowledge>False</isknowledge>
+        <skillcategory>Technical Active</skillcategory>
+        <requiresgroundmovement>False</requiresgroundmovement>
+        <requiresswimmovement>False</requiresswimmovement>
+        <requiresflymovement>False</requiresflymovement>
+        <karma>0</karma>
+        <base>0</base>
+        <notes />
+        <notesColor>Chocolate</notesColor>
+        <name>Cybertechnology</name>
+        <buywithkarma>False</buywithkarma>
+      </skill>
+      <skill>
+        <guid>c3c8987b-aac9-4469-91ce-41973c49edf4</guid>
+        <suid>276877e1-5cdf-4e95-befd-13c1abb5ae02</suid>
+        <isknowledge>False</isknowledge>
+        <skillcategory>Technical Active</skillcategory>
+        <requiresgroundmovement>False</requiresgroundmovement>
+        <requiresswimmovement>False</requiresswimmovement>
+        <requiresflymovement>False</requiresflymovement>
+        <karma>0</karma>
+        <base>0</base>
+        <notes />
+        <notesColor>Chocolate</notesColor>
+        <name>Demolitions</name>
+        <buywithkarma>False</buywithkarma>
+      </skill>
+      <skill>
+        <guid>20f5c1bf-da74-49cc-88e5-33f6f6d9062d</guid>
+        <suid>a9d9b686-bc4a-4347-b011-ff8f41455965</suid>
+        <isknowledge>False</isknowledge>
+        <skillcategory>Magical Active</skillcategory>
+        <requiresgroundmovement>False</requiresgroundmovement>
+        <requiresswimmovement>False</requiresswimmovement>
+        <requiresflymovement>False</requiresflymovement>
+        <karma>2</karma>
+        <base>0</base>
+        <notes />
+        <notesColor>Chocolate</notesColor>
+        <name>Disenchanting</name>
+        <buywithkarma>False</buywithkarma>
+      </skill>
+      <skill>
+        <guid>0d61b725-b51f-4eec-8d12-e0a50af7b273</guid>
+        <suid>9b2416b2-3e2b-4dd6-ab9d-530f493c1c22</suid>
+        <isknowledge>False</isknowledge>
+        <skillcategory>Physical Active</skillcategory>
+        <requiresgroundmovement>False</requiresgroundmovement>
+        <requiresswimmovement>False</requiresswimmovement>
+        <requiresflymovement>False</requiresflymovement>
+        <karma>0</karma>
+        <base>0</base>
+        <notes />
+        <notesColor>Chocolate</notesColor>
+        <name>Disguise</name>
+        <buywithkarma>False</buywithkarma>
+      </skill>
+      <skill>
+        <guid>d826c859-d41f-4cfd-b4b0-068340b1f4dd</guid>
+        <suid>23c3320c-5010-4b2e-ac46-76f0a86af0b9</suid>
+        <isknowledge>False</isknowledge>
+        <skillcategory>Physical Active</skillcategory>
+        <requiresgroundmovement>False</requiresgroundmovement>
+        <requiresswimmovement>False</requiresswimmovement>
+        <requiresflymovement>False</requiresflymovement>
+        <karma>0</karma>
+        <base>0</base>
+        <notes />
+        <notesColor>Chocolate</notesColor>
+        <name>Diving</name>
+        <buywithkarma>False</buywithkarma>
+      </skill>
+      <skill>
+        <guid>9eb3c997-fa5b-4e38-a984-10941efb2cb2</guid>
+        <suid>2c8e5f20-e52d-4844-89e9-51b92dba47df</suid>
+        <isknowledge>False</isknowledge>
+        <skillcategory>Technical Active</skillcategory>
+        <requiresgroundmovement>False</requiresgroundmovement>
+        <requiresswimmovement>False</requiresswimmovement>
+        <requiresflymovement>False</requiresflymovement>
+        <karma>0</karma>
+        <base>0</base>
+        <notes />
+        <notesColor>Chocolate</notesColor>
+        <name>Electronic Warfare</name>
+        <buywithkarma>False</buywithkarma>
+      </skill>
+      <skill>
+        <guid>890c3804-524a-443d-8408-1dd4dea8601c</guid>
+        <suid>3f93335c-49d6-4904-a97e-4c942ab05b59</suid>
+        <isknowledge>False</isknowledge>
+        <skillcategory>Physical Active</skillcategory>
+        <requiresgroundmovement>False</requiresgroundmovement>
+        <requiresswimmovement>False</requiresswimmovement>
+        <requiresflymovement>False</requiresflymovement>
+        <karma>0</karma>
+        <base>0</base>
+        <notes />
+        <notesColor>Chocolate</notesColor>
+        <name>Escape Artist</name>
+        <buywithkarma>False</buywithkarma>
+      </skill>
+      <skill>
+        <guid>c0317d72-4477-4ee1-83b2-1bd8964c740a</guid>
+        <suid>b20acd11-f102-40f3-a641-e3c420fbdb91</suid>
+        <isknowledge>False</isknowledge>
+        <skillcategory>Social Active</skillcategory>
+        <requiresgroundmovement>False</requiresgroundmovement>
+        <requiresswimmovement>False</requiresswimmovement>
+        <requiresflymovement>False</requiresflymovement>
+        <karma>1</karma>
+        <base>0</base>
+        <notes />
+        <notesColor>Chocolate</notesColor>
+        <name>Etiquette</name>
+        <buywithkarma>False</buywithkarma>
+      </skill>
+      <skill>
+        <guid>632d2c27-cadd-4e97-a070-5609119e8646</guid>
+        <suid>47cb1e8b-c285-4c54-9aaa-75305ad6dd4f</suid>
+        <isknowledge>False</isknowledge>
+        <skillcategory>Technical Active</skillcategory>
+        <requiresgroundmovement>False</requiresgroundmovement>
+        <requiresswimmovement>False</requiresswimmovement>
+        <requiresflymovement>False</requiresflymovement>
+        <karma>0</karma>
+        <base>0</base>
+        <notes />
+        <notesColor>Chocolate</notesColor>
+        <name>First Aid</name>
+        <buywithkarma>False</buywithkarma>
+      </skill>
+      <skill>
+        <guid>0fbbccdc-d419-4e70-94a8-345b5c01564d</guid>
+        <suid>27db6e2a-a49f-4232-b150-e676b8dacb52</suid>
+        <isknowledge>False</isknowledge>
+        <skillcategory>Physical Active</skillcategory>
+        <requiresgroundmovement>False</requiresgroundmovement>
+        <requiresswimmovement>False</requiresswimmovement>
+        <requiresflymovement>True</requiresflymovement>
+        <karma>0</karma>
+        <base>0</base>
+        <notes />
+        <notesColor>Chocolate</notesColor>
+        <name>Flight</name>
+        <buywithkarma>False</buywithkarma>
+      </skill>
+      <skill>
+        <guid>789938eb-9670-42a7-8750-12db87f60ae6</guid>
+        <suid>c9f52f97-a284-44a7-8af6-802dd3ed554f</suid>
+        <isknowledge>False</isknowledge>
+        <skillcategory>Technical Active</skillcategory>
+        <requiresgroundmovement>False</requiresgroundmovement>
+        <requiresswimmovement>False</requiresswimmovement>
+        <requiresflymovement>False</requiresflymovement>
+        <karma>0</karma>
+        <base>0</base>
+        <notes />
+        <notesColor>Chocolate</notesColor>
+        <name>Forgery</name>
+        <buywithkarma>False</buywithkarma>
+      </skill>
+      <skill>
+        <guid>7e31e76e-bf72-4dff-a44f-6ad6172e126b</guid>
+        <suid>f510ccc3-cf95-4461-b2f7-e966daaa5a91</suid>
+        <isknowledge>False</isknowledge>
+        <skillcategory>Physical Active</skillcategory>
+        <requiresgroundmovement>False</requiresgroundmovement>
+        <requiresswimmovement>False</requiresswimmovement>
+        <requiresflymovement>False</requiresflymovement>
+        <karma>0</karma>
+        <base>0</base>
+        <notes />
+        <notesColor>Chocolate</notesColor>
+        <name>Free-Fall</name>
+        <buywithkarma>False</buywithkarma>
+      </skill>
+      <skill>
+        <guid>75218ed2-7c6d-41be-89e5-7c5ac1414477</guid>
+        <suid>58452cff-44ea-41c6-a554-28a869149b27</suid>
+        <isknowledge>False</isknowledge>
+        <skillcategory>Vehicle Active</skillcategory>
+        <requiresgroundmovement>False</requiresgroundmovement>
+        <requiresswimmovement>False</requiresswimmovement>
+        <requiresflymovement>False</requiresflymovement>
+        <karma>0</karma>
+        <base>0</base>
+        <notes />
+        <notesColor>Chocolate</notesColor>
+        <name>Gunnery</name>
+        <buywithkarma>False</buywithkarma>
+      </skill>
+      <skill>
+        <guid>8c2140ae-2757-4318-a032-108440a133e4</guid>
+        <suid>a9fa961d-07e5-46da-8edc-403ae3e6cc75</suid>
+        <isknowledge>False</isknowledge>
+        <skillcategory>Physical Active</skillcategory>
+        <requiresgroundmovement>False</requiresgroundmovement>
+        <requiresswimmovement>False</requiresswimmovement>
+        <requiresflymovement>False</requiresflymovement>
+        <karma>0</karma>
+        <base>0</base>
+        <notes />
+        <notesColor>Chocolate</notesColor>
+        <name>Gymnastics</name>
+        <buywithkarma>False</buywithkarma>
+      </skill>
+      <skill>
+        <guid>fca612a9-dd2b-4ca0-808a-9094b9fd9ac4</guid>
+        <suid>c2bb65f5-4a6b-49bf-9925-ef6434cb6929</suid>
+        <isknowledge>False</isknowledge>
+        <skillcategory>Technical Active</skillcategory>
+        <requiresgroundmovement>False</requiresgroundmovement>
+        <requiresswimmovement>False</requiresswimmovement>
+        <requiresflymovement>False</requiresflymovement>
+        <karma>0</karma>
+        <base>0</base>
+        <notes />
+        <notesColor>Chocolate</notesColor>
+        <name>Hacking</name>
+        <buywithkarma>False</buywithkarma>
+      </skill>
+      <skill>
+        <guid>7c81d7fc-46d7-49b1-b150-5839f514bc6b</guid>
+        <suid>41e184e0-7273-403a-9300-fa29a1707bf0</suid>
+        <isknowledge>False</isknowledge>
+        <skillcategory>Technical Active</skillcategory>
+        <requiresgroundmovement>False</requiresgroundmovement>
+        <requiresswimmovement>False</requiresswimmovement>
+        <requiresflymovement>False</requiresflymovement>
+        <karma>0</karma>
+        <base>0</base>
+        <notes />
+        <notesColor>Chocolate</notesColor>
+        <name>Hardware</name>
+        <buywithkarma>False</buywithkarma>
+      </skill>
+      <skill>
+        <guid>62691329-4070-4dca-835e-34ca7d9dce08</guid>
+        <suid>64841e6e-9487-4b63-80a1-dcad6eb78179</suid>
+        <isknowledge>False</isknowledge>
+        <skillcategory>Combat Active</skillcategory>
+        <requiresgroundmovement>False</requiresgroundmovement>
+        <requiresswimmovement>False</requiresswimmovement>
+        <requiresflymovement>False</requiresflymovement>
+        <karma>0</karma>
+        <base>0</base>
+        <notes />
+        <notesColor>Chocolate</notesColor>
+        <name>Heavy Weapons</name>
+        <buywithkarma>False</buywithkarma>
+      </skill>
+      <skill>
+        <guid>e71c2e1c-8378-485e-a902-26117e21ee54</guid>
+        <suid>e7e5a43f-9762-4863-86dc-3fd7799e53a2</suid>
+        <isknowledge>False</isknowledge>
+        <skillcategory>Social Active</skillcategory>
+        <requiresgroundmovement>False</requiresgroundmovement>
+        <requiresswimmovement>False</requiresswimmovement>
+        <requiresflymovement>False</requiresflymovement>
+        <karma>0</karma>
+        <base>0</base>
+        <notes />
+        <notesColor>Chocolate</notesColor>
+        <name>Impersonation</name>
+        <buywithkarma>False</buywithkarma>
+      </skill>
+      <skill>
+        <guid>abb2fb87-cee9-40f5-878f-22fe8b8150d3</guid>
+        <suid>935621c5-d384-42f2-a740-1fa349fa85a1</suid>
+        <isknowledge>False</isknowledge>
+        <skillcategory>Technical Active</skillcategory>
+        <requiresgroundmovement>False</requiresgroundmovement>
+        <requiresswimmovement>False</requiresswimmovement>
+        <requiresflymovement>False</requiresflymovement>
+        <karma>0</karma>
+        <base>0</base>
+        <notes />
+        <notesColor>Chocolate</notesColor>
+        <name>Industrial Mechanic</name>
+        <buywithkarma>False</buywithkarma>
+      </skill>
+      <skill>
+        <guid>c2be3e3b-54f6-432f-b982-82500cbfde2f</guid>
+        <suid>3b34b209-00be-42b8-b4ac-cc7dea08af8a</suid>
+        <isknowledge>False</isknowledge>
+        <skillcategory>Social Active</skillcategory>
+        <requiresgroundmovement>False</requiresgroundmovement>
+        <requiresswimmovement>False</requiresswimmovement>
+        <requiresflymovement>False</requiresflymovement>
+        <karma>0</karma>
+        <base>0</base>
+        <notes />
+        <notesColor>Chocolate</notesColor>
+        <name>Instruction</name>
+        <buywithkarma>False</buywithkarma>
+      </skill>
+      <skill>
+        <guid>a95ab8f6-e029-40c2-9469-ad006b397fbb</guid>
+        <suid>9de43fad-b365-4e73-bc06-91dd571b858a</suid>
+        <isknowledge>False</isknowledge>
+        <skillcategory>Social Active</skillcategory>
+        <requiresgroundmovement>False</requiresgroundmovement>
+        <requiresswimmovement>False</requiresswimmovement>
+        <requiresflymovement>False</requiresflymovement>
+        <karma>0</karma>
+        <base>0</base>
+        <notes />
+        <notesColor>Chocolate</notesColor>
+        <name>Intimidation</name>
+        <buywithkarma>False</buywithkarma>
+      </skill>
+      <skill>
+        <guid>17896d44-ede3-452e-92b3-b9d299e07c31</guid>
+        <suid>963a548d-c629-4a13-a3e3-31b085a42e20</suid>
+        <isknowledge>False</isknowledge>
+        <skillcategory>Social Active</skillcategory>
+        <requiresgroundmovement>False</requiresgroundmovement>
+        <requiresswimmovement>False</requiresswimmovement>
+        <requiresflymovement>False</requiresflymovement>
+        <karma>0</karma>
+        <base>0</base>
+        <notes />
+        <notesColor>Chocolate</notesColor>
+        <name>Leadership</name>
+        <buywithkarma>False</buywithkarma>
+      </skill>
+      <skill>
+        <guid>12afbab8-3d1a-45b8-8d92-23a2756e2f66</guid>
+        <suid>09fbc992-9fad-4f2d-ab56-725bac943dc6</suid>
+        <isknowledge>False</isknowledge>
+        <skillcategory>Technical Active</skillcategory>
+        <requiresgroundmovement>False</requiresgroundmovement>
+        <requiresswimmovement>False</requiresswimmovement>
+        <requiresflymovement>False</requiresflymovement>
+        <karma>0</karma>
+        <base>0</base>
+        <notes />
+        <notesColor>Chocolate</notesColor>
+        <name>Locksmith</name>
+        <buywithkarma>False</buywithkarma>
+      </skill>
+      <skill>
+        <guid>9245fb9e-5a25-4c51-88a3-093f1166bdd1</guid>
+        <suid>64088b25-de37-4d71-8800-4a430fde08af</suid>
+        <isknowledge>False</isknowledge>
+        <skillcategory>Combat Active</skillcategory>
+        <requiresgroundmovement>False</requiresgroundmovement>
+        <requiresswimmovement>False</requiresswimmovement>
+        <requiresflymovement>False</requiresflymovement>
+        <karma>0</karma>
+        <base>0</base>
+        <notes />
+        <notesColor>Chocolate</notesColor>
+        <name>Longarms</name>
+        <buywithkarma>False</buywithkarma>
+      </skill>
+      <skill>
+        <guid>ac12bc25-3206-48e5-9c14-f9fadd95b82e</guid>
+        <suid>938be691-4b3d-49a2-a673-bbf9924ce8f0</suid>
+        <isknowledge>False</isknowledge>
+        <skillcategory>Technical Active</skillcategory>
+        <requiresgroundmovement>False</requiresgroundmovement>
+        <requiresswimmovement>False</requiresswimmovement>
+        <requiresflymovement>False</requiresflymovement>
+        <karma>0</karma>
+        <base>0</base>
+        <notes />
+        <notesColor>Chocolate</notesColor>
+        <name>Medicine</name>
+        <buywithkarma>False</buywithkarma>
+      </skill>
+      <skill>
+        <guid>c4592962-3da0-492a-968b-46927f75d694</guid>
+        <suid>48cc79be-f75e-4fe6-8721-7864c9f231f6</suid>
+        <isknowledge>False</isknowledge>
+        <skillcategory>Technical Active</skillcategory>
+        <requiresgroundmovement>False</requiresgroundmovement>
+        <requiresswimmovement>False</requiresswimmovement>
+        <requiresflymovement>False</requiresflymovement>
+        <karma>0</karma>
+        <base>0</base>
+        <notes />
+        <notesColor>Chocolate</notesColor>
+        <name>Nautical Mechanic</name>
+        <buywithkarma>False</buywithkarma>
+      </skill>
+      <skill>
+        <guid>763077cb-139a-4794-aaa4-4e7e87b47e25</guid>
+        <suid>f8037e7f-d48b-452b-8f66-2e0c36677fea</suid>
+        <isknowledge>False</isknowledge>
+        <skillcategory>Technical Active</skillcategory>
+        <requiresgroundmovement>False</requiresgroundmovement>
+        <requiresswimmovement>False</requiresswimmovement>
+        <requiresflymovement>False</requiresflymovement>
+        <karma>0</karma>
+        <base>3</base>
+        <notes />
+        <notesColor>Chocolate</notesColor>
+        <name>Navigation</name>
+        <buywithkarma>False</buywithkarma>
+      </skill>
+      <skill>
+        <guid>8c18e0c3-6259-40a5-aa92-d8229d210ac9</guid>
+        <suid>729c9cee-ef8f-492d-aa7f-17ec1bc3816e</suid>
+        <isknowledge>False</isknowledge>
+        <skillcategory>Social Active</skillcategory>
+        <requiresgroundmovement>False</requiresgroundmovement>
+        <requiresswimmovement>False</requiresswimmovement>
+        <requiresflymovement>False</requiresflymovement>
+        <karma>1</karma>
+        <base>0</base>
+        <notes />
+        <notesColor>Chocolate</notesColor>
+        <name>Negotiation</name>
+        <buywithkarma>False</buywithkarma>
+      </skill>
+      <skill>
+        <guid>28df8606-4c1c-4ac3-bed3-857e8f463510</guid>
+        <suid>17fbaafa-8dbb-4f29-9244-5ae1cd4ac42f</suid>
+        <isknowledge>False</isknowledge>
+        <skillcategory>Physical Active</skillcategory>
+        <requiresgroundmovement>False</requiresgroundmovement>
+        <requiresswimmovement>False</requiresswimmovement>
+        <requiresflymovement>False</requiresflymovement>
+        <karma>0</karma>
+        <base>0</base>
+        <notes />
+        <notesColor>Chocolate</notesColor>
+        <name>Palming</name>
+        <buywithkarma>False</buywithkarma>
+      </skill>
+      <skill>
+        <guid>35b3fa53-7764-42d6-a2a0-b1e6334ecd5a</guid>
+        <suid>04e1eb3e-e82d-485b-a7fd-1e677df2a070</suid>
+        <isknowledge>False</isknowledge>
+        <skillcategory>Physical Active</skillcategory>
+        <requiresgroundmovement>False</requiresgroundmovement>
+        <requiresswimmovement>False</requiresswimmovement>
+        <requiresflymovement>False</requiresflymovement>
+        <karma>0</karma>
+        <base>4</base>
+        <notes />
+        <notesColor>Chocolate</notesColor>
+        <name>Perception</name>
+        <buywithkarma>False</buywithkarma>
+      </skill>
+      <skill>
+        <guid>a3c7fd88-78c9-495d-954a-517812365060</guid>
+        <suid>53f96d6a-363b-4c14-be1d-68e74930c67b</suid>
+        <isknowledge>False</isknowledge>
+        <skillcategory>Social Active</skillcategory>
+        <requiresgroundmovement>False</requiresgroundmovement>
+        <requiresswimmovement>False</requiresswimmovement>
+        <requiresflymovement>False</requiresflymovement>
+        <karma>0</karma>
+        <base>0</base>
+        <notes />
+        <notesColor>Chocolate</notesColor>
+        <name>Performance</name>
+        <buywithkarma>False</buywithkarma>
+      </skill>
+      <skill>
+        <guid>7949a885-588f-466c-a77e-03030bf92bc3</guid>
+        <suid>3ba9397e-f790-44ca-ae40-15a2356e348d</suid>
+        <isknowledge>False</isknowledge>
+        <skillcategory>Vehicle Active</skillcategory>
+        <requiresgroundmovement>False</requiresgroundmovement>
+        <requiresswimmovement>False</requiresswimmovement>
+        <requiresflymovement>False</requiresflymovement>
+        <karma>0</karma>
+        <base>0</base>
+        <notes />
+        <notesColor>Chocolate</notesColor>
+        <name>Pilot Aerospace</name>
+        <buywithkarma>False</buywithkarma>
+      </skill>
+      <skill>
+        <guid>0f1154cd-4609-42a4-8220-d3c3ebab08de</guid>
+        <suid>10d5c887-a1e5-4cca-8613-3a28f1aab810</suid>
+        <isknowledge>False</isknowledge>
+        <skillcategory>Vehicle Active</skillcategory>
+        <requiresgroundmovement>False</requiresgroundmovement>
+        <requiresswimmovement>False</requiresswimmovement>
+        <requiresflymovement>False</requiresflymovement>
+        <karma>0</karma>
+        <base>0</base>
+        <notes />
+        <notesColor>Chocolate</notesColor>
+        <name>Pilot Aircraft</name>
+        <buywithkarma>False</buywithkarma>
+      </skill>
+      <skill>
+        <guid>8a4c49fb-f12d-449b-a4ee-d498178dbd36</guid>
+        <suid>ae91a8a6-80e7-4f52-b9eb-21725a5528a4</suid>
+        <isknowledge>False</isknowledge>
+        <skillcategory>Vehicle Active</skillcategory>
+        <requiresgroundmovement>False</requiresgroundmovement>
+        <requiresswimmovement>False</requiresswimmovement>
+        <requiresflymovement>False</requiresflymovement>
+        <karma>0</karma>
+        <base>0</base>
+        <notes />
+        <notesColor>Chocolate</notesColor>
+        <name>Pilot Ground Craft</name>
+        <buywithkarma>False</buywithkarma>
+      </skill>
+      <skill>
+        <guid>57ca26fa-bd39-4376-9517-82cdfe004618</guid>
+        <suid>b8a24d87-465a-4365-9948-038fe1ac62c4</suid>
+        <isknowledge>False</isknowledge>
+        <skillcategory>Vehicle Active</skillcategory>
+        <requiresgroundmovement>False</requiresgroundmovement>
+        <requiresswimmovement>False</requiresswimmovement>
+        <requiresflymovement>False</requiresflymovement>
+        <karma>0</karma>
+        <base>0</base>
+        <notes />
+        <notesColor>Chocolate</notesColor>
+        <name>Pilot Walker</name>
+        <buywithkarma>False</buywithkarma>
+      </skill>
+      <skill>
+        <guid>d1740e93-d3aa-4ba7-b7f4-bbc033bde991</guid>
+        <suid>1579818e-af85-47cd-8c9f-2e86e9dc19da</suid>
+        <isknowledge>False</isknowledge>
+        <skillcategory>Vehicle Active</skillcategory>
+        <requiresgroundmovement>False</requiresgroundmovement>
+        <requiresswimmovement>False</requiresswimmovement>
+        <requiresflymovement>False</requiresflymovement>
+        <karma>0</karma>
+        <base>0</base>
+        <notes />
+        <notesColor>Chocolate</notesColor>
+        <name>Pilot Watercraft</name>
+        <buywithkarma>False</buywithkarma>
+      </skill>
+      <skill>
+        <guid>039c6b99-0ec1-412d-ba2a-0f198c00b158</guid>
+        <suid>adf31a50-b228-4e09-a09c-46ab9f5e59a1</suid>
+        <isknowledge>False</isknowledge>
+        <skillcategory>Combat Active</skillcategory>
+        <requiresgroundmovement>False</requiresgroundmovement>
+        <requiresswimmovement>False</requiresswimmovement>
+        <requiresflymovement>False</requiresflymovement>
+        <karma>0</karma>
+        <base>0</base>
+        <notes />
+        <notesColor>Chocolate</notesColor>
+        <name>Pistols</name>
+        <buywithkarma>False</buywithkarma>
+      </skill>
+      <skill>
+        <guid>4ff96f5a-a6e9-425f-8513-d198fcfb2c5d</guid>
+        <suid>a6287e62-6a3b-43ce-b6e0-20f3655910e2</suid>
+        <isknowledge>False</isknowledge>
+        <skillcategory>Magical Active</skillcategory>
+        <requiresgroundmovement>False</requiresgroundmovement>
+        <requiresswimmovement>False</requiresswimmovement>
+        <requiresflymovement>False</requiresflymovement>
+        <karma>0</karma>
+        <base>0</base>
+        <notes />
+        <notesColor>Chocolate</notesColor>
+        <name>Ritual Spellcasting</name>
+        <buywithkarma>False</buywithkarma>
+      </skill>
+      <skill>
+        <guid>96e8d747-259c-4378-8ec1-b0dd6a63090a</guid>
+        <suid>1531b2d8-6116-4be4-87b0-232dba1fc447</suid>
+        <isknowledge>False</isknowledge>
+        <skillcategory>Physical Active</skillcategory>
+        <requiresgroundmovement>True</requiresgroundmovement>
+        <requiresswimmovement>False</requiresswimmovement>
+        <requiresflymovement>False</requiresflymovement>
+        <karma>0</karma>
+        <base>0</base>
+        <notes />
+        <notesColor>Chocolate</notesColor>
+        <name>Running</name>
+        <buywithkarma>False</buywithkarma>
+      </skill>
+      <skill>
+        <guid>90b7b577-73c5-4b14-8606-c6be302fd6a5</guid>
+        <suid>9cff9aa7-d092-4f89-8b7b-3ab835818874</suid>
+        <isknowledge>False</isknowledge>
+        <skillcategory>Physical Active</skillcategory>
+        <requiresgroundmovement>False</requiresgroundmovement>
+        <requiresswimmovement>False</requiresswimmovement>
+        <requiresflymovement>False</requiresflymovement>
+        <karma>1</karma>
+        <base>0</base>
+        <notes />
+        <notesColor>Chocolate</notesColor>
+        <name>Sneaking</name>
+        <buywithkarma>False</buywithkarma>
+      </skill>
+      <skill>
+        <guid>e959c4e3-83c7-407a-a04f-f1980e6d41c2</guid>
+        <suid>b693f3bf-48dc-4570-9743-d94d14ee698b</suid>
+        <isknowledge>False</isknowledge>
+        <skillcategory>Technical Active</skillcategory>
+        <requiresgroundmovement>False</requiresgroundmovement>
+        <requiresswimmovement>False</requiresswimmovement>
+        <requiresflymovement>False</requiresflymovement>
+        <karma>0</karma>
+        <base>0</base>
+        <notes />
+        <notesColor>Chocolate</notesColor>
+        <name>Software</name>
+        <buywithkarma>False</buywithkarma>
+      </skill>
+      <skill>
+        <guid>f4e167ca-2e0c-46b2-858f-03a045385cf7</guid>
+        <suid>c4367a39-4065-4b1d-aa62-e9dce377e452</suid>
+        <isknowledge>False</isknowledge>
+        <skillcategory>Magical Active</skillcategory>
+        <requiresgroundmovement>False</requiresgroundmovement>
+        <requiresswimmovement>False</requiresswimmovement>
+        <requiresflymovement>False</requiresflymovement>
+        <karma>0</karma>
+        <base>0</base>
+        <notes />
+        <notesColor>Chocolate</notesColor>
+        <name>Spellcasting</name>
+        <buywithkarma>False</buywithkarma>
+      </skill>
+      <skill>
+        <guid>f7bb6cd2-4505-461c-9c59-93676bf77cd5</guid>
+        <suid>51e34c6c-b07f-45f4-8a5e-8f2b617ed32f</suid>
+        <isknowledge>False</isknowledge>
+        <skillcategory>Magical Active</skillcategory>
+        <requiresgroundmovement>False</requiresgroundmovement>
+        <requiresswimmovement>False</requiresswimmovement>
+        <requiresflymovement>False</requiresflymovement>
+        <karma>0</karma>
+        <base>0</base>
+        <notes />
+        <notesColor>Chocolate</notesColor>
+        <name>Summoning</name>
+        <buywithkarma>False</buywithkarma>
+      </skill>
+      <skill>
+        <guid>fbeae293-0808-491b-b47b-35c974a105bb</guid>
+        <suid>89ee1730-053a-400f-a13a-4fbadae015f0</suid>
+        <isknowledge>False</isknowledge>
+        <skillcategory>Physical Active</skillcategory>
+        <requiresgroundmovement>False</requiresgroundmovement>
+        <requiresswimmovement>False</requiresswimmovement>
+        <requiresflymovement>False</requiresflymovement>
+        <karma>1</karma>
+        <base>0</base>
+        <notes />
+        <notesColor>Chocolate</notesColor>
+        <name>Survival</name>
+        <buywithkarma>False</buywithkarma>
+      </skill>
+      <skill>
+        <guid>85759741-da92-4bb8-89b0-c73d2bbea833</guid>
+        <suid>0dbcb9cd-f824-4b5d-a387-90d33318b04c</suid>
+        <isknowledge>False</isknowledge>
+        <skillcategory>Physical Active</skillcategory>
+        <requiresgroundmovement>False</requiresgroundmovement>
+        <requiresswimmovement>True</requiresswimmovement>
+        <requiresflymovement>False</requiresflymovement>
+        <karma>0</karma>
+        <base>0</base>
+        <notes />
+        <notesColor>Chocolate</notesColor>
+        <name>Swimming</name>
+        <buywithkarma>False</buywithkarma>
+      </skill>
+      <skill>
+        <guid>3a731a6a-2f79-4840-a8cd-4f2d3644253c</guid>
+        <suid>867a6fa0-7d98-4cde-83a4-b33dd39de08e</suid>
+        <isknowledge>False</isknowledge>
+        <skillcategory>Combat Active</skillcategory>
+        <requiresgroundmovement>False</requiresgroundmovement>
+        <requiresswimmovement>False</requiresswimmovement>
+        <requiresflymovement>False</requiresflymovement>
+        <karma>0</karma>
+        <base>0</base>
+        <notes />
+        <notesColor>Chocolate</notesColor>
+        <name>Throwing Weapons</name>
+        <buywithkarma>False</buywithkarma>
+      </skill>
+      <skill>
+        <guid>8d3a61e3-28d9-43ca-8768-c3c01deac308</guid>
+        <suid>7ed2f3e0-a791-4cb7-ba3e-ac785fdc3d7e</suid>
+        <isknowledge>False</isknowledge>
+        <skillcategory>Physical Active</skillcategory>
+        <requiresgroundmovement>False</requiresgroundmovement>
+        <requiresswimmovement>False</requiresswimmovement>
+        <requiresflymovement>False</requiresflymovement>
+        <karma>0</karma>
+        <base>0</base>
+        <notes />
+        <notesColor>Chocolate</notesColor>
+        <name>Tracking</name>
+        <buywithkarma>False</buywithkarma>
+      </skill>
+      <skill>
+        <guid>9a074b2d-8d49-4084-a81c-2f3a07bbbe13</guid>
+        <suid>4fcd40cb-4b02-4b7e-afcb-f44d46cd5706</suid>
+        <isknowledge>False</isknowledge>
+        <skillcategory>Combat Active</skillcategory>
+        <requiresgroundmovement>False</requiresgroundmovement>
+        <requiresswimmovement>False</requiresswimmovement>
+        <requiresflymovement>False</requiresflymovement>
+        <karma>0</karma>
+        <base>0</base>
+        <notes />
+        <notesColor>Chocolate</notesColor>
+        <name>Unarmed Combat</name>
+        <buywithkarma>False</buywithkarma>
+      </skill>
+    </skills>
+    <knoskills>
+      <skill>
+        <guid>d2dee4ba-171e-4a5d-9e01-771622c7e6c9</guid>
+        <suid>00000000-0000-0000-0000-000000000000</suid>
+        <isknowledge>True</isknowledge>
+        <skillcategory>Language</skillcategory>
+        <requiresgroundmovement>False</requiresgroundmovement>
+        <requiresswimmovement>False</requiresswimmovement>
+        <requiresflymovement>False</requiresflymovement>
+        <karma>0</karma>
+        <base>0</base>
+        <notes />
+        <notesColor>Chocolate</notesColor>
+        <name />
+        <buywithkarma>False</buywithkarma>
+        <type>Language</type>
+        <isnativelanguage>True</isnativelanguage>
+      </skill>
+      <skill>
+        <guid>37add654-8119-4f1b-af53-2339665a1cbf</guid>
+        <suid>60156c75-78e9-4d79-af3f-494baa20edb7</suid>
+        <isknowledge>True</isknowledge>
+        <skillcategory>Professional</skillcategory>
+        <requiresgroundmovement>False</requiresgroundmovement>
+        <requiresswimmovement>False</requiresswimmovement>
+        <requiresflymovement>False</requiresflymovement>
+        <karma>0</karma>
+        <base>3</base>
+        <notes />
+        <notesColor>Chocolate</notesColor>
+        <name>Alchemy</name>
+        <buywithkarma>False</buywithkarma>
+        <type>Professional</type>
+        <isnativelanguage>False</isnativelanguage>
+      </skill>
+      <skill>
+        <guid>d261a854-96ca-403a-b0d7-30bc7ca966ce</guid>
+        <suid>abeaf83e-edeb-4780-baff-4662e73ea8e6</suid>
+        <isknowledge>True</isknowledge>
+        <skillcategory>Interest</skillcategory>
+        <requiresgroundmovement>False</requiresgroundmovement>
+        <requiresswimmovement>False</requiresswimmovement>
+        <requiresflymovement>False</requiresflymovement>
+        <karma>0</karma>
+        <base>3</base>
+        <notes />
+        <notesColor>Chocolate</notesColor>
+        <name>Farming</name>
+        <buywithkarma>False</buywithkarma>
+        <type>Interest</type>
+        <isnativelanguage>False</isnativelanguage>
+      </skill>
+      <skill>
+        <guid>a0503f73-64ad-4f3a-b716-bf9899981d95</guid>
+        <suid>f8a3a8da-e177-49c7-9b3d-2749fd3704cd</suid>
+        <isknowledge>True</isknowledge>
+        <skillcategory>Academic</skillcategory>
+        <requiresgroundmovement>False</requiresgroundmovement>
+        <requiresswimmovement>False</requiresswimmovement>
+        <requiresflymovement>False</requiresflymovement>
+        <karma>0</karma>
+        <base>4</base>
+        <notes />
+        <notesColor>Chocolate</notesColor>
+        <name>Magic Traditions</name>
+        <buywithkarma>False</buywithkarma>
+        <type>Academic</type>
+        <isnativelanguage>False</isnativelanguage>
+      </skill>
+      <skill>
+        <guid>24fccae6-f69f-47c2-9ec1-35057154fdde</guid>
+        <suid>49f3497e-0111-42f3-8e36-6119a51995cd</suid>
+        <isknowledge>True</isknowledge>
+        <skillcategory>Street</skillcategory>
+        <requiresgroundmovement>False</requiresgroundmovement>
+        <requiresswimmovement>False</requiresswimmovement>
+        <requiresflymovement>False</requiresflymovement>
+        <karma>0</karma>
+        <base>3</base>
+        <notes />
+        <notesColor>Chocolate</notesColor>
+        <name>Magical Theory (Street)</name>
+        <buywithkarma>False</buywithkarma>
+        <type>Street</type>
+        <isnativelanguage>False</isnativelanguage>
+      </skill>
+      <skill>
+        <guid>a3edbaf1-b7f6-46f6-a5f9-3e9b5dfd7763</guid>
+        <suid>67e74b72-7970-4243-ad68-4db92894a12d</suid>
+        <isknowledge>True</isknowledge>
+        <skillcategory>Professional</skillcategory>
+        <requiresgroundmovement>False</requiresgroundmovement>
+        <requiresswimmovement>False</requiresswimmovement>
+        <requiresflymovement>False</requiresflymovement>
+        <karma>0</karma>
+        <base>3</base>
+        <notes />
+        <notesColor>Chocolate</notesColor>
+        <name>Spirits</name>
+        <buywithkarma>False</buywithkarma>
+        <type>Professional</type>
+        <isnativelanguage>False</isnativelanguage>
+      </skill>
+    </knoskills>
+    <skilljackknowledgeskills />
+    <groups>
+      <group>
+        <karma>0</karma>
+        <base>0</base>
+        <id>73815b1b-01e3-42a5-9ba9-d6d52531d36a</id>
+        <name>Acting</name>
+      </group>
+      <group>
+        <karma>0</karma>
+        <base>0</base>
+        <id>29857c5a-8c08-4bfa-befd-681c5fac8995</id>
+        <name>Athletics</name>
+      </group>
+      <group>
+        <karma>0</karma>
+        <base>0</base>
+        <id>cdef0d42-4b7e-421e-b066-8f8ea2cd7c9f</id>
+        <name>Biotech</name>
+      </group>
+      <group>
+        <karma>0</karma>
+        <base>0</base>
+        <id>82be8475-2f51-4d3a-9f0f-9a2b4730b439</id>
+        <name>Close Combat</name>
+      </group>
+      <group>
+        <karma>0</karma>
+        <base>2</base>
+        <id>684e563c-ff29-4bc5-b9d0-90c6f286bfb5</id>
+        <name>Conjuring</name>
+      </group>
+      <group>
+        <karma>0</karma>
+        <base>0</base>
+        <id>6c640767-d0da-4b92-99c7-570b02c8acd2</id>
+        <name>Cracking</name>
+      </group>
+      <group>
+        <karma>0</karma>
+        <base>0</base>
+        <id>aad122e3-94af-4fdc-b157-49d7c74f2398</id>
+        <name>Electronics</name>
+      </group>
+      <group>
+        <karma>0</karma>
+        <base>0</base>
+        <id>79be1460-9af3-4d11-b847-9cf3896afff8</id>
+        <name>Enchanting</name>
+      </group>
+      <group>
+        <karma>0</karma>
+        <base>0</base>
+        <id>cbbf3eec-516a-456b-b2ba-aa647da5dfb8</id>
+        <name>Engineering</name>
+      </group>
+      <group>
+        <karma>0</karma>
+        <base>0</base>
+        <id>7443fe53-2d85-46ff-8d72-e907873279cf</id>
+        <name>Firearms</name>
+      </group>
+      <group>
+        <karma>0</karma>
+        <base>0</base>
+        <id>d0269ab3-2e9f-4173-be81-f7e6470fe814</id>
+        <name>Influence</name>
+      </group>
+      <group>
+        <karma>0</karma>
+        <base>0</base>
+        <id>baf4e57a-778b-424d-b1ab-697dbb989a83</id>
+        <name>Outdoors</name>
+      </group>
+      <group>
+        <karma>0</karma>
+        <base>0</base>
+        <id>1943117b-622a-4c82-9569-1d34cf332d7e</id>
+        <name>Sorcery</name>
+      </group>
+      <group>
+        <karma>0</karma>
+        <base>0</base>
+        <id>c20d2d84-3ff4-483c-bbfc-f52957f54a2e</id>
+        <name>Stealth</name>
+      </group>
+    </groups>
+  </newskills>
+  <contacts>
+    <contact>
+      <name />
+      <role>Talismonger</role>
+      <location />
+      <connection>2</connection>
+      <loyalty>3</loyalty>
+      <metatype>Dwarf</metatype>
+      <gender>Male</gender>
+      <age>Young</age>
+      <contacttype>Shadow Services</contacttype>
+      <preferredpayment>Cash (Credstick)</preferredpayment>
+      <hobbiesvice>Personal Grooming (Clothes)</hobbiesvice>
+      <personallife>Single</personallife>
+      <type>Contact</type>
+      <file />
+      <relative />
+      <notes />
+      <notesColor>Chocolate</notesColor>
+      <groupname />
+      <colour>0</colour>
+      <group>False</group>
+      <family>False</family>
+      <blackmail>False</blackmail>
+      <free>False</free>
+      <groupenabled>True</groupenabled>
+      <guid>92e067a1-bcb9-4026-96af-bf6faf973e7d</guid>
+      <mainmugshotindex>-1</mainmugshotindex>
+      <mugshots />
+    </contact>
+    <contact>
+      <name />
+      <role>Fixer</role>
+      <location />
+      <connection>4</connection>
+      <loyalty>3</loyalty>
+      <metatype />
+      <gender />
+      <age />
+      <contacttype />
+      <preferredpayment />
+      <hobbiesvice />
+      <personallife />
+      <type>Contact</type>
+      <file />
+      <relative />
+      <notes />
+      <notesColor>Chocolate</notesColor>
+      <groupname />
+      <colour>0</colour>
+      <group>False</group>
+      <family>False</family>
+      <blackmail>False</blackmail>
+      <free>False</free>
+      <groupenabled>True</groupenabled>
+      <guid>76f0f54a-9418-4260-a89c-e3a2344fa4b3</guid>
+      <mainmugshotindex>-1</mainmugshotindex>
+      <mugshots />
+    </contact>
+    <contact>
+      <name />
+      <role>Street Doc</role>
+      <location />
+      <connection>2</connection>
+      <loyalty>4</loyalty>
+      <metatype>Human</metatype>
+      <gender>Female</gender>
+      <age>Middle-Aged</age>
+      <contacttype>Support</contacttype>
+      <preferredpayment>Barter (Hobby/Vice Items)</preferredpayment>
+      <hobbiesvice>Animals (Paracritters)</hobbiesvice>
+      <personallife>In Relationship</personallife>
+      <type>Contact</type>
+      <file />
+      <relative />
+      <notes />
+      <notesColor>Chocolate</notesColor>
+      <groupname />
+      <colour>0</colour>
+      <group>False</group>
+      <family>False</family>
+      <blackmail>False</blackmail>
+      <free>False</free>
+      <groupenabled>True</groupenabled>
+      <guid>c2cc937d-b4ba-48f5-9517-2922d4cabded</guid>
+      <mainmugshotindex>-1</mainmugshotindex>
+      <mugshots />
+    </contact>
+  </contacts>
+  <spells>
+    <spell>
+      <sourceid>6f9b1dd2-b0e7-4e3f-a140-72c987b77705</sourceid>
+      <guid>4cbbebb2-47c9-4b0e-ba99-26a43e7f1a4d</guid>
+      <name>Stabilize</name>
+      <descriptors />
+      <category>Health</category>
+      <type>M</type>
+      <range>T</range>
+      <damage>0</damage>
+      <duration>P</duration>
+      <dv>F-4</dv>
+      <limited>False</limited>
+      <extended>False</extended>
+      <customextended>False</customextended>
+      <alchemical>False</alchemical>
+      <source>SR5</source>
+      <page>289</page>
+      <extra />
+      <notes>When applied to a character with a filled Physical damage track, this spell stabilizes all vital functions and prevents the character from dying. The spell’s Force must equal or exceed the overflow damage already taken when the spell starts. The full time must be taken for the spell to become permanent before the character is truly stabilized; hits reduce the time it takes by 1 Combat Turn each. If successful, the spell prevents the character from taking further damage from Physical Damage Overflow (p. 209).</notes>
+      <notesColor>#005B2E</notesColor>
+      <freebonus>False</freebonus>
+      <barehandedadept>False</barehandedadept>
+      <improvementsource>Spell</improvementsource>
+      <grade>0</grade>
+    </spell>
+    <spell>
+      <sourceid>6cbe13c4-ef28-43b7-9715-bccb7c153999</sourceid>
+      <guid>00c002df-f4cc-4dc7-adb3-86c725004c6a</guid>
+      <name>Knockout</name>
+      <descriptors>Direct</descriptors>
+      <category>Combat</category>
+      <type>M</type>
+      <range>T</range>
+      <damage>S</damage>
+      <duration>I</duration>
+      <dv>F-6</dv>
+      <limited>False</limited>
+      <extended>False</extended>
+      <customextended>False</customextended>
+      <alchemical>False</alchemical>
+      <source>SR5</source>
+      <page>284</page>
+      <extra />
+      <notes>These spells channel magical energy directly into the target, causing Stun damage. They are sometimes referred to as “sleep” spells because they can render targets unconscious but keep them alive, in the cases where you’d prefer more polite violence. Knockout requires the magician to touch the target, Stunbolt affects a single target, and Stunball is an area spell.</notes>
+      <notesColor>Maroon</notesColor>
+      <freebonus>False</freebonus>
+      <barehandedadept>False</barehandedadept>
+      <improvementsource>Spell</improvementsource>
+      <grade>0</grade>
+    </spell>
+    <spell>
+      <sourceid>47423962-6b73-4cc3-ad4e-e8d037cf9507</sourceid>
+      <guid>49758435-5f69-41e0-9c95-a94426e7ee95</guid>
+      <name>Stunbolt</name>
+      <descriptors>Direct</descriptors>
+      <category>Combat</category>
+      <type>M</type>
+      <range>LOS</range>
+      <damage>S</damage>
+      <duration>I</duration>
+      <dv>F-3</dv>
+      <limited>False</limited>
+      <extended>False</extended>
+      <customextended>False</customextended>
+      <alchemical>False</alchemical>
+      <source>SR5</source>
+      <page>284</page>
+      <extra />
+      <notes>These spells channel magical energy directly into the target, causing Stun damage. They are sometimes referred to as “sleep” spells because they can render targets unconscious but keep them alive, in the cases where you’d prefer more polite violence. Knockout requires the magician to touch the target, Stunbolt affects a single target, and Stunball is an area spell.</notes>
+      <notesColor>Maroon</notesColor>
+      <freebonus>False</freebonus>
+      <barehandedadept>False</barehandedadept>
+      <improvementsource>Spell</improvementsource>
+      <grade>0</grade>
+    </spell>
+    <spell>
+      <sourceid>6cbe13c4-ef28-43b7-9715-bccb7c153999</sourceid>
+      <guid>5dc8449a-5af3-4d91-9f13-9a2234767a4d</guid>
+      <name>Knockout</name>
+      <descriptors>Direct</descriptors>
+      <category>Combat</category>
+      <type>M</type>
+      <range>T</range>
+      <damage>S</damage>
+      <duration>I</duration>
+      <dv>F-6</dv>
+      <limited>False</limited>
+      <extended>False</extended>
+      <customextended>False</customextended>
+      <alchemical>True</alchemical>
+      <source>SR5</source>
+      <page>284</page>
+      <extra />
+      <notes>These spells channel magical energy directly into the target, causing Stun damage. They are sometimes referred to as “sleep” spells because they can render targets unconscious but keep them alive, in the cases where you’d prefer more polite violence. Knockout requires the magician to touch the target, Stunbolt affects a single target, and Stunball is an area spell.</notes>
+      <notesColor>Maroon</notesColor>
+      <freebonus>False</freebonus>
+      <barehandedadept>False</barehandedadept>
+      <improvementsource>Spell</improvementsource>
+      <grade>0</grade>
+    </spell>
+    <spell>
+      <sourceid>794f21eb-dc8d-45e8-b9b0-b85b810437f3</sourceid>
+      <guid>266038ec-c11e-44a1-a817-47302438f155</guid>
+      <name>Armor</name>
+      <descriptors>Physical</descriptors>
+      <category>Manipulation</category>
+      <type>P</type>
+      <range>LOS</range>
+      <damage>0</damage>
+      <duration>S</duration>
+      <dv>F-2</dv>
+      <limited>False</limited>
+      <extended>False</extended>
+      <customextended>False</customextended>
+      <alchemical>False</alchemical>
+      <source>SR5</source>
+      <page>292</page>
+      <extra />
+      <notes>This spell creates a glowing field of magical energy around the subject that protects against Physical Damage. It provides Armor equal to the hits scored and is cumulative with other armor. It is not included in any calculations to determine armor encumbrance (see Armor and Encumbrance, p. 169).</notes>
+      <notesColor>#400080</notesColor>
+      <freebonus>False</freebonus>
+      <barehandedadept>False</barehandedadept>
+      <improvementsource>Spell</improvementsource>
+      <grade>0</grade>
+    </spell>
+    <spell>
+      <sourceid>e9f1e14b-1f59-46d6-9e9f-e808d7316d76</sourceid>
+      <guid>4da7a44b-a447-4781-b46f-5722aea67792</guid>
+      <name>Stunball</name>
+      <descriptors>Direct, Area</descriptors>
+      <category>Combat</category>
+      <type>M</type>
+      <range>LOS (A)</range>
+      <damage>S</damage>
+      <duration>I</duration>
+      <dv>F</dv>
+      <limited>False</limited>
+      <extended>False</extended>
+      <customextended>False</customextended>
+      <alchemical>False</alchemical>
+      <source>SR5</source>
+      <page>284</page>
+      <extra />
+      <notes>These spells channel magical energy directly into the target, causing Stun damage. They are sometimes referred to as “sleep” spells because they can render targets unconscious but keep them alive, in the cases where you’d prefer more polite violence. Knockout requires the magician to touch the target, Stunbolt affects a single target, and Stunball is an area spell.</notes>
+      <notesColor>Maroon</notesColor>
+      <freebonus>False</freebonus>
+      <barehandedadept>False</barehandedadept>
+      <improvementsource>Spell</improvementsource>
+      <grade>0</grade>
+    </spell>
+    <spell>
+      <sourceid>c09e8bb5-4bed-44f9-a41c-bed6a4deb871</sourceid>
+      <guid>3fc8d88e-14ae-443a-9b12-c791b02da9cf</guid>
+      <name>Heal</name>
+      <descriptors>Essence</descriptors>
+      <category>Health</category>
+      <type>M</type>
+      <range>T</range>
+      <damage>0</damage>
+      <duration>P</duration>
+      <dv>F-4</dv>
+      <limited>False</limited>
+      <extended>False</extended>
+      <customextended>False</customextended>
+      <alchemical>False</alchemical>
+      <source>SR5</source>
+      <page>288</page>
+      <extra />
+      <notes>Heal repairs physical injuries. It heals a number of boxes of Physical damage equal to the spell’s hits from the Spellcasting Test. Hits can also be used to reduce the base time for the spell to become permanent; each hit spent this way shaves off 1 Combat Turn (you can split hits between healing and reducing time).
+Any boxes of Physical damage your target still has after any boxes are healed magically can only be healed by time and rest.</notes>
+      <notesColor>#005B2E</notesColor>
+      <freebonus>False</freebonus>
+      <barehandedadept>False</barehandedadept>
+      <improvementsource>Spell</improvementsource>
+      <grade>0</grade>
+    </spell>
+    <spell>
+      <sourceid>7231e696-8839-4ec8-b12e-213b79bb643d</sourceid>
+      <guid>eaa172e0-7dd2-421a-8a49-596518a8811d</guid>
+      <name>Detect Life</name>
+      <descriptors>Active, Area</descriptors>
+      <category>Detection</category>
+      <type>M</type>
+      <range>T</range>
+      <damage>0</damage>
+      <duration>S</duration>
+      <dv>F-3</dv>
+      <limited>False</limited>
+      <extended>False</extended>
+      <customextended>False</customextended>
+      <alchemical>False</alchemical>
+      <source>SR5</source>
+      <page>286</page>
+      <extra />
+      <notes>The subject detects all living beings (but not spirits) within range of the sense and knows their number and relative location. In a crowded area, the spell is virtually useless, picking up a blurred mass of traces of life.</notes>
+      <notesColor>Blue</notesColor>
+      <freebonus>False</freebonus>
+      <barehandedadept>False</barehandedadept>
+      <improvementsource>Spell</improvementsource>
+      <grade>0</grade>
+    </spell>
+    <spell>
+      <sourceid>c09e8bb5-4bed-44f9-a41c-bed6a4deb871</sourceid>
+      <guid>ea0971eb-965a-43d1-aa75-008803900a25</guid>
+      <name>Heal</name>
+      <descriptors>Essence</descriptors>
+      <category>Health</category>
+      <type>M</type>
+      <range>T</range>
+      <damage>0</damage>
+      <duration>P</duration>
+      <dv>F-4</dv>
+      <limited>False</limited>
+      <extended>False</extended>
+      <customextended>False</customextended>
+      <alchemical>True</alchemical>
+      <source>SR5</source>
+      <page>288</page>
+      <extra />
+      <notes>Heal repairs physical injuries. It heals a number of boxes of Physical damage equal to the spell’s hits from the Spellcasting Test. Hits can also be used to reduce the base time for the spell to become permanent; each hit spent this way shaves off 1 Combat Turn (you can split hits between healing and reducing time).
+Any boxes of Physical damage your target still has after any boxes are healed magically can only be healed by time and rest.</notes>
+      <notesColor>#005B2E</notesColor>
+      <freebonus>False</freebonus>
+      <barehandedadept>False</barehandedadept>
+      <improvementsource>Spell</improvementsource>
+      <grade>0</grade>
+    </spell>
+    <spell>
+      <sourceid>df65b87a-e386-46f5-b8ad-21ce4b08dc09</sourceid>
+      <guid>842d8a4a-8105-457e-9da4-ea796facc5df</guid>
+      <name>Air Filter</name>
+      <descriptors>Physical</descriptors>
+      <category>Manipulation</category>
+      <type>M</type>
+      <range>LOS</range>
+      <damage>0</damage>
+      <duration>S</duration>
+      <dv>F-6</dv>
+      <limited>False</limited>
+      <extended>False</extended>
+      <customextended>False</customextended>
+      <alchemical>True</alchemical>
+      <source>SSP</source>
+      <page>20</page>
+      <extra />
+      <notes>This spell allows the subject to breathe while buried or while underwater. The subject can breathe normally for ten minutes per Spellcasting Test hit. The duration is halved in the subject is buried in wet sand or mud.</notes>
+      <notesColor>#400080</notesColor>
+      <freebonus>False</freebonus>
+      <barehandedadept>False</barehandedadept>
+      <improvementsource>Spell</improvementsource>
+      <grade>0</grade>
+    </spell>
+  </spells>
+  <foci>
+    <focus>
+      <guid>d62615e0-3817-475a-b1b7-0784a92ba9ac</guid>
+      <gearid>33eacc91-f129-4bca-a43a-7f0b38db2598</gearid>
+    </focus>
+  </foci>
+  <stackedfoci />
+  <powers />
+  <spirits>
+    <spirit>
+      <guid>0bcf9b9c-5def-4cac-bdca-b66049212930</guid>
+      <name>Plant Spirit</name>
+      <crittername />
+      <services>0</services>
+      <force>6</force>
+      <bound>True</bound>
+      <fettered>False</fettered>
+      <type>Spirit</type>
+      <file />
+      <relative />
+      <notes />
+      <notesColor>Chocolate</notesColor>
+      <mainmugshotindex>-1</mainmugshotindex>
+      <mugshots />
+    </spirit>
+  </spirits>
+  <complexforms />
+  <aiprograms />
+  <martialarts />
+  <limitmodifiers>
+    <limitmodifier>
+      <guid>56b974a9-70e9-4d78-a2e9-45928bd82971</guid>
+      <name>Medkit</name>
+      <limit>Mental</limit>
+      <bonus>3</bonus>
+      <condition>LimitCondition_SkillsActiveFirstAidMedicine</condition>
+      <candelete>False</candelete>
+      <notes />
+    </limitmodifier>
+  </limitmodifiers>
+  <armors>
+    <armor>
+      <sourceid>40826eaa-c22a-43da-8730-bc1867ea65a1</sourceid>
+      <guid>29215722-7744-4995-a188-7dccea642bd6</guid>
+      <name>Armor Clothing</name>
+      <category>Armor</category>
+      <armor>6</armor>
+      <armoroverride />
+      <armorcapacity>6</armorcapacity>
+      <avail>2</avail>
+      <cost>450</cost>
+      <weight />
+      <source>SR5</source>
+      <page>437</page>
+      <armorname />
+      <equipped>True</equipped>
+      <active>False</active>
+      <homenode>False</homenode>
+      <devicerating />
+      <programlimit />
+      <overclocked>None</overclocked>
+      <attack />
+      <sleaze />
+      <dataprocessing />
+      <firewall />
+      <attributearray />
+      <modattack />
+      <modsleaze />
+      <moddataprocessing />
+      <modfirewall />
+      <modattributearray />
+      <canswapattributes>False</canswapattributes>
+      <matrixcmfilled>0</matrixcmfilled>
+      <matrixcmbonus>0</matrixcmbonus>
+      <wirelesson>False</wirelesson>
+      <canformpersona />
+      <extra />
+      <damage>0</damage>
+      <rating>0</rating>
+      <maxrating>0</maxrating>
+      <ratinglabel>String_Rating</ratinglabel>
+      <stolen>False</stolen>
+      <emcumbrance>True</emcumbrance>
+      <armormods>
+        <armormod>
+          <guid>0a801b72-b6ec-4e46-aa17-866e7d4dca5e</guid>
+          <sourceid>aec187e5-5eca-4f27-9181-b39991579d76</sourceid>
+          <name>Drag Handle</name>
+          <category>General</category>
+          <armor>0</armor>
+          <armorcapacity>[1]</armorcapacity>
+          <gearcapacity />
+          <maxrating>1</maxrating>
+          <rating>0</rating>
+          <ratinglabel>String_Rating</ratinglabel>
+          <avail>0</avail>
+          <cost>50</cost>
+          <weight />
+          <bonus />
+          <wirelessbonus />
+          <wirelesson>True</wirelesson>
+          <source>BB</source>
+          <page>23</page>
+          <included>False</included>
+          <equipped>True</equipped>
+          <extra />
+          <stolen>False</stolen>
+          <notes>DRAG HANDLE
+A relatively simple modification, the drag handle is a strap anchored to the back of an armored jacket, vest, or suit that allows an injured character to be dragged or carried with greater ease. The Drag Handle adds +2 dice to Lifting and Carrying Tests (p. 139, SR4A, or p. 152, SR5) to move the character.</notes>
+          <notesColor>Chocolate</notesColor>
+          <discountedcost>False</discountedcost>
+          <sortorder>0</sortorder>
+        </armormod>
+      </armormods>
+      <bonus />
+      <wirelessbonus />
+      <location />
+      <notes>Armor clothing: Lightweight ballistic fiber weave makes these garments almost impossible to detect as armor. It doesn’t provide as much protection as real ar- mor, but it’s available in a wide variety of styles.</notes>
+      <notesColor>Chocolate</notesColor>
+      <discountedcost>False</discountedcost>
+      <sortorder>0</sortorder>
+    </armor>
+  </armors>
+  <weapons>
+    <weapon>
+      <sourceid>63dcfdb6-bbd9-4a58-bbf4-cd35f7614fdc</sourceid>
+      <guid>a83e9fc2-eb54-4181-90e5-eceab305d4e5</guid>
+      <name>Unarmed Attack</name>
+      <category>Unarmed</category>
+      <type>Melee</type>
+      <spec />
+      <spec2 />
+      <reach>0</reach>
+      <damage>({STR})S</damage>
+      <ap>-</ap>
+      <mode>0</mode>
+      <rc>0</rc>
+      <ammo>0</ammo>
+      <cyberware>False</cyberware>
+      <ammocategory />
+      <ammoslots>1</ammoslots>
+      <sizecategory />
+      <firingmode>DogBrain</firingmode>
+      <minrating />
+      <maxrating />
+      <rating>0</rating>
+      <accuracy>Physical</accuracy>
+      <clips />
+      <conceal>0</conceal>
+      <avail>0</avail>
+      <cost>0</cost>
+      <weight />
+      <useskill />
+      <useskillspec />
+      <range />
+      <alternaterange />
+      <rangemultiply>1</rangemultiply>
+      <singleshot>1</singleshot>
+      <shortburst>3</shortburst>
+      <longburst>6</longburst>
+      <fullburst>10</fullburst>
+      <suppressive>20</suppressive>
+      <allowsingleshot>True</allowsingleshot>
+      <allowshortburst>True</allowshortburst>
+      <allowlongburst>True</allowlongburst>
+      <allowfullburst>True</allowfullburst>
+      <allowsuppressive>True</allowsuppressive>
+      <source>SR5</source>
+      <page>132</page>
+      <parentid>ea71282a-ffac-4ab2-8eb6-ec9694822a3c</parentid>
+      <allowaccessory>False</allowaccessory>
+      <weaponname />
+      <included>True</included>
+      <equipped>True</equipped>
+      <requireammo>True</requireammo>
+      <accuracy>Physical</accuracy>
+      <mount />
+      <stolen>False</stolen>
+      <extramount />
+      <location />
+      <notes />
+      <notesColor>Chocolate</notesColor>
+      <discountedcost>False</discountedcost>
+      <weaponslots />
+      <doubledcostweaponslots />
+      <active>False</active>
+      <homenode>False</homenode>
+      <devicerating />
+      <programlimit />
+      <overclocked>None</overclocked>
+      <attack />
+      <sleaze />
+      <dataprocessing />
+      <firewall />
+      <attributearray />
+      <modattack />
+      <modsleaze />
+      <moddataprocessing />
+      <modfirewall />
+      <modattributearray />
+      <canswapattributes>False</canswapattributes>
+      <matrixcmfilled>0</matrixcmfilled>
+      <wirelessbonus />
+      <wirelesson>True</wirelesson>
+      <sortorder>0</sortorder>
+      <weapontype>melee</weapontype>
+    </weapon>
+  </weapons>
+  <cyberwares />
+  <qualities>
+    <quality>
+      <sourceid>0e741331-d776-4be8-abc5-4101228abdef</sourceid>
+      <guid>999bdc42-b8da-43a7-aa16-73620270864a</guid>
+      <name>Magician</name>
+      <extra />
+      <bp>30</bp>
+      <implemented>True</implemented>
+      <contributetobp>True</contributetobp>
+      <contributetolimit>False</contributetolimit>
+      <stagedpurchase>False</stagedpurchase>
+      <doublecareer>True</doublecareer>
+      <canbuywithspellpoints>False</canbuywithspellpoints>
+      <metagenic>False</metagenic>
+      <print>True</print>
+      <qualitytype>Positive</qualitytype>
+      <qualitysource>Heritage</qualitysource>
+      <mutant>False</mutant>
+      <source>SR5</source>
+      <page>69</page>
+      <sourcename />
+      <bonus>
+        <enableattribute>
+          <name>MAG</name>
+        </enableattribute>
+        <enabletab>
+          <name>magician</name>
+        </enabletab>
+        <unlockskills>Magician</unlockskills>
+      </bonus>
+      <firstlevelbonus />
+      <naturalweapons />
+      <notes>MAGICIANS
+• Magicians can astrally perceive.
+• Magicians can astrally project.
+• Magicians can choose freely from the magical skills or skill groups (Sorcery, Conjuring, Enchanting).
+• Magicians can cast spells, conjure spirits, or enchant magical items.
+• At character creation, magicians who cast spells, perform rituals, or create alchemical preparations may know a maximum number of formulae from each group equal to their Magic Rating x 2 (i.e., Magic Rating of 4 allows 8 spells, 8 rituals, 8 alchemical preparations).</notes>
+      <notesColor>Chocolate</notesColor>
+    </quality>
+    <quality>
+      <sourceid>1c293ee1-c2e3-4e82-9ee6-91425955f250</sourceid>
+      <guid>feeda46e-bce8-46d2-bb0a-e67b84c0251a</guid>
+      <name>Phobia (Common, Moderate)</name>
+      <extra>Claustraphobia</extra>
+      <bp>-10</bp>
+      <implemented>True</implemented>
+      <contributetobp>True</contributetobp>
+      <contributetolimit>True</contributetolimit>
+      <stagedpurchase>False</stagedpurchase>
+      <doublecareer>True</doublecareer>
+      <canbuywithspellpoints>False</canbuywithspellpoints>
+      <metagenic>False</metagenic>
+      <print>True</print>
+      <qualitytype>Negative</qualitytype>
+      <qualitysource>Selected</qualitysource>
+      <mutant>False</mutant>
+      <source>RF</source>
+      <page>157</page>
+      <sourcename />
+      <bonus>
+        <selecttext />
+      </bonus>
+      <firstlevelbonus />
+      <naturalweapons />
+      <notes>PHOBIA (COMMON, MODERATE)
+COST: 10 KARMA
+Moderate phobias cause a –3 dice pool modifier to all actions while in the presence of their source, and the character must succeed on a Composure (2) Test or feel a strong need to get away from the source of their fear.</notes>
+      <notesColor>Chocolate</notesColor>
+    </quality>
+    <quality>
+      <sourceid>7d81f676-e523-4ec6-ae98-8d801f90b031</sourceid>
+      <guid>3f0530a8-1213-4b88-85c1-670659a8ac33</guid>
+      <name>Astral Chameleon</name>
+      <extra />
+      <bp>10</bp>
+      <implemented>True</implemented>
+      <contributetobp>True</contributetobp>
+      <contributetolimit>True</contributetolimit>
+      <stagedpurchase>False</stagedpurchase>
+      <doublecareer>True</doublecareer>
+      <canbuywithspellpoints>False</canbuywithspellpoints>
+      <metagenic>False</metagenic>
+      <print>True</print>
+      <qualitytype>Positive</qualitytype>
+      <qualitysource>Selected</qualitysource>
+      <mutant>False</mutant>
+      <source>SR5</source>
+      <page>72</page>
+      <sourcename />
+      <bonus />
+      <firstlevelbonus />
+      <naturalweapons />
+      <notes>ASTRAL CHAMELEON
+COST: 10 KARMA
+With the Astral Chameleon quality, the character’s astral signature blends into the background of astral space and is difficult to detect. All signatures left by the character last only half as long as other astral signatures. Any individuals assensing astral signatures left behind by a character with this quality receive a –2 dice pool modifier for the Assensing Test. Only characters with a Magic rating and capable of leaving astral signatures may have this quality.</notes>
+      <notesColor>Chocolate</notesColor>
+    </quality>
+    <quality>
+      <sourceid>04b68abc-0f9d-4fe9-8b41-82d7b9c95e2e</sourceid>
+      <guid>7d485a4c-c04e-40f4-8d5e-b3da373b0b23</guid>
+      <name>Sensory Overload Syndrome</name>
+      <extra />
+      <bp>-15</bp>
+      <implemented>True</implemented>
+      <contributetobp>True</contributetobp>
+      <contributetolimit>True</contributetolimit>
+      <stagedpurchase>False</stagedpurchase>
+      <doublecareer>True</doublecareer>
+      <canbuywithspellpoints>False</canbuywithspellpoints>
+      <metagenic>False</metagenic>
+      <print>True</print>
+      <qualitytype>Negative</qualitytype>
+      <qualitysource>Selected</qualitysource>
+      <mutant>False</mutant>
+      <source>RF</source>
+      <page>159</page>
+      <sourcename />
+      <bonus />
+      <firstlevelbonus />
+      <naturalweapons />
+      <notes>SENSORY OVERLOAD SYNDROME
+BONUS: 15 KARMA
+Sensory Overload Syndrome (SOS) is a growing epidemic in the world of ever-present AROs and excessive wireless sensory input. The condition is an offshoot of AIPS, and victims suffer similar epileptic episodes.
+Whenever a character with SOS enters an area of high ARO saturation (gamemaster discretion) or attempts to make use of sensory enhancement systems, they must make a Willpower + Edge (4) Test or enter into an epileptic seizure for (5 – hits) minutes.
+The condition can possibly be prevented by deactivating enhancement systems, the character’s commlink, or running the commlink in hidden mode, but these last two options create issues in areas where identification is required or suspicious when not broadcast.</notes>
+      <notesColor>Chocolate</notesColor>
+    </quality>
+    <quality>
+      <sourceid>8ec5c9bb-aeb9-42f2-a436-a60f764adfe4</sourceid>
+      <guid>99ad67ed-1a66-4839-b5a7-5e3ab8a8ba3e</guid>
+      <name>Low-Light Vision</name>
+      <extra />
+      <bp>4</bp>
+      <implemented>True</implemented>
+      <contributetobp>True</contributetobp>
+      <contributetolimit>False</contributetolimit>
+      <stagedpurchase>False</stagedpurchase>
+      <doublecareer>True</doublecareer>
+      <canbuywithspellpoints>False</canbuywithspellpoints>
+      <metagenic>False</metagenic>
+      <print>True</print>
+      <qualitytype>Positive</qualitytype>
+      <qualitysource>Metatype</qualitysource>
+      <mutant>False</mutant>
+      <source>SR5</source>
+      <page>66</page>
+      <sourcename />
+      <bonus />
+      <firstlevelbonus />
+      <naturalweapons />
+      <notes />
+      <notesColor>Chocolate</notesColor>
+    </quality>
+    <quality>
+      <sourceid>a030d7e2-755b-4f71-b848-ad9772fba242</sourceid>
+      <guid>a66ce711-508a-4eb8-b624-2a6ac279586e</guid>
+      <name>Distinctive Style</name>
+      <extra />
+      <bp>0</bp>
+      <implemented>True</implemented>
+      <contributetobp>True</contributetobp>
+      <contributetolimit>False</contributetolimit>
+      <stagedpurchase>False</stagedpurchase>
+      <doublecareer>True</doublecareer>
+      <canbuywithspellpoints>False</canbuywithspellpoints>
+      <metagenic>False</metagenic>
+      <print>True</print>
+      <qualitytype>Negative</qualitytype>
+      <qualitysource>Improvement</qualitysource>
+      <mutant>False</mutant>
+      <source>SR5</source>
+      <page>80</page>
+      <sourcename>Glamour</sourcename>
+      <bonus />
+      <firstlevelbonus />
+      <naturalweapons />
+      <notes>DISTINCTIVE STYLE
+BONUS: 5 KARMA
+A character with the Distinctive Style quality has at least one aspect of his appearance, mannerism, or personality that makes him inconveniently memorable. Choices for Distinctive Style include, but are by no means limited to: tattoos that cannot be easily concealed, an accent or atypical manner of speaking, bizarre fashion choices, scars, gang or prison signs, flashy custom augmentations, or non-metahuman modifications like a tail. Note that what’s distinctive in one culture or location may not be in another.
+Whatever Distinctive Style the player selects makes her character easy to remember. Anyone who attempts to identify, trace, or physically locate this character (or gain information about him via legwork) receives a +2 dice pool modifier for relevant tests. If an NPC makes a Memory Test (p. 152) to determine how much they recall about the character, reduce the Difficulty Threshold by 1, to a minimum of 1.
+This quality is physical in nature and does not apply to astral searches. This quality may only be taken once.
+This quality is incompatible with Blandness.</notes>
+      <notesColor>Chocolate</notesColor>
+    </quality>
+    <quality>
+      <sourceid>35103093-5f41-4d42-a2b5-6fbb64f627b1</sourceid>
+      <guid>1f3ff52e-68cd-4052-ae70-6af8da8d14e0</guid>
+      <name>Glamour</name>
+      <extra />
+      <bp>12</bp>
+      <implemented>True</implemented>
+      <contributetobp>True</contributetobp>
+      <contributetolimit>False</contributetolimit>
+      <stagedpurchase>False</stagedpurchase>
+      <doublecareer>True</doublecareer>
+      <canbuywithspellpoints>False</canbuywithspellpoints>
+      <metagenic>True</metagenic>
+      <print>True</print>
+      <qualitytype>Positive</qualitytype>
+      <qualitysource>Metatype</qualitysource>
+      <mutant>False</mutant>
+      <source>RF</source>
+      <page>115</page>
+      <sourcename />
+      <bonus>
+        <addqualities>
+          <addquality>Distinctive Style</addquality>
+        </addqualities>
+        <skillcategory>
+          <name>Social Active</name>
+          <bonus>1</bonus>
+          <exclude>Intimidation</exclude>
+        </skillcategory>
+        <sociallimit>2</sociallimit>
+      </bonus>
+      <firstlevelbonus />
+      <naturalweapons />
+      <notes>GLAMOUR
+COST: 12 KARMA
+A character with Glamour is paranaturally gifted so that all sapient beings perceive him as moving with unearthly grace. His countenance always seems radiant, and his voice is soul wrenching and laden with emotion. People may describe him as angelic or fairylike, and everyone he speaks to cannot help but feel moved and inspired. Sapient beings always respond with awe, deference, and kindness to the character as long as he does not act hostile. The character adds 2 to his Social limit and has a +1 dice pool modifier to all Social Skill Tests, with the exception of Intimidation. This quality renders the character particularly memorable, and he suffers from the effects of Distinctive Style quality (p.</notes>
+      <notesColor>Chocolate</notesColor>
+    </quality>
+    <quality>
+      <sourceid>33a1a0ed-20b8-4ddd-9070-2b460a5455b7</sourceid>
+      <guid>6862a0b0-62bc-46f5-8d7e-2f113a778955</guid>
+      <name>Symbiosis</name>
+      <extra />
+      <bp>-5</bp>
+      <implemented>True</implemented>
+      <contributetobp>True</contributetobp>
+      <contributetolimit>False</contributetolimit>
+      <stagedpurchase>False</stagedpurchase>
+      <doublecareer>True</doublecareer>
+      <canbuywithspellpoints>False</canbuywithspellpoints>
+      <metagenic>True</metagenic>
+      <print>True</print>
+      <qualitytype>Negative</qualitytype>
+      <qualitysource>Metatype</qualitysource>
+      <mutant>False</mutant>
+      <source>RF</source>
+      <page>122</page>
+      <sourcename />
+      <bonus />
+      <firstlevelbonus />
+      <naturalweapons />
+      <notes>SYMBIOSIS
+BONUS: 5 KARMA
+If the character sets up residence in a certain location for a sustained period of time (more than a season, though the gamemaster determines the specific time period) he gradually becomes attuned to the place and his surroundings. While this grants the character a preternaturally intuitive understanding of the environment and its inhabitants, the bonding can be fatal when it occurs in polluted or desolate urban environments.
+In game terms, the character’s biorhythm and senses gradually adapt to the environment (Essence x 100 meters in radius) around his permanent residence—the place where he spends most of his time. The character makes a Body +Willpower (3) Test each month; if they succeed, they are attuned to their environment. If they fail, they are unattuned and left to feel incomplete or lost. It may be that the area in which they live is one where they do not want to be attuned and they want to actively resist the attunement. In that case, they get a –1 dice pool modifier on the test.
+Once the bond is formed, it can only be broken if the character changes his home to form a new bond. They have to live in the new place for a full month to have a chance to break the old bond, and the bond is not broken until they succeed at the Body + Willpower (3) Test in the new neighborhood.
+Symbiosis provides the character with preternatural insight and connection to everything living within his sphere of attunement. This grants him a +1 dice pool modifier on any Skill Test involving the Outdoor Skill Group as well as a modifier to all Social Tests with individuals residing within the area. In addition, the character possesses an intuitive grasp of what’s going on around him, and he is emotionally affected by the condition of the land. If a fire breaks out, he instantly becomes alarmed. If all inhabitants in the area coexist peacefully, he is blissful and healthy, providing +1 to any Healing Tests performed while in the neighborhood. On the other hand, environmental and social problems—like drug abuse, gang violence, and pollution—produce a somatic response in the character, leaving him sick and depleted; treat as a persistent Mild Allergy until the situation is rectified.</notes>
+      <notesColor>Chocolate</notesColor>
+    </quality>
+    <quality>
+      <sourceid>ced3fecf-2277-4b20-b1e0-894162ca9ae2</sourceid>
+      <guid>920ebe46-7577-40c2-b298-4d3bd74aa792</guid>
+      <name>Mentor Spirit</name>
+      <extra>Great Mother (alt)</extra>
+      <bp>5</bp>
+      <implemented>True</implemented>
+      <contributetobp>True</contributetobp>
+      <contributetolimit>True</contributetolimit>
+      <stagedpurchase>False</stagedpurchase>
+      <doublecareer>True</doublecareer>
+      <canbuywithspellpoints>False</canbuywithspellpoints>
+      <metagenic>False</metagenic>
+      <print>True</print>
+      <qualitytype>Positive</qualitytype>
+      <qualitysource>Selected</qualitysource>
+      <mutant>False</mutant>
+      <source>SR5</source>
+      <page>76</page>
+      <sourcename />
+      <bonus>
+        <selectmentorspirit />
+      </bonus>
+      <firstlevelbonus />
+      <naturalweapons />
+      <notes>MENTOR SPIRIT
+COST: 5 KARMA
+Everyone needs some help in life, even if it comes from someone relatively filmy and insubstantial. Mentor Spirit means the character follows a patron spirit (see Mentor Spirits, p. 320) that guides him in his practice of magic and provides certain advantages and disadvantages to his natural abilities. A character may change mentor spirits, but he may have only one mentor spirit at a time. To change mentor spirits, the character must first buy off the current mentor spirit as if it were a Negative quality. He can then purchase the quality again to follow a different mentor spirit. This cost represents the toll of divorcing from one mentor spirit and bonding with a new one.
+Each tradition has a different name for a mentor spirit. Hermetic mages prefer the term “mentor spirit,” while shamans use the word “totem” for the spirit that they follow. While the names may vary, the way the mentor works is consistent.
+This quality is only available to characters that possess a Magic attribute rating.</notes>
+      <notesColor>Chocolate</notesColor>
+    </quality>
+  </qualities>
+  <lifestyles>
+    <lifestyle>
+      <sourceid>451eef87-d18e-4bee-a972-1ee165b08522</sourceid>
+      <guid>d9f5051f-fdbb-4d2d-9d91-6bf3af91ac4b</guid>
+      <name>asfda</name>
+      <cost>2000</cost>
+      <dice>3</dice>
+      <lp>3</lp>
+      <baselifestyle>Low</baselifestyle>
+      <multiplier>60</multiplier>
+      <months>1</months>
+      <roommates>1</roommates>
+      <percentage>100.0</percentage>
+      <area>0</area>
+      <comforts>0</comforts>
+      <security>0</security>
+      <basearea>2</basearea>
+      <basecomforts>2</basecomforts>
+      <basesecurity>2</basesecurity>
+      <maxarea>3</maxarea>
+      <maxcomforts>3</maxcomforts>
+      <maxsecurity>3</maxsecurity>
+      <costforearea>0</costforearea>
+      <costforcomforts>0</costforcomforts>
+      <costforsecurity>0</costforsecurity>
+      <allowbonuslp>False</allowbonuslp>
+      <bonuslp>0</bonuslp>
+      <source>SR5</source>
+      <page>369</page>
+      <trustfund>False</trustfund>
+      <primarytenant>False</primarytenant>
+      <type>Advanced</type>
+      <increment>Month</increment>
+      <sourceid>451eef87-d18e-4bee-a972-1ee165b08522</sourceid>
+      <city />
+      <district />
+      <borough />
+      <lifestylequalities>
+        <lifestylequality>
+          <sourceid>4aff94a9-6699-4355-81ea-ff66ee5ecca1</sourceid>
+          <guid>8d5b1de6-b438-4a4d-9117-4881c95b6af6</guid>
+          <name>Obscure/Difficult to Find</name>
+          <category>Negative</category>
+          <extra />
+          <cost />
+          <multiplier>10</multiplier>
+          <basemultiplier>0</basemultiplier>
+          <lp>-1</lp>
+          <areamaximum>0</areamaximum>
+          <comfortsmaximum>0</comfortsmaximum>
+          <securitymaximum>0</securitymaximum>
+          <area>0</area>
+          <comforts>0</comforts>
+          <security>0</security>
+          <contributetolimit>True</contributetolimit>
+          <print>True</print>
+          <lifestylequalitytype>Negative</lifestylequalitytype>
+          <lifestylequalitysource>Selected</lifestylequalitysource>
+          <source>SR5</source>
+          <page>370</page>
+          <allowed />
+          <bonus>
+          </bonus>
+          <notes>OBSCURE/DIFFICULT TO FIND
+You live where? The corner of what and what? Your place is particularly difficult to find or in an obscure, not-wellknown area of the city. Everyone needs directions, or a good map, to find your place and even then they often get lost. You’ve given up on the pizza delivery guy, you just meet him at the nearest intersection. Any Sneaking Skill checks (owner of the property excluded) made in the vicinity of the residence are made with a –2 penalty.
+Cost: +10 percent of the lifestyle</notes>
+          <notesColor>Chocolate</notesColor>
+        </lifestylequality>
+      </lifestylequalities>
+      <freegrids>
+        <lifestylequality>
+          <sourceid>adaf6b3d-874a-42e5-b08b-37adf1222f23</sourceid>
+          <guid>cb6881d7-ba94-4437-bbd4-e4915264dfd5</guid>
+          <name>Grid Subscription</name>
+          <category>Entertainment - Asset</category>
+          <extra>Public Grid</extra>
+          <cost>50</cost>
+          <multiplier>0</multiplier>
+          <basemultiplier>0</basemultiplier>
+          <lp>1</lp>
+          <areamaximum>0</areamaximum>
+          <comfortsmaximum>0</comfortsmaximum>
+          <securitymaximum>0</securitymaximum>
+          <area>0</area>
+          <comforts>0</comforts>
+          <security>0</security>
+          <contributetolimit>True</contributetolimit>
+          <print>True</print>
+          <lifestylequalitytype>Entertainment</lifestylequalitytype>
+          <lifestylequalitysource>Selected</lifestylequalitysource>
+          <source>RF</source>
+          <page>222</page>
+          <allowed>Medium,High,Luxury</allowed>
+          <bonus>
+          </bonus>
+          <notes>GRID SUBSCRIPTION
+Point Cost: 1 Type: Asset Monthly Nuyen Cost: 50¥ Minimum Lifestyle: Middle Nobody “downloads” or “records” their favorite song or movie any more. It’s all based on subscriptions and purchases within the Matrix and stored virtually on a grid.
+Commlinks and home entertainment systems connect you wirelessly to everything from photos you’ve taken to corporate-sponsored lines of entertainment that you can watch whenever you want. Without a grid subscription, you might as well have a throwback commlink with an antique external storage device, as the public grid only has trid shows from like two seasons ago.</notes>
+          <notesColor>Chocolate</notesColor>
+        </lifestylequality>
+      </freegrids>
+      <notes />
+      <notesColor>Chocolate</notesColor>
+      <sortorder>0</sortorder>
+    </lifestyle>
+  </lifestyles>
+  <gears>
+    <gear>
+      <sourceid>630114f3-b538-4a4f-ad02-36df0e577d9c</sourceid>
+      <guid>33eacc91-f129-4bca-a43a-7f0b38db2598</guid>
+      <name>Spellcasting Focus, Health</name>
+      <category>Foci</category>
+      <capacity />
+      <armorcapacity />
+      <minrating />
+      <maxrating>18</maxrating>
+      <rating>2</rating>
+      <qty>1.0</qty>
+      <avail>(Rating * 3)R</avail>
+      <cost>Rating * 4000</cost>
+      <weight />
+      <extra>Green Magic</extra>
+      <bonded>True</bonded>
+      <equipped>True</equipped>
+      <wirelesson>False</wirelesson>
+      <stolen>False</stolen>
+      <bonus>
+        <spellcategory>
+          <name>Health</name>
+          <val>Rating</val>
+        </spellcategory>
+        <selecttradition />
+      </bonus>
+      <wirelessbonus />
+      <weaponbonus />
+      <flechetteweaponbonus />
+      <source>SR5</source>
+      <page>320</page>
+      <isflechetteammo>False</isflechetteammo>
+      <ammoforweapontype />
+      <canformpersona />
+      <devicerating />
+      <gearname />
+      <forcedvalue />
+      <matrixcmfilled>0</matrixcmfilled>
+      <matrixcmbonus>0</matrixcmbonus>
+      <parentid />
+      <allowrename>False</allowrename>
+      <children />
+      <location />
+      <notes />
+      <notesColor>Chocolate</notesColor>
+      <discountedcost>False</discountedcost>
+      <programlimit />
+      <overclocked>None</overclocked>
+      <attack />
+      <sleaze />
+      <dataprocessing />
+      <firewall />
+      <attributearray />
+      <modattack />
+      <modsleaze />
+      <moddataprocessing />
+      <modfirewall />
+      <modattributearray />
+      <canswapattributes>False</canswapattributes>
+      <active>False</active>
+      <homenode>False</homenode>
+      <sortorder>0</sortorder>
+    </gear>
+    <gear>
+      <sourceid>72d1ca07-71b1-4085-8a4d-bd720a6b1908</sourceid>
+      <guid>ea07e995-7c47-4428-9be7-aae75f7f6e7b</guid>
+      <name>Erika Elite</name>
+      <category>Commlinks</category>
+      <capacity>0</capacity>
+      <armorcapacity>[2]</armorcapacity>
+      <minrating />
+      <maxrating />
+      <rating>0</rating>
+      <qty>1.0</qty>
+      <avail>8</avail>
+      <cost>2500</cost>
+      <weight />
+      <extra />
+      <bonded>False</bonded>
+      <equipped>True</equipped>
+      <wirelesson>False</wirelesson>
+      <stolen>False</stolen>
+      <bonus />
+      <wirelessbonus />
+      <weaponbonus />
+      <flechetteweaponbonus />
+      <source>SR5</source>
+      <page>438</page>
+      <isflechetteammo>False</isflechetteammo>
+      <ammoforweapontype />
+      <canformpersona>Self</canformpersona>
+      <devicerating>4</devicerating>
+      <gearname />
+      <forcedvalue />
+      <matrixcmfilled>0</matrixcmfilled>
+      <matrixcmbonus>0</matrixcmbonus>
+      <parentid />
+      <allowrename>False</allowrename>
+      <children>
+        <gear>
+          <sourceid>b1f2dcee-7304-4e5e-b022-f3393009a78c</sourceid>
+          <guid>0931b18d-5c46-4b44-89e2-73bb3e54deae</guid>
+          <name>Commlink Functionality</name>
+          <category>Electronics Accessories</category>
+          <capacity />
+          <armorcapacity />
+          <minrating />
+          <maxrating />
+          <rating>0</rating>
+          <qty>1.0</qty>
+          <avail>0</avail>
+          <cost>0</cost>
+          <weight />
+          <extra />
+          <bonded>False</bonded>
+          <equipped>True</equipped>
+          <wirelesson>False</wirelesson>
+          <stolen>False</stolen>
+          <bonus />
+          <wirelessbonus />
+          <weaponbonus />
+          <flechetteweaponbonus />
+          <source>SR5</source>
+          <page>438</page>
+          <isflechetteammo>False</isflechetteammo>
+          <ammoforweapontype />
+          <canformpersona />
+          <devicerating />
+          <gearname />
+          <forcedvalue />
+          <matrixcmfilled>0</matrixcmfilled>
+          <matrixcmbonus>0</matrixcmbonus>
+          <parentid>ea07e995-7c47-4428-9be7-aae75f7f6e7b</parentid>
+          <allowrename>False</allowrename>
+          <children>
+            <gear>
+              <sourceid>9cd0bf83-3cfa-4c61-bfb0-ae6c01ac8f8d</sourceid>
+              <guid>64cce5a1-1546-431f-bf85-c3faf00fe473</guid>
+              <name>Music Player</name>
+              <category>Electronics Accessories</category>
+              <capacity />
+              <armorcapacity />
+              <minrating />
+              <maxrating />
+              <rating>0</rating>
+              <qty>1.0</qty>
+              <avail>0</avail>
+              <cost>0</cost>
+              <weight />
+              <extra />
+              <bonded>False</bonded>
+              <equipped>True</equipped>
+              <wirelesson>False</wirelesson>
+              <stolen>False</stolen>
+              <bonus />
+              <wirelessbonus />
+              <weaponbonus />
+              <flechetteweaponbonus />
+              <source>SR5</source>
+              <page>438</page>
+              <isflechetteammo>False</isflechetteammo>
+              <ammoforweapontype />
+              <canformpersona />
+              <devicerating />
+              <gearname />
+              <forcedvalue />
+              <matrixcmfilled>0</matrixcmfilled>
+              <matrixcmbonus>0</matrixcmbonus>
+              <parentid>0931b18d-5c46-4b44-89e2-73bb3e54deae</parentid>
+              <allowrename>False</allowrename>
+              <children />
+              <location />
+              <notes />
+              <notesColor>Chocolate</notesColor>
+              <discountedcost>False</discountedcost>
+              <programlimit />
+              <overclocked>None</overclocked>
+              <attack />
+              <sleaze />
+              <dataprocessing />
+              <firewall />
+              <attributearray />
+              <modattack />
+              <modsleaze />
+              <moddataprocessing />
+              <modfirewall />
+              <modattributearray />
+              <canswapattributes>False</canswapattributes>
+              <active>False</active>
+              <homenode>False</homenode>
+              <sortorder>0</sortorder>
+            </gear>
+            <gear>
+              <sourceid>5db9c4b8-4d7a-4728-aff0-617102c57fc5</sourceid>
+              <guid>72f78b8e-09a2-4248-b62f-31450e9f961a</guid>
+              <name>Micro Trid-Projector</name>
+              <category>Electronics Accessories</category>
+              <capacity />
+              <armorcapacity />
+              <minrating />
+              <maxrating />
+              <rating>0</rating>
+              <qty>1.0</qty>
+              <avail>0</avail>
+              <cost>0</cost>
+              <weight />
+              <extra />
+              <bonded>False</bonded>
+              <equipped>True</equipped>
+              <wirelesson>False</wirelesson>
+              <stolen>False</stolen>
+              <bonus />
+              <wirelessbonus />
+              <weaponbonus />
+              <flechetteweaponbonus />
+              <source>SR5</source>
+              <page>438</page>
+              <isflechetteammo>False</isflechetteammo>
+              <ammoforweapontype />
+              <canformpersona />
+              <devicerating />
+              <gearname />
+              <forcedvalue />
+              <matrixcmfilled>0</matrixcmfilled>
+              <matrixcmbonus>0</matrixcmbonus>
+              <parentid>0931b18d-5c46-4b44-89e2-73bb3e54deae</parentid>
+              <allowrename>False</allowrename>
+              <children />
+              <location />
+              <notes />
+              <notesColor>Chocolate</notesColor>
+              <discountedcost>False</discountedcost>
+              <programlimit />
+              <overclocked>None</overclocked>
+              <attack />
+              <sleaze />
+              <dataprocessing />
+              <firewall />
+              <attributearray />
+              <modattack />
+              <modsleaze />
+              <moddataprocessing />
+              <modfirewall />
+              <modattributearray />
+              <canswapattributes>False</canswapattributes>
+              <active>False</active>
+              <homenode>False</homenode>
+              <sortorder>0</sortorder>
+            </gear>
+            <gear>
+              <sourceid>b19f022c-c854-4a3f-8b7a-d2a2532a2680</sourceid>
+              <guid>f2ec49ff-25be-4454-8eb5-a77f95466170</guid>
+              <name>Touchscreen Display</name>
+              <category>Electronics Accessories</category>
+              <capacity />
+              <armorcapacity />
+              <minrating />
+              <maxrating />
+              <rating>0</rating>
+              <qty>1.0</qty>
+              <avail>0</avail>
+              <cost>0</cost>
+              <weight />
+              <extra />
+              <bonded>False</bonded>
+              <equipped>True</equipped>
+              <wirelesson>False</wirelesson>
+              <stolen>False</stolen>
+              <bonus />
+              <wirelessbonus />
+              <weaponbonus />
+              <flechetteweaponbonus />
+              <source>SR5</source>
+              <page>438</page>
+              <isflechetteammo>False</isflechetteammo>
+              <ammoforweapontype />
+              <canformpersona />
+              <devicerating />
+              <gearname />
+              <forcedvalue />
+              <matrixcmfilled>0</matrixcmfilled>
+              <matrixcmbonus>0</matrixcmbonus>
+              <parentid>0931b18d-5c46-4b44-89e2-73bb3e54deae</parentid>
+              <allowrename>False</allowrename>
+              <children />
+              <location />
+              <notes />
+              <notesColor>Chocolate</notesColor>
+              <discountedcost>False</discountedcost>
+              <programlimit />
+              <overclocked>None</overclocked>
+              <attack />
+              <sleaze />
+              <dataprocessing />
+              <firewall />
+              <attributearray />
+              <modattack />
+              <modsleaze />
+              <moddataprocessing />
+              <modfirewall />
+              <modattributearray />
+              <canswapattributes>False</canswapattributes>
+              <active>False</active>
+              <homenode>False</homenode>
+              <sortorder>0</sortorder>
+            </gear>
+            <gear>
+              <sourceid>fa6fa434-107b-4f36-a138-f98b044dae76</sourceid>
+              <guid>79ff4c02-6c74-42d7-beff-4e003efaa6e3</guid>
+              <name>Camera, Micro</name>
+              <category>Vision Devices</category>
+              <capacity>[0]</capacity>
+              <armorcapacity>[1]</armorcapacity>
+              <minrating />
+              <maxrating />
+              <rating>0</rating>
+              <qty>1.0</qty>
+              <avail>0</avail>
+              <cost>0</cost>
+              <weight />
+              <extra />
+              <bonded>False</bonded>
+              <equipped>True</equipped>
+              <wirelesson>False</wirelesson>
+              <stolen>False</stolen>
+              <bonus />
+              <wirelessbonus />
+              <weaponbonus />
+              <flechetteweaponbonus />
+              <source>SR5</source>
+              <page>443</page>
+              <isflechetteammo>False</isflechetteammo>
+              <ammoforweapontype />
+              <canformpersona />
+              <devicerating />
+              <gearname />
+              <forcedvalue />
+              <matrixcmfilled>0</matrixcmfilled>
+              <matrixcmbonus>0</matrixcmbonus>
+              <parentid>0931b18d-5c46-4b44-89e2-73bb3e54deae</parentid>
+              <allowrename>False</allowrename>
+              <children />
+              <location />
+              <notes />
+              <notesColor>Chocolate</notesColor>
+              <discountedcost>False</discountedcost>
+              <programlimit />
+              <overclocked>None</overclocked>
+              <attack />
+              <sleaze />
+              <dataprocessing />
+              <firewall />
+              <attributearray />
+              <modattack />
+              <modsleaze />
+              <moddataprocessing />
+              <modfirewall />
+              <modattributearray />
+              <canswapattributes>False</canswapattributes>
+              <active>False</active>
+              <homenode>False</homenode>
+              <sortorder>0</sortorder>
+            </gear>
+            <gear>
+              <sourceid>5146abd2-6ab2-4aee-b523-a63d5c5ab93b</sourceid>
+              <guid>25c4afa5-1041-481c-b25d-2f073ec416e0</guid>
+              <name>RFID Tag Scanner</name>
+              <category>Electronics Accessories</category>
+              <capacity />
+              <armorcapacity />
+              <minrating />
+              <maxrating />
+              <rating>0</rating>
+              <qty>1.0</qty>
+              <avail>0</avail>
+              <cost>0</cost>
+              <weight />
+              <extra />
+              <bonded>False</bonded>
+              <equipped>True</equipped>
+              <wirelesson>False</wirelesson>
+              <stolen>False</stolen>
+              <bonus />
+              <wirelessbonus />
+              <weaponbonus />
+              <flechetteweaponbonus />
+              <source>SR5</source>
+              <page>438</page>
+              <isflechetteammo>False</isflechetteammo>
+              <ammoforweapontype />
+              <canformpersona />
+              <devicerating />
+              <gearname />
+              <forcedvalue />
+              <matrixcmfilled>0</matrixcmfilled>
+              <matrixcmbonus>0</matrixcmbonus>
+              <parentid>0931b18d-5c46-4b44-89e2-73bb3e54deae</parentid>
+              <allowrename>False</allowrename>
+              <children />
+              <location />
+              <notes />
+              <notesColor>Chocolate</notesColor>
+              <discountedcost>False</discountedcost>
+              <programlimit />
+              <overclocked>None</overclocked>
+              <attack />
+              <sleaze />
+              <dataprocessing />
+              <firewall />
+              <attributearray />
+              <modattack />
+              <modsleaze />
+              <moddataprocessing />
+              <modfirewall />
+              <modattributearray />
+              <canswapattributes>False</canswapattributes>
+              <active>False</active>
+              <homenode>False</homenode>
+              <sortorder>0</sortorder>
+            </gear>
+            <gear>
+              <sourceid>82946de2-876c-46d8-a6ec-744a38257668</sourceid>
+              <guid>3bcd0573-943d-4900-9ff6-254f49598e68</guid>
+              <name>GPS Guidance System</name>
+              <category>Electronics Accessories</category>
+              <capacity />
+              <armorcapacity />
+              <minrating />
+              <maxrating />
+              <rating>0</rating>
+              <qty>1.0</qty>
+              <avail>0</avail>
+              <cost>0</cost>
+              <weight />
+              <extra />
+              <bonded>False</bonded>
+              <equipped>True</equipped>
+              <wirelesson>False</wirelesson>
+              <stolen>False</stolen>
+              <bonus />
+              <wirelessbonus />
+              <weaponbonus />
+              <flechetteweaponbonus />
+              <source>SR5</source>
+              <page>438</page>
+              <isflechetteammo>False</isflechetteammo>
+              <ammoforweapontype />
+              <canformpersona />
+              <devicerating />
+              <gearname />
+              <forcedvalue />
+              <matrixcmfilled>0</matrixcmfilled>
+              <matrixcmbonus>0</matrixcmbonus>
+              <parentid>0931b18d-5c46-4b44-89e2-73bb3e54deae</parentid>
+              <allowrename>False</allowrename>
+              <children />
+              <location />
+              <notes />
+              <notesColor>Chocolate</notesColor>
+              <discountedcost>False</discountedcost>
+              <programlimit />
+              <overclocked>None</overclocked>
+              <attack />
+              <sleaze />
+              <dataprocessing />
+              <firewall />
+              <attributearray />
+              <modattack />
+              <modsleaze />
+              <moddataprocessing />
+              <modfirewall />
+              <modattributearray />
+              <canswapattributes>False</canswapattributes>
+              <active>False</active>
+              <homenode>False</homenode>
+              <sortorder>0</sortorder>
+            </gear>
+            <gear>
+              <sourceid>f9995732-7d00-496c-8407-a3dc0e1a82ff</sourceid>
+              <guid>cb947180-abc9-4c13-99ec-ef5b9e48d659</guid>
+              <name>Chip Player</name>
+              <category>Electronics Accessories</category>
+              <capacity />
+              <armorcapacity />
+              <minrating />
+              <maxrating />
+              <rating>0</rating>
+              <qty>1.0</qty>
+              <avail>0</avail>
+              <cost>0</cost>
+              <weight />
+              <extra />
+              <bonded>False</bonded>
+              <equipped>True</equipped>
+              <wirelesson>False</wirelesson>
+              <stolen>False</stolen>
+              <bonus />
+              <wirelessbonus />
+              <weaponbonus />
+              <flechetteweaponbonus />
+              <source>SR5</source>
+              <page>438</page>
+              <isflechetteammo>False</isflechetteammo>
+              <ammoforweapontype />
+              <canformpersona />
+              <devicerating />
+              <gearname />
+              <forcedvalue />
+              <matrixcmfilled>0</matrixcmfilled>
+              <matrixcmbonus>0</matrixcmbonus>
+              <parentid>0931b18d-5c46-4b44-89e2-73bb3e54deae</parentid>
+              <allowrename>False</allowrename>
+              <children />
+              <location />
+              <notes />
+              <notesColor>Chocolate</notesColor>
+              <discountedcost>False</discountedcost>
+              <programlimit />
+              <overclocked>None</overclocked>
+              <attack />
+              <sleaze />
+              <dataprocessing />
+              <firewall />
+              <attributearray />
+              <modattack />
+              <modsleaze />
+              <moddataprocessing />
+              <modfirewall />
+              <modattributearray />
+              <canswapattributes>False</canswapattributes>
+              <active>False</active>
+              <homenode>False</homenode>
+              <sortorder>0</sortorder>
+            </gear>
+            <gear>
+              <sourceid>1d6f985e-5cf0-463d-a445-fafdd387f301</sourceid>
+              <guid>4ef2cecd-1e36-4903-9f82-60c56eb924e7</guid>
+              <name>Credstick Reader</name>
+              <category>Electronics Accessories</category>
+              <capacity />
+              <armorcapacity />
+              <minrating />
+              <maxrating />
+              <rating>0</rating>
+              <qty>1.0</qty>
+              <avail>0</avail>
+              <cost>0</cost>
+              <weight />
+              <extra />
+              <bonded>False</bonded>
+              <equipped>True</equipped>
+              <wirelesson>False</wirelesson>
+              <stolen>False</stolen>
+              <bonus />
+              <wirelessbonus />
+              <weaponbonus />
+              <flechetteweaponbonus />
+              <source>SR5</source>
+              <page>438</page>
+              <isflechetteammo>False</isflechetteammo>
+              <ammoforweapontype />
+              <canformpersona />
+              <devicerating />
+              <gearname />
+              <forcedvalue />
+              <matrixcmfilled>0</matrixcmfilled>
+              <matrixcmbonus>0</matrixcmbonus>
+              <parentid>0931b18d-5c46-4b44-89e2-73bb3e54deae</parentid>
+              <allowrename>False</allowrename>
+              <children />
+              <location />
+              <notes />
+              <notesColor>Chocolate</notesColor>
+              <discountedcost>False</discountedcost>
+              <programlimit />
+              <overclocked>None</overclocked>
+              <attack />
+              <sleaze />
+              <dataprocessing />
+              <firewall />
+              <attributearray />
+              <modattack />
+              <modsleaze />
+              <moddataprocessing />
+              <modfirewall />
+              <modattributearray />
+              <canswapattributes>False</canswapattributes>
+              <active>False</active>
+              <homenode>False</homenode>
+              <sortorder>0</sortorder>
+            </gear>
+            <gear>
+              <sourceid>5d69d002-c33d-4d0f-9c4d-d78db4d78e5d</sourceid>
+              <guid>10063b23-6127-417d-ad6f-1fce1bed7722</guid>
+              <name>Earbuds</name>
+              <category>Audio Devices</category>
+              <capacity>[0]</capacity>
+              <armorcapacity />
+              <minrating />
+              <maxrating>3</maxrating>
+              <rating>1</rating>
+              <qty>1.0</qty>
+              <avail>0</avail>
+              <cost>0</cost>
+              <weight />
+              <extra />
+              <bonded>False</bonded>
+              <equipped>True</equipped>
+              <wirelesson>False</wirelesson>
+              <stolen>False</stolen>
+              <bonus />
+              <wirelessbonus />
+              <weaponbonus />
+              <flechetteweaponbonus />
+              <source>SR5</source>
+              <page>445</page>
+              <isflechetteammo>False</isflechetteammo>
+              <ammoforweapontype />
+              <canformpersona />
+              <devicerating />
+              <gearname />
+              <forcedvalue />
+              <matrixcmfilled>0</matrixcmfilled>
+              <matrixcmbonus>0</matrixcmbonus>
+              <parentid>0931b18d-5c46-4b44-89e2-73bb3e54deae</parentid>
+              <allowrename>False</allowrename>
+              <children />
+              <location />
+              <notes />
+              <notesColor>Chocolate</notesColor>
+              <discountedcost>False</discountedcost>
+              <programlimit />
+              <overclocked>None</overclocked>
+              <attack />
+              <sleaze />
+              <dataprocessing />
+              <firewall />
+              <attributearray />
+              <modattack />
+              <modsleaze />
+              <moddataprocessing />
+              <modfirewall />
+              <modattributearray />
+              <canswapattributes>False</canswapattributes>
+              <active>False</active>
+              <homenode>False</homenode>
+              <sortorder>0</sortorder>
+            </gear>
+            <gear>
+              <sourceid>786682fb-cbd5-4ee8-969a-233484004df7</sourceid>
+              <guid>b4ed43e7-de3c-4f4c-9c6a-888f5c75e3f4</guid>
+              <name>Shock- and Water-Resistant Case</name>
+              <category>Commlink Accessories</category>
+              <capacity />
+              <armorcapacity />
+              <minrating />
+              <maxrating />
+              <rating>0</rating>
+              <qty>1.0</qty>
+              <avail>0</avail>
+              <cost>0</cost>
+              <weight />
+              <extra />
+              <bonded>False</bonded>
+              <equipped>True</equipped>
+              <wirelesson>False</wirelesson>
+              <stolen>False</stolen>
+              <bonus />
+              <wirelessbonus />
+              <weaponbonus />
+              <flechetteweaponbonus />
+              <source>SR5</source>
+              <page>438</page>
+              <isflechetteammo>False</isflechetteammo>
+              <ammoforweapontype />
+              <canformpersona />
+              <devicerating />
+              <gearname />
+              <forcedvalue />
+              <matrixcmfilled>0</matrixcmfilled>
+              <matrixcmbonus>0</matrixcmbonus>
+              <parentid>0931b18d-5c46-4b44-89e2-73bb3e54deae</parentid>
+              <allowrename>False</allowrename>
+              <children />
+              <location />
+              <notes />
+              <notesColor>Chocolate</notesColor>
+              <discountedcost>False</discountedcost>
+              <programlimit />
+              <overclocked>None</overclocked>
+              <attack />
+              <sleaze />
+              <dataprocessing />
+              <firewall />
+              <attributearray />
+              <modattack />
+              <modsleaze />
+              <moddataprocessing />
+              <modfirewall />
+              <modattributearray />
+              <canswapattributes>False</canswapattributes>
+              <active>False</active>
+              <homenode>False</homenode>
+              <sortorder>0</sortorder>
+            </gear>
+          </children>
+          <location />
+          <notes />
+          <notesColor>Chocolate</notesColor>
+          <discountedcost>False</discountedcost>
+          <programlimit />
+          <overclocked>None</overclocked>
+          <attack />
+          <sleaze />
+          <dataprocessing />
+          <firewall />
+          <attributearray />
+          <modattack />
+          <modsleaze />
+          <moddataprocessing />
+          <modfirewall />
+          <modattributearray />
+          <canswapattributes>False</canswapattributes>
+          <active>False</active>
+          <homenode>False</homenode>
+          <sortorder>0</sortorder>
+        </gear>
+      </children>
+      <location />
+      <notes />
+      <notesColor>Chocolate</notesColor>
+      <discountedcost>False</discountedcost>
+      <programlimit />
+      <overclocked>None</overclocked>
+      <attack />
+      <sleaze />
+      <dataprocessing>4</dataprocessing>
+      <firewall>4</firewall>
+      <attributearray />
+      <modattack />
+      <modsleaze />
+      <moddataprocessing />
+      <modfirewall />
+      <modattributearray />
+      <canswapattributes>False</canswapattributes>
+      <active>True</active>
+      <homenode>False</homenode>
+      <sortorder>0</sortorder>
+    </gear>
+    <gear>
+      <sourceid>c56554d1-4102-446f-8d3e-acd0c7404c3a</sourceid>
+      <guid>fe75836d-dfca-4c19-827c-e2452caa00fe</guid>
+      <name>Certified Credstick, Standard</name>
+      <category>ID/Credsticks</category>
+      <capacity>5000</capacity>
+      <armorcapacity />
+      <minrating />
+      <maxrating />
+      <rating>0</rating>
+      <qty>5</qty>
+      <avail>0</avail>
+      <cost>5</cost>
+      <weight />
+      <extra />
+      <bonded>False</bonded>
+      <equipped>True</equipped>
+      <wirelesson>False</wirelesson>
+      <stolen>False</stolen>
+      <bonus />
+      <wirelessbonus />
+      <weaponbonus />
+      <flechetteweaponbonus />
+      <source>SR5</source>
+      <page>442</page>
+      <isflechetteammo>False</isflechetteammo>
+      <ammoforweapontype />
+      <canformpersona />
+      <devicerating>5</devicerating>
+      <gearname />
+      <forcedvalue />
+      <matrixcmfilled>0</matrixcmfilled>
+      <matrixcmbonus>0</matrixcmbonus>
+      <parentid />
+      <allowrename>False</allowrename>
+      <children />
+      <location />
+      <notes />
+      <notesColor>Chocolate</notesColor>
+      <discountedcost>False</discountedcost>
+      <programlimit />
+      <overclocked>None</overclocked>
+      <attack />
+      <sleaze />
+      <dataprocessing />
+      <firewall />
+      <attributearray />
+      <modattack />
+      <modsleaze />
+      <moddataprocessing />
+      <modfirewall />
+      <modattributearray />
+      <canswapattributes>False</canswapattributes>
+      <active>False</active>
+      <homenode>False</homenode>
+      <sortorder>0</sortorder>
+    </gear>
+    <gear>
+      <sourceid>d7c98f39-279e-4169-8818-0c3cad08205b</sourceid>
+      <guid>435b4b53-cc50-4111-ae53-fbc9e71ca956</guid>
+      <name>Backpack (Good)</name>
+      <category>Tools</category>
+      <capacity />
+      <armorcapacity />
+      <minrating />
+      <maxrating />
+      <rating>0</rating>
+      <qty>1.0</qty>
+      <avail>0</avail>
+      <cost>100</cost>
+      <weight />
+      <extra />
+      <bonded>False</bonded>
+      <equipped>True</equipped>
+      <wirelesson>False</wirelesson>
+      <stolen>False</stolen>
+      <bonus />
+      <wirelessbonus />
+      <weaponbonus />
+      <flechetteweaponbonus />
+      <source>RF</source>
+      <page>254</page>
+      <isflechetteammo>False</isflechetteammo>
+      <ammoforweapontype />
+      <canformpersona />
+      <devicerating />
+      <gearname />
+      <forcedvalue />
+      <matrixcmfilled>0</matrixcmfilled>
+      <matrixcmbonus>0</matrixcmbonus>
+      <parentid />
+      <allowrename>False</allowrename>
+      <children />
+      <location />
+      <notes />
+      <notesColor>Chocolate</notesColor>
+      <discountedcost>False</discountedcost>
+      <programlimit />
+      <overclocked>None</overclocked>
+      <attack />
+      <sleaze />
+      <dataprocessing />
+      <firewall />
+      <attributearray />
+      <modattack />
+      <modsleaze />
+      <moddataprocessing />
+      <modfirewall />
+      <modattributearray />
+      <canswapattributes>False</canswapattributes>
+      <active>False</active>
+      <homenode>False</homenode>
+      <sortorder>0</sortorder>
+    </gear>
+    <gear>
+      <sourceid>d1fca845-ae01-4b39-a176-1506da699e0e</sourceid>
+      <guid>2a716ecb-a4ce-4b60-89de-a6c10121ad15</guid>
+      <name>Micro-Transceiver</name>
+      <category>Communications and Countermeasures</category>
+      <capacity />
+      <armorcapacity>[1]</armorcapacity>
+      <minrating />
+      <maxrating />
+      <rating>0</rating>
+      <qty>1.0</qty>
+      <avail>2</avail>
+      <cost>100</cost>
+      <weight />
+      <extra />
+      <bonded>False</bonded>
+      <equipped>True</equipped>
+      <wirelesson>False</wirelesson>
+      <stolen>False</stolen>
+      <bonus />
+      <wirelessbonus />
+      <weaponbonus />
+      <flechetteweaponbonus />
+      <source>SR5</source>
+      <page>441</page>
+      <isflechetteammo>False</isflechetteammo>
+      <ammoforweapontype />
+      <canformpersona />
+      <devicerating />
+      <gearname />
+      <forcedvalue />
+      <matrixcmfilled>0</matrixcmfilled>
+      <matrixcmbonus>0</matrixcmbonus>
+      <parentid />
+      <allowrename>False</allowrename>
+      <children />
+      <location />
+      <notes>Micro-transceiver: This classic short-range com- municator has been favored by professional operatives since the 2050s. It doesn’t do anything special, it just lets you communicate by voice with other micro-trans- ceivers and commlinks that you (and the other person) choose, within a kilometer. The micro-transceiver con- sists of an ear bud and an adhesive subvocal micro- phone (p. 439), both of which are commonly available in hard-to-spot designs.</notes>
+      <notesColor>Chocolate</notesColor>
+      <discountedcost>False</discountedcost>
+      <programlimit />
+      <overclocked>None</overclocked>
+      <attack />
+      <sleaze />
+      <dataprocessing />
+      <firewall />
+      <attributearray />
+      <modattack />
+      <modsleaze />
+      <moddataprocessing />
+      <modfirewall />
+      <modattributearray />
+      <canswapattributes>False</canswapattributes>
+      <active>False</active>
+      <homenode>False</homenode>
+      <sortorder>0</sortorder>
+    </gear>
+    <gear>
+      <sourceid>0c800bca-e6ff-475b-a014-c2069f5e364c</sourceid>
+      <guid>8382a7d6-6a14-4baf-bb1b-1dc52c1316f1</guid>
+      <name>Fake SIN</name>
+      <category>ID/Credsticks</category>
+      <capacity />
+      <armorcapacity />
+      <minrating />
+      <maxrating>6</maxrating>
+      <rating>4</rating>
+      <qty>1.0</qty>
+      <avail>(Rating * 3)F</avail>
+      <cost>Rating * 2500</cost>
+      <weight />
+      <extra>Janet Bordough</extra>
+      <bonded>False</bonded>
+      <equipped>True</equipped>
+      <wirelesson>False</wirelesson>
+      <stolen>False</stolen>
+      <bonus>
+        <selecttext />
+      </bonus>
+      <wirelessbonus />
+      <weaponbonus />
+      <flechetteweaponbonus />
+      <source>SR5</source>
+      <page>442</page>
+      <isflechetteammo>False</isflechetteammo>
+      <ammoforweapontype />
+      <canformpersona />
+      <devicerating />
+      <gearname />
+      <forcedvalue />
+      <matrixcmfilled>0</matrixcmfilled>
+      <matrixcmbonus>0</matrixcmbonus>
+      <parentid />
+      <allowrename>True</allowrename>
+      <children>
+        <gear>
+          <sourceid>8a16bbb2-8028-4c74-b22b-7aad9d001073</sourceid>
+          <guid>fde8bd18-bcd2-4253-9aff-db93264ee9b0</guid>
+          <name>Fake License</name>
+          <category>ID/Credsticks</category>
+          <capacity />
+          <armorcapacity />
+          <minrating />
+          <maxrating>6</maxrating>
+          <rating>4</rating>
+          <qty>1.0</qty>
+          <avail>(Rating * 3)F</avail>
+          <cost>Rating * 200</cost>
+          <weight />
+          <extra>Mage License</extra>
+          <bonded>False</bonded>
+          <equipped>True</equipped>
+          <wirelesson>False</wirelesson>
+          <stolen>False</stolen>
+          <bonus>
+            <selectrestricted />
+          </bonus>
+          <wirelessbonus />
+          <weaponbonus />
+          <flechetteweaponbonus />
+          <source>SR5</source>
+          <page>443</page>
+          <isflechetteammo>False</isflechetteammo>
+          <ammoforweapontype />
+          <canformpersona />
+          <devicerating />
+          <gearname />
+          <forcedvalue />
+          <matrixcmfilled>0</matrixcmfilled>
+          <matrixcmbonus>0</matrixcmbonus>
+          <parentid />
+          <allowrename>True</allowrename>
+          <children />
+          <location />
+          <notes>Fake license: For those who can’t or won’t go through the standard legal channels, fake licenses are available for all kinds of restricted items and activities. Items with no letter next to their availability don’t require licenses. Items that are Forbidden have no license available. Licenses, therefore, are for Restricted items. Each type of item/ac- tivity permission requires a separate license. Things that require licenses include hunting (bow and rifle), posses- sion of a firearm, concealed carry of a firearm (separate license), spellcasting, and any Restricted gear or augmen- tations, etc. Just as SINs essentially exist on your com- mlink, fake licenses exist on your SIN and are linked to it. When you buy a fake concealed-carry license, you don’t buy it for Murderman the professional shadowrunner, you buy it for John Doe, one of Murderman’s fake SINs. Each license must be assigned to a particular (fake) SIN of the player’s choosing. Use the fake license’s rating against verification systems (Fake SIN, p. 367).</notes>
+          <notesColor>Chocolate</notesColor>
+          <discountedcost>False</discountedcost>
+          <programlimit />
+          <overclocked>None</overclocked>
+          <attack />
+          <sleaze />
+          <dataprocessing />
+          <firewall />
+          <attributearray />
+          <modattack />
+          <modsleaze />
+          <moddataprocessing />
+          <modfirewall />
+          <modattributearray />
+          <canswapattributes>False</canswapattributes>
+          <active>False</active>
+          <homenode>False</homenode>
+          <sortorder>0</sortorder>
+        </gear>
+        <gear>
+          <sourceid>c56554d1-4102-446f-8d3e-acd0c7404c3a</sourceid>
+          <guid>dac5bf5d-3fda-465b-80d1-070c91d0496c</guid>
+          <name>Certified Credstick, Standard</name>
+          <category>ID/Credsticks</category>
+          <capacity>5000</capacity>
+          <armorcapacity />
+          <minrating />
+          <maxrating />
+          <rating>0</rating>
+          <qty>1.0</qty>
+          <avail>0</avail>
+          <cost>5</cost>
+          <weight />
+          <extra />
+          <bonded>False</bonded>
+          <equipped>True</equipped>
+          <wirelesson>False</wirelesson>
+          <stolen>False</stolen>
+          <bonus />
+          <wirelessbonus />
+          <weaponbonus />
+          <flechetteweaponbonus />
+          <source>SR5</source>
+          <page>442</page>
+          <isflechetteammo>False</isflechetteammo>
+          <ammoforweapontype />
+          <canformpersona />
+          <devicerating>5</devicerating>
+          <gearname />
+          <forcedvalue />
+          <matrixcmfilled>0</matrixcmfilled>
+          <matrixcmbonus>0</matrixcmbonus>
+          <parentid />
+          <allowrename>False</allowrename>
+          <children />
+          <location />
+          <notes />
+          <notesColor>Chocolate</notesColor>
+          <discountedcost>False</discountedcost>
+          <programlimit />
+          <overclocked>None</overclocked>
+          <attack />
+          <sleaze />
+          <dataprocessing />
+          <firewall />
+          <attributearray />
+          <modattack />
+          <modsleaze />
+          <moddataprocessing />
+          <modfirewall />
+          <modattributearray />
+          <canswapattributes>False</canswapattributes>
+          <active>False</active>
+          <homenode>False</homenode>
+          <sortorder>0</sortorder>
+        </gear>
+      </children>
+      <location />
+      <notes />
+      <notesColor>Chocolate</notesColor>
+      <discountedcost>False</discountedcost>
+      <programlimit />
+      <overclocked>None</overclocked>
+      <attack />
+      <sleaze />
+      <dataprocessing />
+      <firewall />
+      <attributearray />
+      <modattack />
+      <modsleaze />
+      <moddataprocessing />
+      <modfirewall />
+      <modattributearray />
+      <canswapattributes>False</canswapattributes>
+      <active>False</active>
+      <homenode>False</homenode>
+      <sortorder>0</sortorder>
+    </gear>
+    <gear>
+      <sourceid>377c7545-50e3-4547-a47b-1a0cd9ee567f</sourceid>
+      <guid>22a07c20-66a8-4a08-9d3a-4b2d3a145a11</guid>
+      <name>Atomizer</name>
+      <category>Alchemical Tools</category>
+      <capacity />
+      <armorcapacity />
+      <minrating />
+      <maxrating />
+      <rating>0</rating>
+      <qty>1.0</qty>
+      <avail>4</avail>
+      <cost>500</cost>
+      <weight />
+      <extra />
+      <bonded>False</bonded>
+      <equipped>True</equipped>
+      <wirelesson>False</wirelesson>
+      <stolen>False</stolen>
+      <bonus />
+      <wirelessbonus />
+      <weaponbonus />
+      <flechetteweaponbonus />
+      <source>FA</source>
+      <page>193</page>
+      <isflechetteammo>False</isflechetteammo>
+      <ammoforweapontype />
+      <canformpersona />
+      <devicerating />
+      <gearname />
+      <forcedvalue />
+      <matrixcmfilled>0</matrixcmfilled>
+      <matrixcmbonus>0</matrixcmbonus>
+      <parentid />
+      <allowrename>False</allowrename>
+      <children />
+      <location />
+      <notes>One compound may be converted from a solid or liquid into an aerosol when inserted into the atomizer. Compounds made with a contact trigger are not enacted until they contact a substance after being fired from the atomizer. Atomizers can be used to make a ranged attack with a maximum range of three meters.</notes>
+      <notesColor>Chocolate</notesColor>
+      <discountedcost>False</discountedcost>
+      <programlimit />
+      <overclocked>None</overclocked>
+      <attack />
+      <sleaze />
+      <dataprocessing />
+      <firewall />
+      <attributearray />
+      <modattack />
+      <modsleaze />
+      <moddataprocessing />
+      <modfirewall />
+      <modattributearray />
+      <canswapattributes>False</canswapattributes>
+      <active>False</active>
+      <homenode>False</homenode>
+      <sortorder>0</sortorder>
+    </gear>
+    <gear>
+      <sourceid>4f5b4fbc-78c4-4aa4-a5c2-7739f12e9b39</sourceid>
+      <guid>4fb5b011-f68c-4349-9577-7fd3e2f2a449</guid>
+      <name>Certified Credstick, Silver</name>
+      <category>ID/Credsticks</category>
+      <capacity>20000</capacity>
+      <armorcapacity />
+      <minrating />
+      <maxrating />
+      <rating>0</rating>
+      <qty>1.0</qty>
+      <avail>0</avail>
+      <cost>20</cost>
+      <weight />
+      <extra />
+      <bonded>False</bonded>
+      <equipped>True</equipped>
+      <wirelesson>False</wirelesson>
+      <stolen>False</stolen>
+      <bonus />
+      <wirelessbonus />
+      <weaponbonus />
+      <flechetteweaponbonus />
+      <source>SR5</source>
+      <page>442</page>
+      <isflechetteammo>False</isflechetteammo>
+      <ammoforweapontype />
+      <canformpersona />
+      <devicerating>5</devicerating>
+      <gearname />
+      <forcedvalue />
+      <matrixcmfilled>0</matrixcmfilled>
+      <matrixcmbonus>0</matrixcmbonus>
+      <parentid />
+      <allowrename>False</allowrename>
+      <children />
+      <location />
+      <notes />
+      <notesColor>Chocolate</notesColor>
+      <discountedcost>False</discountedcost>
+      <programlimit />
+      <overclocked>None</overclocked>
+      <attack />
+      <sleaze />
+      <dataprocessing />
+      <firewall />
+      <attributearray />
+      <modattack />
+      <modsleaze />
+      <moddataprocessing />
+      <modfirewall />
+      <modattributearray />
+      <canswapattributes>False</canswapattributes>
+      <active>False</active>
+      <homenode>False</homenode>
+      <sortorder>0</sortorder>
+    </gear>
+    <gear>
+      <sourceid>de595490-7f88-4b1c-b239-009a6c5c10f4</sourceid>
+      <guid>09d429e0-d063-4def-8efa-2026ddb18aeb</guid>
+      <name>Crowbar</name>
+      <category>Breaking and Entering Gear</category>
+      <capacity />
+      <armorcapacity />
+      <minrating />
+      <maxrating />
+      <rating>0</rating>
+      <qty>1.0</qty>
+      <avail>0</avail>
+      <cost>20</cost>
+      <weight />
+      <extra />
+      <bonded>False</bonded>
+      <equipped>True</equipped>
+      <wirelesson>False</wirelesson>
+      <stolen>False</stolen>
+      <bonus />
+      <wirelessbonus />
+      <weaponbonus />
+      <flechetteweaponbonus />
+      <source>SR5</source>
+      <page>447</page>
+      <isflechetteammo>False</isflechetteammo>
+      <ammoforweapontype />
+      <canformpersona />
+      <devicerating />
+      <gearname />
+      <forcedvalue />
+      <matrixcmfilled>0</matrixcmfilled>
+      <matrixcmbonus>0</matrixcmbonus>
+      <parentid />
+      <allowrename>False</allowrename>
+      <children />
+      <location />
+      <notes />
+      <notesColor>Chocolate</notesColor>
+      <discountedcost>False</discountedcost>
+      <programlimit />
+      <overclocked>None</overclocked>
+      <attack />
+      <sleaze />
+      <dataprocessing />
+      <firewall />
+      <attributearray />
+      <modattack />
+      <modsleaze />
+      <moddataprocessing />
+      <modfirewall />
+      <modattributearray />
+      <canswapattributes>False</canswapattributes>
+      <active>False</active>
+      <homenode>False</homenode>
+      <sortorder>0</sortorder>
+    </gear>
+    <gear>
+      <sourceid>5deb8e1d-98bf-4cd4-9dce-b74d67546a1d</sourceid>
+      <guid>e76c2d06-d5cb-42da-aac3-5f830feb7400</guid>
+      <name>Datachip</name>
+      <category>RFID Tags</category>
+      <capacity />
+      <armorcapacity />
+      <minrating />
+      <maxrating />
+      <rating>0</rating>
+      <qty>10</qty>
+      <avail>0</avail>
+      <costfor>10</costfor>
+      <cost>5</cost>
+      <weight />
+      <extra />
+      <bonded>False</bonded>
+      <equipped>True</equipped>
+      <wirelesson>False</wirelesson>
+      <stolen>False</stolen>
+      <bonus />
+      <wirelessbonus />
+      <weaponbonus />
+      <flechetteweaponbonus />
+      <source>SR5</source>
+      <page>440</page>
+      <isflechetteammo>False</isflechetteammo>
+      <ammoforweapontype />
+      <canformpersona />
+      <devicerating>1</devicerating>
+      <gearname />
+      <forcedvalue />
+      <matrixcmfilled>0</matrixcmfilled>
+      <matrixcmbonus>0</matrixcmbonus>
+      <parentid />
+      <allowrename>False</allowrename>
+      <children />
+      <location />
+      <notes>Datachip: For occasions when you want to transfer data by physical means—like bringing the project specs on the competition’s new cyberdeck to Mr. Johnson in person at the meet—a datachip can hold enormous quantitites of data in a small finger-sized chip, accessible by any electronic device. Datachips have no wireless ca- pability, so you need to plug them into a universal data connector (found on any device) if you want to read or write to them.</notes>
+      <notesColor>Chocolate</notesColor>
+      <discountedcost>False</discountedcost>
+      <programlimit />
+      <overclocked>None</overclocked>
+      <attack />
+      <sleaze />
+      <dataprocessing />
+      <firewall />
+      <attributearray />
+      <modattack />
+      <modsleaze />
+      <moddataprocessing />
+      <modfirewall />
+      <modattributearray />
+      <canswapattributes>False</canswapattributes>
+      <active>False</active>
+      <homenode>False</homenode>
+      <sortorder>0</sortorder>
+    </gear>
+    <gear>
+      <sourceid>baa9ba27-f93b-48da-91b7-cfcce0ba274d</sourceid>
+      <guid>483e76ee-6095-48dc-b13c-a7ae4e1431fd</guid>
+      <name>Stealth Tags</name>
+      <category>RFID Tags</category>
+      <capacity />
+      <armorcapacity />
+      <minrating />
+      <maxrating />
+      <rating>0</rating>
+      <qty>10</qty>
+      <avail>7R</avail>
+      <costfor>10</costfor>
+      <cost>10</cost>
+      <weight />
+      <extra />
+      <bonded>False</bonded>
+      <equipped>True</equipped>
+      <wirelesson>False</wirelesson>
+      <stolen>False</stolen>
+      <bonus />
+      <wirelessbonus />
+      <weaponbonus />
+      <flechetteweaponbonus />
+      <source>SR5</source>
+      <page>440</page>
+      <isflechetteammo>False</isflechetteammo>
+      <ammoforweapontype />
+      <canformpersona />
+      <devicerating>3</devicerating>
+      <gearname />
+      <forcedvalue />
+      <matrixcmfilled>0</matrixcmfilled>
+      <matrixcmbonus>0</matrixcmbonus>
+      <parentid />
+      <allowrename>False</allowrename>
+      <children />
+      <location />
+      <notes>Stealth tags: A stealth tag always runs silent (p. 235) and has a Sleaze rating equal to its Device Rating. It’s disguised to not look like RFID tags, which gives it an additional –2 Concealability modifier. Stealth tags are often used as a backup for security tags by megacorps that are security conscious (and sneaky). They can be implanted the same way security tags can.</notes>
+      <notesColor>Chocolate</notesColor>
+      <discountedcost>False</discountedcost>
+      <programlimit />
+      <overclocked>None</overclocked>
+      <attack />
+      <sleaze>3</sleaze>
+      <dataprocessing />
+      <firewall />
+      <attributearray />
+      <modattack />
+      <modsleaze />
+      <moddataprocessing />
+      <modfirewall />
+      <modattributearray />
+      <canswapattributes>False</canswapattributes>
+      <active>False</active>
+      <homenode>False</homenode>
+      <sortorder>0</sortorder>
+    </gear>
+    <gear>
+      <sourceid>84bb92e7-ce13-4eb6-bf9e-15bf3887469c</sourceid>
+      <guid>63d43430-55ad-49ea-9652-40757a30f584</guid>
+      <name>Standard Tags</name>
+      <category>RFID Tags</category>
+      <capacity />
+      <armorcapacity />
+      <minrating />
+      <maxrating />
+      <rating>0</rating>
+      <qty>10</qty>
+      <avail>0</avail>
+      <costfor>10</costfor>
+      <cost>1</cost>
+      <weight />
+      <extra />
+      <bonded>False</bonded>
+      <equipped>True</equipped>
+      <wirelesson>False</wirelesson>
+      <stolen>False</stolen>
+      <bonus />
+      <wirelessbonus />
+      <weaponbonus />
+      <flechetteweaponbonus />
+      <source>SR5</source>
+      <page>440</page>
+      <isflechetteammo>False</isflechetteammo>
+      <ammoforweapontype />
+      <canformpersona />
+      <devicerating>1</devicerating>
+      <gearname />
+      <forcedvalue />
+      <matrixcmfilled>0</matrixcmfilled>
+      <matrixcmbonus>0</matrixcmbonus>
+      <parentid />
+      <allowrename>False</allowrename>
+      <children />
+      <location />
+      <notes />
+      <notesColor>Chocolate</notesColor>
+      <discountedcost>False</discountedcost>
+      <programlimit />
+      <overclocked>None</overclocked>
+      <attack />
+      <sleaze />
+      <dataprocessing />
+      <firewall />
+      <attributearray />
+      <modattack />
+      <modsleaze />
+      <moddataprocessing />
+      <modfirewall />
+      <modattributearray />
+      <canswapattributes>False</canswapattributes>
+      <active>False</active>
+      <homenode>False</homenode>
+      <sortorder>0</sortorder>
+    </gear>
+    <gear>
+      <sourceid>418d5ba1-dd19-4179-add8-074be445a7b2</sourceid>
+      <guid>b9a4b6a2-d2fc-4228-bc68-41c35b91fd28</guid>
+      <name>Trodes</name>
+      <category>Electronics Accessories</category>
+      <capacity />
+      <armorcapacity>[2]</armorcapacity>
+      <minrating />
+      <maxrating />
+      <rating>0</rating>
+      <qty>1.0</qty>
+      <avail>0</avail>
+      <cost>70</cost>
+      <weight />
+      <extra />
+      <bonded>False</bonded>
+      <equipped>True</equipped>
+      <wirelesson>False</wirelesson>
+      <stolen>False</stolen>
+      <bonus />
+      <wirelessbonus />
+      <weaponbonus />
+      <flechetteweaponbonus />
+      <source>SR5</source>
+      <page>439</page>
+      <isflechetteammo>False</isflechetteammo>
+      <ammoforweapontype />
+      <canformpersona />
+      <devicerating>3</devicerating>
+      <gearname />
+      <forcedvalue />
+      <matrixcmfilled>0</matrixcmfilled>
+      <matrixcmbonus>0</matrixcmbonus>
+      <parentid />
+      <allowrename>False</allowrename>
+      <children />
+      <location />
+      <notes>Trodes: Available as a headband, net, or full-on cap, this electrode-and-ultrasound net gives you a direct neural interface. Useful if you’re too squeamish to get a hole drilled in your head for a datajack. Adding this to headgear takes two slots of Capacity.</notes>
+      <notesColor>Chocolate</notesColor>
+      <discountedcost>False</discountedcost>
+      <programlimit />
+      <overclocked>None</overclocked>
+      <attack />
+      <sleaze />
+      <dataprocessing />
+      <firewall />
+      <attributearray />
+      <modattack />
+      <modsleaze />
+      <moddataprocessing />
+      <modfirewall />
+      <modattributearray />
+      <canswapattributes>False</canswapattributes>
+      <active>False</active>
+      <homenode>False</homenode>
+      <sortorder>0</sortorder>
+    </gear>
+    <gear>
+      <sourceid>5de1956f-0ec3-4fad-9e9a-d8b90ac1e3f4</sourceid>
+      <guid>250f538f-21ff-4cc0-afbe-72545eb09d1f</guid>
+      <name>Slap Patch, Trauma Patch</name>
+      <category>Biotech</category>
+      <capacity />
+      <armorcapacity />
+      <minrating />
+      <maxrating />
+      <rating>0</rating>
+      <qty>1.0</qty>
+      <avail>6</avail>
+      <cost>500</cost>
+      <weight />
+      <extra />
+      <bonded>False</bonded>
+      <equipped>True</equipped>
+      <wirelesson>False</wirelesson>
+      <stolen>False</stolen>
+      <bonus />
+      <wirelessbonus />
+      <weaponbonus />
+      <flechetteweaponbonus />
+      <source>SR5</source>
+      <page>451</page>
+      <isflechetteammo>False</isflechetteammo>
+      <ammoforweapontype />
+      <canformpersona />
+      <devicerating />
+      <gearname />
+      <forcedvalue />
+      <matrixcmfilled>0</matrixcmfilled>
+      <matrixcmbonus>0</matrixcmbonus>
+      <parentid />
+      <allowrename>False</allowrename>
+      <children />
+      <location />
+      <notes />
+      <notesColor>Chocolate</notesColor>
+      <discountedcost>False</discountedcost>
+      <programlimit />
+      <overclocked>None</overclocked>
+      <attack />
+      <sleaze />
+      <dataprocessing />
+      <firewall />
+      <attributearray />
+      <modattack />
+      <modsleaze />
+      <moddataprocessing />
+      <modfirewall />
+      <modattributearray />
+      <canswapattributes>False</canswapattributes>
+      <active>False</active>
+      <homenode>False</homenode>
+      <sortorder>0</sortorder>
+    </gear>
+    <gear>
+      <sourceid>320bd9e3-e261-4a45-aa03-c740b6855e73</sourceid>
+      <guid>bdfacea7-b6ca-4fe8-b53f-89d8ba4623e7</guid>
+      <name>Slap Patch, Stim Patch</name>
+      <category>Biotech</category>
+      <capacity />
+      <armorcapacity />
+      <minrating />
+      <maxrating>6</maxrating>
+      <rating>1</rating>
+      <qty>2</qty>
+      <avail>Rating * 2</avail>
+      <cost>Rating * 25</cost>
+      <weight />
+      <extra />
+      <bonded>False</bonded>
+      <equipped>True</equipped>
+      <wirelesson>False</wirelesson>
+      <stolen>False</stolen>
+      <bonus />
+      <wirelessbonus />
+      <weaponbonus />
+      <flechetteweaponbonus />
+      <source>SR5</source>
+      <page>451</page>
+      <isflechetteammo>False</isflechetteammo>
+      <ammoforweapontype />
+      <canformpersona />
+      <devicerating />
+      <gearname />
+      <forcedvalue />
+      <matrixcmfilled>0</matrixcmfilled>
+      <matrixcmbonus>0</matrixcmbonus>
+      <parentid />
+      <allowrename>False</allowrename>
+      <children />
+      <location />
+      <notes />
+      <notesColor>Chocolate</notesColor>
+      <discountedcost>False</discountedcost>
+      <programlimit />
+      <overclocked>None</overclocked>
+      <attack />
+      <sleaze />
+      <dataprocessing />
+      <firewall />
+      <attributearray />
+      <modattack />
+      <modsleaze />
+      <moddataprocessing />
+      <modfirewall />
+      <modattributearray />
+      <canswapattributes>False</canswapattributes>
+      <active>False</active>
+      <homenode>False</homenode>
+      <sortorder>0</sortorder>
+    </gear>
+    <gear>
+      <sourceid>ae9c37df-6d82-44c1-aa21-6c87e45e2dc1</sourceid>
+      <guid>924b47b1-1ad1-4f6a-adc5-6ab4e3a11547</guid>
+      <name>Medkit</name>
+      <category>Biotech</category>
+      <capacity />
+      <armorcapacity>[5]</armorcapacity>
+      <minrating />
+      <maxrating>6</maxrating>
+      <rating>3</rating>
+      <qty>1.0</qty>
+      <avail>Rating</avail>
+      <cost>Rating * 250</cost>
+      <weight />
+      <extra />
+      <bonded>False</bonded>
+      <equipped>True</equipped>
+      <wirelesson>False</wirelesson>
+      <stolen>False</stolen>
+      <bonus>
+        <limitmodifier>
+          <limit>Mental</limit>
+          <value>Rating</value>
+          <condition>LimitCondition_SkillsActiveFirstAidMedicine</condition>
+        </limitmodifier>
+      </bonus>
+      <wirelessbonus />
+      <weaponbonus />
+      <flechetteweaponbonus />
+      <source>SR5</source>
+      <page>450</page>
+      <isflechetteammo>False</isflechetteammo>
+      <ammoforweapontype />
+      <canformpersona />
+      <devicerating />
+      <gearname />
+      <forcedvalue />
+      <matrixcmfilled>0</matrixcmfilled>
+      <matrixcmbonus>0</matrixcmbonus>
+      <parentid />
+      <allowrename>False</allowrename>
+      <children />
+      <location />
+      <notes>Medkit: The medkit includes drug supplies, bandages, tools, and a (talkative) doctor expert system that can ad- vise the user on techniques to handle most typical medical emergencies (including fractures, gunshot wounds, chem- ical wounds, and poisoning, as well as offering advice for the treating of shock, handling blood loss, and of course performing resuscitations). Add the medkit’s rating to your limit on First Aid tests. A medkit of Rating 3 or lower fits in a pocket; at Rating 4+ it’s a handheld case. The medkit needs to be restocked after every (Rating) uses.</notes>
+      <notesColor>Chocolate</notesColor>
+      <discountedcost>False</discountedcost>
+      <programlimit />
+      <overclocked>None</overclocked>
+      <attack />
+      <sleaze />
+      <dataprocessing />
+      <firewall />
+      <attributearray />
+      <modattack />
+      <modsleaze />
+      <moddataprocessing />
+      <modfirewall />
+      <modattributearray />
+      <canswapattributes>False</canswapattributes>
+      <active>False</active>
+      <homenode>False</homenode>
+      <sortorder>0</sortorder>
+    </gear>
+  </gears>
+  <vehicles />
+  <metamagics />
+  <arts />
+  <enhancements />
+  <critterpowers />
+  <initiationgrades />
+  <improvements>
+    <improvement>
+      <target />
+      <improvedname>Spellcasting</improvedname>
+      <sourcename />
+      <min>0</min>
+      <max>0</max>
+      <aug>0</aug>
+      <augmax>0</augmax>
+      <val>5</val>
+      <rating>1</rating>
+      <exclude />
+      <condition />
+      <improvementttype>SkillBase</improvementttype>
+      <improvementsource>Heritage</improvementsource>
+      <custom>False</custom>
+      <customname />
+      <customid />
+      <customgroup />
+      <addtorating>False</addtorating>
+      <enabled>True</enabled>
+      <order>0</order>
+      <notes />
+      <notesColor>Chocolate</notesColor>
+    </improvement>
+    <improvement>
+      <target />
+      <improvedname>Ritual Spellcasting</improvedname>
+      <sourcename />
+      <min>0</min>
+      <max>0</max>
+      <aug>0</aug>
+      <augmax>0</augmax>
+      <val>5</val>
+      <rating>1</rating>
+      <exclude />
+      <condition />
+      <improvementttype>SkillBase</improvementttype>
+      <improvementsource>Heritage</improvementsource>
+      <custom>False</custom>
+      <customname />
+      <customid />
+      <customgroup />
+      <addtorating>False</addtorating>
+      <enabled>True</enabled>
+      <order>0</order>
+      <notes />
+      <notesColor>Chocolate</notesColor>
+    </improvement>
+    <improvement>
+      <unique>enableattribute</unique>
+      <target />
+      <improvedname>MAG</improvedname>
+      <sourcename>999bdc42-b8da-43a7-aa16-73620270864a</sourcename>
+      <min>0</min>
+      <max>0</max>
+      <aug>0</aug>
+      <augmax>0</augmax>
+      <val>0</val>
+      <rating>0</rating>
+      <exclude />
+      <condition />
+      <improvementttype>Attribute</improvementttype>
+      <improvementsource>Quality</improvementsource>
+      <custom>False</custom>
+      <customname />
+      <customid />
+      <customgroup />
+      <addtorating>False</addtorating>
+      <enabled>True</enabled>
+      <order>0</order>
+      <notes />
+      <notesColor>Chocolate</notesColor>
+    </improvement>
+    <improvement>
+      <unique>enabletab</unique>
+      <target />
+      <improvedname>Magician</improvedname>
+      <sourcename>999bdc42-b8da-43a7-aa16-73620270864a</sourcename>
+      <min>0</min>
+      <max>0</max>
+      <aug>0</aug>
+      <augmax>0</augmax>
+      <val>0</val>
+      <rating>0</rating>
+      <exclude />
+      <condition />
+      <improvementttype>SpecialTab</improvementttype>
+      <improvementsource>Quality</improvementsource>
+      <custom>False</custom>
+      <customname />
+      <customid />
+      <customgroup />
+      <addtorating>False</addtorating>
+      <enabled>True</enabled>
+      <order>0</order>
+      <notes />
+      <notesColor>Chocolate</notesColor>
+    </improvement>
+    <improvement>
+      <target />
+      <improvedname>Magician</improvedname>
+      <sourcename>999bdc42-b8da-43a7-aa16-73620270864a</sourcename>
+      <min>0</min>
+      <max>0</max>
+      <aug>0</aug>
+      <augmax>0</augmax>
+      <val>0</val>
+      <rating>1</rating>
+      <exclude />
+      <condition />
+      <improvementttype>SpecialSkills</improvementttype>
+      <improvementsource>Quality</improvementsource>
+      <custom>False</custom>
+      <customname />
+      <customid />
+      <customgroup />
+      <addtorating>False</addtorating>
+      <enabled>True</enabled>
+      <order>0</order>
+      <notes />
+      <notesColor>Chocolate</notesColor>
+    </improvement>
+    <improvement>
+      <target />
+      <improvedname>Claustraphobia</improvedname>
+      <sourcename>feeda46e-bce8-46d2-bb0a-e67b84c0251a</sourcename>
+      <min>0</min>
+      <max>0</max>
+      <aug>0</aug>
+      <augmax>0</augmax>
+      <val>0</val>
+      <rating>1</rating>
+      <exclude />
+      <condition />
+      <improvementttype>Text</improvementttype>
+      <improvementsource>Quality</improvementsource>
+      <custom>False</custom>
+      <customname />
+      <customid />
+      <customgroup />
+      <addtorating>False</addtorating>
+      <enabled>True</enabled>
+      <order>0</order>
+      <notes />
+      <notesColor>Chocolate</notesColor>
+    </improvement>
+    <improvement>
+      <target />
+      <improvedname>a66ce711-508a-4eb8-b624-2a6ac279586e</improvedname>
+      <sourcename>1f3ff52e-68cd-4052-ae70-6af8da8d14e0</sourcename>
+      <min>0</min>
+      <max>0</max>
+      <aug>0</aug>
+      <augmax>0</augmax>
+      <val>0</val>
+      <rating>1</rating>
+      <exclude />
+      <condition />
+      <improvementttype>SpecificQuality</improvementttype>
+      <improvementsource>Quality</improvementsource>
+      <custom>False</custom>
+      <customname />
+      <customid />
+      <customgroup />
+      <addtorating>False</addtorating>
+      <enabled>True</enabled>
+      <order>0</order>
+      <notes />
+      <notesColor>Chocolate</notesColor>
+    </improvement>
+    <improvement>
+      <target />
+      <improvedname>Social Active</improvedname>
+      <sourcename>1f3ff52e-68cd-4052-ae70-6af8da8d14e0</sourcename>
+      <min>0</min>
+      <max>0</max>
+      <aug>0</aug>
+      <augmax>0</augmax>
+      <val>1</val>
+      <rating>1</rating>
+      <exclude>Intimidation</exclude>
+      <condition />
+      <improvementttype>SkillCategory</improvementttype>
+      <improvementsource>Quality</improvementsource>
+      <custom>False</custom>
+      <customname />
+      <customid />
+      <customgroup />
+      <addtorating>False</addtorating>
+      <enabled>True</enabled>
+      <order>0</order>
+      <notes />
+      <notesColor>Chocolate</notesColor>
+    </improvement>
+    <improvement>
+      <target />
+      <improvedname>Social</improvedname>
+      <sourcename>1f3ff52e-68cd-4052-ae70-6af8da8d14e0</sourcename>
+      <min>0</min>
+      <max>0</max>
+      <aug>0</aug>
+      <augmax>0</augmax>
+      <val>2</val>
+      <rating>1</rating>
+      <exclude />
+      <condition />
+      <improvementttype>SocialLimit</improvementttype>
+      <improvementsource>Quality</improvementsource>
+      <custom>False</custom>
+      <customname />
+      <customid />
+      <customgroup />
+      <addtorating>False</addtorating>
+      <enabled>True</enabled>
+      <order>0</order>
+      <notes />
+      <notesColor>Chocolate</notesColor>
+    </improvement>
+    <improvement>
+      <unique>enableattribute</unique>
+      <target />
+      <improvedname>MAG</improvedname>
+      <sourcename>6d107968-d5a5-47d6-8447-65cfb6a9c922</sourcename>
+      <min>0</min>
+      <max>0</max>
+      <aug>0</aug>
+      <augmax>0</augmax>
+      <val>0</val>
+      <rating>0</rating>
+      <exclude />
+      <condition />
+      <improvementttype>Attribute</improvementttype>
+      <improvementsource>Quality</improvementsource>
+      <custom>False</custom>
+      <customname />
+      <customid />
+      <customgroup />
+      <addtorating>False</addtorating>
+      <enabled>True</enabled>
+      <order>0</order>
+      <notes />
+      <notesColor>Chocolate</notesColor>
+    </improvement>
+    <improvement>
+      <unique>enabletab</unique>
+      <target />
+      <improvedname>Magician</improvedname>
+      <sourcename>6d107968-d5a5-47d6-8447-65cfb6a9c922</sourcename>
+      <min>0</min>
+      <max>0</max>
+      <aug>0</aug>
+      <augmax>0</augmax>
+      <val>0</val>
+      <rating>0</rating>
+      <exclude />
+      <condition />
+      <improvementttype>SpecialTab</improvementttype>
+      <improvementsource>Quality</improvementsource>
+      <custom>False</custom>
+      <customname />
+      <customid />
+      <customgroup />
+      <addtorating>False</addtorating>
+      <enabled>True</enabled>
+      <order>0</order>
+      <notes />
+      <notesColor>Chocolate</notesColor>
+    </improvement>
+    <improvement>
+      <target />
+      <improvedname>Magician</improvedname>
+      <sourcename>6d107968-d5a5-47d6-8447-65cfb6a9c922</sourcename>
+      <min>0</min>
+      <max>0</max>
+      <aug>0</aug>
+      <augmax>0</augmax>
+      <val>0</val>
+      <rating>1</rating>
+      <exclude />
+      <condition />
+      <improvementttype>SpecialSkills</improvementttype>
+      <improvementsource>Quality</improvementsource>
+      <custom>False</custom>
+      <customname />
+      <customid />
+      <customgroup />
+      <addtorating>False</addtorating>
+      <enabled>True</enabled>
+      <order>0</order>
+      <notes />
+      <notesColor>Chocolate</notesColor>
+    </improvement>
+    <improvement>
+      <target />
+      <improvedname>Health</improvedname>
+      <sourcename>cccfd6f5-8c7b-4f90-8e18-494e05a1b32a</sourcename>
+      <min>0</min>
+      <max>0</max>
+      <aug>0</aug>
+      <augmax>0</augmax>
+      <val>2</val>
+      <rating>1</rating>
+      <exclude />
+      <condition />
+      <improvementttype>SpellCategory</improvementttype>
+      <improvementsource>MentorSpirit</improvementsource>
+      <custom>False</custom>
+      <customname />
+      <customid />
+      <customgroup />
+      <addtorating>False</addtorating>
+      <enabled>True</enabled>
+      <order>0</order>
+      <notes />
+      <notesColor>Chocolate</notesColor>
+    </improvement>
+    <improvement>
+      <unique>4d15a346-8f27-42c5-be8c-33a7bd56067d</unique>
+      <target />
+      <improvedname>cccfd6f5-8c7b-4f90-8e18-494e05a1b32a</improvedname>
+      <sourcename>920ebe46-7577-40c2-b298-4d3bd74aa792</sourcename>
+      <min>0</min>
+      <max>0</max>
+      <aug>0</aug>
+      <augmax>0</augmax>
+      <val>0</val>
+      <rating>1</rating>
+      <exclude />
+      <condition />
+      <improvementttype>MentorSpirit</improvementttype>
+      <improvementsource>Quality</improvementsource>
+      <custom>False</custom>
+      <customname />
+      <customid />
+      <customgroup />
+      <addtorating>False</addtorating>
+      <enabled>True</enabled>
+      <order>0</order>
+      <notes />
+      <notesColor>Chocolate</notesColor>
+    </improvement>
+    <improvement>
+      <target />
+      <improvedname>Health</improvedname>
+      <sourcename>33eacc91-f129-4bca-a43a-7f0b38db2598</sourcename>
+      <min>0</min>
+      <max>0</max>
+      <aug>0</aug>
+      <augmax>0</augmax>
+      <val>2</val>
+      <rating>1</rating>
+      <exclude />
+      <condition />
+      <improvementttype>SpellCategory</improvementttype>
+      <improvementsource>Gear</improvementsource>
+      <custom>False</custom>
+      <customname />
+      <customid />
+      <customgroup />
+      <addtorating>False</addtorating>
+      <enabled>True</enabled>
+      <order>0</order>
+      <notes />
+      <notesColor>Chocolate</notesColor>
+    </improvement>
+    <improvement>
+      <target />
+      <improvedname>Green Magic</improvedname>
+      <sourcename>33eacc91-f129-4bca-a43a-7f0b38db2598</sourcename>
+      <min>0</min>
+      <max>0</max>
+      <aug>0</aug>
+      <augmax>0</augmax>
+      <val>0</val>
+      <rating>1</rating>
+      <exclude />
+      <condition />
+      <improvementttype>Tradition</improvementttype>
+      <improvementsource>Gear</improvementsource>
+      <custom>False</custom>
+      <customname />
+      <customid />
+      <customgroup />
+      <addtorating>False</addtorating>
+      <enabled>True</enabled>
+      <order>0</order>
+      <notes />
+      <notesColor>Chocolate</notesColor>
+    </improvement>
+    <improvement>
+      <target />
+      <improvedname>Janet Bordough</improvedname>
+      <sourcename>8382a7d6-6a14-4baf-bb1b-1dc52c1316f1</sourcename>
+      <min>0</min>
+      <max>0</max>
+      <aug>0</aug>
+      <augmax>0</augmax>
+      <val>0</val>
+      <rating>1</rating>
+      <exclude />
+      <condition />
+      <improvementttype>Text</improvementttype>
+      <improvementsource>Gear</improvementsource>
+      <custom>False</custom>
+      <customname />
+      <customid />
+      <customgroup />
+      <addtorating>False</addtorating>
+      <enabled>True</enabled>
+      <order>0</order>
+      <notes />
+      <notesColor>Chocolate</notesColor>
+    </improvement>
+    <improvement>
+      <target />
+      <improvedname>Mage License</improvedname>
+      <sourcename>fde8bd18-bcd2-4253-9aff-db93264ee9b0</sourcename>
+      <min>0</min>
+      <max>0</max>
+      <aug>0</aug>
+      <augmax>0</augmax>
+      <val>0</val>
+      <rating>1</rating>
+      <exclude />
+      <condition />
+      <improvementttype>Restricted</improvementttype>
+      <improvementsource>Gear</improvementsource>
+      <custom>False</custom>
+      <customname />
+      <customid />
+      <customgroup />
+      <addtorating>False</addtorating>
+      <enabled>True</enabled>
+      <order>0</order>
+      <notes />
+      <notesColor>Chocolate</notesColor>
+    </improvement>
+    <improvement>
+      <target />
+      <improvedname>56b974a9-70e9-4d78-a2e9-45928bd82971</improvedname>
+      <sourcename>924b47b1-1ad1-4f6a-adc5-6ab4e3a11547</sourcename>
+      <min>0</min>
+      <max>0</max>
+      <aug>0</aug>
+      <augmax>0</augmax>
+      <val>3</val>
+      <rating>0</rating>
+      <exclude />
+      <condition>LimitCondition_SkillsActiveFirstAidMedicine</condition>
+      <improvementttype>LimitModifier</improvementttype>
+      <improvementsource>Gear</improvementsource>
+      <custom>False</custom>
+      <customname />
+      <customid />
+      <customgroup />
+      <addtorating>False</addtorating>
+      <enabled>True</enabled>
+      <order>0</order>
+      <notes />
+      <notesColor>Chocolate</notesColor>
+    </improvement>
+    <improvement>
+      <target />
+      <improvedname>Public Grid</improvedname>
+      <sourcename>cb6881d7-ba94-4437-bbd4-e4915264dfd5</sourcename>
+      <min>0</min>
+      <max>0</max>
+      <aug>0</aug>
+      <augmax>0</augmax>
+      <val>0</val>
+      <rating>1</rating>
+      <exclude />
+      <condition />
+      <improvementttype>Text</improvementttype>
+      <improvementsource>Quality</improvementsource>
+      <custom>False</custom>
+      <customname />
+      <customid />
+      <customgroup />
+      <addtorating>False</addtorating>
+      <enabled>True</enabled>
+      <order>0</order>
+      <notes />
+      <notesColor>Chocolate</notesColor>
+    </improvement>
+  </improvements>
+  <sustainedobjects />
+  <drugs />
+  <mentorspirits>
+    <mentorspirit>
+      <sourceid>4d15a346-8f27-42c5-be8c-33a7bd56067d</sourceid>
+      <guid>cccfd6f5-8c7b-4f90-8e18-494e05a1b32a</guid>
+      <name>Great Mother (alt)</name>
+      <mentortype>MentorSpirit</mentortype>
+      <extra>Magician: +2 dice for Health spells, preparations and rituals</extra>
+      <source>FA</source>
+      <page>99</page>
+      <advantage>All: When not in an urban area, gain +1 to any skill test with skills in the Outdoors skill group.</advantage>
+      <disadvantage>Treat any background count due to pollution or twisted element as twice the actual rating.</disadvantage>
+      <mentormask>False</mentormask>
+      <bonus>
+      </bonus>
+      <choice1>
+        <spellcategory>
+          <name>Health</name>
+          <val>2</val>
+        </spellcategory>
+      </choice1>
+      <choice2>
+      </choice2>
+      <notes />
+      <id>4d15a346-8f27-42c5-be8c-33a7bd56067d</id>
+    </mentorspirit>
+  </mentorspirits>
+  <expenses />
+  <gearlocations />
+  <armorlocations />
+  <vehiclelocations />
+  <weaponlocations />
+  <improvementgroups />
+  <calendar />
+  <calculatedvalues>
+    <physicalcm>10</physicalcm>
+    <physicalcmthresholdoffset>0</physicalcmthresholdoffset>
+    <physicalcmoverflow>4</physicalcmoverflow>
+    <stuncm>11</stuncm>
+    <stuncmthresholdoffset>0</stuncmthresholdoffset>
+  </calculatedvalues>
+</character>

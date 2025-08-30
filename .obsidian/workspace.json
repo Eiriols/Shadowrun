@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Aztech Schönewalde"
             }
+          },
+          {
+            "id": "523b484661f0335a",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.12"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.12"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -160,6 +173,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -170,8 +184,16 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "ad81c7b8f1f5c763",
+  "active": "a7c6505ce80f0949",
   "lastOpenFiles": [
+    "Chummer/Test 1.chum5",
+    "Chummer/Shadowrun AYU.chum5",
+    "Chummer/Sabble.chum5",
+    "Chummer/Loci.chum5",
+    "Chummer/Gabble Build.chum5",
+    "Chummer/DrMa.chum5",
+    "Chummer",
+    "New folder",
     "World/Berlin - City.md",
     "World/Berlin Districts/Schönefeld.md",
     "PCs/- Alex.md",
@@ -197,11 +219,9 @@
     "World/Berlin Districts/Exterritoriales Gebiet.md",
     "World/Berlin Districts/Charlottenburg-Wilmersdorf.md",
     "World/Berlin Districts/AGC Siemensstadt.md",
-    "Session Notes/Session 0.md",
     "General",
     "Runs/Run 2",
     "Runs/Run 1",
-    "World/Berlin Districts",
     "World/Maps/Aztech S Berlin Map.png",
     "World/Maps/Pankow Berlin Map.png",
     "World/Maps/Z-IC Tegel Berlin Map.png",
@@ -211,12 +231,6 @@
     "World/Maps/Sconefeld Berlin Map.png",
     "World/Maps/Templehof Berlin Map.png",
     "World/Maps/Renrakusan Berlin Map.png",
-    "World/Maps/Reinickendorf Berlin Map.png",
-    "World/Maps",
-    "Characters",
-    "Characters",
-    "Runs",
-    "NPCs",
-    "World"
+    "World/Maps/Reinickendorf Berlin Map.png"
   ]
 }
