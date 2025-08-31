@@ -1,3 +1,7 @@
+---
+image: "[[Zehlendorf Berlin Map.png]]"
+---
+
 Zehlendorf is one of the better districts of Berlin and is not only one of the largest, but also the richest and even greenest districts in the west of the Free City. Apart from the inner-city center of Steglitz, the Lichterfelde industrial sector, the mega residential blocks of Marienstadt on the border with Gropiusstadt and the Hortbau satellite town of Teltow-Ost near Heinersdorf, the district is spacious and predominantly flat. Therefore, places like Grunewald/Dahlem, Nikolassee and Wannsee consist primarily of wealthy villa enclaves to which outsiders are not allowed access.
 
 The district's most important shopping mile is Schlossallee with the Steglitz town hall and the nearby Sternschutz operations center in the "Bierpinsel" directly on the district border. Important leisure facilities are located on the Großer Wannsee between the famous Wannsee lido, which is spanned by an increasingly mossy roof shell, and the Wannsee harbor.

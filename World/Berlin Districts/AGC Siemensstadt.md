@@ -1,3 +1,6 @@
+---
+image: "[[ACG Berlin Map.png]]"
+---
 #### Description
 It is an extraterritorial district owned my AG Chemie.
 

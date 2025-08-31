@@ -1,3 +1,7 @@
+---
+image: "[[Z-IC Tegel Berlin Map.png]]"
+---
+
 The high-profile façade of the district and thus also of Zeta-ImpChem is the Alt-Tegel center. Here you will find the Tegelwelt and the Schöner Leben Body Mall, which satisfy visitors' shopping cravings. If the weather permits, you can walk along the (non-navigable) Tegel Harbour and enjoy the picturesque townhouses and city villas up to the wonderfully wide and green Greenwich Promenade, from which you can take ferries and excursion steamers to various destinations in and outside of Berlin.
 
 At the end of the promenade is the Biotechnology Park Berlin (BTPB) with its public squares and promenades that invite you to linger and promote the medical advances and future visions of Z-IC and Schering via information areas with touch screens as well as holo and AR installations. The headquarters of Schering is also located here, which was incorporated when Reinickendorf was taken over and whose atrium including the permanent exhibition "200 Years of Schering 1871 - 2071" is open to the public. Schering's marketing department is located directly in the neighboring "Berlin's first high-rise", the Borsigturm, which is made of red bricks. The offices of Schering subsidiaries and suppliers are also located in the area, as well as cafés and restaurants that cater to employees and visitors. Finally, to the south is the large Schering factory on Egellstrasse, whose conveyor belts are directly connected to the logistics center at the M-Bahn station Holzhauser Strasse and to Berlin-Tegel Airport.

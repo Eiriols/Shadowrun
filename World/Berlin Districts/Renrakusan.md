@@ -1,3 +1,7 @@
+---
+image: "[[Renrakusan Berlin Map.png]]"
+---
+
 Renraku has completely redesigned its district, and transformed it into a second chic size, so that the old Prenzlberg can see practically nothing: black marble and mirror glass, which runs along the straight houses, as well as an endless flash storm from Holos, countless screens and AR figures that dance across the crowds. The fact that Renrakusan is also one of the most densely populated districts creates a single cacophony of postmodernism. Renrakusan serves as a prototype of a smart city, where everything is connected with everything. Vehicles, drones and goods flows are perfectly clocked together, so that shelves and refrigerators fill up virtually independently, roads are only illuminated if they are also used and the AR plus intelligent floor coverings manage to guide people subtly into offers that are relevant to them.
 
 The district is overshadowed by the pyramid of Miyako-Arkologie, while the streets of noisy pachinko halls, small shops and karaoke bars and simple Shops offer everything they can expect from a corporate city in style. Also behind the high walls, Japan is omnipresent, where Japanese gardens, teahouses and bathhouses, Shinto temples and shrines as well as Bunraku borels are hidden. On the border of Renrakusan, the three 416-meter-high towers of the 2075 Japan Business Center (JBC), which belong to the three Japanese triple-a corporations Mitsuhama, Shiawase and the lead Renraku, rise to the touch and demonstrate the power and unity of the Japan's power in Berlin.

@@ -1,3 +1,7 @@
+---
+image: "[[Spandau Berlin Map.png]]"
+---
+
 The most important feature of Spandau is the historical rivalry to Berlin. A sign reads "not Berlin" when you cross one of the Havel bridges to the east and that is something that is avoided at all costs. Spandau is simply older, hardier, more beautiful and better in general.
 
 However, this is only the mentality of the residents and if you remove this "filter", then Spandau does not do so well: The centre between the old town, the town hall and Spandau train station houses a few skyscrapers grown out of megalomania, which are frantically offering shop and office spaces. At the southern harbor you can find the last outcrops of AGC Siemensstadt, which pollute the air with their dust. In many parts of Spandau, the ruins of tenement houses from the 1960s, such as those in Falkenhagener Feld or Staaken, are empty and are practically uninhabitable. In Gatow and the group district neighbors such as Hakenfelde-Süd and Haselhorst, a few cheap apartment blocks were built in the 2040s, but these are now rotting again. Only the southern tip around Lake Sacrower and Lake Glienicke sees prosperity in the form of the villa towns of Kladow, Groß Glienicke and Sacrow, which form enclaves separate from the rest of Spandau and particularly want nothing to do with the alternative Spandau.

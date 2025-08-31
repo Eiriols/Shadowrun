@@ -1,0 +1,13 @@
+views:
+  - type: cards
+    name: View
+    filters:
+      and:
+        - file.inFolder("World/Berlin Districts")
+        - '!file.name.endsWith("base")'
+    order:
+      - file.name
+    image: note.image
+    imageFit: ""
+    imageAspectRatio: 0.6
+    cardSize: 290

@@ -1,3 +1,7 @@
+---
+image: "[[Kopenick Berlin Map.png]]"
+---
+
 Köpenick is a surprisingly open and green district. Between hemp plantations are surprisingly clean watercourses and everyday life also benefits from clean air, natural food and a largely peaceful atmosphere. The district can boast a center of freethinkers, romantics and philosophers. At the centre of the whole are a love of freedom and naturalness, which runs like a red thread through the population. 
 
 The inhabitants are working on informal self-sufficiency. Electricity comes from wind, water and sun, while arable land and orchards produce natural food. Some care about sustainability and quality, others want their personal utopia and the majority simply refuses to make even more money for the mega-companies. The openness of the district residents means people usually get along well with each other as long as their basis of this coexistence is same.

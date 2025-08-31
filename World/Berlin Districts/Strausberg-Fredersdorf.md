@@ -1,3 +1,7 @@
+---
+image: "[[Strausberg Berlin Map.png]]"
+---
+
 Since the 2060s, the cityscape of Strausberg has been determined by a cycle of construction and decay. This is due to the many factory fortresses, the size of which does not matter and is therefore surrounded by several exclusion zones. This can be a fence with barbed wire and warning signs on the very outside, while behind it there are piles of rubble or building ruins as visual barriers, then an area cleared of vegetation and peppered with sensors and defense drones, which can be overlooked from a distance with watchtowers and the main walls of the actual complex.
 
 Between the factory fortresses there are numerous supplier companies that have either grown naturally or have since disappeared again. Anything that cannot be recycled in some way is simply left behind. Therefore, there are dilapidated commercial buildings, dumps and scrap metal here, as well as some poor housing estates, contaminated wastelands with toxic puddles and smaller islands with shopping and entertainment establishments for the failed people who have somehow arrived in Strausberg.

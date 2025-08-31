@@ -1,3 +1,7 @@
+---
+image: "[[Sconefeld Berlin Map.png]]"
+---
+
 In Schönefeld, the automotive industry is mainly located next to the airport. Whether engines, parts or entire vehicles - the factories are never standing still. Dominated by Messerschmitt-Kawasaki and other players in the industry, countless cars, motorcycles and drones run by the ribbons around the clock, they are polished, refined, tuned, and finally kept ready in the endless parking lots or glass towers for the clientele from the free city, the ADL or the rest of the world. If it drives, flies or somewhat moves elsewhere, it and its individual parts are produced here.
 
 It can contend with the industrial density of the AGC Siemensstadt, but has proper area planning and has at least a reasonably ADL-compliant consideration of existing labor, safety and environmental standards. The reason for this is probably that it has always been "far away" from the anarchy of the city center. The massive presence of M-K and its proximity to the airport gave manufacturers and suppliers a reliable framework for planning. The fact that M-K could rely on Saeder-Krupp in safety also helped to minimize defense measures, since not every single shed had to be secured with an overkill of protective measures.

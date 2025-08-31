@@ -1,3 +1,7 @@
+---
+image: "[[Potsdam Berlin Map.png]]"
+---
+
 Potsdam with its countless gardens, castles and palaces is a district of extremes. On the one hand, there are picturesque areas with a lot of history, while on the other side certain regions have become completely derelict.
 
 #### Centre 

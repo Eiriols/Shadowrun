@@ -1,5 +1,6 @@
 ---
-tags: []
+image:
+  - "[[Mitte Berlin Map.png]]"
 ---
 The Mitte district is usually equated with the historic Mitte district and thus the City Ost or Arealen of the City West, such as the Tiergarten or Zoo station, in the information and tourism portals. This includes the city planning desire to overcome the ancient separation of Berlin into several city centers as a relic of the past. With the focus on the city, however, other districts are also excluded from Mitte, which are not part of the city, such as Hansaviertel, Moabit, Wedding and Gesundbrunnen
 

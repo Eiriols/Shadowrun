@@ -1,3 +1,6 @@
+---
+image: "[[Chawi Berlin Map.png]]"
+---
 "ChaWi" is especially famous for its entertainment miles, cultural cultural establishments and shopping opportunities. However, it has never lost its contrasts that make up Berlin; whether they're high society, partygoers, sex workers, beggars, old growers and immigrants - they're all here.
 
  Berlin's middle class sits in extensively restored old building apartments, while the new global money nobility has created its own empire in strictly secured villa settlements in its superficial estates. From that, the district is a collection of more or less small residential areas, former village centres from the times before the status of F and various construction sites. Away from the residential areas, house fronts, squares, fountains and Gigantic statues in an Art Nouveau style dominate. This means that ChaWi is in stark contrast to the poorer districts, some who do not have enough money for roads.

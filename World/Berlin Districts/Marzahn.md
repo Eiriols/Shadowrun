@@ -1,3 +1,7 @@
+---
+image: "[[Marzahn Berlin Map.png]]"
+---
+
 Marzahn, like many other districts, has a whole range of different construction and settlement structures. The actual "Höllendorf" mainly includes the densely built-up prefabricated and single-house settlements in the municipalities, Hellersdorf/Kaulsdorf and Biesdorf. In addition, there are also parts such as Neuenhagen, Schöneiche or the picturesque shores of Woltersdorf and Erkner, which are so far from the crisis zones of Marzahn that one might believe they belong to another district.
 
 What unites all parts of Marzahn, however, is decline. Even the areas that were not destroyed by looters, rioters or gangs fell instead at home in the ravages of time and slowly but surely became uninhabitable. Collapsed roofs, closed entrances, trees that grow on the streets, rubble dumps towering in the forests and burnt-out cars, line the sidewalks and are a daily sight.

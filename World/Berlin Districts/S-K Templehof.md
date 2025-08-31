@@ -1,3 +1,7 @@
+---
+image: "[[Templehof Berlin Map.png]]"
+---
+
 Saeder-Krupp makes sure it's district has everything in order to satiate it's citizens and prevent them from leaving. Although Tempelhof is one of the smallest districts (especially if you don't consider the airport) you will find schools for every age and aptitude level, with the weaker pupils being supported specifically through tutoring and talent coaching. The Michel Loloit Primary School, which was named after the former BMW boss, is renowned. In addition, there are also restaurants for every taste, supermarkets with a large - and affordable - range offerings and what is not available on site, is also delivered by drone if the customer so wishes.
 
 The fact that Saeder-Krupp relies on ultra-modern construction projects, which basically decide the typical architecture, or break down directly, puts the company on a confrontation course with the Prussian Foundation, which has also devoted itself in the Freistadt to preserve classic Berlin-typical or listed buildings.
