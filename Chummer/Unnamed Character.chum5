@@ -5,7 +5,7 @@
   <appversion>5.225.0</appversion>
   <gameedition>SR5</gameedition>
   <settings>67e25032-2a4e-42ca-97fa-69f7f608236c</settings>
-  <settingshashcode>-1195492146</settingshashcode>
+  <settingshashcode>-833385746</settingshashcode>
   <buildmethod>Priority</buildmethod>
   <sources>
     <source>SR5</source>
@@ -76,7 +76,7 @@
   <prioritytalent>Mundane</prioritytalent>
   <priorityskills />
   <essenceatspecialstart>-79228162514264337593543950335</essenceatspecialstart>
-  <name />
+  <name>Assasin</name>
   <mainmugshotindex>-1</mainmugshotindex>
   <mugshots />
   <gender />
@@ -107,8 +107,8 @@
   <aiadvancedprogramlimit>0</aiadvancedprogramlimit>
   <currentcounterspellingdice>0</currentcounterspellingdice>
   <currentliftcarryhits>0</currentliftcarryhits>
-  <basecarrylimit>40</basecarrylimit>
-  <baseliftlimit>60</baseliftlimit>
+  <basecarrylimit>50</basecarrylimit>
+  <baseliftlimit>-79228162514264337593543950335</baseliftlimit>
   <totalcarriedweight>0</totalcarriedweight>
   <encumbranceinterval>-79228162514264337593543950335</encumbranceinterval>
   <streetcred>0</streetcred>
@@ -118,7 +118,7 @@
   <baseastralreputation>0</baseastralreputation>
   <basewildreputation>0</basewildreputation>
   <created>False</created>
-  <nuyen>275000</nuyen>
+  <nuyen>242480.0</nuyen>
   <startingnuyen>275000</startingnuyen>
   <nuyenbp>0</nuyenbp>
   <adept>False</adept>
@@ -165,10 +165,10 @@
       <metatypemin>1</metatypemin>
       <metatypemax>6</metatypemax>
       <metatypeaugmax>10</metatypeaugmax>
-      <base>3</base>
+      <base>4</base>
       <karma>0</karma>
       <metatypecategory>Standard</metatypecategory>
-      <totalvalue>4</totalvalue>
+      <totalvalue>5</totalvalue>
     </attribute>
     <attribute>
       <name>CHA</name>
@@ -215,10 +215,10 @@
       <metatypemin>2</metatypemin>
       <metatypemax>7</metatypemax>
       <metatypeaugmax>7</metatypeaugmax>
-      <base>2</base>
+      <base>3</base>
       <karma>0</karma>
       <metatypecategory>Special</metatypecategory>
-      <totalvalue>4</totalvalue>
+      <totalvalue>5</totalvalue>
     </attribute>
     <attribute>
       <name>MAG</name>
@@ -279,7 +279,7 @@
   <groupmember>False</groupmember>
   <groupname />
   <groupnotes />
-  <totaless>6.0</totaless>
+  <totaless>5.68</totaless>
   <physicalcmfilled>0</physicalcmfilled>
   <stuncmfilled>0</stuncmfilled>
   <psyche>False</psyche>
@@ -1264,7 +1264,17 @@
   <complexforms />
   <aiprograms />
   <martialarts />
-  <limitmodifiers />
+  <limitmodifiers>
+    <limitmodifier>
+      <guid>627eb8b9-c9e5-4915-a773-75a695b18203</guid>
+      <name>Vision Enhancement</name>
+      <limit>Mental</limit>
+      <bonus>3</bonus>
+      <condition>LimitCondition_SkillsActivePerceptionVisual</condition>
+      <candelete>False</candelete>
+      <notes />
+    </limitmodifier>
+  </limitmodifiers>
   <armors />
   <weapons>
     <weapon>
@@ -1351,7 +1361,552 @@
       <weapontype>melee</weapontype>
     </weapon>
   </weapons>
-  <cyberwares />
+  <cyberwares>
+    <cyberware>
+      <guid>e1ede573-6b32-4c65-a879-e53b48f1734a</guid>
+      <sourceid>8e414ade-2764-4dc7-bdc4-83bb4a086034</sourceid>
+      <name>Cybereyes Basic System</name>
+      <category>Eyeware</category>
+      <limbslot />
+      <limbslotcount>1</limbslotcount>
+      <inheritattributes>False</inheritattributes>
+      <ess>(Rating * 0.1) + 0.1</ess>
+      <capacity>(Rating * 4)</capacity>
+      <avail>(Rating * 3)</avail>
+      <cost>FixedValues(4000,6000,10000,14000,18000,22000)</cost>
+      <weight />
+      <source>SR5</source>
+      <page>453</page>
+      <parentid />
+      <hasmodularmount />
+      <plugsintomodularmount />
+      <blocksmounts />
+      <forced />
+      <rating>3</rating>
+      <minrating>1</minrating>
+      <maxrating>6</maxrating>
+      <ratinglabel>String_Rating</ratinglabel>
+      <subsystems>Eyeware</subsystems>
+      <wirelesson>False</wirelesson>
+      <grade>Alphaware</grade>
+      <location />
+      <extra />
+      <suite>False</suite>
+      <stolen>False</stolen>
+      <essdiscount>0</essdiscount>
+      <extraessadditivemultiplier>0</extraessadditivemultiplier>
+      <extraessmultiplicativemultiplier>1</extraessmultiplicativemultiplier>
+      <forcegrade />
+      <matrixcmfilled>0</matrixcmfilled>
+      <matrixcmbonus>0</matrixcmbonus>
+      <prototypetranshuman>False</prototypetranshuman>
+      <bonus>
+        <disablequality>8ec5c9bb-aeb9-42f2-a436-a60f764adfe4</disablequality>
+        <disablequality>fd346177-3791-44c0-af8c-7cf176fc9aa3</disablequality>
+        <disablequality>02e76a38-304e-4a0e-93a3-ad2938306afc</disablequality>
+        <disablequality>7a468691-1362-439a-a096-76da6933b24c</disablequality>
+        <disablequality>2f080d13-92d7-4b16-9ee6-93b5a89206e4</disablequality>
+        <disablequality>210401d7-57fa-4260-9517-2725689a509e</disablequality>
+        <disablequality>4390735f-54fa-44a5-bce7-d23a67427f25</disablequality>
+      </bonus>
+      <pairbonus />
+      <wirelessbonus />
+      <wirelesspairbonus />
+      <allowgear>
+        <gearcategory>Custom</gearcategory>
+        <gearcategory>Sensors</gearcategory>
+      </allowgear>
+      <improvementsource>Cyberware</improvementsource>
+      <pairinclude>
+        <name>Cybereyes Basic System</name>
+      </pairinclude>
+      <wirelesspairinclude>
+        <name>Cybereyes Basic System</name>
+      </wirelesspairinclude>
+      <children>
+        <cyberware>
+          <guid>60924e08-b2fc-4680-a62b-99d09f188bd8</guid>
+          <sourceid>e03d454f-4a15-43ce-9cd0-db80e8600eae</sourceid>
+          <name>Image Link</name>
+          <category>Eyeware</category>
+          <limbslot />
+          <limbslotcount>1</limbslotcount>
+          <inheritattributes>False</inheritattributes>
+          <ess>0.1</ess>
+          <capacity>[*]</capacity>
+          <avail>4</avail>
+          <cost>0</cost>
+          <weight />
+          <source>SR5</source>
+          <page>453</page>
+          <parentid>e1ede573-6b32-4c65-a879-e53b48f1734a</parentid>
+          <hasmodularmount />
+          <plugsintomodularmount />
+          <blocksmounts />
+          <forced />
+          <rating>0</rating>
+          <minrating />
+          <maxrating />
+          <ratinglabel>String_Rating</ratinglabel>
+          <subsystems />
+          <wirelesson>False</wirelesson>
+          <grade>Alphaware</grade>
+          <location />
+          <extra />
+          <suite>False</suite>
+          <stolen>False</stolen>
+          <essdiscount>0</essdiscount>
+          <extraessadditivemultiplier>0</extraessadditivemultiplier>
+          <extraessmultiplicativemultiplier>1</extraessmultiplicativemultiplier>
+          <forcegrade />
+          <matrixcmfilled>0</matrixcmfilled>
+          <matrixcmbonus>0</matrixcmbonus>
+          <prototypetranshuman>False</prototypetranshuman>
+          <bonus />
+          <pairbonus />
+          <wirelessbonus />
+          <wirelesspairbonus />
+          <improvementsource>Cyberware</improvementsource>
+          <pairinclude>
+            <name>Image Link</name>
+          </pairinclude>
+          <wirelesspairinclude>
+            <name>Image Link</name>
+          </wirelesspairinclude>
+          <children />
+          <notes>Image link: An implanted version of the image link enhancement (p.</notes>
+          <notesColor>Chocolate</notesColor>
+          <discountedcost>False</discountedcost>
+          <addtoparentess>False</addtoparentess>
+          <addtoparentcapacity>False</addtoparentcapacity>
+          <isgeneware>False</isgeneware>
+          <active>False</active>
+          <homenode>False</homenode>
+          <devicerating />
+          <programlimit />
+          <overclocked>None</overclocked>
+          <canformpersona />
+          <attack />
+          <sleaze />
+          <dataprocessing />
+          <firewall />
+          <attributearray />
+          <modattack />
+          <modsleaze />
+          <moddataprocessing />
+          <modfirewall />
+          <modattributearray />
+          <canswapattributes>False</canswapattributes>
+          <sortorder>0</sortorder>
+        </cyberware>
+        <cyberware>
+          <guid>cb166463-6653-47c6-b57c-97efbf62020b</guid>
+          <sourceid>97910ef7-dc30-4a87-8314-d1e0021dc39c</sourceid>
+          <name>Low-Light Vision</name>
+          <category>Eyeware</category>
+          <limbslot />
+          <limbslotcount>1</limbslotcount>
+          <inheritattributes>False</inheritattributes>
+          <ess>0.1</ess>
+          <capacity>[2]</capacity>
+          <avail>4</avail>
+          <cost>1500</cost>
+          <weight />
+          <source>SR5</source>
+          <page>453</page>
+          <parentid />
+          <hasmodularmount />
+          <plugsintomodularmount />
+          <blocksmounts />
+          <forced />
+          <rating>0</rating>
+          <minrating />
+          <maxrating />
+          <ratinglabel>String_Rating</ratinglabel>
+          <subsystems />
+          <wirelesson>False</wirelesson>
+          <grade>Alphaware</grade>
+          <location />
+          <extra />
+          <suite>False</suite>
+          <stolen>False</stolen>
+          <essdiscount>0</essdiscount>
+          <extraessadditivemultiplier>0</extraessadditivemultiplier>
+          <extraessmultiplicativemultiplier>1</extraessmultiplicativemultiplier>
+          <forcegrade />
+          <matrixcmfilled>0</matrixcmfilled>
+          <matrixcmbonus>0</matrixcmbonus>
+          <prototypetranshuman>False</prototypetranshuman>
+          <bonus />
+          <pairbonus />
+          <wirelessbonus />
+          <wirelesspairbonus />
+          <improvementsource>Cyberware</improvementsource>
+          <pairinclude>
+            <name>Low-Light Vision</name>
+          </pairinclude>
+          <wirelesspairinclude>
+            <name>Low-Light Vision</name>
+          </wirelesspairinclude>
+          <children />
+          <notes>Low-light vision: An implanted version of the low-light vision en- hancement (p. 444).</notes>
+          <notesColor>Chocolate</notesColor>
+          <discountedcost>False</discountedcost>
+          <addtoparentess>False</addtoparentess>
+          <addtoparentcapacity>False</addtoparentcapacity>
+          <isgeneware>False</isgeneware>
+          <active>False</active>
+          <homenode>False</homenode>
+          <devicerating />
+          <programlimit />
+          <overclocked>None</overclocked>
+          <canformpersona />
+          <attack />
+          <sleaze />
+          <dataprocessing />
+          <firewall />
+          <attributearray />
+          <modattack />
+          <modsleaze />
+          <moddataprocessing />
+          <modfirewall />
+          <modattributearray />
+          <canswapattributes>False</canswapattributes>
+          <sortorder>0</sortorder>
+        </cyberware>
+        <cyberware>
+          <guid>954f6f97-24f9-4e11-804f-1209f1dc220e</guid>
+          <sourceid>ba3204d8-3ec5-4da0-b980-44992a3a4a13</sourceid>
+          <name>Thermographic Vision</name>
+          <category>Eyeware</category>
+          <limbslot />
+          <limbslotcount>1</limbslotcount>
+          <inheritattributes>False</inheritattributes>
+          <ess>0.1</ess>
+          <capacity>[2]</capacity>
+          <avail>4</avail>
+          <cost>1500</cost>
+          <weight />
+          <source>SR5</source>
+          <page>453</page>
+          <parentid />
+          <hasmodularmount />
+          <plugsintomodularmount />
+          <blocksmounts />
+          <forced />
+          <rating>0</rating>
+          <minrating />
+          <maxrating />
+          <ratinglabel>String_Rating</ratinglabel>
+          <subsystems />
+          <wirelesson>False</wirelesson>
+          <grade>Alphaware</grade>
+          <location />
+          <extra />
+          <suite>False</suite>
+          <stolen>False</stolen>
+          <essdiscount>0</essdiscount>
+          <extraessadditivemultiplier>0</extraessadditivemultiplier>
+          <extraessmultiplicativemultiplier>1</extraessmultiplicativemultiplier>
+          <forcegrade />
+          <matrixcmfilled>0</matrixcmfilled>
+          <matrixcmbonus>0</matrixcmbonus>
+          <prototypetranshuman>False</prototypetranshuman>
+          <bonus />
+          <pairbonus />
+          <wirelessbonus />
+          <wirelesspairbonus />
+          <improvementsource>Cyberware</improvementsource>
+          <pairinclude>
+            <name>Thermographic Vision</name>
+          </pairinclude>
+          <wirelesspairinclude>
+            <name>Thermographic Vision</name>
+          </wirelesspairinclude>
+          <children />
+          <notes>Thermographic vision: An implanted version of the thermographic vision enhancement (p. 444).</notes>
+          <notesColor>Chocolate</notesColor>
+          <discountedcost>False</discountedcost>
+          <addtoparentess>False</addtoparentess>
+          <addtoparentcapacity>False</addtoparentcapacity>
+          <isgeneware>False</isgeneware>
+          <active>False</active>
+          <homenode>False</homenode>
+          <devicerating />
+          <programlimit />
+          <overclocked>None</overclocked>
+          <canformpersona />
+          <attack />
+          <sleaze />
+          <dataprocessing />
+          <firewall />
+          <attributearray />
+          <modattack />
+          <modsleaze />
+          <moddataprocessing />
+          <modfirewall />
+          <modattributearray />
+          <canswapattributes>False</canswapattributes>
+          <sortorder>0</sortorder>
+        </cyberware>
+        <cyberware>
+          <guid>161ac63a-d418-40ff-81cf-a12934bab6f4</guid>
+          <sourceid>35c9c51e-5364-41b4-b3c9-4d1f080bd48c</sourceid>
+          <name>Vision Enhancement</name>
+          <category>Eyeware</category>
+          <limbslot />
+          <limbslotcount>1</limbslotcount>
+          <inheritattributes>False</inheritattributes>
+          <ess>FixedValues(0.1,0.1,0.1,0.2,0.2,0.2)</ess>
+          <capacity>FixedValues([1],[2],[3],[8],[10],[12])</capacity>
+          <avail>Rating * 3</avail>
+          <cost>FixedValues(4000,8000,12000,20000,25000,30000)</cost>
+          <weight />
+          <source>SR5</source>
+          <page>453</page>
+          <parentid />
+          <hasmodularmount />
+          <plugsintomodularmount />
+          <blocksmounts />
+          <forced />
+          <rating>3</rating>
+          <minrating />
+          <maxrating>6</maxrating>
+          <ratinglabel>String_Rating</ratinglabel>
+          <subsystems />
+          <wirelesson>False</wirelesson>
+          <grade>Alphaware</grade>
+          <location />
+          <extra />
+          <suite>False</suite>
+          <stolen>False</stolen>
+          <essdiscount>0</essdiscount>
+          <extraessadditivemultiplier>0</extraessadditivemultiplier>
+          <extraessmultiplicativemultiplier>1</extraessmultiplicativemultiplier>
+          <forcegrade />
+          <matrixcmfilled>0</matrixcmfilled>
+          <matrixcmbonus>0</matrixcmbonus>
+          <prototypetranshuman>False</prototypetranshuman>
+          <bonus>
+            <limitmodifier>
+              <limit>Mental</limit>
+              <value>Rating</value>
+              <condition>LimitCondition_SkillsActivePerceptionVisual</condition>
+            </limitmodifier>
+          </bonus>
+          <pairbonus />
+          <wirelessbonus />
+          <wirelesspairbonus />
+          <improvementsource>Cyberware</improvementsource>
+          <pairinclude>
+            <name>Vision Enhancement</name>
+          </pairinclude>
+          <wirelesspairinclude>
+            <name>Vision Enhancement</name>
+          </wirelesspairinclude>
+          <children />
+          <notes>Vision enhancement: An implanted version of vi- sion enhancement (p. 444).</notes>
+          <notesColor>Chocolate</notesColor>
+          <discountedcost>False</discountedcost>
+          <addtoparentess>False</addtoparentess>
+          <addtoparentcapacity>False</addtoparentcapacity>
+          <isgeneware>False</isgeneware>
+          <active>False</active>
+          <homenode>False</homenode>
+          <devicerating />
+          <programlimit />
+          <overclocked>None</overclocked>
+          <canformpersona />
+          <attack />
+          <sleaze />
+          <dataprocessing />
+          <firewall />
+          <attributearray />
+          <modattack />
+          <modsleaze />
+          <moddataprocessing />
+          <modfirewall />
+          <modattributearray />
+          <canswapattributes>False</canswapattributes>
+          <sortorder>0</sortorder>
+        </cyberware>
+        <cyberware>
+          <guid>ec5335e9-dcdc-4bef-8dd1-1b896c84e5bd</guid>
+          <sourceid>2c578376-1219-468d-b76b-4c0da44dfca2</sourceid>
+          <name>Vision Magnification</name>
+          <category>Eyeware</category>
+          <limbslot />
+          <limbslotcount>1</limbslotcount>
+          <inheritattributes>False</inheritattributes>
+          <ess>0.1</ess>
+          <capacity>[2]</capacity>
+          <avail>4</avail>
+          <cost>2000</cost>
+          <weight />
+          <source>SR5</source>
+          <page>453</page>
+          <parentid />
+          <hasmodularmount />
+          <plugsintomodularmount />
+          <blocksmounts />
+          <forced />
+          <rating>0</rating>
+          <minrating />
+          <maxrating />
+          <ratinglabel>String_Rating</ratinglabel>
+          <subsystems />
+          <wirelesson>False</wirelesson>
+          <grade>Alphaware</grade>
+          <location />
+          <extra />
+          <suite>False</suite>
+          <stolen>False</stolen>
+          <essdiscount>0</essdiscount>
+          <extraessadditivemultiplier>0</extraessadditivemultiplier>
+          <extraessmultiplicativemultiplier>1</extraessmultiplicativemultiplier>
+          <forcegrade />
+          <matrixcmfilled>0</matrixcmfilled>
+          <matrixcmbonus>0</matrixcmbonus>
+          <prototypetranshuman>False</prototypetranshuman>
+          <bonus />
+          <pairbonus />
+          <wirelessbonus />
+          <wirelesspairbonus />
+          <improvementsource>Cyberware</improvementsource>
+          <pairinclude>
+            <name>Vision Magnification</name>
+          </pairinclude>
+          <wirelesspairinclude>
+            <name>Vision Magnification</name>
+          </wirelesspairinclude>
+          <children />
+          <notes>Vision magnification: An implanted version of the vision magnification enhancement (p. 444).</notes>
+          <notesColor>Chocolate</notesColor>
+          <discountedcost>False</discountedcost>
+          <addtoparentess>False</addtoparentess>
+          <addtoparentcapacity>False</addtoparentcapacity>
+          <isgeneware>False</isgeneware>
+          <active>False</active>
+          <homenode>False</homenode>
+          <devicerating />
+          <programlimit />
+          <overclocked>None</overclocked>
+          <canformpersona />
+          <attack />
+          <sleaze />
+          <dataprocessing />
+          <firewall />
+          <attributearray />
+          <modattack />
+          <modsleaze />
+          <moddataprocessing />
+          <modfirewall />
+          <modattributearray />
+          <canswapattributes>False</canswapattributes>
+          <sortorder>0</sortorder>
+        </cyberware>
+        <cyberware>
+          <guid>eda6f4fb-9b59-4795-84da-8fcf8f0f1498</guid>
+          <sourceid>19cea27d-b57b-46b1-9604-3362974f68ff</sourceid>
+          <name>Eye Protectors (Ballistic Glass)</name>
+          <category>Eyeware</category>
+          <limbslot />
+          <limbslotcount>1</limbslotcount>
+          <inheritattributes>False</inheritattributes>
+          <ess>0.1</ess>
+          <capacity>[2]</capacity>
+          <avail>0</avail>
+          <cost>100</cost>
+          <weight />
+          <source>CF</source>
+          <page>76</page>
+          <parentid />
+          <hasmodularmount />
+          <plugsintomodularmount />
+          <blocksmounts />
+          <forced />
+          <rating>0</rating>
+          <minrating />
+          <maxrating />
+          <ratinglabel>String_Rating</ratinglabel>
+          <subsystems />
+          <wirelesson>False</wirelesson>
+          <grade>Alphaware</grade>
+          <location />
+          <extra />
+          <suite>False</suite>
+          <stolen>False</stolen>
+          <essdiscount>0</essdiscount>
+          <extraessadditivemultiplier>0</extraessadditivemultiplier>
+          <extraessmultiplicativemultiplier>1</extraessmultiplicativemultiplier>
+          <forcegrade />
+          <matrixcmfilled>0</matrixcmfilled>
+          <matrixcmbonus>0</matrixcmbonus>
+          <prototypetranshuman>False</prototypetranshuman>
+          <bonus />
+          <pairbonus />
+          <wirelessbonus />
+          <wirelesspairbonus />
+          <improvementsource>Cyberware</improvementsource>
+          <pairinclude>
+            <name>Eye Protectors (Ballistic Glass)</name>
+          </pairinclude>
+          <wirelesspairinclude>
+            <name>Eye Protectors (Ballistic Glass)</name>
+          </wirelesspairinclude>
+          <children />
+          <notes />
+          <notesColor>Chocolate</notesColor>
+          <discountedcost>False</discountedcost>
+          <addtoparentess>False</addtoparentess>
+          <addtoparentcapacity>False</addtoparentcapacity>
+          <isgeneware>False</isgeneware>
+          <active>False</active>
+          <homenode>False</homenode>
+          <devicerating />
+          <programlimit />
+          <overclocked>None</overclocked>
+          <canformpersona />
+          <attack />
+          <sleaze />
+          <dataprocessing />
+          <firewall />
+          <attributearray />
+          <modattack />
+          <modsleaze />
+          <moddataprocessing />
+          <modfirewall />
+          <modattributearray />
+          <canswapattributes>False</canswapattributes>
+          <sortorder>0</sortorder>
+        </cyberware>
+      </children>
+      <notes />
+      <notesColor>Chocolate</notesColor>
+      <discountedcost>False</discountedcost>
+      <addtoparentess>False</addtoparentess>
+      <addtoparentcapacity>False</addtoparentcapacity>
+      <isgeneware>False</isgeneware>
+      <active>False</active>
+      <homenode>False</homenode>
+      <devicerating />
+      <programlimit />
+      <overclocked>None</overclocked>
+      <canformpersona />
+      <attack />
+      <sleaze />
+      <dataprocessing />
+      <firewall />
+      <attributearray />
+      <modattack />
+      <modsleaze />
+      <moddataprocessing />
+      <modfirewall />
+      <modattributearray />
+      <canswapattributes>False</canswapattributes>
+      <sortorder>0</sortorder>
+    </cyberware>
+  </cyberwares>
   <qualities>
     <quality>
       <sourceid>dda02333-10e3-4295-9392-691ff3a7bd4a</sourceid>
@@ -1830,6 +2385,198 @@ The origami swan can mean only one thing. For some reason, a character with this
       <condition />
       <improvementttype>Text</improvementttype>
       <improvementsource>Quality</improvementsource>
+      <custom>False</custom>
+      <customname />
+      <customid />
+      <customgroup />
+      <addtorating>0</addtorating>
+      <enabled>1</enabled>
+      <order>0</order>
+      <notes />
+      <notesColor>Chocolate</notesColor>
+    </improvement>
+    <improvement>
+      <target />
+      <improvedname>8ec5c9bb-aeb9-42f2-a436-a60f764adfe4</improvedname>
+      <sourcename>e1ede573-6b32-4c65-a879-e53b48f1734a</sourcename>
+      <min>0</min>
+      <max>0</max>
+      <aug>0</aug>
+      <augmax>0</augmax>
+      <val>0</val>
+      <rating>1</rating>
+      <exclude />
+      <condition />
+      <improvementttype>DisableQuality</improvementttype>
+      <improvementsource>Cyberware</improvementsource>
+      <custom>False</custom>
+      <customname />
+      <customid />
+      <customgroup />
+      <addtorating>0</addtorating>
+      <enabled>1</enabled>
+      <order>0</order>
+      <notes />
+      <notesColor>Chocolate</notesColor>
+    </improvement>
+    <improvement>
+      <target />
+      <improvedname>fd346177-3791-44c0-af8c-7cf176fc9aa3</improvedname>
+      <sourcename>e1ede573-6b32-4c65-a879-e53b48f1734a</sourcename>
+      <min>0</min>
+      <max>0</max>
+      <aug>0</aug>
+      <augmax>0</augmax>
+      <val>0</val>
+      <rating>1</rating>
+      <exclude />
+      <condition />
+      <improvementttype>DisableQuality</improvementttype>
+      <improvementsource>Cyberware</improvementsource>
+      <custom>False</custom>
+      <customname />
+      <customid />
+      <customgroup />
+      <addtorating>0</addtorating>
+      <enabled>1</enabled>
+      <order>0</order>
+      <notes />
+      <notesColor>Chocolate</notesColor>
+    </improvement>
+    <improvement>
+      <target />
+      <improvedname>02e76a38-304e-4a0e-93a3-ad2938306afc</improvedname>
+      <sourcename>e1ede573-6b32-4c65-a879-e53b48f1734a</sourcename>
+      <min>0</min>
+      <max>0</max>
+      <aug>0</aug>
+      <augmax>0</augmax>
+      <val>0</val>
+      <rating>1</rating>
+      <exclude />
+      <condition />
+      <improvementttype>DisableQuality</improvementttype>
+      <improvementsource>Cyberware</improvementsource>
+      <custom>False</custom>
+      <customname />
+      <customid />
+      <customgroup />
+      <addtorating>0</addtorating>
+      <enabled>1</enabled>
+      <order>0</order>
+      <notes />
+      <notesColor>Chocolate</notesColor>
+    </improvement>
+    <improvement>
+      <target />
+      <improvedname>7a468691-1362-439a-a096-76da6933b24c</improvedname>
+      <sourcename>e1ede573-6b32-4c65-a879-e53b48f1734a</sourcename>
+      <min>0</min>
+      <max>0</max>
+      <aug>0</aug>
+      <augmax>0</augmax>
+      <val>0</val>
+      <rating>1</rating>
+      <exclude />
+      <condition />
+      <improvementttype>DisableQuality</improvementttype>
+      <improvementsource>Cyberware</improvementsource>
+      <custom>False</custom>
+      <customname />
+      <customid />
+      <customgroup />
+      <addtorating>0</addtorating>
+      <enabled>1</enabled>
+      <order>0</order>
+      <notes />
+      <notesColor>Chocolate</notesColor>
+    </improvement>
+    <improvement>
+      <target />
+      <improvedname>2f080d13-92d7-4b16-9ee6-93b5a89206e4</improvedname>
+      <sourcename>e1ede573-6b32-4c65-a879-e53b48f1734a</sourcename>
+      <min>0</min>
+      <max>0</max>
+      <aug>0</aug>
+      <augmax>0</augmax>
+      <val>0</val>
+      <rating>1</rating>
+      <exclude />
+      <condition />
+      <improvementttype>DisableQuality</improvementttype>
+      <improvementsource>Cyberware</improvementsource>
+      <custom>False</custom>
+      <customname />
+      <customid />
+      <customgroup />
+      <addtorating>0</addtorating>
+      <enabled>1</enabled>
+      <order>0</order>
+      <notes />
+      <notesColor>Chocolate</notesColor>
+    </improvement>
+    <improvement>
+      <target />
+      <improvedname>210401d7-57fa-4260-9517-2725689a509e</improvedname>
+      <sourcename>e1ede573-6b32-4c65-a879-e53b48f1734a</sourcename>
+      <min>0</min>
+      <max>0</max>
+      <aug>0</aug>
+      <augmax>0</augmax>
+      <val>0</val>
+      <rating>1</rating>
+      <exclude />
+      <condition />
+      <improvementttype>DisableQuality</improvementttype>
+      <improvementsource>Cyberware</improvementsource>
+      <custom>False</custom>
+      <customname />
+      <customid />
+      <customgroup />
+      <addtorating>0</addtorating>
+      <enabled>1</enabled>
+      <order>0</order>
+      <notes />
+      <notesColor>Chocolate</notesColor>
+    </improvement>
+    <improvement>
+      <target />
+      <improvedname>4390735f-54fa-44a5-bce7-d23a67427f25</improvedname>
+      <sourcename>e1ede573-6b32-4c65-a879-e53b48f1734a</sourcename>
+      <min>0</min>
+      <max>0</max>
+      <aug>0</aug>
+      <augmax>0</augmax>
+      <val>0</val>
+      <rating>1</rating>
+      <exclude />
+      <condition />
+      <improvementttype>DisableQuality</improvementttype>
+      <improvementsource>Cyberware</improvementsource>
+      <custom>False</custom>
+      <customname />
+      <customid />
+      <customgroup />
+      <addtorating>0</addtorating>
+      <enabled>1</enabled>
+      <order>0</order>
+      <notes />
+      <notesColor>Chocolate</notesColor>
+    </improvement>
+    <improvement>
+      <target />
+      <improvedname>627eb8b9-c9e5-4915-a773-75a695b18203</improvedname>
+      <sourcename>161ac63a-d418-40ff-81cf-a12934bab6f4</sourcename>
+      <min>0</min>
+      <max>0</max>
+      <aug>0</aug>
+      <augmax>0</augmax>
+      <val>3</val>
+      <rating>0</rating>
+      <exclude />
+      <condition>LimitCondition_SkillsActivePerceptionVisual</condition>
+      <improvementttype>LimitModifier</improvementttype>
+      <improvementsource>Cyberware</improvementsource>
       <custom>False</custom>
       <customname />
       <customid />
