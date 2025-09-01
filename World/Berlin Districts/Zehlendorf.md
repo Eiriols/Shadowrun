@@ -14,7 +14,7 @@ The now defunct Fuchi Industrial Electronics apparently had big plans for Zehlen
 #### Under Zehlendorf
 Apparently Fuchi had done much more than just pour a foundation. Numerous old Fuchi tunnels run underground. During construction work, shafts, transport tubes and blind monorail tunnels often come to light. Most of them are immediately backfilled, but in the depths beneath the "Kowloon" there are said to be further access routes that supposedly allow access to the facilities of other districts.
 
-Apparently all sorts of things can be found in the shafts under Zehlendorf; Rumors speak of nests of forgotten critters from the big zoo liberation campaign, cockroach ghosts, secret neighborhood communities and also people who lay cables in the dark in order to expand the cable matrix.
+Apparently all sorts of things can be found in the shafts under Zehlendorf; Rumors speak of nests of forgotten critters from the big zoo liberation campaign, cockroach ghosts, secret neighbourhood communities and also people who lay cables in the dark in order to expand the cable matrix.
 
 ### Neighbours
 [[Potsdam]]

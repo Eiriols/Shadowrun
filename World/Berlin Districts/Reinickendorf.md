@@ -1,5 +1,5 @@
 ---
-image: "[[Renrakusan Berlin Map.png]]"
+image: "[[Reinickendorf Berlin Map.png]]"
 ---
 
 Despite its loss of territory, Reinickendorf is still the largest district in Berlin and, with the exception of a few, narrowly defined high-rise housing estates such as the Märkisches Viertel or the new ABZ residential park, Nordbahn is flat. In Gen Rand, the picture changes to disintegrated terraced and single-family housing estates, such as Frohnau, Schönfließ or Mühlenbeck. Since many Reinickendorfers fled disproportionately from Berlin, the district was subject to severe use of plundering gangs during the early years of anarchy. The more domestic working-class settlements from the Weimar Republic and post-war construction, on the other hand, became breeding grounds of and despair. The "fox construction", originally known as the residential area of Borsigwalde-Wittenau, has taken its name from the fact that it has been a well-fortified and protected retreat of the anarchist resistance for decades.
