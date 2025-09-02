@@ -5,7 +5,7 @@
   <appversion>5.225.862</appversion>
   <gameedition>SR5</gameedition>
   <settings>67e25032-2a4e-42ca-97fa-69f7f608236c</settings>
-  <settingshashcode>1369954619</settingshashcode>
+  <settingshashcode>363743861</settingshashcode>
   <buildmethod>Priority</buildmethod>
   <sources>
     <source>SR5</source>
@@ -96,7 +96,7 @@
   <playername />
   <gamenotes />
   <primaryarm>Right</primaryarm>
-  <karma>27</karma>
+  <karma>3</karma>
   <special>3</special>
   <totalspecial>3</totalspecial>
   <totalattributes>24</totalattributes>
@@ -118,8 +118,8 @@
   <burntstreetcred>0</burntstreetcred>
   <baseastralreputation>0</baseastralreputation>
   <basewildreputation>0</basewildreputation>
-  <created>False</created>
-  <nuyen>242480.0</nuyen>
+  <created>True</created>
+  <nuyen>38410</nuyen>
   <startingnuyen>275000</startingnuyen>
   <nuyenbp>0</nuyenbp>
   <adept>False</adept>
@@ -301,7 +301,6 @@
         <notes />
         <notesColor>Chocolate</notesColor>
         <name>Aeronautics Mechanic</name>
-        <buywithkarma>False</buywithkarma>
       </skill>
       <skill>
         <guid>f8224a5c-1028-4ce6-bd46-00c24bbf9c82</guid>
@@ -316,7 +315,6 @@
         <notes />
         <notesColor>Chocolate</notesColor>
         <name>Animal Handling</name>
-        <buywithkarma>False</buywithkarma>
       </skill>
       <skill>
         <guid>e493e5e6-bb93-4419-aa6b-119fa544cda4</guid>
@@ -331,7 +329,6 @@
         <notes />
         <notesColor>Chocolate</notesColor>
         <name>Arcana</name>
-        <buywithkarma>False</buywithkarma>
       </skill>
       <skill>
         <guid>35fc1550-d909-4586-985e-a52288201e33</guid>
@@ -346,7 +343,6 @@
         <notes />
         <notesColor>Chocolate</notesColor>
         <name>Archery</name>
-        <buywithkarma>False</buywithkarma>
       </skill>
       <skill>
         <guid>b29374a5-0832-4c75-bcd4-ab6c85f3f6bc</guid>
@@ -361,7 +357,6 @@
         <notes />
         <notesColor>Chocolate</notesColor>
         <name>Armorer</name>
-        <buywithkarma>False</buywithkarma>
       </skill>
       <skill>
         <guid>8a8be765-bc72-4529-9374-cfa4ee29d693</guid>
@@ -376,7 +371,6 @@
         <notes />
         <notesColor>Chocolate</notesColor>
         <name>Artisan</name>
-        <buywithkarma>False</buywithkarma>
       </skill>
       <skill>
         <guid>203de239-5f6d-4ca5-b416-3e393c2e7138</guid>
@@ -391,7 +385,6 @@
         <notes />
         <notesColor>Chocolate</notesColor>
         <name>Automatics</name>
-        <buywithkarma>False</buywithkarma>
       </skill>
       <skill>
         <guid>bcf2115a-a78f-4a34-aabf-14dcaf3d5691</guid>
@@ -406,7 +399,6 @@
         <notes />
         <notesColor>Chocolate</notesColor>
         <name>Automotive Mechanic</name>
-        <buywithkarma>False</buywithkarma>
       </skill>
       <skill>
         <guid>cefe3ec1-0c65-4fef-9f95-b261cef92ba7</guid>
@@ -421,7 +413,6 @@
         <notes />
         <notesColor>Chocolate</notesColor>
         <name>Biotechnology</name>
-        <buywithkarma>False</buywithkarma>
       </skill>
       <skill>
         <guid>769e34b2-365d-482e-89f7-8d4357200a0a</guid>
@@ -436,7 +427,6 @@
         <notes />
         <notesColor>Chocolate</notesColor>
         <name>Blades</name>
-        <buywithkarma>False</buywithkarma>
       </skill>
       <skill>
         <guid>8b326219-dba8-4178-afd5-fa91ca5d6121</guid>
@@ -451,7 +441,6 @@
         <notes />
         <notesColor>Chocolate</notesColor>
         <name>Chemistry</name>
-        <buywithkarma>False</buywithkarma>
       </skill>
       <skill>
         <guid>7ac9293a-9b1d-43c7-aa2d-c5b5627f5b17</guid>
@@ -466,7 +455,6 @@
         <notes />
         <notesColor>Chocolate</notesColor>
         <name>Clubs</name>
-        <buywithkarma>False</buywithkarma>
       </skill>
       <skill>
         <guid>ddcd618b-5f7f-4766-ae4a-f91665496d86</guid>
@@ -481,7 +469,6 @@
         <notes />
         <notesColor>Chocolate</notesColor>
         <name>Computer</name>
-        <buywithkarma>False</buywithkarma>
       </skill>
       <skill>
         <guid>2ee71704-f8fe-41e0-810b-71f900fe2f20</guid>
@@ -496,7 +483,6 @@
         <notes />
         <notesColor>Chocolate</notesColor>
         <name>Con</name>
-        <buywithkarma>False</buywithkarma>
       </skill>
       <skill>
         <guid>9a84dd62-caf0-4d0b-b814-9eca3804fdab</guid>
@@ -511,7 +497,6 @@
         <notes />
         <notesColor>Chocolate</notesColor>
         <name>Cybercombat</name>
-        <buywithkarma>False</buywithkarma>
       </skill>
       <skill>
         <guid>c21de81a-2748-4a02-816d-976460754dfc</guid>
@@ -526,7 +511,6 @@
         <notes />
         <notesColor>Chocolate</notesColor>
         <name>Cybertechnology</name>
-        <buywithkarma>False</buywithkarma>
       </skill>
       <skill>
         <guid>4b63bd4a-0055-4a1d-9825-ba13b95fda5e</guid>
@@ -541,7 +525,6 @@
         <notes />
         <notesColor>Chocolate</notesColor>
         <name>Demolitions</name>
-        <buywithkarma>False</buywithkarma>
       </skill>
       <skill>
         <guid>d0b8349d-ff64-48d6-a7fa-a7736cb1376c</guid>
@@ -556,7 +539,6 @@
         <notes />
         <notesColor>Chocolate</notesColor>
         <name>Disguise</name>
-        <buywithkarma>False</buywithkarma>
       </skill>
       <skill>
         <guid>9871eb83-465b-4342-8ece-dcf27d2a301a</guid>
@@ -571,7 +553,6 @@
         <notes />
         <notesColor>Chocolate</notesColor>
         <name>Diving</name>
-        <buywithkarma>False</buywithkarma>
       </skill>
       <skill>
         <guid>e7d7dfaa-c295-4435-b055-f1062ac85aa1</guid>
@@ -586,7 +567,6 @@
         <notes />
         <notesColor>Chocolate</notesColor>
         <name>Electronic Warfare</name>
-        <buywithkarma>False</buywithkarma>
       </skill>
       <skill>
         <guid>55c5e10a-f4f9-4076-9403-7382e784b83b</guid>
@@ -601,7 +581,6 @@
         <notes />
         <notesColor>Chocolate</notesColor>
         <name>Escape Artist</name>
-        <buywithkarma>False</buywithkarma>
       </skill>
       <skill>
         <guid>d4959bb7-fb3d-423e-b609-45a407799dda</guid>
@@ -616,7 +595,6 @@
         <notes />
         <notesColor>Chocolate</notesColor>
         <name>Etiquette</name>
-        <buywithkarma>False</buywithkarma>
       </skill>
       <skill>
         <guid>e630bb64-bbd4-475e-a1d8-2dc3780391fa</guid>
@@ -631,7 +609,6 @@
         <notes />
         <notesColor>Chocolate</notesColor>
         <name>First Aid</name>
-        <buywithkarma>False</buywithkarma>
       </skill>
       <skill>
         <guid>7d1d4abd-fae3-41fc-a700-5f19ea17a5a9</guid>
@@ -646,7 +623,6 @@
         <notes />
         <notesColor>Chocolate</notesColor>
         <name>Flight</name>
-        <buywithkarma>False</buywithkarma>
       </skill>
       <skill>
         <guid>9177878f-7114-467d-a13c-bad22d05dd43</guid>
@@ -661,7 +637,6 @@
         <notes />
         <notesColor>Chocolate</notesColor>
         <name>Forgery</name>
-        <buywithkarma>False</buywithkarma>
       </skill>
       <skill>
         <guid>0ffd9373-e71e-4ac9-b3a4-2689657eb288</guid>
@@ -676,7 +651,6 @@
         <notes />
         <notesColor>Chocolate</notesColor>
         <name>Free-Fall</name>
-        <buywithkarma>False</buywithkarma>
       </skill>
       <skill>
         <guid>7a07722a-0f9f-41f3-9568-791eca917ef9</guid>
@@ -691,7 +665,6 @@
         <notes />
         <notesColor>Chocolate</notesColor>
         <name>Gunnery</name>
-        <buywithkarma>False</buywithkarma>
       </skill>
       <skill>
         <guid>2fc4d3ed-dce6-4a35-ae4e-b8e30ee7ba11</guid>
@@ -706,7 +679,6 @@
         <notes />
         <notesColor>Chocolate</notesColor>
         <name>Gymnastics</name>
-        <buywithkarma>False</buywithkarma>
       </skill>
       <skill>
         <guid>087944b1-56bc-4e2b-b044-b27c4ccfd80f</guid>
@@ -721,7 +693,6 @@
         <notes />
         <notesColor>Chocolate</notesColor>
         <name>Hacking</name>
-        <buywithkarma>False</buywithkarma>
       </skill>
       <skill>
         <guid>d1325e13-0b47-4971-9bde-5073dc62af17</guid>
@@ -736,7 +707,6 @@
         <notes />
         <notesColor>Chocolate</notesColor>
         <name>Hardware</name>
-        <buywithkarma>False</buywithkarma>
       </skill>
       <skill>
         <guid>f57aa81c-907e-4fcc-bce1-cddadf8ed494</guid>
@@ -751,7 +721,6 @@
         <notes />
         <notesColor>Chocolate</notesColor>
         <name>Heavy Weapons</name>
-        <buywithkarma>False</buywithkarma>
       </skill>
       <skill>
         <guid>ca6c1687-cc39-46d4-b382-b6a2953f8b93</guid>
@@ -766,7 +735,6 @@
         <notes />
         <notesColor>Chocolate</notesColor>
         <name>Impersonation</name>
-        <buywithkarma>False</buywithkarma>
       </skill>
       <skill>
         <guid>fba4a59f-4915-49c7-afb3-73080327006e</guid>
@@ -781,7 +749,6 @@
         <notes />
         <notesColor>Chocolate</notesColor>
         <name>Industrial Mechanic</name>
-        <buywithkarma>False</buywithkarma>
       </skill>
       <skill>
         <guid>a455da0a-75d3-47be-90f5-322b852ad01f</guid>
@@ -796,7 +763,6 @@
         <notes />
         <notesColor>Chocolate</notesColor>
         <name>Instruction</name>
-        <buywithkarma>False</buywithkarma>
       </skill>
       <skill>
         <guid>7a7d515e-a3c6-4739-9f00-757ec1012ef3</guid>
@@ -811,7 +777,6 @@
         <notes />
         <notesColor>Chocolate</notesColor>
         <name>Intimidation</name>
-        <buywithkarma>False</buywithkarma>
       </skill>
       <skill>
         <guid>f2337dc9-fdee-4d03-8d13-a2e21a6000fe</guid>
@@ -826,7 +791,6 @@
         <notes />
         <notesColor>Chocolate</notesColor>
         <name>Leadership</name>
-        <buywithkarma>False</buywithkarma>
       </skill>
       <skill>
         <guid>d9cdfc8f-a0e0-42de-8b80-caa35fd4fa74</guid>
@@ -841,7 +805,6 @@
         <notes />
         <notesColor>Chocolate</notesColor>
         <name>Locksmith</name>
-        <buywithkarma>False</buywithkarma>
       </skill>
       <skill>
         <guid>40634235-8161-4bd8-a5f4-7cb185bc62e9</guid>
@@ -856,7 +819,6 @@
         <notes />
         <notesColor>Chocolate</notesColor>
         <name>Longarms</name>
-        <buywithkarma>False</buywithkarma>
       </skill>
       <skill>
         <guid>12a38c63-bee6-49ae-949f-08f4e0114cb6</guid>
@@ -871,7 +833,6 @@
         <notes />
         <notesColor>Chocolate</notesColor>
         <name>Medicine</name>
-        <buywithkarma>False</buywithkarma>
       </skill>
       <skill>
         <guid>45eb82f0-0a79-44c2-a6ae-6f1099a5350d</guid>
@@ -886,7 +847,6 @@
         <notes />
         <notesColor>Chocolate</notesColor>
         <name>Nautical Mechanic</name>
-        <buywithkarma>False</buywithkarma>
       </skill>
       <skill>
         <guid>a50ce177-3434-41d0-89f9-8c6078284bbb</guid>
@@ -901,7 +861,6 @@
         <notes />
         <notesColor>Chocolate</notesColor>
         <name>Navigation</name>
-        <buywithkarma>False</buywithkarma>
       </skill>
       <skill>
         <guid>98a3013b-30fa-4506-a58f-55258a735a41</guid>
@@ -916,7 +875,6 @@
         <notes />
         <notesColor>Chocolate</notesColor>
         <name>Negotiation</name>
-        <buywithkarma>False</buywithkarma>
       </skill>
       <skill>
         <guid>a5650e4b-7acf-489d-a259-21b54dcf4123</guid>
@@ -931,7 +889,6 @@
         <notes />
         <notesColor>Chocolate</notesColor>
         <name>Palming</name>
-        <buywithkarma>False</buywithkarma>
       </skill>
       <skill>
         <guid>067e02da-f1d3-494c-b46b-206a89c75c7d</guid>
@@ -946,7 +903,6 @@
         <notes />
         <notesColor>Chocolate</notesColor>
         <name>Perception</name>
-        <buywithkarma>False</buywithkarma>
       </skill>
       <skill>
         <guid>1658ce7c-10d5-4d2e-b84a-8f97c7232c63</guid>
@@ -961,7 +917,6 @@
         <notes />
         <notesColor>Chocolate</notesColor>
         <name>Performance</name>
-        <buywithkarma>False</buywithkarma>
       </skill>
       <skill>
         <guid>4c2facc7-b2fa-4f99-a8f3-53a14f68629a</guid>
@@ -976,7 +931,6 @@
         <notes />
         <notesColor>Chocolate</notesColor>
         <name>Pilot Aerospace</name>
-        <buywithkarma>False</buywithkarma>
       </skill>
       <skill>
         <guid>8eeda380-94f1-4c4f-9778-a33796c4f193</guid>
@@ -991,7 +945,6 @@
         <notes />
         <notesColor>Chocolate</notesColor>
         <name>Pilot Aircraft</name>
-        <buywithkarma>False</buywithkarma>
       </skill>
       <skill>
         <guid>41e487ae-2e23-4150-9d72-20ea8b8a8fb9</guid>
@@ -1006,7 +959,6 @@
         <notes />
         <notesColor>Chocolate</notesColor>
         <name>Pilot Ground Craft</name>
-        <buywithkarma>False</buywithkarma>
       </skill>
       <skill>
         <guid>e55507d8-2c9b-4f60-8790-977184a20a11</guid>
@@ -1021,7 +973,6 @@
         <notes />
         <notesColor>Chocolate</notesColor>
         <name>Pilot Walker</name>
-        <buywithkarma>False</buywithkarma>
       </skill>
       <skill>
         <guid>a5396a43-61f7-4bec-a753-1f1ba41db973</guid>
@@ -1036,7 +987,6 @@
         <notes />
         <notesColor>Chocolate</notesColor>
         <name>Pilot Watercraft</name>
-        <buywithkarma>False</buywithkarma>
       </skill>
       <skill>
         <guid>eaf664d7-f63f-421d-8a70-8a911fba840b</guid>
@@ -1051,7 +1001,6 @@
         <notes />
         <notesColor>Chocolate</notesColor>
         <name>Pistols</name>
-        <buywithkarma>False</buywithkarma>
       </skill>
       <skill>
         <guid>00ed1410-f8ec-444a-bf66-8a5c94bb6002</guid>
@@ -1066,7 +1015,6 @@
         <notes />
         <notesColor>Chocolate</notesColor>
         <name>Running</name>
-        <buywithkarma>False</buywithkarma>
       </skill>
       <skill>
         <guid>94ed0505-d4d2-431a-8579-8bf550075c57</guid>
@@ -1081,7 +1029,6 @@
         <notes />
         <notesColor>Chocolate</notesColor>
         <name>Sneaking</name>
-        <buywithkarma>False</buywithkarma>
       </skill>
       <skill>
         <guid>11e89ddf-9ad0-4b56-8756-0dd29f9aea01</guid>
@@ -1096,7 +1043,6 @@
         <notes />
         <notesColor>Chocolate</notesColor>
         <name>Software</name>
-        <buywithkarma>False</buywithkarma>
       </skill>
       <skill>
         <guid>ca406ecb-b73c-4632-924e-e5ce88f0b39d</guid>
@@ -1111,7 +1057,6 @@
         <notes />
         <notesColor>Chocolate</notesColor>
         <name>Survival</name>
-        <buywithkarma>False</buywithkarma>
       </skill>
       <skill>
         <guid>dd196738-1cd3-4de7-879e-8be7643ae866</guid>
@@ -1126,7 +1071,6 @@
         <notes />
         <notesColor>Chocolate</notesColor>
         <name>Swimming</name>
-        <buywithkarma>False</buywithkarma>
       </skill>
       <skill>
         <guid>35bbfc21-fc57-4cac-8664-ab08c63d522b</guid>
@@ -1141,7 +1085,6 @@
         <notes />
         <notesColor>Chocolate</notesColor>
         <name>Throwing Weapons</name>
-        <buywithkarma>False</buywithkarma>
       </skill>
       <skill>
         <guid>9754bcf8-e5ef-4328-b559-3086c74b01ec</guid>
@@ -1156,7 +1099,6 @@
         <notes />
         <notesColor>Chocolate</notesColor>
         <name>Tracking</name>
-        <buywithkarma>False</buywithkarma>
       </skill>
       <skill>
         <guid>cfd4cffd-81fd-42ac-882f-c9fa7dce4726</guid>
@@ -1171,7 +1113,6 @@
         <notes />
         <notesColor>Chocolate</notesColor>
         <name>Unarmed Combat</name>
-        <buywithkarma>False</buywithkarma>
       </skill>
     </skills>
     <knoskills>
@@ -1188,7 +1129,6 @@
         <notes />
         <notesColor>Chocolate</notesColor>
         <name>Combat Tactics</name>
-        <buywithkarma>False</buywithkarma>
         <type>Professional</type>
         <isnativelanguage>False</isnativelanguage>
       </skill>
@@ -1205,7 +1145,6 @@
         <notes />
         <notesColor>Chocolate</notesColor>
         <name>Corporation: Aztechnology</name>
-        <buywithkarma>False</buywithkarma>
         <type>Academic</type>
         <isnativelanguage>False</isnativelanguage>
       </skill>
@@ -1222,7 +1161,6 @@
         <notes />
         <notesColor>Chocolate</notesColor>
         <name>Firearms</name>
-        <buywithkarma>False</buywithkarma>
         <type>Professional</type>
         <isnativelanguage>False</isnativelanguage>
       </skill>
@@ -1239,7 +1177,6 @@
         <notes />
         <notesColor>Chocolate</notesColor>
         <name>German</name>
-        <buywithkarma>False</buywithkarma>
         <type>Language</type>
         <isnativelanguage>True</isnativelanguage>
       </skill>
@@ -1256,7 +1193,6 @@
         <notes />
         <notesColor>Chocolate</notesColor>
         <name>Psychology</name>
-        <buywithkarma>False</buywithkarma>
         <type>Academic</type>
         <isnativelanguage>False</isnativelanguage>
       </skill>
@@ -1273,21 +1209,21 @@
       <group>
         <karma>0</karma>
         <base>0</base>
-        <isbroken>False</isbroken>
+        <isbroken>True</isbroken>
         <id>42887e45-95f5-4edd-9ba0-ae17f17cd8f1</id>
         <name>Athletics</name>
       </group>
       <group>
         <karma>0</karma>
         <base>0</base>
-        <isbroken>False</isbroken>
+        <isbroken>True</isbroken>
         <id>aba00eca-af7b-4623-beb4-157c02f1d614</id>
         <name>Biotech</name>
       </group>
       <group>
         <karma>0</karma>
         <base>0</base>
-        <isbroken>False</isbroken>
+        <isbroken>True</isbroken>
         <id>26ce95ec-7214-4472-b45b-ec90039a58f4</id>
         <name>Close Combat</name>
       </group>
@@ -1336,7 +1272,7 @@
       <group>
         <karma>0</karma>
         <base>0</base>
-        <isbroken>False</isbroken>
+        <isbroken>True</isbroken>
         <id>0e1cab56-64ed-4a0b-8fde-e198b7f85d1b</id>
         <name>Stealth</name>
       </group>
@@ -1766,8 +1702,990 @@ This is some strange stuff. I originally refused to carry it since it was intend
       <discountedcost>False</discountedcost>
       <sortorder>0</sortorder>
     </armor>
+    <armor>
+      <sourceid>678353a1-b697-442a-aa3a-6e34b9178c4b</sourceid>
+      <guid>175f2732-b0d2-4ed3-b123-5e16776e79e7</guid>
+      <name>Ruthenium Polymer Cloak</name>
+      <category>Cloaks</category>
+      <armor>0</armor>
+      <armoroverride />
+      <armorcapacity>0</armorcapacity>
+      <avail>14F</avail>
+      <cost>4000 * Rating</cost>
+      <weight />
+      <source>HT</source>
+      <page>184</page>
+      <armorname />
+      <equipped>True</equipped>
+      <active>False</active>
+      <homenode>False</homenode>
+      <devicerating />
+      <programlimit />
+      <overclocked>None</overclocked>
+      <attack />
+      <sleaze />
+      <dataprocessing />
+      <firewall />
+      <attributearray />
+      <modattack />
+      <modsleaze />
+      <moddataprocessing />
+      <modfirewall />
+      <modattributearray />
+      <canswapattributes>False</canswapattributes>
+      <matrixcmfilled>0</matrixcmfilled>
+      <matrixcmbonus>0</matrixcmbonus>
+      <wirelesson>False</wirelesson>
+      <canformpersona />
+      <extra />
+      <damage>0</damage>
+      <rating>4</rating>
+      <maxrating>4</maxrating>
+      <ratinglabel>String_Rating</ratinglabel>
+      <stolen>False</stolen>
+      <emcumbrance>True</emcumbrance>
+      <armormods />
+      <bonus />
+      <wirelessbonus />
+      <location />
+      <notes>RUTHENIUM POLYMER CLOAK
+A hooded cloak infused with ruthenium polymer ibers.
+Originally developed for military snipers and spotters who needed to remain concealed and stationary for an extended period of time. The sensor suite that replicates the surroundings has dificulty adapting to the rippling of the cloak while the wearer is in motion. Because of this, the cloak is not as effective while moving as RP modiied armor, but it is still fully effective standing still.
+These cloaks are also sometimes used to conceal small,</notes>
+      <notesColor>Chocolate</notesColor>
+      <discountedcost>False</discountedcost>
+      <sortorder>0</sortorder>
+    </armor>
   </armors>
   <weapons>
+    <weapon>
+      <sourceid>ffc2ae2b-fbaa-4d65-9456-c6433f3d53e8</sourceid>
+      <guid>b5ae7d50-4dfb-4638-a7ab-c87ac204272c</guid>
+      <name>Barret Model 122</name>
+      <category>Sniper Rifles</category>
+      <type>Ranged</type>
+      <spec />
+      <spec2 />
+      <reach>0</reach>
+      <damage>14P</damage>
+      <ap>-6</ap>
+      <mode>SA</mode>
+      <rc>0</rc>
+      <ammo>14(c)</ammo>
+      <cyberware>False</cyberware>
+      <ammocategory />
+      <ammoslots>1</ammoslots>
+      <sizecategory />
+      <firingmode>DogBrain</firingmode>
+      <minrating />
+      <maxrating />
+      <rating>0</rating>
+      <accuracy>7</accuracy>
+      <activeammoslot>1</activeammoslot>
+      <clips>
+        <clip>
+          <count>14</count>
+          <location>loaded</location>
+          <id>dcde40aa-70bd-4911-9b5d-30ab9d68ba23</id>
+        </clip>
+      </clips>
+      <conceal>8</conceal>
+      <avail>20F</avail>
+      <cost>38500</cost>
+      <weight />
+      <useskill />
+      <useskillspec />
+      <range />
+      <alternaterange />
+      <rangemultiply>1</rangemultiply>
+      <singleshot>1</singleshot>
+      <shortburst>3</shortburst>
+      <longburst>6</longburst>
+      <fullburst>10</fullburst>
+      <suppressive>20</suppressive>
+      <allowsingleshot>True</allowsingleshot>
+      <allowshortburst>True</allowshortburst>
+      <allowlongburst>True</allowlongburst>
+      <allowfullburst>True</allowfullburst>
+      <allowsuppressive>True</allowsuppressive>
+      <source>RG</source>
+      <page>40</page>
+      <parentid />
+      <allowaccessory>True</allowaccessory>
+      <weaponname />
+      <included>False</included>
+      <equipped>True</equipped>
+      <requireammo>True</requireammo>
+      <accuracy>7</accuracy>
+      <mount />
+      <stolen>False</stolen>
+      <extramount />
+      <accessories>
+        <accessory>
+          <sourceid>6e06df00-95b8-450f-9f2a-4a86c582d342</sourceid>
+          <guid>4129330e-83f3-46f0-9335-e92f2c56804a</guid>
+          <name>Bipod</name>
+          <mount>Internal</mount>
+          <extramount>None</extramount>
+          <rc>2</rc>
+          <maxrating>0</maxrating>
+          <rating>0</rating>
+          <ratinglabel>String_Rating</ratinglabel>
+          <rcgroup>1</rcgroup>
+          <rcdeployable>False</rcdeployable>
+          <specialmodification>False</specialmodification>
+          <conceal />
+          <avail>2</avail>
+          <cost>200</cost>
+          <weight />
+          <included>True</included>
+          <equipped>True</equipped>
+          <source>SR5</source>
+          <page>431</page>
+          <accuracy>0</accuracy>
+          <ammoreplace />
+          <ammoslots>0</ammoslots>
+          <modifyammocapacity />
+          <damagetype />
+          <damage />
+          <reach>0</reach>
+          <damagereplace />
+          <firemode />
+          <firemodereplace />
+          <ap />
+          <apreplace />
+          <notes>Bipod: This two-legged brace extends downward from the weapon, allowing it to be fired low to the ground with the user in a prone or sitting position. A bipod can be attached to the underbarrel mount of a weapon and provides 2 points of Recoil Compensation when properly deployed. Attaching a bipod takes one minute. Folding up or deploying a bipod is a Simple Ac- tion. Removing it is a Complex Action.</notes>
+          <notesColor>Chocolate</notesColor>
+          <discountedcost>False</discountedcost>
+          <singleshot>0</singleshot>
+          <shortburst>0</shortburst>
+          <longburst>0</longburst>
+          <fullburst>0</fullburst>
+          <suppressive>0</suppressive>
+          <rangebonus>0</rangebonus>
+          <rangemodifier>0</rangemodifier>
+          <extra />
+          <ammobonus />
+          <wirelesson>True</wirelesson>
+          <wirelessbonus />
+          <stolen>False</stolen>
+          <sortorder>0</sortorder>
+          <parentid />
+        </accessory>
+        <accessory>
+          <sourceid>d57d2c64-1f61-4f5f-a465-8ce0dfacec6a</sourceid>
+          <guid>8e133804-4bfb-41e4-ab5d-16871917a1f0</guid>
+          <name>Smartgun System, Internal</name>
+          <mount>Internal</mount>
+          <extramount>None</extramount>
+          <rc />
+          <maxrating>0</maxrating>
+          <rating>0</rating>
+          <ratinglabel>String_Rating</ratinglabel>
+          <rcgroup>0</rcgroup>
+          <rcdeployable>False</rcdeployable>
+          <specialmodification>False</specialmodification>
+          <conceal />
+          <avail>+2R</avail>
+          <cost>Weapon Cost</cost>
+          <weight />
+          <included>True</included>
+          <equipped>True</equipped>
+          <source>SR5</source>
+          <page>433</page>
+          <accuracy>2</accuracy>
+          <gears>
+            <gear>
+              <sourceid>3a79e046-8106-4089-a1ab-895eee956b86</sourceid>
+              <guid>2ec1f7db-bb58-41b2-b6f3-fdd2158e7a9f</guid>
+              <name>Laser Range Finder</name>
+              <category>Sensor Functions</category>
+              <capacity>[1]</capacity>
+              <armorcapacity>[1]</armorcapacity>
+              <minrating />
+              <maxrating />
+              <rating>0</rating>
+              <qty>1.0</qty>
+              <avail>0</avail>
+              <cost>0</cost>
+              <weight />
+              <extra />
+              <bonded>False</bonded>
+              <equipped>True</equipped>
+              <wirelesson>False</wirelesson>
+              <stolen>False</stolen>
+              <bonus />
+              <wirelessbonus />
+              <weaponbonus />
+              <flechetteweaponbonus />
+              <source>SR5</source>
+              <page>446</page>
+              <isflechetteammo>False</isflechetteammo>
+              <ammoforweapontype />
+              <canformpersona />
+              <devicerating />
+              <gearname />
+              <forcedvalue />
+              <matrixcmfilled>0</matrixcmfilled>
+              <matrixcmbonus>0</matrixcmbonus>
+              <parentid>8e133804-4bfb-41e4-ab5d-16871917a1f0</parentid>
+              <allowrename>False</allowrename>
+              <children />
+              <location />
+              <notes>Laser range finder: This simple sensor emits a laser beam that is reflected off a target’s surface and picked up by a detector to calculate the exact distance to the target.</notes>
+              <notesColor>Chocolate</notesColor>
+              <discountedcost>False</discountedcost>
+              <programlimit />
+              <overclocked>None</overclocked>
+              <attack />
+              <sleaze />
+              <dataprocessing />
+              <firewall />
+              <attributearray />
+              <modattack />
+              <modsleaze />
+              <moddataprocessing />
+              <modfirewall />
+              <modattributearray />
+              <canswapattributes>False</canswapattributes>
+              <active>False</active>
+              <homenode>False</homenode>
+              <sortorder>0</sortorder>
+            </gear>
+            <gear>
+              <sourceid>fa6fa434-107b-4f36-a138-f98b044dae76</sourceid>
+              <guid>866d6616-e57b-419d-9ccd-1d82d1194fc8</guid>
+              <name>Camera, Micro</name>
+              <category>Vision Devices</category>
+              <capacity>1</capacity>
+              <armorcapacity>[1]</armorcapacity>
+              <minrating />
+              <maxrating />
+              <rating>0</rating>
+              <qty>1.0</qty>
+              <avail>0</avail>
+              <cost>0</cost>
+              <weight />
+              <extra />
+              <bonded>False</bonded>
+              <equipped>True</equipped>
+              <wirelesson>False</wirelesson>
+              <stolen>False</stolen>
+              <bonus />
+              <wirelessbonus />
+              <weaponbonus />
+              <flechetteweaponbonus />
+              <source>SR5</source>
+              <page>443</page>
+              <isflechetteammo>False</isflechetteammo>
+              <ammoforweapontype />
+              <canformpersona />
+              <devicerating />
+              <gearname />
+              <forcedvalue />
+              <matrixcmfilled>0</matrixcmfilled>
+              <matrixcmbonus>0</matrixcmbonus>
+              <parentid>8e133804-4bfb-41e4-ab5d-16871917a1f0</parentid>
+              <allowrename>False</allowrename>
+              <children />
+              <location />
+              <notes />
+              <notesColor>Chocolate</notesColor>
+              <discountedcost>False</discountedcost>
+              <programlimit />
+              <overclocked>None</overclocked>
+              <attack />
+              <sleaze />
+              <dataprocessing />
+              <firewall />
+              <attributearray />
+              <modattack />
+              <modsleaze />
+              <moddataprocessing />
+              <modfirewall />
+              <modattributearray />
+              <canswapattributes>False</canswapattributes>
+              <active>False</active>
+              <homenode>False</homenode>
+              <sortorder>1</sortorder>
+            </gear>
+          </gears>
+          <ammoreplace />
+          <ammoslots>0</ammoslots>
+          <modifyammocapacity />
+          <damagetype />
+          <damage />
+          <reach>0</reach>
+          <damagereplace />
+          <firemode />
+          <firemodereplace />
+          <ap />
+          <apreplace />
+          <notes />
+          <notesColor>Chocolate</notesColor>
+          <discountedcost>False</discountedcost>
+          <singleshot>0</singleshot>
+          <shortburst>0</shortburst>
+          <longburst>0</longburst>
+          <fullburst>0</fullburst>
+          <suppressive>0</suppressive>
+          <rangebonus>0</rangebonus>
+          <rangemodifier>0</rangemodifier>
+          <extra />
+          <ammobonus />
+          <wirelesson>True</wirelesson>
+          <wirelessbonus />
+          <stolen>False</stolen>
+          <sortorder>1</sortorder>
+          <parentid />
+        </accessory>
+        <accessory>
+          <sourceid>3c329adb-7c13-4d2c-b25c-49be89173fa1</sourceid>
+          <guid>bbf23600-265d-4937-95e2-f6a5fedb8b4a</guid>
+          <name>Sound Suppressor</name>
+          <mount>Internal</mount>
+          <extramount>None</extramount>
+          <rc />
+          <maxrating>0</maxrating>
+          <rating>0</rating>
+          <ratinglabel>String_Rating</ratinglabel>
+          <rcgroup>0</rcgroup>
+          <rcdeployable>False</rcdeployable>
+          <specialmodification>False</specialmodification>
+          <conceal />
+          <avail>9F</avail>
+          <cost>500</cost>
+          <weight />
+          <included>True</included>
+          <equipped>True</equipped>
+          <source>SR5</source>
+          <page>432</page>
+          <accuracy>0</accuracy>
+          <ammoreplace />
+          <ammoslots>0</ammoslots>
+          <modifyammocapacity />
+          <damagetype />
+          <damage />
+          <reach>0</reach>
+          <damagereplace />
+          <firemode />
+          <firemodereplace />
+          <ap />
+          <apreplace />
+          <notes />
+          <notesColor>Chocolate</notesColor>
+          <discountedcost>False</discountedcost>
+          <singleshot>0</singleshot>
+          <shortburst>0</shortburst>
+          <longburst>0</longburst>
+          <fullburst>0</fullburst>
+          <suppressive>0</suppressive>
+          <rangebonus>0</rangebonus>
+          <rangemodifier>0</rangemodifier>
+          <extra />
+          <ammobonus />
+          <wirelesson>True</wirelesson>
+          <wirelessbonus />
+          <stolen>False</stolen>
+          <sortorder>2</sortorder>
+          <parentid />
+        </accessory>
+        <accessory>
+          <sourceid>f27402fa-2845-4314-a97d-2747b3263e0d</sourceid>
+          <guid>ee92ec3d-eb58-4d28-91f1-f9f71a276ddb</guid>
+          <name>Easy Breakdown (Powered)</name>
+          <mount>Side</mount>
+          <extramount>None</extramount>
+          <rc />
+          <maxrating>0</maxrating>
+          <rating>0</rating>
+          <ratinglabel>String_Rating</ratinglabel>
+          <rcgroup>0</rcgroup>
+          <rcdeployable>False</rcdeployable>
+          <specialmodification>False</specialmodification>
+          <conceal />
+          <avail>10R</avail>
+          <cost>1250</cost>
+          <weight />
+          <included>False</included>
+          <equipped>True</equipped>
+          <source>HT</source>
+          <page>180</page>
+          <accuracy>0</accuracy>
+          <ammoreplace />
+          <ammoslots>0</ammoslots>
+          <modifyammocapacity />
+          <damagetype />
+          <damage />
+          <reach>0</reach>
+          <damagereplace />
+          <firemode />
+          <firemodereplace />
+          <ap />
+          <apreplace />
+          <notes />
+          <notesColor>Chocolate</notesColor>
+          <discountedcost>False</discountedcost>
+          <singleshot>0</singleshot>
+          <shortburst>0</shortburst>
+          <longburst>0</longburst>
+          <fullburst>0</fullburst>
+          <suppressive>0</suppressive>
+          <rangebonus>0</rangebonus>
+          <rangemodifier>0</rangemodifier>
+          <extra />
+          <ammobonus />
+          <wirelesson>True</wirelesson>
+          <wirelessbonus />
+          <stolen>False</stolen>
+          <sortorder>0</sortorder>
+          <parentid />
+        </accessory>
+        <accessory>
+          <sourceid>b64d5256-0c24-4842-b05d-25ee735c9b6a</sourceid>
+          <guid>a67b75b8-99e7-44d4-8058-44e19ceca182</guid>
+          <name>Advanced Safety System, Electro Shocker</name>
+          <mount>None</mount>
+          <extramount>None</extramount>
+          <rc />
+          <maxrating>0</maxrating>
+          <rating>0</rating>
+          <ratinglabel>String_Rating</ratinglabel>
+          <rcgroup>0</rcgroup>
+          <rcdeployable>False</rcdeployable>
+          <specialmodification>False</specialmodification>
+          <conceal />
+          <avail>6R</avail>
+          <cost>950</cost>
+          <weight />
+          <included>False</included>
+          <equipped>True</equipped>
+          <source>RG</source>
+          <page>50</page>
+          <accuracy>0</accuracy>
+          <ammoreplace />
+          <ammoslots>0</ammoslots>
+          <modifyammocapacity />
+          <damagetype />
+          <damage />
+          <reach>0</reach>
+          <damagereplace />
+          <firemode />
+          <firemodereplace />
+          <ap />
+          <apreplace />
+          <notes />
+          <notesColor>Chocolate</notesColor>
+          <discountedcost>False</discountedcost>
+          <singleshot>0</singleshot>
+          <shortburst>0</shortburst>
+          <longburst>0</longburst>
+          <fullburst>0</fullburst>
+          <suppressive>0</suppressive>
+          <rangebonus>0</rangebonus>
+          <rangemodifier>0</rangemodifier>
+          <extra />
+          <ammobonus />
+          <wirelesson>True</wirelesson>
+          <wirelessbonus />
+          <stolen>False</stolen>
+          <sortorder>0</sortorder>
+          <parentid />
+        </accessory>
+        <accessory>
+          <sourceid>6b06cf52-04fa-4034-bb10-2bcdd58c4bfb</sourceid>
+          <guid>87eddd43-3a44-4b06-b11d-d7b132d9372b</guid>
+          <name>Gas-Vent 3 System</name>
+          <mount>Barrel</mount>
+          <extramount>None</extramount>
+          <rc>3</rc>
+          <maxrating>0</maxrating>
+          <rating>0</rating>
+          <ratinglabel>String_Rating</ratinglabel>
+          <rcgroup>0</rcgroup>
+          <rcdeployable>False</rcdeployable>
+          <specialmodification>False</specialmodification>
+          <conceal />
+          <avail>9R</avail>
+          <cost>600</cost>
+          <weight />
+          <included>False</included>
+          <equipped>True</equipped>
+          <source>SR5</source>
+          <page>431</page>
+          <accuracy>0</accuracy>
+          <ammoreplace />
+          <ammoslots>0</ammoslots>
+          <modifyammocapacity />
+          <damagetype />
+          <damage />
+          <reach>0</reach>
+          <damagereplace />
+          <firemode />
+          <firemodereplace />
+          <ap />
+          <apreplace />
+          <notes />
+          <notesColor>Chocolate</notesColor>
+          <discountedcost>False</discountedcost>
+          <singleshot>0</singleshot>
+          <shortburst>0</shortburst>
+          <longburst>0</longburst>
+          <fullburst>0</fullburst>
+          <suppressive>0</suppressive>
+          <rangebonus>0</rangebonus>
+          <rangemodifier>0</rangemodifier>
+          <extra />
+          <ammobonus />
+          <wirelesson>True</wirelesson>
+          <wirelessbonus />
+          <stolen>False</stolen>
+          <sortorder>0</sortorder>
+          <parentid />
+        </accessory>
+        <accessory>
+          <sourceid>bf18c385-77bf-4f45-a51c-c17fd702526f</sourceid>
+          <guid>bbd94a99-00b0-430b-9a41-f74ae9d141ad</guid>
+          <name>Gecko Grip</name>
+          <mount>Stock</mount>
+          <extramount>None</extramount>
+          <rc />
+          <maxrating>0</maxrating>
+          <rating>0</rating>
+          <ratinglabel>String_Rating</ratinglabel>
+          <rcgroup>0</rcgroup>
+          <rcdeployable>False</rcdeployable>
+          <specialmodification>False</specialmodification>
+          <conceal />
+          <avail>6</avail>
+          <cost>100</cost>
+          <weight />
+          <included>False</included>
+          <equipped>True</equipped>
+          <source>RG</source>
+          <page>52</page>
+          <accuracy>0</accuracy>
+          <ammoreplace />
+          <ammoslots>0</ammoslots>
+          <modifyammocapacity />
+          <damagetype />
+          <damage />
+          <reach>0</reach>
+          <damagereplace />
+          <firemode />
+          <firemodereplace />
+          <ap />
+          <apreplace />
+          <notes />
+          <notesColor>Chocolate</notesColor>
+          <discountedcost>False</discountedcost>
+          <singleshot>0</singleshot>
+          <shortburst>0</shortburst>
+          <longburst>0</longburst>
+          <fullburst>0</fullburst>
+          <suppressive>0</suppressive>
+          <rangebonus>0</rangebonus>
+          <rangemodifier>0</rangemodifier>
+          <extra />
+          <ammobonus />
+          <wirelesson>True</wirelesson>
+          <wirelessbonus />
+          <stolen>False</stolen>
+          <sortorder>0</sortorder>
+          <parentid />
+        </accessory>
+        <accessory>
+          <sourceid>85b01b5c-c788-4b43-8190-9e0c18391436</sourceid>
+          <guid>d9d153b3-c431-4ff5-a4c4-980779e46b5a</guid>
+          <name>Personalized Grip</name>
+          <mount>None</mount>
+          <extramount>None</extramount>
+          <rc />
+          <maxrating>0</maxrating>
+          <rating>0</rating>
+          <ratinglabel>String_Rating</ratinglabel>
+          <rcgroup>0</rcgroup>
+          <rcdeployable>False</rcdeployable>
+          <specialmodification>False</specialmodification>
+          <conceal />
+          <avail>2</avail>
+          <cost>100</cost>
+          <weight />
+          <included>False</included>
+          <equipped>True</equipped>
+          <source>HT</source>
+          <page>182</page>
+          <accuracy>1</accuracy>
+          <ammoreplace />
+          <ammoslots>0</ammoslots>
+          <modifyammocapacity />
+          <damagetype />
+          <damage />
+          <reach>0</reach>
+          <damagereplace />
+          <firemode />
+          <firemodereplace />
+          <ap />
+          <apreplace />
+          <notes>PERSONALIZED GRIP
+This modiication allows a weapon’s owner to customize a weapon to it the size and shape of their hand perfectly. This is particularly useful for metatypes at the high and low end of the bell curve for standard metahuman size. This modiication increases a weapon’s Accuracy by 1.</notes>
+          <notesColor>Chocolate</notesColor>
+          <discountedcost>False</discountedcost>
+          <singleshot>0</singleshot>
+          <shortburst>0</shortburst>
+          <longburst>0</longburst>
+          <fullburst>0</fullburst>
+          <suppressive>0</suppressive>
+          <rangebonus>0</rangebonus>
+          <rangemodifier>0</rangemodifier>
+          <extra />
+          <ammobonus />
+          <wirelesson>True</wirelesson>
+          <wirelessbonus />
+          <stolen>False</stolen>
+          <sortorder>0</sortorder>
+          <parentid />
+        </accessory>
+        <accessory>
+          <sourceid>28936368-9e16-498f-b028-92ec31e89a00</sourceid>
+          <guid>0dba0397-66d7-4384-935a-6ab9073b70af</guid>
+          <name>Tripod</name>
+          <mount>Under</mount>
+          <extramount>None</extramount>
+          <rc>6</rc>
+          <maxrating>0</maxrating>
+          <rating>0</rating>
+          <ratinglabel>String_Rating</ratinglabel>
+          <rcgroup>1</rcgroup>
+          <rcdeployable>True</rcdeployable>
+          <specialmodification>False</specialmodification>
+          <conceal />
+          <avail>4</avail>
+          <cost>500</cost>
+          <weight />
+          <included>False</included>
+          <equipped>True</equipped>
+          <source>SR5</source>
+          <page>433</page>
+          <accuracy>0</accuracy>
+          <ammoreplace />
+          <ammoslots>0</ammoslots>
+          <modifyammocapacity />
+          <damagetype />
+          <damage />
+          <reach>0</reach>
+          <damagereplace />
+          <firemode />
+          <firemodereplace />
+          <ap />
+          <apreplace />
+          <notes>Tripod: The tripod provides a stable base to fire a weapon low to the ground with the user kneeling or sitting. A tripod can be attached to the underbarrel mount and provides 6 points of Recoil Compensation when properly deployed. Attaching a tripod takes one minute. Folding up or deploying the bipod is a Free Action.</notes>
+          <notesColor>Chocolate</notesColor>
+          <discountedcost>False</discountedcost>
+          <singleshot>0</singleshot>
+          <shortburst>0</shortburst>
+          <longburst>0</longburst>
+          <fullburst>0</fullburst>
+          <suppressive>0</suppressive>
+          <rangebonus>0</rangebonus>
+          <rangemodifier>0</rangemodifier>
+          <extra />
+          <ammobonus />
+          <wirelesson>True</wirelesson>
+          <wirelessbonus />
+          <stolen>False</stolen>
+          <sortorder>0</sortorder>
+          <parentid />
+        </accessory>
+        <accessory>
+          <sourceid>521f9c2e-dfb2-42a6-b707-9808ae4885de</sourceid>
+          <guid>2d5f8c70-e0f8-40e6-b403-9827359c6865</guid>
+          <name>Laser Sight</name>
+          <mount>Top</mount>
+          <extramount>None</extramount>
+          <rc />
+          <maxrating>0</maxrating>
+          <rating>0</rating>
+          <ratinglabel>String_Rating</ratinglabel>
+          <rcgroup>0</rcgroup>
+          <rcdeployable>False</rcdeployable>
+          <specialmodification>False</specialmodification>
+          <conceal />
+          <avail>2</avail>
+          <cost>125</cost>
+          <weight />
+          <included>False</included>
+          <equipped>True</equipped>
+          <source>SR5</source>
+          <page>432</page>
+          <accuracy>1</accuracy>
+          <ammoreplace />
+          <ammoslots>0</ammoslots>
+          <modifyammocapacity />
+          <damagetype />
+          <damage />
+          <reach>0</reach>
+          <damagereplace />
+          <firemode />
+          <firemodereplace />
+          <ap />
+          <apreplace />
+          <notes>Laser sight: This device uses a laser beam to project a visible dot (in your choice of colors) on the target. This increases the weapon’s Accuracy by 1, which is not cu- mulative with smartlink modifiers. The laser sight can be attached to either the underbarrel mount or top mount. Activating or deactivating a laser sight is a Simple Action.</notes>
+          <notesColor>Chocolate</notesColor>
+          <discountedcost>False</discountedcost>
+          <singleshot>0</singleshot>
+          <shortburst>0</shortburst>
+          <longburst>0</longburst>
+          <fullburst>0</fullburst>
+          <suppressive>0</suppressive>
+          <rangebonus>0</rangebonus>
+          <rangemodifier>0</rangemodifier>
+          <extra />
+          <ammobonus />
+          <wirelesson>True</wirelesson>
+          <wirelessbonus />
+          <stolen>False</stolen>
+          <sortorder>0</sortorder>
+          <parentid />
+        </accessory>
+        <accessory>
+          <sourceid>4ed24342-276e-4455-acba-22b551e4d775</sourceid>
+          <guid>b3093bd0-efb9-46fc-a03c-36b4dc20a5b0</guid>
+          <name>Spare Clip</name>
+          <mount>None</mount>
+          <extramount>None</extramount>
+          <rc />
+          <maxrating>0</maxrating>
+          <rating>0</rating>
+          <ratinglabel>String_Rating</ratinglabel>
+          <rcgroup>0</rcgroup>
+          <rcdeployable>False</rcdeployable>
+          <specialmodification>False</specialmodification>
+          <conceal />
+          <avail>4</avail>
+          <cost>5</cost>
+          <weight />
+          <included>False</included>
+          <equipped>True</equipped>
+          <source>SR5</source>
+          <page>433</page>
+          <accuracy>0</accuracy>
+          <ammoreplace />
+          <ammoslots>1</ammoslots>
+          <modifyammocapacity />
+          <damagetype />
+          <damage />
+          <reach>0</reach>
+          <damagereplace />
+          <firemode />
+          <firemodereplace />
+          <ap />
+          <apreplace />
+          <notes>Spare clip: A spare clip comes unloaded but can hold the maximum rounds for the weapon. Each clip is spe- cific to the weapon you buy it for, but they all cost the same. And yes, it’s technically a detachable box maga- zine, but the Cityspeak word for it is so popular these days that even the catalogs call them clips.</notes>
+          <notesColor>Chocolate</notesColor>
+          <discountedcost>False</discountedcost>
+          <singleshot>0</singleshot>
+          <shortburst>0</shortburst>
+          <longburst>0</longburst>
+          <fullburst>0</fullburst>
+          <suppressive>0</suppressive>
+          <rangebonus>0</rangebonus>
+          <rangemodifier>0</rangemodifier>
+          <extra />
+          <ammobonus />
+          <wirelesson>True</wirelesson>
+          <wirelessbonus />
+          <stolen>False</stolen>
+          <sortorder>0</sortorder>
+          <parentid />
+        </accessory>
+        <accessory>
+          <sourceid>4ed24342-276e-4455-acba-22b551e4d775</sourceid>
+          <guid>c8c8327b-0b88-4095-8f12-e328f52637a6</guid>
+          <name>Spare Clip</name>
+          <mount>None</mount>
+          <extramount>None</extramount>
+          <rc />
+          <maxrating>0</maxrating>
+          <rating>0</rating>
+          <ratinglabel>String_Rating</ratinglabel>
+          <rcgroup>0</rcgroup>
+          <rcdeployable>False</rcdeployable>
+          <specialmodification>False</specialmodification>
+          <conceal />
+          <avail>4</avail>
+          <cost>5</cost>
+          <weight />
+          <included>False</included>
+          <equipped>True</equipped>
+          <source>SR5</source>
+          <page>433</page>
+          <accuracy>0</accuracy>
+          <ammoreplace />
+          <ammoslots>1</ammoslots>
+          <modifyammocapacity />
+          <damagetype />
+          <damage />
+          <reach>0</reach>
+          <damagereplace />
+          <firemode />
+          <firemodereplace />
+          <ap />
+          <apreplace />
+          <notes>Spare clip: A spare clip comes unloaded but can hold the maximum rounds for the weapon. Each clip is spe- cific to the weapon you buy it for, but they all cost the same. And yes, it’s technically a detachable box maga- zine, but the Cityspeak word for it is so popular these days that even the catalogs call them clips.</notes>
+          <notesColor>Chocolate</notesColor>
+          <discountedcost>False</discountedcost>
+          <singleshot>0</singleshot>
+          <shortburst>0</shortburst>
+          <longburst>0</longburst>
+          <fullburst>0</fullburst>
+          <suppressive>0</suppressive>
+          <rangebonus>0</rangebonus>
+          <rangemodifier>0</rangemodifier>
+          <extra />
+          <ammobonus />
+          <wirelesson>True</wirelesson>
+          <wirelessbonus />
+          <stolen>False</stolen>
+          <sortorder>0</sortorder>
+          <parentid />
+        </accessory>
+        <accessory>
+          <sourceid>4ed24342-276e-4455-acba-22b551e4d775</sourceid>
+          <guid>20294907-aa0f-4ed6-8c2b-3d2ed3fbf5d4</guid>
+          <name>Spare Clip</name>
+          <mount>None</mount>
+          <extramount>None</extramount>
+          <rc />
+          <maxrating>0</maxrating>
+          <rating>0</rating>
+          <ratinglabel>String_Rating</ratinglabel>
+          <rcgroup>0</rcgroup>
+          <rcdeployable>False</rcdeployable>
+          <specialmodification>False</specialmodification>
+          <conceal />
+          <avail>4</avail>
+          <cost>5</cost>
+          <weight />
+          <included>False</included>
+          <equipped>True</equipped>
+          <source>SR5</source>
+          <page>433</page>
+          <accuracy>0</accuracy>
+          <ammoreplace />
+          <ammoslots>1</ammoslots>
+          <modifyammocapacity />
+          <damagetype />
+          <damage />
+          <reach>0</reach>
+          <damagereplace />
+          <firemode />
+          <firemodereplace />
+          <ap />
+          <apreplace />
+          <notes>Spare clip: A spare clip comes unloaded but can hold the maximum rounds for the weapon. Each clip is spe- cific to the weapon you buy it for, but they all cost the same. And yes, it’s technically a detachable box maga- zine, but the Cityspeak word for it is so popular these days that even the catalogs call them clips.</notes>
+          <notesColor>Chocolate</notesColor>
+          <discountedcost>False</discountedcost>
+          <singleshot>0</singleshot>
+          <shortburst>0</shortburst>
+          <longburst>0</longburst>
+          <fullburst>0</fullburst>
+          <suppressive>0</suppressive>
+          <rangebonus>0</rangebonus>
+          <rangemodifier>0</rangemodifier>
+          <extra />
+          <ammobonus />
+          <wirelesson>True</wirelesson>
+          <wirelessbonus />
+          <stolen>False</stolen>
+          <sortorder>0</sortorder>
+          <parentid />
+        </accessory>
+        <accessory>
+          <sourceid>46596db4-6f25-4990-80cc-c4102eaf80f7</sourceid>
+          <guid>5c59414e-0733-4aba-b59a-d54ca2c9f7c8</guid>
+          <name>Shock Pad</name>
+          <mount>None</mount>
+          <extramount>None</extramount>
+          <rc>1</rc>
+          <maxrating>0</maxrating>
+          <rating>0</rating>
+          <ratinglabel>String_Rating</ratinglabel>
+          <rcgroup>2</rcgroup>
+          <rcdeployable>True</rcdeployable>
+          <specialmodification>False</specialmodification>
+          <conceal />
+          <avail>2</avail>
+          <cost>50</cost>
+          <weight />
+          <included>False</included>
+          <equipped>True</equipped>
+          <source>SR5</source>
+          <page>432</page>
+          <accuracy>0</accuracy>
+          <ammoreplace />
+          <ammoslots>0</ammoslots>
+          <modifyammocapacity />
+          <damagetype />
+          <damage />
+          <reach>0</reach>
+          <damagereplace />
+          <firemode />
+          <firemodereplace />
+          <ap />
+          <apreplace />
+          <notes>Shock pad: A shock-absorbing pad is situated on the rigid stock of a rifle, shotgun, or heavy weapon, and pro- vides 1 point of recoil compensation.</notes>
+          <notesColor>Chocolate</notesColor>
+          <discountedcost>False</discountedcost>
+          <singleshot>0</singleshot>
+          <shortburst>0</shortburst>
+          <longburst>0</longburst>
+          <fullburst>0</fullburst>
+          <suppressive>0</suppressive>
+          <rangebonus>0</rangebonus>
+          <rangemodifier>0</rangemodifier>
+          <extra />
+          <ammobonus />
+          <wirelesson>True</wirelesson>
+          <wirelessbonus />
+          <stolen>False</stolen>
+          <sortorder>0</sortorder>
+          <parentid />
+        </accessory>
+      </accessories>
+      <location />
+      <notes>BARRET MODEL 122
+The definitive anti-material rifle, Barret has been producing world-class firearms for decades, the Model 122 replaces the Model 121 as the company’s top-line offering. The rifle continues to be fitted with a sound suppressor, smartgun system and a folding bipod to help enhance long-range accuracy.
+&gt; I’ve heard of shooter using these for some amazing shots, but I can’t see how you slip one into a good blind without getting caught.
+&gt; Rock Pilot &gt; I’m not sure why you would want one in an urban setting, but we’ve used them as part of an anti-vehicle ambush.
+&gt; Picador &gt; I’ve used a Barret a couple of times. There’s nothing like making an Azzie officer’s head explode to convince the rest of them to go away.
+&gt; Kane</notes>
+      <notesColor>Chocolate</notesColor>
+      <discountedcost>False</discountedcost>
+      <weaponslots>Stock/Side/Barrel/Top/Under</weaponslots>
+      <doubledcostweaponslots />
+      <active>False</active>
+      <homenode>False</homenode>
+      <devicerating />
+      <programlimit />
+      <overclocked>None</overclocked>
+      <attack />
+      <sleaze />
+      <dataprocessing />
+      <firewall />
+      <attributearray />
+      <modattack />
+      <modsleaze />
+      <moddataprocessing />
+      <modfirewall />
+      <modattributearray />
+      <canswapattributes>False</canswapattributes>
+      <matrixcmfilled>0</matrixcmfilled>
+      <wirelessbonus />
+      <wirelesson>True</wirelesson>
+      <sortorder>0</sortorder>
+      <weapontype>gun</weapontype>
+    </weapon>
     <weapon>
       <sourceid>63dcfdb6-bbd9-4a58-bbf4-cd35f7614fdc</sourceid>
       <guid>d6cef8a9-953d-4162-aadd-b43d6d855c1a</guid>
@@ -1848,7 +2766,7 @@ This is some strange stuff. I originally refused to carry it since it was intend
       <matrixcmfilled>0</matrixcmfilled>
       <wirelessbonus />
       <wirelesson>True</wirelesson>
-      <sortorder>0</sortorder>
+      <sortorder>1</sortorder>
       <weapontype>melee</weapontype>
     </weapon>
     <weapon>
@@ -2008,7 +2926,7 @@ This modiication allows a weapon’s owner to customize a weapon to it the size 
           <wirelesson>True</wirelesson>
           <wirelessbonus />
           <stolen>False</stolen>
-          <sortorder>0</sortorder>
+          <sortorder>1</sortorder>
           <parentid />
         </accessory>
         <accessory>
@@ -2146,7 +3064,7 @@ This modiication allows a weapon’s owner to customize a weapon to it the size 
               <canswapattributes>False</canswapattributes>
               <active>False</active>
               <homenode>False</homenode>
-              <sortorder>0</sortorder>
+              <sortorder>1</sortorder>
             </gear>
           </gears>
           <ammoreplace />
@@ -2175,7 +3093,7 @@ This modiication allows a weapon’s owner to customize a weapon to it the size 
           <wirelesson>True</wirelesson>
           <wirelessbonus />
           <stolen>False</stolen>
-          <sortorder>0</sortorder>
+          <sortorder>2</sortorder>
           <parentid />
         </accessory>
         <accessory>
@@ -2226,7 +3144,7 @@ This modiication allows a weapon’s owner to customize a weapon to it the size 
           <wirelesson>True</wirelesson>
           <wirelessbonus />
           <stolen>False</stolen>
-          <sortorder>0</sortorder>
+          <sortorder>3</sortorder>
           <parentid />
         </accessory>
         <accessory>
@@ -2277,7 +3195,7 @@ This modiication allows a weapon’s owner to customize a weapon to it the size 
           <wirelesson>True</wirelesson>
           <wirelessbonus />
           <stolen>False</stolen>
-          <sortorder>0</sortorder>
+          <sortorder>4</sortorder>
           <parentid />
         </accessory>
         <accessory>
@@ -2328,7 +3246,7 @@ This modiication allows a weapon’s owner to customize a weapon to it the size 
           <wirelesson>True</wirelesson>
           <wirelessbonus />
           <stolen>False</stolen>
-          <sortorder>0</sortorder>
+          <sortorder>5</sortorder>
           <parentid />
         </accessory>
       </accessories>
@@ -2357,7 +3275,7 @@ This modiication allows a weapon’s owner to customize a weapon to it the size 
       <matrixcmfilled>0</matrixcmfilled>
       <wirelessbonus />
       <wirelesson>True</wirelesson>
-      <sortorder>0</sortorder>
+      <sortorder>2</sortorder>
       <weapontype>gun</weapontype>
     </weapon>
     <weapon>
@@ -2602,7 +3520,7 @@ This modiication allows a weapon’s owner to customize a weapon to it the size 
               <canswapattributes>False</canswapattributes>
               <active>False</active>
               <homenode>False</homenode>
-              <sortorder>0</sortorder>
+              <sortorder>1</sortorder>
             </gear>
           </gears>
           <ammoreplace />
@@ -2631,7 +3549,7 @@ This modiication allows a weapon’s owner to customize a weapon to it the size 
           <wirelesson>True</wirelesson>
           <wirelessbonus />
           <stolen>False</stolen>
-          <sortorder>0</sortorder>
+          <sortorder>1</sortorder>
           <parentid />
         </accessory>
         <accessory>
@@ -2683,7 +3601,7 @@ This modiication allows a weapon’s owner to customize a weapon to it the size 
           <wirelesson>True</wirelesson>
           <wirelessbonus />
           <stolen>False</stolen>
-          <sortorder>0</sortorder>
+          <sortorder>2</sortorder>
           <parentid />
         </accessory>
         <accessory>
@@ -2734,7 +3652,7 @@ This modiication allows a weapon’s owner to customize a weapon to it the size 
           <wirelesson>True</wirelesson>
           <wirelessbonus />
           <stolen>False</stolen>
-          <sortorder>0</sortorder>
+          <sortorder>3</sortorder>
           <parentid />
         </accessory>
         <accessory>
@@ -2785,7 +3703,7 @@ This modiication allows a weapon’s owner to customize a weapon to it the size 
           <wirelesson>True</wirelesson>
           <wirelessbonus />
           <stolen>False</stolen>
-          <sortorder>0</sortorder>
+          <sortorder>4</sortorder>
           <parentid />
         </accessory>
         <accessory>
@@ -2836,7 +3754,7 @@ This modiication allows a weapon’s owner to customize a weapon to it the size 
           <wirelesson>True</wirelesson>
           <wirelessbonus />
           <stolen>False</stolen>
-          <sortorder>0</sortorder>
+          <sortorder>5</sortorder>
           <parentid />
         </accessory>
         <accessory>
@@ -2887,7 +3805,7 @@ This modiication allows a weapon’s owner to customize a weapon to it the size 
           <wirelesson>True</wirelesson>
           <wirelessbonus />
           <stolen>False</stolen>
-          <sortorder>0</sortorder>
+          <sortorder>6</sortorder>
           <parentid />
         </accessory>
         <accessory>
@@ -2938,7 +3856,7 @@ This modiication allows a weapon’s owner to customize a weapon to it the size 
           <wirelesson>True</wirelesson>
           <wirelessbonus />
           <stolen>False</stolen>
-          <sortorder>0</sortorder>
+          <sortorder>7</sortorder>
           <parentid />
         </accessory>
       </accessories>
@@ -2967,7 +3885,7 @@ This modiication allows a weapon’s owner to customize a weapon to it the size 
       <matrixcmfilled>0</matrixcmfilled>
       <wirelessbonus />
       <wirelesson>True</wirelesson>
-      <sortorder>0</sortorder>
+      <sortorder>3</sortorder>
       <weapontype>gun</weapontype>
     </weapon>
     <weapon>
@@ -3126,7 +4044,7 @@ This modiication allows a weapon’s owner to customize a weapon to it the size 
           <wirelesson>True</wirelesson>
           <wirelessbonus />
           <stolen>False</stolen>
-          <sortorder>0</sortorder>
+          <sortorder>1</sortorder>
           <parentid />
         </accessory>
         <accessory>
@@ -3177,7 +4095,7 @@ This modiication allows a weapon’s owner to customize a weapon to it the size 
           <wirelesson>True</wirelesson>
           <wirelessbonus />
           <stolen>False</stolen>
-          <sortorder>0</sortorder>
+          <sortorder>2</sortorder>
           <parentid />
         </accessory>
       </accessories>
@@ -3206,7 +4124,7 @@ This modiication allows a weapon’s owner to customize a weapon to it the size 
       <matrixcmfilled>0</matrixcmfilled>
       <wirelessbonus />
       <wirelesson>True</wirelesson>
-      <sortorder>0</sortorder>
+      <sortorder>4</sortorder>
       <weapontype>melee</weapontype>
     </weapon>
   </weapons>
@@ -7684,7 +8602,7 @@ This nanotech application is used extensively in space and undersea habitats and
       <minrating />
       <maxrating />
       <rating>0</rating>
-      <qty>100</qty>
+      <qty>286</qty>
       <avail>2R</avail>
       <costfor>10</costfor>
       <cost>20</cost>
@@ -8149,6 +9067,64 @@ This nanotech application is used extensively in space and undersea habitats and
       <active>False</active>
       <homenode>False</homenode>
       <sortorder>7</sortorder>
+    </gear>
+    <gear>
+      <sourceid>b2a0b340-c793-4322-8422-8b03d18a6fae</sourceid>
+      <guid>dcde40aa-70bd-4911-9b5d-30ab9d68ba23</guid>
+      <name>Ammo: Regular Ammo</name>
+      <category>Ammunition</category>
+      <capacity />
+      <armorcapacity />
+      <minrating />
+      <maxrating />
+      <rating>0</rating>
+      <qty>14</qty>
+      <avail>2R</avail>
+      <costfor>10</costfor>
+      <cost>20</cost>
+      <weight />
+      <extra>Sniper Rifles</extra>
+      <bonded>False</bonded>
+      <equipped>True</equipped>
+      <wirelesson>False</wirelesson>
+      <stolen>False</stolen>
+      <bonus />
+      <wirelessbonus />
+      <weaponbonus />
+      <flechetteweaponbonus />
+      <source>SR5</source>
+      <page>434</page>
+      <isflechetteammo>False</isflechetteammo>
+      <ammoforweapontype>gun</ammoforweapontype>
+      <canformpersona />
+      <devicerating />
+      <gearname />
+      <forcedvalue />
+      <matrixcmfilled>0</matrixcmfilled>
+      <matrixcmbonus>0</matrixcmbonus>
+      <parentid />
+      <allowrename>False</allowrename>
+      <children />
+      <location>bac0aad3-340e-484c-91e2-06b4ff6a7062</location>
+      <notes />
+      <notesColor>Chocolate</notesColor>
+      <discountedcost>False</discountedcost>
+      <programlimit />
+      <overclocked />
+      <attack />
+      <sleaze />
+      <dataprocessing />
+      <firewall />
+      <attributearray />
+      <modattack />
+      <modsleaze />
+      <moddataprocessing />
+      <modfirewall />
+      <modattributearray />
+      <canswapattributes>False</canswapattributes>
+      <active>False</active>
+      <homenode>False</homenode>
+      <sortorder>0</sortorder>
     </gear>
   </gears>
   <vehicles>
@@ -9134,7 +10110,280 @@ Yamaha’s latest racing bike, the Kaburaya is as sleek and loud as the arrow it
   <sustainedobjects />
   <drugs />
   <mentorspirits />
-  <expenses />
+  <expenses>
+    <expense>
+      <guid>ef800265-9ce3-4c36-aa64-d16fdfac2bcf</guid>
+      <date>2025-09-02T21:14:22</date>
+      <amount>3</amount>
+      <reason>Starting Karma</reason>
+      <type>Karma</type>
+      <refund>False</refund>
+      <forcecareervisible>False</forcecareervisible>
+      <undo>
+        <karmatype>ManualAdd</karmatype>
+        <nuyentype>AddCyberware</nuyentype>
+        <objectid />
+        <qty>0</qty>
+        <extra />
+      </undo>
+    </expense>
+    <expense>
+      <guid>efc33492-e7fd-470f-b36e-cb13094d9048</guid>
+      <date>2025-09-02T21:14:22</date>
+      <amount>17000</amount>
+      <reason>Starting Nuyen</reason>
+      <type>Nuyen</type>
+      <refund>False</refund>
+      <forcecareervisible>False</forcecareervisible>
+      <undo>
+        <karmatype>ImproveAttribute</karmatype>
+        <nuyentype>ManualAdd</nuyentype>
+        <objectid />
+        <qty>0</qty>
+        <extra />
+      </undo>
+    </expense>
+    <expense>
+      <guid>37199db0-93a2-4260-9815-204a3081126d</guid>
+      <date>2025-09-02T21:16:41</date>
+      <amount>80000</amount>
+      <reason>Starting Don't Count</reason>
+      <type>Nuyen</type>
+      <refund>False</refund>
+      <forcecareervisible>False</forcecareervisible>
+      <undo>
+        <karmatype>ImproveAttribute</karmatype>
+        <nuyentype>ManualAdd</nuyentype>
+        <objectid />
+        <qty>0</qty>
+        <extra />
+      </undo>
+    </expense>
+    <expense>
+      <guid>40a74818-b547-4877-b8c1-244f3e854797</guid>
+      <date>2025-09-02T21:17:20</date>
+      <amount>-38500</amount>
+      <reason>Purchased Weapon Barret Model 122</reason>
+      <type>Nuyen</type>
+      <refund>False</refund>
+      <forcecareervisible>False</forcecareervisible>
+      <undo>
+        <karmatype>ImproveAttribute</karmatype>
+        <nuyentype>AddWeapon</nuyentype>
+        <objectid>b5ae7d50-4dfb-4638-a7ab-c87ac204272c</objectid>
+        <qty>0</qty>
+        <extra />
+      </undo>
+    </expense>
+    <expense>
+      <guid>ad4f232a-b334-4948-8091-c3d451bc3c57</guid>
+      <date>2025-09-02T21:17:38</date>
+      <amount>-1250</amount>
+      <reason>Purchased Weapon Accessory Easy Breakdown (Powered)</reason>
+      <type>Nuyen</type>
+      <refund>False</refund>
+      <forcecareervisible>False</forcecareervisible>
+      <undo>
+        <karmatype>ImproveAttribute</karmatype>
+        <nuyentype>AddWeaponAccessory</nuyentype>
+        <objectid>ee92ec3d-eb58-4d28-91f1-f9f71a276ddb</objectid>
+        <qty>0</qty>
+        <extra />
+      </undo>
+    </expense>
+    <expense>
+      <guid>764a48a4-8c7f-4cf4-afbc-0502fbd7d8bd</guid>
+      <date>2025-09-02T21:17:43</date>
+      <amount>-950</amount>
+      <reason>Purchased Weapon Accessory Advanced Safety System, Electro Shocker</reason>
+      <type>Nuyen</type>
+      <refund>False</refund>
+      <forcecareervisible>False</forcecareervisible>
+      <undo>
+        <karmatype>ImproveAttribute</karmatype>
+        <nuyentype>AddWeaponAccessory</nuyentype>
+        <objectid>a67b75b8-99e7-44d4-8058-44e19ceca182</objectid>
+        <qty>0</qty>
+        <extra />
+      </undo>
+    </expense>
+    <expense>
+      <guid>c68e1b2f-4276-4d13-8021-c3c5623a288d</guid>
+      <date>2025-09-02T21:17:52</date>
+      <amount>-600</amount>
+      <reason>Purchased Weapon Accessory Gas-Vent 3 System</reason>
+      <type>Nuyen</type>
+      <refund>False</refund>
+      <forcecareervisible>False</forcecareervisible>
+      <undo>
+        <karmatype>ImproveAttribute</karmatype>
+        <nuyentype>AddWeaponAccessory</nuyentype>
+        <objectid>87eddd43-3a44-4b06-b11d-d7b132d9372b</objectid>
+        <qty>0</qty>
+        <extra />
+      </undo>
+    </expense>
+    <expense>
+      <guid>eeb019c9-00c9-4fa7-a8e1-4d04c52ae84b</guid>
+      <date>2025-09-02T21:17:56</date>
+      <amount>-100</amount>
+      <reason>Purchased Weapon Accessory Gecko Grip</reason>
+      <type>Nuyen</type>
+      <refund>False</refund>
+      <forcecareervisible>False</forcecareervisible>
+      <undo>
+        <karmatype>ImproveAttribute</karmatype>
+        <nuyentype>AddWeaponAccessory</nuyentype>
+        <objectid>bbd94a99-00b0-430b-9a41-f74ae9d141ad</objectid>
+        <qty>0</qty>
+        <extra />
+      </undo>
+    </expense>
+    <expense>
+      <guid>38df7dc4-1a43-43cc-a202-c019a1fb60b8</guid>
+      <date>2025-09-02T21:18:09</date>
+      <amount>-100</amount>
+      <reason>Purchased Weapon Accessory Personalized Grip</reason>
+      <type>Nuyen</type>
+      <refund>False</refund>
+      <forcecareervisible>False</forcecareervisible>
+      <undo>
+        <karmatype>ImproveAttribute</karmatype>
+        <nuyentype>AddWeaponAccessory</nuyentype>
+        <objectid>d9d153b3-c431-4ff5-a4c4-980779e46b5a</objectid>
+        <qty>0</qty>
+        <extra />
+      </undo>
+    </expense>
+    <expense>
+      <guid>fe39b3ba-157b-4dee-9373-80073517a4ab</guid>
+      <date>2025-09-02T21:18:23</date>
+      <amount>-500</amount>
+      <reason>Purchased Weapon Accessory Tripod</reason>
+      <type>Nuyen</type>
+      <refund>False</refund>
+      <forcecareervisible>False</forcecareervisible>
+      <undo>
+        <karmatype>ImproveAttribute</karmatype>
+        <nuyentype>AddWeaponAccessory</nuyentype>
+        <objectid>0dba0397-66d7-4384-935a-6ab9073b70af</objectid>
+        <qty>0</qty>
+        <extra />
+      </undo>
+    </expense>
+    <expense>
+      <guid>0d68d8c1-6d74-4ebf-9eaa-f38e1fdb7594</guid>
+      <date>2025-09-02T21:18:43</date>
+      <amount>-125</amount>
+      <reason>Purchased Weapon Accessory Laser Sight</reason>
+      <type>Nuyen</type>
+      <refund>False</refund>
+      <forcecareervisible>False</forcecareervisible>
+      <undo>
+        <karmatype>ImproveAttribute</karmatype>
+        <nuyentype>AddWeaponAccessory</nuyentype>
+        <objectid>2d5f8c70-e0f8-40e6-b403-9827359c6865</objectid>
+        <qty>0</qty>
+        <extra />
+      </undo>
+    </expense>
+    <expense>
+      <guid>30852ead-6598-474d-9f72-1c674ec1299f</guid>
+      <date>2025-09-02T21:18:48</date>
+      <amount>-5</amount>
+      <reason>Purchased Weapon Accessory Spare Clip</reason>
+      <type>Nuyen</type>
+      <refund>False</refund>
+      <forcecareervisible>False</forcecareervisible>
+      <undo>
+        <karmatype>ImproveAttribute</karmatype>
+        <nuyentype>AddWeaponAccessory</nuyentype>
+        <objectid>b3093bd0-efb9-46fc-a03c-36b4dc20a5b0</objectid>
+        <qty>0</qty>
+        <extra />
+      </undo>
+    </expense>
+    <expense>
+      <guid>c18edf50-9435-445f-a0c4-3b0d37680737</guid>
+      <date>2025-09-02T21:18:51</date>
+      <amount>-5</amount>
+      <reason>Purchased Weapon Accessory Spare Clip</reason>
+      <type>Nuyen</type>
+      <refund>False</refund>
+      <forcecareervisible>False</forcecareervisible>
+      <undo>
+        <karmatype>ImproveAttribute</karmatype>
+        <nuyentype>AddWeaponAccessory</nuyentype>
+        <objectid>c8c8327b-0b88-4095-8f12-e328f52637a6</objectid>
+        <qty>0</qty>
+        <extra />
+      </undo>
+    </expense>
+    <expense>
+      <guid>50ef3db4-10a5-4cf3-b934-c2e7674cb74c</guid>
+      <date>2025-09-02T21:18:53</date>
+      <amount>-5</amount>
+      <reason>Purchased Weapon Accessory Spare Clip</reason>
+      <type>Nuyen</type>
+      <refund>False</refund>
+      <forcecareervisible>False</forcecareervisible>
+      <undo>
+        <karmatype>ImproveAttribute</karmatype>
+        <nuyentype>AddWeaponAccessory</nuyentype>
+        <objectid>20294907-aa0f-4ed6-8c2b-3d2ed3fbf5d4</objectid>
+        <qty>0</qty>
+        <extra />
+      </undo>
+    </expense>
+    <expense>
+      <guid>618a0ec9-dfe9-4d29-a0c0-a5808168fffa</guid>
+      <date>2025-09-02T21:19:09</date>
+      <amount>-50</amount>
+      <reason>Purchased Weapon Accessory Shock Pad</reason>
+      <type>Nuyen</type>
+      <refund>False</refund>
+      <forcecareervisible>False</forcecareervisible>
+      <undo>
+        <karmatype>ImproveAttribute</karmatype>
+        <nuyentype>AddWeaponAccessory</nuyentype>
+        <objectid>5c59414e-0733-4aba-b59a-d54ca2c9f7c8</objectid>
+        <qty>0</qty>
+        <extra />
+      </undo>
+    </expense>
+    <expense>
+      <guid>e0765fc7-13a5-4c61-822c-41a9923f1e73</guid>
+      <date>2025-09-02T21:21:52</date>
+      <amount>-16000</amount>
+      <reason>Purchased Armor Ruthenium Polymer Cloak</reason>
+      <type>Nuyen</type>
+      <refund>False</refund>
+      <forcecareervisible>False</forcecareervisible>
+      <undo>
+        <karmatype>ImproveAttribute</karmatype>
+        <nuyentype>AddArmor</nuyentype>
+        <objectid>175f2732-b0d2-4ed3-b123-5e16776e79e7</objectid>
+        <qty>0</qty>
+        <extra />
+      </undo>
+    </expense>
+    <expense>
+      <guid>61dd3b65-68a9-429b-9bbc-c9ba9f5d339c</guid>
+      <date>2025-09-02T21:25:38</date>
+      <amount>-400</amount>
+      <reason>Purchased Gear Ammo: Regular Ammo</reason>
+      <type>Nuyen</type>
+      <refund>False</refund>
+      <forcecareervisible>False</forcecareervisible>
+      <undo>
+        <karmatype>ImproveAttribute</karmatype>
+        <nuyentype>AddGear</nuyentype>
+        <objectid>0ce3bd56-d706-488f-89e9-f676e5d966f6</objectid>
+        <qty>200</qty>
+        <extra />
+      </undo>
+    </expense>
+  </expenses>
   <gearlocations>
     <location>
       <guid>bac0aad3-340e-484c-91e2-06b4ff6a7062</guid>
