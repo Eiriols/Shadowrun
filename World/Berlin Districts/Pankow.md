@@ -10,6 +10,13 @@ A clear contrast to the grey buildings is the cemetery Berlin-Weißensee, a beau
 
 #### Dreamland
 On the southern edge of Pankow in Renrakusan is an extensive slum area, which is generally referred to as "Dreamland". This boulevard of broken dreams does not have its name by chance, because here you can feel "like you're on cloud 7", with sex, cram and BTLs. In addition, there is also a never completed arcology of the Draco Foundation, which is simply referred to by the residents as "The Heaven ".
+### Factions
+
+| Name      | Type | Sway |
+| --------- | ---- | ---- |
+| Blighters | Gang | L    |
+|           |      |      |
+
 #### Neighbours
 [[Reinickendorf]]
 [[Mitte]]

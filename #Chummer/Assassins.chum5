@@ -5,7 +5,7 @@
   <appversion>5.225.862</appversion>
   <gameedition>SR5</gameedition>
   <settings>67e25032-2a4e-42ca-97fa-69f7f608236c</settings>
-  <settingshashcode>363743861</settingshashcode>
+  <settingshashcode>-175723563</settingshashcode>
   <buildmethod>Priority</buildmethod>
   <sources>
     <source>SR5</source>
@@ -96,7 +96,7 @@
   <playername />
   <gamenotes />
   <primaryarm>Right</primaryarm>
-  <karma>3</karma>
+  <karma>0</karma>
   <special>3</special>
   <totalspecial>3</totalspecial>
   <totalattributes>24</totalattributes>
@@ -119,7 +119,7 @@
   <baseastralreputation>0</baseastralreputation>
   <basewildreputation>0</basewildreputation>
   <created>True</created>
-  <nuyen>38410</nuyen>
+  <nuyen>1910.0</nuyen>
   <startingnuyen>275000</startingnuyen>
   <nuyenbp>0</nuyenbp>
   <adept>False</adept>
@@ -280,7 +280,7 @@
   <groupmember>False</groupmember>
   <groupname />
   <groupnotes />
-  <totaless>5.16</totaless>
+  <totaless>4.51</totaless>
   <physicalcmfilled>0</physicalcmfilled>
   <stuncmfilled>0</stuncmfilled>
   <psyche>False</psyche>
@@ -898,7 +898,7 @@
         <requiresgroundmovement>False</requiresgroundmovement>
         <requiresswimmovement>False</requiresswimmovement>
         <requiresflymovement>False</requiresflymovement>
-        <karma>0</karma>
+        <karma>1</karma>
         <base>0</base>
         <notes />
         <notesColor>Chocolate</notesColor>
@@ -1337,6 +1337,35 @@
       <mainmugshotindex>-1</mainmugshotindex>
       <mugshots />
     </contact>
+    <contact>
+      <name>Martel</name>
+      <role>Fixer</role>
+      <location>Potsdam</location>
+      <connection>3</connection>
+      <loyalty>1</loyalty>
+      <metatype />
+      <gender />
+      <age />
+      <contacttype />
+      <preferredpayment />
+      <hobbiesvice />
+      <personallife />
+      <type>Contact</type>
+      <file />
+      <relative />
+      <notes />
+      <notesColor>Chocolate</notesColor>
+      <groupname />
+      <colour>0</colour>
+      <group>False</group>
+      <family>False</family>
+      <blackmail>False</blackmail>
+      <free>False</free>
+      <groupenabled>True</groupenabled>
+      <guid>7b6c6ef8-de11-41f4-9766-cf393ac16f1f</guid>
+      <mainmugshotindex>-1</mainmugshotindex>
+      <mugshots />
+    </contact>
   </contacts>
   <spells />
   <foci />
@@ -1345,7 +1374,34 @@
   <spirits />
   <complexforms />
   <aiprograms />
-  <martialarts />
+  <martialarts>
+    <martialart>
+      <name>Firefight</name>
+      <sourceid>3a16d253-73cb-41e0-8c52-8f5b79d27a58</sourceid>
+      <guid>fefbe966-38f8-4a43-b1a4-890f4e71121a</guid>
+      <source>RG</source>
+      <page>130</page>
+      <cost>7</cost>
+      <isquality>False</isquality>
+      <martialarttechniques>
+        <martialarttechnique>
+          <sourceid>1ff5100c-6b10-453c-a05a-9af9110581e9</sourceid>
+          <guid>95a4d43d-1bbc-4818-8b7f-00295c656df3</guid>
+          <name>Strike the Darkness</name>
+          <notes>STRIKE THE DARKNESS
+This technique reduces the character’s reliance on his sight to fight an opponent. It’s a mix of using other senses such as hearing and smell and using memory, remembering previous blocks and strikes to predict the opponent’s next position. It reduces the penalty for Blind Fighting by 1.</notes>
+          <notesColor>Chocolate</notesColor>
+          <source>RG</source>
+          <page>141</page>
+        </martialarttechnique>
+      </martialarttechniques>
+      <notes>FIREFIGHT
+Firefight is a unique combat training style first developed by Ares in 2068 based on existing military combat training for urban terrain. It deals specifically with fighting in close quarters against both ranged and melee opponents. Those who practice Firefight learn how to use a firearm effectively while in melee combat.
+Originally only Ares FireWatch teams learned these proprietary techniques, but through espionage and shadowrunners, a few mercenary groups and security forces have learned similar training techniques.
+Available Techniques: Clinch, Close Quarter Defense Against Firearms, Close Quarter Firearms (Pistols), Multiple Opponent Defense (Friends in Melee), Oaken Stance (Defense Against Being Knocked Down, Defense Against Being Charged)</notes>
+      <notesColor>Chocolate</notesColor>
+    </martialart>
+  </martialarts>
   <limitmodifiers>
     <limitmodifier>
       <guid>627eb8b9-c9e5-4915-a773-75a695b18203</guid>
@@ -6006,6 +6062,168 @@ Adding cups over a user’s ears provides protection not unlike eye covers for c
       <canswapattributes>False</canswapattributes>
       <sortorder>0</sortorder>
     </cyberware>
+    <cyberware>
+      <guid>abd481a4-cf14-48e9-b02f-e7dc2e247d82</guid>
+      <sourceid>d4d12624-1754-4a67-8e5e-f41817cfc875</sourceid>
+      <name>Modular Connector, Shoulder</name>
+      <category>Cyberlimb</category>
+      <limbslot>arm</limbslot>
+      <limbslotcount>1</limbslotcount>
+      <inheritattributes>True</inheritattributes>
+      <ess>1.3</ess>
+      <capacity>0</capacity>
+      <avail>12</avail>
+      <cost>6000</cost>
+      <weight />
+      <source>CF</source>
+      <page>88</page>
+      <parentid />
+      <hasmodularmount>shoulder</hasmodularmount>
+      <plugsintomodularmount />
+      <blocksmounts>wrist,elbow,shoulder</blocksmounts>
+      <forced />
+      <rating>0</rating>
+      <minagility>3</minagility>
+      <minstrength>3</minstrength>
+      <minrating />
+      <maxrating />
+      <ratinglabel>String_Rating</ratinglabel>
+      <subsystems />
+      <wirelesson>False</wirelesson>
+      <grade>Deltaware</grade>
+      <location>Right</location>
+      <extra />
+      <suite>False</suite>
+      <stolen>False</stolen>
+      <essdiscount>0</essdiscount>
+      <extraessadditivemultiplier>0</extraessadditivemultiplier>
+      <extraessmultiplicativemultiplier>1</extraessmultiplicativemultiplier>
+      <forcegrade />
+      <matrixcmfilled>0</matrixcmfilled>
+      <matrixcmbonus>0</matrixcmbonus>
+      <prototypetranshuman>False</prototypetranshuman>
+      <bonus />
+      <pairbonus />
+      <wirelessbonus />
+      <wirelesspairbonus />
+      <improvementsource>Cyberware</improvementsource>
+      <pairinclude>
+        <name>Modular Connector, Shoulder</name>
+      </pairinclude>
+      <wirelesspairinclude>
+        <name>Modular Connector, Shoulder</name>
+      </wirelesspairinclude>
+      <children>
+        <cyberware>
+          <guid>52cf9fe5-aed6-451b-8a02-74a910d5b609</guid>
+          <sourceid>c0f408f6-31b2-4070-b972-832a5520d489</sourceid>
+          <name>Synthetic Full Arm, Modular</name>
+          <category>Cyberlimb</category>
+          <limbslot />
+          <limbslotcount>1</limbslotcount>
+          <inheritattributes>False</inheritattributes>
+          <ess>0</ess>
+          <capacity>5</capacity>
+          <avail>6</avail>
+          <cost>23000</cost>
+          <weight />
+          <source>CF</source>
+          <page>88</page>
+          <parentid />
+          <hasmodularmount />
+          <plugsintomodularmount>shoulder</plugsintomodularmount>
+          <blocksmounts />
+          <forced />
+          <rating>0</rating>
+          <minagility>3</minagility>
+          <minstrength>3</minstrength>
+          <minrating />
+          <maxrating />
+          <ratinglabel>String_Rating</ratinglabel>
+          <subsystems>Bodyware,Cosmetic Enhancement,Cyberlimb,Cyberlimb Enhancement,Cyberlimb Accessory,Cyber Implant Weapon,Headware,Nanocybernetics</subsystems>
+          <wirelesson>False</wirelesson>
+          <grade>Deltaware</grade>
+          <location>Right</location>
+          <extra />
+          <suite>False</suite>
+          <stolen>False</stolen>
+          <essdiscount>0</essdiscount>
+          <extraessadditivemultiplier>0</extraessadditivemultiplier>
+          <extraessmultiplicativemultiplier>1</extraessmultiplicativemultiplier>
+          <forcegrade />
+          <matrixcmfilled>0</matrixcmfilled>
+          <matrixcmbonus>0</matrixcmbonus>
+          <prototypetranshuman>False</prototypetranshuman>
+          <bonus>
+            <conditionmonitor>
+              <physical>1</physical>
+            </conditionmonitor>
+          </bonus>
+          <pairbonus />
+          <wirelessbonus />
+          <wirelesspairbonus />
+          <allowgear>
+            <gearcategory>Custom</gearcategory>
+            <gearcategory>Sensors</gearcategory>
+          </allowgear>
+          <improvementsource>Cyberware</improvementsource>
+          <pairinclude>
+            <name>Synthetic Full Arm, Modular</name>
+          </pairinclude>
+          <wirelesspairinclude>
+            <name>Synthetic Full Arm, Modular</name>
+          </wirelesspairinclude>
+          <notes />
+          <notesColor>Chocolate</notesColor>
+          <discountedcost>False</discountedcost>
+          <addtoparentess>False</addtoparentess>
+          <addtoparentcapacity>False</addtoparentcapacity>
+          <isgeneware>False</isgeneware>
+          <active>False</active>
+          <homenode>False</homenode>
+          <devicerating />
+          <programlimit />
+          <overclocked>None</overclocked>
+          <canformpersona />
+          <attack />
+          <sleaze />
+          <dataprocessing />
+          <firewall />
+          <attributearray />
+          <modattack />
+          <modsleaze />
+          <moddataprocessing />
+          <modfirewall />
+          <modattributearray />
+          <canswapattributes>False</canswapattributes>
+          <sortorder>0</sortorder>
+        </cyberware>
+      </children>
+      <notes />
+      <notesColor>Chocolate</notesColor>
+      <discountedcost>False</discountedcost>
+      <addtoparentess>False</addtoparentess>
+      <addtoparentcapacity>False</addtoparentcapacity>
+      <isgeneware>False</isgeneware>
+      <active>False</active>
+      <homenode>False</homenode>
+      <devicerating />
+      <programlimit />
+      <overclocked>None</overclocked>
+      <canformpersona />
+      <attack />
+      <sleaze />
+      <dataprocessing />
+      <firewall />
+      <attributearray />
+      <modattack />
+      <modsleaze />
+      <moddataprocessing />
+      <modfirewall />
+      <modattributearray />
+      <canswapattributes>False</canswapattributes>
+      <sortorder>0</sortorder>
+    </cyberware>
   </cyberwares>
   <qualities>
     <quality>
@@ -10106,6 +10324,105 @@ Yamaha’s latest racing bike, the Kaburaya is as sleek and loud as the arrow it
       <notes />
       <notesColor>Chocolate</notesColor>
     </improvement>
+    <improvement>
+      <unique>Firefight</unique>
+      <target />
+      <improvedname>Pistols</improvedname>
+      <sourcename>fefbe966-38f8-4a43-b1a4-890f4e71121a</sourcename>
+      <min>0</min>
+      <max>0</max>
+      <aug>0</aug>
+      <augmax>0</augmax>
+      <val>0</val>
+      <rating>1</rating>
+      <exclude />
+      <condition />
+      <improvementttype>SkillSpecializationOption</improvementttype>
+      <improvementsource>MartialArt</improvementsource>
+      <custom>False</custom>
+      <customname />
+      <customid />
+      <customgroup />
+      <addtorating>0</addtorating>
+      <enabled>1</enabled>
+      <order>0</order>
+      <notes />
+      <notesColor>Chocolate</notesColor>
+    </improvement>
+    <improvement>
+      <unique>Firefight</unique>
+      <target />
+      <improvedname>Longarms</improvedname>
+      <sourcename>fefbe966-38f8-4a43-b1a4-890f4e71121a</sourcename>
+      <min>0</min>
+      <max>0</max>
+      <aug>0</aug>
+      <augmax>0</augmax>
+      <val>0</val>
+      <rating>1</rating>
+      <exclude />
+      <condition />
+      <improvementttype>SkillSpecializationOption</improvementttype>
+      <improvementsource>MartialArt</improvementsource>
+      <custom>False</custom>
+      <customname />
+      <customid />
+      <customgroup />
+      <addtorating>0</addtorating>
+      <enabled>1</enabled>
+      <order>0</order>
+      <notes />
+      <notesColor>Chocolate</notesColor>
+    </improvement>
+    <improvement>
+      <unique>Firefight</unique>
+      <target />
+      <improvedname>Automatics</improvedname>
+      <sourcename>fefbe966-38f8-4a43-b1a4-890f4e71121a</sourcename>
+      <min>0</min>
+      <max>0</max>
+      <aug>0</aug>
+      <augmax>0</augmax>
+      <val>0</val>
+      <rating>1</rating>
+      <exclude />
+      <condition />
+      <improvementttype>SkillSpecializationOption</improvementttype>
+      <improvementsource>MartialArt</improvementsource>
+      <custom>False</custom>
+      <customname />
+      <customid />
+      <customgroup />
+      <addtorating>0</addtorating>
+      <enabled>1</enabled>
+      <order>0</order>
+      <notes />
+      <notesColor>Chocolate</notesColor>
+    </improvement>
+    <improvement>
+      <target />
+      <improvedname />
+      <sourcename>52cf9fe5-aed6-451b-8a02-74a910d5b609</sourcename>
+      <min>0</min>
+      <max>0</max>
+      <aug>0</aug>
+      <augmax>0</augmax>
+      <val>1</val>
+      <rating>1</rating>
+      <exclude />
+      <condition />
+      <improvementttype>PhysicalCM</improvementttype>
+      <improvementsource>Cyberware</improvementsource>
+      <custom>False</custom>
+      <customname />
+      <customid />
+      <customgroup />
+      <addtorating>0</addtorating>
+      <enabled>1</enabled>
+      <order>0</order>
+      <notes />
+      <notesColor>Chocolate</notesColor>
+    </improvement>
   </improvements>
   <sustainedobjects />
   <drugs />
@@ -10146,7 +10463,7 @@ Yamaha’s latest racing bike, the Kaburaya is as sleek and loud as the arrow it
     <expense>
       <guid>37199db0-93a2-4260-9815-204a3081126d</guid>
       <date>2025-09-02T21:16:41</date>
-      <amount>80000</amount>
+      <amount>110000</amount>
       <reason>Starting Don't Count</reason>
       <type>Nuyen</type>
       <refund>False</refund>
@@ -10383,6 +10700,118 @@ Yamaha’s latest racing bike, the Kaburaya is as sleek and loud as the arrow it
         <extra />
       </undo>
     </expense>
+    <expense>
+      <guid>9f74cddf-4497-43ee-a666-4a58775399f9</guid>
+      <date>2025-11-26T22:17:34</date>
+      <amount>6000</amount>
+      <reason>Working for the Man</reason>
+      <type>Nuyen</type>
+      <refund>False</refund>
+      <forcecareervisible>False</forcecareervisible>
+      <undo>
+        <karmatype>ImproveAttribute</karmatype>
+        <nuyentype>ManualAdd</nuyentype>
+        <objectid />
+        <qty>0</qty>
+        <extra />
+      </undo>
+    </expense>
+    <expense>
+      <guid>84cedd3d-82d0-4fef-b94b-a1618f6db991</guid>
+      <date>2025-11-26T22:17:55</date>
+      <amount>6</amount>
+      <reason>Working for the People</reason>
+      <type>Karma</type>
+      <refund>False</refund>
+      <forcecareervisible>False</forcecareervisible>
+      <undo>
+        <karmatype>ManualAdd</karmatype>
+        <nuyentype>AddCyberware</nuyentype>
+        <objectid />
+        <qty>0</qty>
+        <extra />
+      </undo>
+    </expense>
+    <expense>
+      <guid>ed75cf8a-3da6-41f4-a97d-1d55f8feae48</guid>
+      <date>2025-11-27T11:49:36</date>
+      <amount>-2</amount>
+      <reason>Active Skill Perception 0 -&gt; 1</reason>
+      <type>Karma</type>
+      <refund>False</refund>
+      <forcecareervisible>False</forcecareervisible>
+      <undo>
+        <karmatype>AddSkill</karmatype>
+        <nuyentype>AddCyberware</nuyentype>
+        <objectid>067e02da-f1d3-494c-b46b-206a89c75c7d</objectid>
+        <qty>0</qty>
+        <extra />
+      </undo>
+    </expense>
+    <expense>
+      <guid>39a46998-3f71-4ef0-bb2a-6a1cd81f56b7</guid>
+      <date>2025-11-27T12:12:28</date>
+      <amount>-7</amount>
+      <reason>Learned Martial Art Firefight</reason>
+      <type>Karma</type>
+      <refund>False</refund>
+      <forcecareervisible>False</forcecareervisible>
+      <undo>
+        <karmatype>AddMartialArt</karmatype>
+        <nuyentype>AddCyberware</nuyentype>
+        <objectid>fefbe966-38f8-4a43-b1a4-890f4e71121a</objectid>
+        <qty>0</qty>
+        <extra />
+      </undo>
+    </expense>
+    <expense>
+      <guid>86d5fb7d-32fe-4a7f-bacd-935ab7ad68fe</guid>
+      <date>2025-11-27T12:16:25</date>
+      <amount>0</amount>
+      <reason>Learned Technique Strike the Darkness</reason>
+      <type>Karma</type>
+      <refund>False</refund>
+      <forcecareervisible>False</forcecareervisible>
+      <undo>
+        <karmatype>AddMartialArtTechnique</karmatype>
+        <nuyentype>AddCyberware</nuyentype>
+        <objectid>95a4d43d-1bbc-4818-8b7f-00295c656df3</objectid>
+        <qty>0</qty>
+        <extra />
+      </undo>
+    </expense>
+    <expense>
+      <guid>6cbe3b5a-9cf3-4b02-9fb6-5482c675ba2d</guid>
+      <date>2025-11-27T12:20:35</date>
+      <amount>-15000.0</amount>
+      <reason>Purchased Cyberware Modular Connector, Shoulder</reason>
+      <type>Nuyen</type>
+      <refund>False</refund>
+      <forcecareervisible>False</forcecareervisible>
+      <undo>
+        <karmatype>ImproveAttribute</karmatype>
+        <nuyentype>AddCyberware</nuyentype>
+        <objectid>abd481a4-cf14-48e9-b02f-e7dc2e247d82</objectid>
+        <qty>0</qty>
+        <extra />
+      </undo>
+    </expense>
+    <expense>
+      <guid>35916330-9ba2-4ebf-a930-5e8a41b16408</guid>
+      <date>2025-11-27T12:29:11</date>
+      <amount>-57500.0</amount>
+      <reason>Purchased Cyberware Synthetic Full Arm, Modular</reason>
+      <type>Nuyen</type>
+      <refund>False</refund>
+      <forcecareervisible>False</forcecareervisible>
+      <undo>
+        <karmatype>ImproveAttribute</karmatype>
+        <nuyentype>AddCyberware</nuyentype>
+        <objectid>52cf9fe5-aed6-451b-8a02-74a910d5b609</objectid>
+        <qty>0</qty>
+        <extra />
+      </undo>
+    </expense>
   </expenses>
   <gearlocations>
     <location>
@@ -10397,9 +10826,17 @@ Yamaha’s latest racing bike, the Kaburaya is as sleek and loud as the arrow it
   <vehiclelocations />
   <weaponlocations />
   <improvementgroups />
-  <calendar />
+  <calendar>
+    <week>
+      <guid>ee7a740f-ae96-4cbc-bc55-7de66a77dc17</guid>
+      <year>2072</year>
+      <week>1</week>
+      <notes />
+      <notesColor>Chocolate</notesColor>
+    </week>
+  </calendar>
   <calculatedvalues>
-    <physicalcm>13</physicalcm>
+    <physicalcm>14</physicalcm>
     <physicalcmthresholdoffset>0</physicalcmthresholdoffset>
     <physicalcmoverflow>6</physicalcmoverflow>
     <stuncm>10</stuncm>

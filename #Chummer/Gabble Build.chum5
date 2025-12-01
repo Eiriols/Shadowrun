@@ -2,10 +2,10 @@
 <character>
   <createdversion>5.216.0</createdversion>
   <minimumappversion>5.214.1</minimumappversion>
-  <appversion>5.225.733</appversion>
+  <appversion>5.225.862</appversion>
   <gameedition>SR5</gameedition>
   <settings>67e25032-2a4e-42ca-97fa-69f7f608236c</settings>
-  <settingshashcode>1904160987</settingshashcode>
+  <settingshashcode>-175723563</settingshashcode>
   <buildmethod>Priority</buildmethod>
   <sources>
     <source>SR5</source>
@@ -96,7 +96,7 @@
   <playername />
   <gamenotes />
   <primaryarm>Right</primaryarm>
-  <karma>0</karma>
+  <karma>6</karma>
   <special>3</special>
   <totalspecial>3</totalspecial>
   <totalattributes>16</totalattributes>
@@ -119,7 +119,7 @@
   <baseastralreputation>0</baseastralreputation>
   <basewildreputation>0</basewildreputation>
   <created>True</created>
-  <nuyen>4384.00</nuyen>
+  <nuyen>4534.00</nuyen>
   <startingnuyen>275000</startingnuyen>
   <nuyenbp>0</nuyenbp>
   <adept>False</adept>
@@ -280,7 +280,7 @@
   <groupmember>False</groupmember>
   <groupname />
   <groupnotes />
-  <totaless>5.25</totaless>
+  <totaless>5.34</totaless>
   <physicalcmfilled>0</physicalcmfilled>
   <stuncmfilled>0</stuncmfilled>
   <psyche>False</psyche>
@@ -1208,21 +1208,21 @@
       <group>
         <karma>0</karma>
         <base>0</base>
-        <isbroken>False</isbroken>
+        <isbroken>True</isbroken>
         <id>5a8bf0b6-3f37-425e-a3b2-afe4d71eec71</id>
         <name>Athletics</name>
       </group>
       <group>
         <karma>0</karma>
         <base>3</base>
-        <isbroken>False</isbroken>
+        <isbroken>True</isbroken>
         <id>f6d24eee-75f2-4bc8-afe4-8c05b9696b14</id>
         <name>Biotech</name>
       </group>
       <group>
         <karma>0</karma>
         <base>0</base>
-        <isbroken>False</isbroken>
+        <isbroken>True</isbroken>
         <id>55906a92-3b0b-44d2-b27c-372eece14e26</id>
         <name>Close Combat</name>
       </group>
@@ -1243,28 +1243,28 @@
       <group>
         <karma>0</karma>
         <base>0</base>
-        <isbroken>False</isbroken>
+        <isbroken>True</isbroken>
         <id>2df2dd28-e09e-499f-b054-09eb3d08db50</id>
         <name>Engineering</name>
       </group>
       <group>
         <karma>0</karma>
         <base>0</base>
-        <isbroken>False</isbroken>
+        <isbroken>True</isbroken>
         <id>aa73238b-94d0-46ee-a851-5577684cc3b4</id>
         <name>Firearms</name>
       </group>
       <group>
         <karma>0</karma>
         <base>0</base>
-        <isbroken>False</isbroken>
+        <isbroken>True</isbroken>
         <id>d7c314fe-4c93-44cd-af16-5c8ee4a7ed21</id>
         <name>Influence</name>
       </group>
       <group>
         <karma>0</karma>
         <base>0</base>
-        <isbroken>False</isbroken>
+        <isbroken>True</isbroken>
         <id>39db9a5f-c8f8-4632-94ac-0438541baecb</id>
         <name>Outdoors</name>
       </group>
@@ -1280,7 +1280,7 @@
   <contacts>
     <contact>
       <name>Krysa</name>
-      <role>Club Owner</role>
+      <role>Fence</role>
       <location />
       <connection>4</connection>
       <loyalty>3</loyalty>
@@ -4374,7 +4374,7 @@ A relatively simple modification, the drag handle is a strap anchored to the bac
       <plugsintomodularmount />
       <blocksmounts />
       <forced />
-      <rating>4</rating>
+      <rating>3</rating>
       <minagility>3</minagility>
       <minstrength>3</minstrength>
       <minrating>1</minrating>
@@ -4382,7 +4382,7 @@ A relatively simple modification, the drag handle is a strap anchored to the bac
       <ratinglabel>String_Rating</ratinglabel>
       <subsystems>Earware</subsystems>
       <wirelesson>False</wirelesson>
-      <grade>Greyware</grade>
+      <grade>Betaware</grade>
       <location />
       <extra />
       <suite>False</suite>
@@ -4438,7 +4438,7 @@ A relatively simple modification, the drag handle is a strap anchored to the bac
           <ratinglabel>String_Rating</ratinglabel>
           <subsystems />
           <wirelesson>False</wirelesson>
-          <grade>Greyware</grade>
+          <grade>Betaware</grade>
           <location />
           <extra />
           <suite>False</suite>
@@ -4514,7 +4514,7 @@ A relatively simple modification, the drag handle is a strap anchored to the bac
           <ratinglabel>String_Rating</ratinglabel>
           <subsystems />
           <wirelesson>False</wirelesson>
-          <grade>Greyware</grade>
+          <grade>Betaware</grade>
           <location />
           <extra />
           <suite>False</suite>
@@ -4596,7 +4596,7 @@ A relatively simple modification, the drag handle is a strap anchored to the bac
           <ratinglabel>String_Rating</ratinglabel>
           <subsystems />
           <wirelesson>False</wirelesson>
-          <grade>Greyware</grade>
+          <grade>Betaware</grade>
           <location />
           <extra />
           <suite>False</suite>
@@ -4678,7 +4678,7 @@ A relatively simple modification, the drag handle is a strap anchored to the bac
           <ratinglabel>String_Rating</ratinglabel>
           <subsystems />
           <wirelesson>False</wirelesson>
-          <grade>Greyware</grade>
+          <grade>Betaware</grade>
           <location />
           <extra />
           <suite>False</suite>
@@ -4755,7 +4755,7 @@ Wireless Bonus: Access to a public database that allows these sounds to be compa
           <ratinglabel>String_Rating</ratinglabel>
           <subsystems />
           <wirelesson>False</wirelesson>
-          <grade>Greyware</grade>
+          <grade>Betaware</grade>
           <location />
           <extra />
           <suite>False</suite>
@@ -4831,7 +4831,7 @@ Wireless Bonus: Access to a public database that allows these sounds to be compa
           <ratinglabel>String_Rating</ratinglabel>
           <subsystems />
           <wirelesson>False</wirelesson>
-          <grade>Greyware</grade>
+          <grade>Betaware</grade>
           <location />
           <extra />
           <suite>False</suite>
@@ -4914,7 +4914,7 @@ Wireless: You get a +2 dice pool modifier to your Perception Tests when looking 
           <ratinglabel>String_Rating</ratinglabel>
           <subsystems />
           <wirelesson>False</wirelesson>
-          <grade>Greyware</grade>
+          <grade>Betaware</grade>
           <location />
           <extra />
           <suite>False</suite>
@@ -6555,7 +6555,7 @@ Pushing your vehicle to its limits makes the hair on the back of your neck stand
       <source>SR5</source>
       <page>369</page>
       <trustfund>False</trustfund>
-      <primarytenant>True</primarytenant>
+      <splitcostwithroommates>False</splitcostwithroommates>
       <type>Advanced</type>
       <increment>Month</increment>
       <sourceid>9cb0222c-14c1-4bea-bf83-055513a1f33e</sourceid>
@@ -10392,6 +10392,74 @@ Compartments can have shielding installed on them to make the compartment diffic
           <sortorder>0</sortorder>
           <stolen>False</stolen>
         </mod>
+        <mod>
+          <sourceid>2ab400a7-c55f-4fcd-a124-f44f1ffd8ea8</sourceid>
+          <guid>7caf623d-5d70-4fe1-b7b0-248eadcd74ef</guid>
+          <name>Smoke Projector (Thermal)</name>
+          <category>Weapons</category>
+          <limit />
+          <slots>2</slots>
+          <capacity />
+          <rating>0</rating>
+          <maxrating>0</maxrating>
+          <ratinglabel>String_Rating</ratinglabel>
+          <conditionmonitor>0</conditionmonitor>
+          <avail>6R</avail>
+          <cost>850</cost>
+          <markup>0</markup>
+          <extra />
+          <source>R5</source>
+          <page>161</page>
+          <included>False</included>
+          <equipped>True</equipped>
+          <wirelesson>False</wirelesson>
+          <subsystems />
+          <weaponmountcategories />
+          <ammobonus>0</ammobonus>
+          <ammobonuspercent>0</ammobonuspercent>
+          <ammoreplace />
+          <weapons />
+          <notes />
+          <notesColor>Chocolate</notesColor>
+          <discountedcost>False</discountedcost>
+          <sortorder>0</sortorder>
+          <stolen>False</stolen>
+        </mod>
+        <mod>
+          <sourceid>3cdb49d6-68a5-498c-8dcd-bbddcfcbe9b4</sourceid>
+          <guid>85bb1d0c-611a-4191-acbd-7d0f87dd2df9</guid>
+          <name>Enhanced Image Screens</name>
+          <category>Cosmetic</category>
+          <limit />
+          <slots>0</slots>
+          <capacity />
+          <rating>0</rating>
+          <maxrating>0</maxrating>
+          <ratinglabel>String_Rating</ratinglabel>
+          <conditionmonitor>0</conditionmonitor>
+          <avail>8</avail>
+          <cost>5000</cost>
+          <markup>0</markup>
+          <extra />
+          <source>R5</source>
+          <page>170</page>
+          <included>False</included>
+          <equipped>True</equipped>
+          <wirelesson>False</wirelesson>
+          <subsystems />
+          <weaponmountcategories />
+          <ammobonus>0</ammobonus>
+          <ammobonuspercent>0</ammobonuspercent>
+          <ammoreplace />
+          <weapons />
+          <notes>ENHANCED IMAGE SCREENS
+While every vehicle in the 2070s features some degree of imaging screens to communicate important vehicle information, many riggers and vehicle owners want to enhance that image displaying capability. With enhanced image screens, every sufficiently flat surface on a vehicle (including windows) can display an electronic image or video. Theses images are hyper realistic and can be used to project a false image of the outside world in an attempt to deceive passengers. A Perception Test with a –4 penalty is required to notice that the images are false.
+Enhanced image screens can be used to display any visual feed on a PAN, perfect for team members unable or unwilling to use their AR, or tie their commlink or deck into the same PAN. They can also be used for plain-old entertainment. A vehicle with enhanced image screens can display any and all Matrix AROs that they can see/ access on the inside of their vehicle, making them visible to characters who do not have AR equipped.</notes>
+          <notesColor>Chocolate</notesColor>
+          <discountedcost>False</discountedcost>
+          <sortorder>0</sortorder>
+          <stolen>False</stolen>
+        </mod>
       </mods>
       <weaponmounts />
       <gears>
@@ -11616,6 +11684,54 @@ Compartments can have shielding installed on them to make the compartment diffic
       <notesColor>Chocolate</notesColor>
     </improvement>
     <improvement>
+      <target />
+      <improvedname />
+      <sourcename>4db8bbf2-8850-4ea0-bad7-09802f9e40d2</sourcename>
+      <min>0</min>
+      <max>0</max>
+      <aug>0</aug>
+      <augmax>0</augmax>
+      <val>90</val>
+      <rating>1</rating>
+      <exclude />
+      <condition />
+      <improvementttype>CyberwareEssCost</improvementttype>
+      <improvementsource>Quality</improvementsource>
+      <custom>False</custom>
+      <customname />
+      <customid />
+      <customgroup />
+      <addtorating>0</addtorating>
+      <enabled>1</enabled>
+      <order>0</order>
+      <notes />
+      <notesColor>Chocolate</notesColor>
+    </improvement>
+    <improvement>
+      <target />
+      <improvedname>D33ZN00TZ</improvedname>
+      <sourcename>2d7e8958-2043-43a0-9f75-c8baff05dbf2</sourcename>
+      <min>0</min>
+      <max>0</max>
+      <aug>0</aug>
+      <augmax>0</augmax>
+      <val>0</val>
+      <rating>1</rating>
+      <exclude />
+      <condition />
+      <improvementttype>Text</improvementttype>
+      <improvementsource>Gear</improvementsource>
+      <custom>False</custom>
+      <customname />
+      <customid />
+      <customgroup />
+      <addtorating>0</addtorating>
+      <enabled>1</enabled>
+      <order>0</order>
+      <notes />
+      <notesColor>Chocolate</notesColor>
+    </improvement>
+    <improvement>
       <unique>precedence-1</unique>
       <target />
       <improvedname>AGI</improvedname>
@@ -11665,54 +11781,6 @@ Compartments can have shielding installed on them to make the compartment diffic
       <notes />
       <notesColor>Chocolate</notesColor>
     </improvement>
-    <improvement>
-      <target />
-      <improvedname />
-      <sourcename>4db8bbf2-8850-4ea0-bad7-09802f9e40d2</sourcename>
-      <min>0</min>
-      <max>0</max>
-      <aug>0</aug>
-      <augmax>0</augmax>
-      <val>90</val>
-      <rating>1</rating>
-      <exclude />
-      <condition />
-      <improvementttype>CyberwareEssCost</improvementttype>
-      <improvementsource>Quality</improvementsource>
-      <custom>False</custom>
-      <customname />
-      <customid />
-      <customgroup />
-      <addtorating>0</addtorating>
-      <enabled>1</enabled>
-      <order>0</order>
-      <notes />
-      <notesColor>Chocolate</notesColor>
-    </improvement>
-    <improvement>
-      <target />
-      <improvedname>D33ZN00TZ</improvedname>
-      <sourcename>2d7e8958-2043-43a0-9f75-c8baff05dbf2</sourcename>
-      <min>0</min>
-      <max>0</max>
-      <aug>0</aug>
-      <augmax>0</augmax>
-      <val>0</val>
-      <rating>1</rating>
-      <exclude />
-      <condition />
-      <improvementttype>Text</improvementttype>
-      <improvementsource>Gear</improvementsource>
-      <custom>False</custom>
-      <customname />
-      <customid />
-      <customgroup />
-      <addtorating>0</addtorating>
-      <enabled>1</enabled>
-      <order>0</order>
-      <notes />
-      <notesColor>Chocolate</notesColor>
-    </improvement>
   </improvements>
   <sustainedobjects />
   <drugs />
@@ -11730,6 +11798,70 @@ Compartments can have shielding installed on them to make the compartment diffic
         <karmatype>ImproveAttribute</karmatype>
         <nuyentype>ManualAdd</nuyentype>
         <objectid />
+        <qty>0</qty>
+        <extra />
+      </undo>
+    </expense>
+    <expense>
+      <guid>1d2a4b79-d73d-4229-bac1-4b5769e8c212</guid>
+      <date>2025-11-27T14:48:41</date>
+      <amount>6000</amount>
+      <reason>Mission Reward</reason>
+      <type>Nuyen</type>
+      <refund>False</refund>
+      <forcecareervisible>False</forcecareervisible>
+      <undo>
+        <karmatype>ImproveAttribute</karmatype>
+        <nuyentype>ManualAdd</nuyentype>
+        <objectid />
+        <qty>0</qty>
+        <extra />
+      </undo>
+    </expense>
+    <expense>
+      <guid>76678e05-6a67-404a-9da0-d4fbe443f548</guid>
+      <date>2025-11-27T15:22:52</date>
+      <amount>6</amount>
+      <reason>Mission Reward</reason>
+      <type>Karma</type>
+      <refund>False</refund>
+      <forcecareervisible>False</forcecareervisible>
+      <undo>
+        <karmatype>ManualAdd</karmatype>
+        <nuyentype>AddCyberware</nuyentype>
+        <objectid />
+        <qty>0</qty>
+        <extra />
+      </undo>
+    </expense>
+    <expense>
+      <guid>8d2f19b9-e729-42e2-8b71-4cddcb547133</guid>
+      <date>2025-11-27T15:37:51</date>
+      <amount>-850</amount>
+      <reason>Purchased Vehicle Mod Smoke Projector (Thermal)</reason>
+      <type>Nuyen</type>
+      <refund>False</refund>
+      <forcecareervisible>False</forcecareervisible>
+      <undo>
+        <karmatype>ImproveAttribute</karmatype>
+        <nuyentype>AddVehicleMod</nuyentype>
+        <objectid>7caf623d-5d70-4fe1-b7b0-248eadcd74ef</objectid>
+        <qty>0</qty>
+        <extra />
+      </undo>
+    </expense>
+    <expense>
+      <guid>f84eb089-cc0d-4e49-800d-749fdee54282</guid>
+      <date>2025-11-27T15:39:37</date>
+      <amount>-5000</amount>
+      <reason>Purchased Vehicle Mod Enhanced Image Screens</reason>
+      <type>Nuyen</type>
+      <refund>False</refund>
+      <forcecareervisible>False</forcecareervisible>
+      <undo>
+        <karmatype>ImproveAttribute</karmatype>
+        <nuyentype>AddVehicleMod</nuyentype>
+        <objectid>85bb1d0c-611a-4191-acbd-7d0f87dd2df9</objectid>
         <qty>0</qty>
         <extra />
       </undo>

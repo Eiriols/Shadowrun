@@ -1,7 +1,7 @@
 ---
 image: "[[Falkensee Berlin Map.png]]"
 ---
-Falkensee, located in the very west, is a repository of the hopeless. The still existing infrastructure is only an echo of better times and only a fraction of the inhabitants participates in public life at all, which is limited to the few habitable blocks at the eastern district border. Anyone who lives here has a bad reputation and you notice this at the latest at the border with Aztech Schönewalde, where barbed wire and strict controls are to prevent the scum from coming over the district boundaries.
+Falkensee, located in the very west, is a repository of the hopeless. The still existing infrastructure is only an ghost of better times and only a fraction of the inhabitants participates in public life at all, which is limited to the few habitable blocks at the eastern district border. Anyone who lives here has a bad reputation and you notice this at the latest at the border with Aztech Schönewalde, where barbed wire and strict controls are to prevent the scum from coming over the district boundaries.
 
 Absolutely nobody comes to Falkensee voluntarily and those who land here do not come out again. On the sheet, the district is alternative, but it lacks the associated culture for self-sufficiency and cohesion, as can be found elsewhere. All attempts to connect the district to the utilities are accepted, but are rarely paid for it and then tapped in no time, diverted or equally disabled. Coupled with the few individual and terraced houses plus a few rental blocks with mostly three to six floors, the district is comparable with the slums and no-go zones of the Rhine-Ruhr-Megaplex, in which significantly more weapons are found in private ownership.
 

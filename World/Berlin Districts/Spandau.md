@@ -9,7 +9,7 @@ However, this is only the mentality of the residents and if you remove this "fil
 Within Spandau lies the island of Eiswerder, which is home to the infamous Autonomous Island Fortress Eiswerder, including a permanent Rynak (Russian market / open black market), the Hospital Eiswerder (a larger shadow clinic), the Free Media Cooperative Berlin and the "Eiskeller", the bar of the nihilistic, elf magician Spuk, who is said to be either on the way to becoming a toxic or burned out (or both).
 
 #### Gatov
-The precariat district of Gatov or Alt-Gatov also belongs to Spandau, in which conditions are partly similar to those in Moabit, which belongs to Mitte (and in parts to Falkensee), even if in the past it may not have had quite as alternative features as Wedding - which is also part of Mitte.
+The precarious district of Gatov or Alt-Gatov also belongs to Spandau, in which conditions are partly similar to those in Moabit, in Mitte (and in parts to Falkensee), even if in the past it may not have had quite as alternative features as Wedding - which is also part of Mitte.
 
 Here you will find - run-down - "Stuffer Plus" supermarkets, empty and sometimes even warmly renovated shops or restaurants, betting booths, and branches of the usual cheap snack chains such as SoiSoiSoi or Ödnur's Diners.
 #### Neighbours
@@ -19,6 +19,7 @@ Here you will find - run-down - "Stuffer Plus" supermarkets, empty and sometimes
 [[Charlottenburg-Wilmersdorf]]
 [[Zehlendorf]]
 [[Potsdam]]
+[[AGC Siemensstadt]]
 [[Shiawase Halde 22-1]]
 #### Map
 ![[Spandau Berlin Map.png]]

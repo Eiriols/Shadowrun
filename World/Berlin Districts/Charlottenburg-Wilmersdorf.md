@@ -1,5 +1,7 @@
 ---
 image: "[[Chawi Berlin Map.png]]"
+aliases:
+  - ChaWi
 ---
 "ChaWi" is especially famous for its entertainment miles, cultural cultural establishments and shopping opportunities. However, it has never lost its contrasts that make up Berlin; whether they're high society, partygoers, sex workers, beggars, old growers and immigrants - they're all here.
 

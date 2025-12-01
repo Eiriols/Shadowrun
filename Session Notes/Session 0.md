@@ -12,17 +12,17 @@
 	- consequences will be based on the characters making mistakes over me making it harsh
 - People are generally unsure on the vibes they want so it's likely I'll decide and adjust as we go
 ### PCs
-#### [[- Alex]]
+#### [[Marika (Bluestone) - Alex]]
 
 Rigger/Tank/Smuggler
-#### [[- Laurie]]
+#### [[Patches - Laurie]]
 
 Decker
 
 Decker who has AI personality
-#### [[- Kev]]
+#### [[Echo - Kev]]
 
 Street Samurai
-#### [[- Jack]]
+#### [[Luke - Jack]]
 
 Spellcaster

@@ -8,31 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7e0ac3f8601833fd",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
             "id": "3b9a6df05c0dae97",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World/Berlin Districts/Aztech Schönewalde.md",
+                "file": "Runs/Run 2/Run 2 - The Assassins Choice.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Aztech Schönewalde"
+              "title": "Run 2 - The Assassins Choice"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -105,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/Kev -.md",
+                "file": "Runs/Run 2/Run 2 - The Assassins Choice.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Kev -"
+              "title": "Backlinks for Run 2 - The Assassins Choice"
             }
           },
           {
@@ -124,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World/- City.md",
+                "file": "Runs/Run 2/Run 2 - The Assassins Choice.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from - City"
+              "title": "Outgoing links from Run 2 - The Assassins Choice"
             }
           },
           {
@@ -153,16 +142,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md",
+                "file": "Runs/Run 2/Run 2 - The Assassins Choice.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Welcome"
+              "title": "Outline of Run 2 - The Assassins Choice"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -184,42 +174,43 @@
   },
   "active": "3b9a6df05c0dae97",
   "lastOpenFiles": [
-    "Chummer/Assassins.chum5",
-    "World/Berlin Districts/Reinickendorf.md",
-    "World/Berlin - City.md",
-    "World/Berlin Districts/Zehlendorf.md",
-    "World/Berlin Districts/Schönefeld.md",
-    "World/Berlin Districts/Spandau.md",
-    "World/Berlin Districts/1Base.base",
-    "Chummer/Unnamed Character.chum5",
-    "World/Berlin Districts/Lichtenberg.md",
     "World/Berlin Districts/Z-IC Tegel.md",
-    "World/Berlin Districts/Strausberg-Fredersdorf.md",
-    "World/Berlin Districts/S-K Templehof.md",
-    "World/Berlin Districts/Renrakusan.md",
-    "World/Berlin Districts/Potsdam.md",
-    "World/Berlin Districts/Pankow.md",
-    "World/Berlin Districts/Oranieburg.md",
-    "World/Berlin Districts/Mitte.md",
-    "World/Berlin Districts/Marzahn.md",
-    "World/Berlin Districts/Kreuzhain.md",
-    "World/Berlin Districts/Köpenick.md",
-    "World/Berlin Districts/Gropiusstadt.md",
-    "World/Berlin Districts/Falkensee.md",
+    "Runs/Run 2/Run 2 - The Assassins Choice.md",
+    "Factions/Zeta-ImpChem.md",
     "World/Berlin Districts/AGC Siemensstadt.md",
-    "World/Berlin Districts/Exterritoriales Gebiet.md",
-    "World/Berlin Districts/Charlottenburg-Wilmersdorf.md",
+    "Factions/Triglawer.md",
+    "Runs/Run 3",
+    "Runs/Untitled",
+    "Runs/Run 3/Run 3.md",
+    "World/Berlin - City.md",
     "World/Berlin Districts/Aztech Schönewalde.md",
-    "Chummer/Test 1.chum5",
-    "Chummer/Shadowrun AYU.chum5",
-    "Chummer/Sabble.chum5",
-    "Chummer/Loci.chum5",
-    "Chummer/Gabble Build.chum5",
-    "Chummer/DrMa.chum5",
-    "Chummer",
-    "New folder",
-    "PCs/- Alex.md",
-    "World/Allied German States.md",
+    "World/Berlin Districts/Spandau.md",
+    "World/Berlin Districts/Falkensee.md",
+    "PCs/Echo - Kev.md",
+    "NPCs/Loci - Mage Spy.md",
+    "World/Berlin Districts/Potsdam.md",
+    "#Chummer/Loci Career.chum5",
+    "World/Berlin Districts/Köpenick.md",
+    "World/Berlin Districts/Lichtenberg.md",
+    "World/Berlin Districts/Marzahn.md",
+    "World/Berlin Districts/Renrakusan.md",
+    "Factions/Joint Metahuman Working Group.md",
+    "NPCs/Yevgeny - Fixer.md",
+    "World/Berlin Districts/Charlottenburg-Wilmersdorf.md",
+    "PCs/Patches - Laurie.md",
+    "PCs/Luke - Jack.md",
+    "Runs/Run X/Run X - Shipping Interception.md",
+    "Runs/Run 2",
+    "Berlin.md",
+    "World/Berlin Districts/1Base.base",
+    "Session Notes/Session 0.md",
+    "#Images/Pasted image 20251123141358.png",
+    "#Images",
+    "NPCs/- AI.md",
+    "Factions",
+    "#Chummer/Assassins.chum5",
+    "#Chummer/Unnamed Character.chum5",
+    "#Chummer/Test 1.chum5",
     "World/Maps/Aztech S Berlin Map.png",
     "World/Maps/Pankow Berlin Map.png",
     "World/Maps/Z-IC Tegel Berlin Map.png",
@@ -228,7 +219,6 @@
     "World/Maps/Spandau Berlin Map.png",
     "World/Maps/Sconefeld Berlin Map.png",
     "World/Maps/Templehof Berlin Map.png",
-    "World/Maps/Renrakusan Berlin Map.png",
-    "World/Maps/Reinickendorf Berlin Map.png"
+    "World/Maps/Renrakusan Berlin Map.png"
   ]
 }

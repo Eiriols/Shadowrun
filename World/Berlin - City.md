@@ -1,10 +1,14 @@
+---
+aliases:
+  - Berlin
+---
 ## Districts
 | District                       | District    | Description                                                                                                                                                                             |
 | ------------------------------ | ----------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [[AGC Siemensstadt]]           | Corporate   | Formerly "Groß-Siemensstadt", owned by AG Chemie. A wild tangle of production facilities with high environmental impact and lousy working conditions. Headquarters of the MSI Arcology. |
 | [[Aztech Schönewalde]]         | Corporate   | Owned by Aztechnology. Rurally kept with many critter breeding and research facilities.                                                                                                 |
 | [[Charlottenburg-Wilmersdorf]] | Alternative | Usually just abbreviated to “Chawi. With many top-class locations such as the Metropolis-Arkologie of the DeMeKo.                                                                       |
-| [[Falkensee]]                  | Alternative | Final stop for the hopeless, where those who are too extreme even for Berlin, which is so open, end up. High crime rate.                                                                |
+| [[Falkensee]]                  | Alternative | Final stop for the hopeless, where those who are too extreme even for Berlin, which is so often, end up. High crime rate.                                                               |
 | [[Gropiusstadt]]               | Alternative | Worst slum dominated by the horde, who have at least built up some economy here.                                                                                                        |
 | [[Köpenick]]                   | Alternative | Green district where awakened communities live and where hemp is grown.                                                                                                                 |
 | [[Kreuzhain]]                  | Alternative | Formerly "Friedrichshain-Kreuzberg". Tolerant district where old anarchists live right next to the emirate.                                                                             |
