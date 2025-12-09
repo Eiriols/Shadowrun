@@ -5,7 +5,7 @@
   <appversion>5.225.862</appversion>
   <gameedition>SR5</gameedition>
   <settings>67e25032-2a4e-42ca-97fa-69f7f608236c</settings>
-  <settingshashcode>-175723563</settingshashcode>
+  <settingshashcode>1266335977</settingshashcode>
   <buildmethod>Priority</buildmethod>
   <sources>
     <source>SR5</source>
@@ -9512,7 +9512,7 @@ All of the RFID tags installed on things makes them convenient to find and track
           <ammobonuspercent>0</ammobonuspercent>
           <ammoreplace />
           <weapons />
-          <notes />
+          <notes>Savvy riggers and deckers know that it is often easier to attack the signals controlling a device than to attack the device itself. To that end, a vehicle can be equipped with an electronic countermeasures (ECM) suite. This modification allows the vehicle to function exactly like an area jammer (p. 441, SR5), with all of the same rules. Just like a jammer, the modification comes with a Rating of 1 to 6.</notes>
           <notesColor>Chocolate</notesColor>
           <discountedcost>False</discountedcost>
           <sortorder>0</sortorder>
@@ -9648,7 +9648,7 @@ Using cutting-edge technology, the portion of any vehicle that contacts a surfac
           <ammobonuspercent>0</ammobonuspercent>
           <ammoreplace />
           <weapons />
-          <notes />
+          <notes>The passenger protection system (PPS) is a well known and trusted series of systems and modifications made to a vehicle to keep its passengers safe in the case of a collision or other “adverse vehicular situations.” PPS components include four-point harnesses, padded surfaces, quick-deploying air bags, and in some cases fast-drying foam. A PPS has a Rating of 1 to 6, with the Rating added as dice pool bonus to any Damage Resistance Tests by passengers from damage due to crashes or any other vehicular activity (including ramming) that is not an attack by a weapon.</notes>
           <notesColor>Chocolate</notesColor>
           <discountedcost>False</discountedcost>
           <sortorder>0</sortorder>
@@ -9719,6 +9719,345 @@ Using cutting-edge technology, the portion of any vehicle that contacts a surfac
       <location />
       <notes>YAMAHA KABURAYA
 Yamaha’s latest racing bike, the Kaburaya is as sleek and loud as the arrow it’s named for. This demon of a bike has more weight in its ultra-lightweight motor than the entire rest of the bike. The low profile and single front fork make this one of the most easy to identify bikes on the streets of ’77. Did I also mention that it makes it the fastest? Not since the olden days of internal combustion and the legendary Hayabusa have speeds like this been reached on two wheels.</notes>
+      <notesColor>Chocolate</notesColor>
+      <discountedcost>False</discountedcost>
+      <dealerconnection>False</dealerconnection>
+      <active>False</active>
+      <homenode>False</homenode>
+      <devicerating />
+      <programlimit />
+      <overclocked>None</overclocked>
+      <attack />
+      <sleaze />
+      <dataprocessing />
+      <firewall />
+      <attributearray />
+      <modattack />
+      <modsleaze />
+      <moddataprocessing />
+      <modfirewall />
+      <modattributearray />
+      <canswapattributes>False</canswapattributes>
+      <sortorder>0</sortorder>
+    </vehicle>
+    <vehicle>
+      <sourceid>48ebf4fc-bd56-4e14-a433-6d92f18251dc</sourceid>
+      <guid>e55650d5-434f-483a-8eea-03d11fcd7153</guid>
+      <name>Toyota Talon</name>
+      <category>Cars</category>
+      <handling>4</handling>
+      <offroadhandling>3</offroadhandling>
+      <accel>2</accel>
+      <offroadaccel>2</offroadaccel>
+      <speed>4</speed>
+      <offroadspeed>4</offroadspeed>
+      <pilot>2</pilot>
+      <body>12</body>
+      <seats>5</seats>
+      <armor>6</armor>
+      <sensor>2</sensor>
+      <avail>0</avail>
+      <cost>30000</cost>
+      <addslots>0</addslots>
+      <modslots>12</modslots>
+      <powertrainmodslots>0</powertrainmodslots>
+      <protectionmodslots>0</protectionmodslots>
+      <weaponmodslots>0</weaponmodslots>
+      <bodymodslots>0</bodymodslots>
+      <electromagneticmodslots>0</electromagneticmodslots>
+      <cosmeticmodslots>0</cosmeticmodslots>
+      <source>R5</source>
+      <page>55</page>
+      <parentid />
+      <sortorder>0</sortorder>
+      <stolen>False</stolen>
+      <physicalcmfilled>0</physicalcmfilled>
+      <matrixcmfilled>0</matrixcmfilled>
+      <vehiclename />
+      <mods>
+        <mod>
+          <sourceid>85a85cfd-7703-48f6-9745-d0a2b64c8b9e</sourceid>
+          <guid>2ec26135-da05-4691-bfea-fe1775f798b5</guid>
+          <name>Armor (Concealed)</name>
+          <category>Protection</category>
+          <limit />
+          <slots>Rating * 3</slots>
+          <capacity />
+          <rating>1</rating>
+          <maxrating>body</maxrating>
+          <ratinglabel>String_Rating</ratinglabel>
+          <conditionmonitor>0</conditionmonitor>
+          <avail>12R</avail>
+          <cost>Rating * 3000</cost>
+          <markup>0</markup>
+          <extra />
+          <source>R5</source>
+          <page>159</page>
+          <included>False</included>
+          <equipped>True</equipped>
+          <wirelesson>False</wirelesson>
+          <subsystems />
+          <weaponmountcategories />
+          <ammobonus>0</ammobonus>
+          <ammobonuspercent>0</ammobonuspercent>
+          <ammoreplace />
+          <weapons />
+          <bonus>
+            <armor>+Rating</armor>
+          </bonus>
+          <notes />
+          <notesColor>Chocolate</notesColor>
+          <discountedcost>False</discountedcost>
+          <sortorder>0</sortorder>
+          <stolen>False</stolen>
+        </mod>
+        <mod>
+          <sourceid>831a60c3-f57b-40c7-9b4d-92906897ee90</sourceid>
+          <guid>edf98a90-d5f8-426b-8e97-7bdabf48e7bb</guid>
+          <name>GridLink</name>
+          <category>Electromagnetic</category>
+          <limit />
+          <slots>2</slots>
+          <capacity />
+          <rating>0</rating>
+          <maxrating>0</maxrating>
+          <ratinglabel>String_Rating</ratinglabel>
+          <conditionmonitor>0</conditionmonitor>
+          <avail>4</avail>
+          <cost>750</cost>
+          <markup>0</markup>
+          <extra />
+          <source>R5</source>
+          <page>166</page>
+          <included>False</included>
+          <equipped>True</equipped>
+          <wirelesson>False</wirelesson>
+          <subsystems />
+          <weaponmountcategories />
+          <ammobonus>0</ammobonus>
+          <ammobonuspercent>0</ammobonuspercent>
+          <ammoreplace />
+          <weapons />
+          <notes>GRIDLINK
+Gridlink is a fairly ubiquitous feature for modern vehicles in the Sixth World, at least in the areas where the sun of corporate control continually shines. Using a system of embedded power lines in the road system, any vehicle equipped with gridlink can use these lines to draw operational power and thus have an unlimited running time as long as it is connected. As with everything in the Sixth World, there’s a downside. In exchange for the free power, vehicles running on gridlink essentially give up control to the owner of the local GridGuidesystem. A vehicle is identified and tracked every second it is attached to the system, is limited to the legal speed limit set for the area, and can be remotely shut down by the owner of the system. Most vehicles constructed come with a gridlink system as standard, but the system can be installed afterward with a vehicle modification.
+In game terms, the host that controls the gridlink system is automatically assumed to have 3 marks (or be the owner) of any vehicle connected. Needless to say, runners consider the GridGuide system to be a major liability to their work and will always (if they’re smart) remove the system or install a gridlink override (see below).</notes>
+          <notesColor>Chocolate</notesColor>
+          <discountedcost>False</discountedcost>
+          <sortorder>0</sortorder>
+          <stolen>False</stolen>
+        </mod>
+        <mod>
+          <sourceid>2e9575fb-d141-4f1d-a1a0-63aadc261c97</sourceid>
+          <guid>ec2f4cde-e91e-4eba-b389-7de25663e16f</guid>
+          <name>GridLink Override</name>
+          <category>Electromagnetic</category>
+          <limit />
+          <slots>1</slots>
+          <capacity />
+          <rating>0</rating>
+          <maxrating>0</maxrating>
+          <ratinglabel>String_Rating</ratinglabel>
+          <conditionmonitor>0</conditionmonitor>
+          <avail>8F</avail>
+          <cost>1000</cost>
+          <markup>0</markup>
+          <extra />
+          <source>R5</source>
+          <page>167</page>
+          <included>False</included>
+          <equipped>True</equipped>
+          <wirelesson>False</wirelesson>
+          <subsystems />
+          <weaponmountcategories />
+          <ammobonus>0</ammobonus>
+          <ammobonuspercent>0</ammobonuspercent>
+          <ammoreplace />
+          <weapons />
+          <notes>GRIDLINK OVERRIDE
+Using a combination of hardware and software modifications, a vehicle can be equipped to override its gridlink system, and retain independent control. When activated, the vehicle appears to be a interacting with the system normally but cannot be shut down, can exceed the posted speed limit, and randomly rotates its identifier so it cannot be tracked for an extended period. Since even runners are pragmatic, the vehicle still draws its operational power from the gridlink system, as long as it is available, because who doesn’t love stealing from the corps?</notes>
+          <notesColor>Chocolate</notesColor>
+          <discountedcost>False</discountedcost>
+          <sortorder>0</sortorder>
+          <stolen>False</stolen>
+        </mod>
+        <mod>
+          <sourceid>6ac249ee-84c0-498f-9377-149ccbc2f959</sourceid>
+          <guid>f996660e-d4cc-4d7a-914c-e5faf8b4bf3b</guid>
+          <name>Acceleration Enhancement</name>
+          <category>Powertrain</category>
+          <limit />
+          <slots>FixedValues(4,8)</slots>
+          <capacity />
+          <rating>1</rating>
+          <maxrating>2</maxrating>
+          <ratinglabel>String_Rating</ratinglabel>
+          <conditionmonitor>0</conditionmonitor>
+          <avail>6</avail>
+          <cost>FixedValues(number(Acceleration = 0) * 5000 + Acceleration * 10000,number(Acceleration = 0) * 12500 + Acceleration * 25000)</cost>
+          <markup>0</markup>
+          <extra />
+          <source>R5</source>
+          <page>154</page>
+          <included>False</included>
+          <equipped>True</equipped>
+          <wirelesson>False</wirelesson>
+          <subsystems />
+          <weaponmountcategories />
+          <ammobonus>0</ammobonus>
+          <ammobonuspercent>0</ammobonuspercent>
+          <ammoreplace />
+          <weapons />
+          <bonus>
+            <accel>+Rating</accel>
+            <offroadaccel>+Rating</offroadaccel>
+          </bonus>
+          <notes>ACCELERATION ENHANCEMENT
+Using a variety of techniques, like adding fuel accelerants (such as nitrous oxide), turbochargers, optimized air intakes, afterburners, or hydrofoil drives, the acceleration of a vehicle is increased. Due to inherent limitations in a vehicle’s design, its acceleration performance can only be increased so far. In the end, though, there’s nothing like going from zero to gone before you get shot. Acceleration enhancement can be taken at Rating 1 or 2, with the Rating of the modification being added to the vehicle’s Acceleration value.</notes>
+          <notesColor>Chocolate</notesColor>
+          <discountedcost>False</discountedcost>
+          <sortorder>0</sortorder>
+          <stolen>False</stolen>
+        </mod>
+        <mod>
+          <sourceid>c53ab210-db64-42ee-8568-d758ac3d7adb</sourceid>
+          <guid>dd24b6ae-1b5d-46a4-9a2c-3b91c348f259</guid>
+          <name>Gun Port</name>
+          <category>Weapons</category>
+          <limit />
+          <slots>1</slots>
+          <capacity />
+          <rating>0</rating>
+          <maxrating>0</maxrating>
+          <ratinglabel>String_Rating</ratinglabel>
+          <conditionmonitor>0</conditionmonitor>
+          <avail>6R</avail>
+          <cost>500</cost>
+          <markup>0</markup>
+          <extra />
+          <source>R5</source>
+          <page>160</page>
+          <included>False</included>
+          <equipped>True</equipped>
+          <wirelesson>False</wirelesson>
+          <subsystems />
+          <weaponmountcategories />
+          <ammobonus>0</ammobonus>
+          <ammobonuspercent>0</ammobonuspercent>
+          <ammoreplace />
+          <weapons />
+          <notes>GUN PORT
+For those times when you want your vehicle to be less “car” and more “armored personnel carrier,” there is the gun port mod. A gun port is a small flap or slot installed strategically in the hull of the vehicle that allows a single passenger (or the driver, if you can multitask) to shoot a hand-held weapon at a target outside the vehicle, while still staying completely protected by the vehicle’s armor. The port provides a ninety-degree cone of visibility, and a small stability harness that provides 4 points of Recoil Compensation. The gun port mod can be taken as many times as possible for the vehicle, though provides no benefit beyond the amount of passengers that a vehicle can reasonably carry.</notes>
+          <notesColor>Chocolate</notesColor>
+          <discountedcost>False</discountedcost>
+          <sortorder>0</sortorder>
+          <stolen>False</stolen>
+        </mod>
+        <mod>
+          <sourceid>c53ab210-db64-42ee-8568-d758ac3d7adb</sourceid>
+          <guid>398edb36-e5f3-4e0b-a75c-41ea7c8ce513</guid>
+          <name>Gun Port</name>
+          <category>Weapons</category>
+          <limit />
+          <slots>1</slots>
+          <capacity />
+          <rating>0</rating>
+          <maxrating>0</maxrating>
+          <ratinglabel>String_Rating</ratinglabel>
+          <conditionmonitor>0</conditionmonitor>
+          <avail>6R</avail>
+          <cost>500</cost>
+          <markup>0</markup>
+          <extra />
+          <source>R5</source>
+          <page>160</page>
+          <included>False</included>
+          <equipped>True</equipped>
+          <wirelesson>False</wirelesson>
+          <subsystems />
+          <weaponmountcategories />
+          <ammobonus>0</ammobonus>
+          <ammobonuspercent>0</ammobonuspercent>
+          <ammoreplace />
+          <weapons />
+          <notes>GUN PORT
+For those times when you want your vehicle to be less “car” and more “armored personnel carrier,” there is the gun port mod. A gun port is a small flap or slot installed strategically in the hull of the vehicle that allows a single passenger (or the driver, if you can multitask) to shoot a hand-held weapon at a target outside the vehicle, while still staying completely protected by the vehicle’s armor. The port provides a ninety-degree cone of visibility, and a small stability harness that provides 4 points of Recoil Compensation. The gun port mod can be taken as many times as possible for the vehicle, though provides no benefit beyond the amount of passengers that a vehicle can reasonably carry.</notes>
+          <notesColor>Chocolate</notesColor>
+          <discountedcost>False</discountedcost>
+          <sortorder>0</sortorder>
+          <stolen>False</stolen>
+        </mod>
+      </mods>
+      <weaponmounts />
+      <gears>
+        <gear>
+          <sourceid>2ca81a10-d0f7-4b39-ac93-a84f2f69f9d9</sourceid>
+          <guid>4cbb0bfd-ac56-4f2b-aad4-1f74da4e3368</guid>
+          <name>Sensor Array</name>
+          <category>Sensors</category>
+          <capacity>8/[0]</capacity>
+          <armorcapacity>[0]</armorcapacity>
+          <minrating>2</minrating>
+          <maxrating>8</maxrating>
+          <rating>2</rating>
+          <qty>1.0</qty>
+          <avail>7</avail>
+          <cost>0</cost>
+          <weight />
+          <extra />
+          <bonded>False</bonded>
+          <equipped>True</equipped>
+          <wirelesson>False</wirelesson>
+          <stolen>False</stolen>
+          <bonus />
+          <wirelessbonus />
+          <weaponbonus />
+          <flechetteweaponbonus />
+          <source>SR5</source>
+          <page>445</page>
+          <isflechetteammo>False</isflechetteammo>
+          <ammoforweapontype />
+          <canformpersona />
+          <devicerating />
+          <gearname />
+          <forcedvalue />
+          <matrixcmfilled>0</matrixcmfilled>
+          <matrixcmbonus>0</matrixcmbonus>
+          <parentid>e55650d5-434f-483a-8eea-03d11fcd7153</parentid>
+          <allowrename>False</allowrename>
+          <children />
+          <location />
+          <notes>Sensor array: This sensor package includes up to eight functions listed under Sensor Functions.</notes>
+          <notesColor>Chocolate</notesColor>
+          <discountedcost>False</discountedcost>
+          <programlimit />
+          <overclocked>None</overclocked>
+          <attack />
+          <sleaze />
+          <dataprocessing />
+          <firewall />
+          <attributearray />
+          <modattack />
+          <modsleaze />
+          <moddataprocessing />
+          <modfirewall />
+          <modattributearray />
+          <canswapattributes>False</canswapattributes>
+          <active>False</active>
+          <homenode>False</homenode>
+          <sortorder>0</sortorder>
+        </gear>
+      </gears>
+      <weapons />
+      <location />
+      <notes>TOYOTA TALON
+The Talon is an inexpensive and rather boring little SUV.
+The designers’ image of sharp styling was pretty much standard fare for SUVs, but this is what makes it ideal for riggers and wheelmen. It’s boring and blends in with a crowd of other vehicles. It’s a little bigger than most sedans, but with a low-slung roof to look very sedan-like.
+Smaller than the big SUVs, it is still thick-bodied and has enough similar features to other craft in the market that it can be mistaken for them. The taillights match up well with the Ford Tauren; the front quarter panels are like smaller versions of the Jeep Charon; the headlights could be a Dodge; the rear window and trunk a Eurocar.
+Underneath is a generally underpowered motor system that makes Talons that have been “sharpened,” as their tuners say, true sleepers. They look mundane but have the heart of a racecar hidden beneath. The problem is that the back-end work tends to be a little pricier, since not many people want to tune their Talon. Skilled mechanics are a necessity, and the best work is done with a rigger jumped in and giving feedback on the changes and feel as they’re made. Work on a Talon feels almost more like surgery than tuning, with the patient telling you when the implant feels just right.
+&gt; This process leads to something very interesting: custom rigger adaptations. The rigging module and feedback sensors in the car are for one specific rigger, and when another climbs in it almost feels like putting on skin that doesn’t quite fit right.
+&gt; Turbo Bunny &gt; I’m now picturing Turbo Bunny trying on different skins.
+It’s very creepy but in a rather amusing way.
+&gt; Slamm-0!</notes>
       <notesColor>Chocolate</notesColor>
       <discountedcost>False</discountedcost>
       <dealerconnection>False</dealerconnection>

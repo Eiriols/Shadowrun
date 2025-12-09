@@ -5,7 +5,7 @@
   <appversion>5.225.862</appversion>
   <gameedition>SR5</gameedition>
   <settings>67e25032-2a4e-42ca-97fa-69f7f608236c</settings>
-  <settingshashcode>-888807181</settingshashcode>
+  <settingshashcode>-6104621</settingshashcode>
   <buildmethod>Priority</buildmethod>
   <sources>
     <source>SR5</source>
@@ -124,7 +124,7 @@
   <created>False</created>
   <nuyen>6000</nuyen>
   <startingnuyen>6000</startingnuyen>
-  <nuyenbp>0</nuyenbp>
+  <nuyenbp>1</nuyenbp>
   <adept>False</adept>
   <magician>True</magician>
   <technomancer>False</technomancer>
@@ -239,10 +239,10 @@
       <metatypemin>1</metatypemin>
       <metatypemax>6</metatypemax>
       <metatypeaugmax>10</metatypeaugmax>
-      <base>1</base>
+      <base>2</base>
       <karma>0</karma>
       <metatypecategory>Standard</metatypecategory>
-      <totalvalue>2</totalvalue>
+      <totalvalue>3</totalvalue>
     </attribute>
     <attribute>
       <name>STR</name>
@@ -259,10 +259,10 @@
       <metatypemin>1</metatypemin>
       <metatypemax>6</metatypemax>
       <metatypeaugmax>10</metatypeaugmax>
-      <base>2</base>
+      <base>1</base>
       <karma>0</karma>
       <metatypecategory>Standard</metatypecategory>
-      <totalvalue>3</totalvalue>
+      <totalvalue>2</totalvalue>
     </attribute>
     <attribute>
       <name>BOD</name>
@@ -330,7 +330,7 @@
         <buywithkarma>False</buywithkarma>
       </skill>
       <skill>
-        <guid>34024a96-09d3-45d1-b222-21bd328a650b</guid>
+        <guid>411ec889-2c38-4d54-86f6-2cfc874068bf</guid>
         <suid>fc89344f-daa6-438e-b61d-23f10dd13e44</suid>
         <isknowledge>False</isknowledge>
         <skillcategory>Magical Active</skillcategory>
@@ -338,7 +338,7 @@
         <requiresswimmovement>False</requiresswimmovement>
         <requiresflymovement>False</requiresflymovement>
         <karma>0</karma>
-        <base>0</base>
+        <base>2</base>
         <notes />
         <notesColor>Chocolate</notesColor>
         <name>Alchemy</name>
@@ -405,7 +405,7 @@
         <buywithkarma>False</buywithkarma>
       </skill>
       <skill>
-        <guid>8775eea5-c5ca-45a0-b7ab-fbf286f2aa36</guid>
+        <guid>61431bd8-cc63-43a2-bbcc-485bb48074f2</guid>
         <suid>955d9376-3066-469d-8670-5170c1d59020</suid>
         <isknowledge>False</isknowledge>
         <skillcategory>Magical Active</skillcategory>
@@ -413,7 +413,7 @@
         <requiresswimmovement>False</requiresswimmovement>
         <requiresflymovement>False</requiresflymovement>
         <karma>0</karma>
-        <base>0</base>
+        <base>3</base>
         <notes />
         <notesColor>Chocolate</notesColor>
         <name>Artificing</name>
@@ -435,7 +435,7 @@
         <buywithkarma>False</buywithkarma>
       </skill>
       <skill>
-        <guid>da13afd0-22fe-42e5-a233-b2f7eeb22690</guid>
+        <guid>94e2f33c-8244-469a-8df9-df4393777243</guid>
         <suid>59318078-e071-411b-9194-7222560e9f4a</suid>
         <isknowledge>False</isknowledge>
         <skillcategory>Magical Active</skillcategory>
@@ -450,7 +450,7 @@
         <buywithkarma>False</buywithkarma>
       </skill>
       <skill>
-        <guid>c62a275c-a93b-4c6f-86da-fc41487b1b8e</guid>
+        <guid>0e27c554-89a6-47cc-83e6-e786febddd5f</guid>
         <suid>b7599a42-ceed-4558-b357-865aa3e317f5</suid>
         <isknowledge>False</isknowledge>
         <skillcategory>Magical Active</skillcategory>
@@ -495,7 +495,7 @@
         <buywithkarma>False</buywithkarma>
       </skill>
       <skill>
-        <guid>38b46cd2-cb81-4246-affc-fa7cd8115c97</guid>
+        <guid>86399f83-a4ca-4f2d-b2e9-26ad34ebbe28</guid>
         <suid>9a2d9175-d445-45ca-842d-90223ad13f05</suid>
         <isknowledge>False</isknowledge>
         <skillcategory>Magical Active</skillcategory>
@@ -510,7 +510,7 @@
         <buywithkarma>False</buywithkarma>
       </skill>
       <skill>
-        <guid>0874c2ea-e7cc-430c-9123-98d8d07e6c95</guid>
+        <guid>54f9bd85-f3cb-4c86-8dd3-812fec0b3689</guid>
         <suid>dfba7c09-3d95-43fd-be75-39b3e8b22cd3</suid>
         <isknowledge>False</isknowledge>
         <skillcategory>Magical Active</skillcategory>
@@ -615,7 +615,7 @@
         <buywithkarma>False</buywithkarma>
       </skill>
       <skill>
-        <guid>34e5f3a1-ea59-4e35-934a-04a7244665e0</guid>
+        <guid>1263a474-d9dc-498b-ae98-927b2aee2c00</guid>
         <suid>3db81bcc-264b-47e1-847c-06bdacd88973</suid>
         <isknowledge>False</isknowledge>
         <skillcategory>Magical Active</skillcategory>
@@ -623,7 +623,7 @@
         <requiresswimmovement>False</requiresswimmovement>
         <requiresflymovement>False</requiresflymovement>
         <karma>0</karma>
-        <base>4</base>
+        <base>0</base>
         <notes />
         <notesColor>Chocolate</notesColor>
         <name>Counterspelling</name>
@@ -675,7 +675,7 @@
         <buywithkarma>False</buywithkarma>
       </skill>
       <skill>
-        <guid>57ca9a2f-74db-4eaa-a8d1-3699294b38de</guid>
+        <guid>c46cdf79-023c-4667-bc5d-d90d531df973</guid>
         <suid>a9d9b686-bc4a-4347-b011-ff8f41455965</suid>
         <isknowledge>False</isknowledge>
         <skillcategory>Magical Active</skillcategory>
@@ -683,7 +683,7 @@
         <requiresswimmovement>False</requiresswimmovement>
         <requiresflymovement>False</requiresflymovement>
         <karma>0</karma>
-        <base>1</base>
+        <base>2</base>
         <notes />
         <notesColor>Chocolate</notesColor>
         <name>Disenchanting</name>
@@ -1200,7 +1200,7 @@
         <buywithkarma>False</buywithkarma>
       </skill>
       <skill>
-        <guid>1267676b-8fba-41be-a122-efd6b56919c3</guid>
+        <guid>d21c5095-e9b4-4032-8570-31b1d985a34f</guid>
         <suid>a6287e62-6a3b-43ce-b6e0-20f3655910e2</suid>
         <isknowledge>False</isknowledge>
         <skillcategory>Magical Active</skillcategory>
@@ -1208,7 +1208,7 @@
         <requiresswimmovement>False</requiresswimmovement>
         <requiresflymovement>False</requiresflymovement>
         <karma>0</karma>
-        <base>2</base>
+        <base>3</base>
         <notes />
         <notesColor>Chocolate</notesColor>
         <name>Ritual Spellcasting</name>
@@ -1260,7 +1260,7 @@
         <buywithkarma>False</buywithkarma>
       </skill>
       <skill>
-        <guid>e5ffcf96-2c6b-4f8e-b962-c3091833e966</guid>
+        <guid>d1a308e9-d8c8-4311-9f80-69d1cfa5efee</guid>
         <suid>c4367a39-4065-4b1d-aa62-e9dce377e452</suid>
         <isknowledge>False</isknowledge>
         <skillcategory>Magical Active</skillcategory>
@@ -1268,14 +1268,14 @@
         <requiresswimmovement>False</requiresswimmovement>
         <requiresflymovement>False</requiresflymovement>
         <karma>0</karma>
-        <base>6</base>
+        <base>1</base>
         <notes />
         <notesColor>Chocolate</notesColor>
         <name>Spellcasting</name>
         <buywithkarma>False</buywithkarma>
       </skill>
       <skill>
-        <guid>d5ad48ce-4eca-43c7-8cdf-ff1fc647f591</guid>
+        <guid>f739b6f4-80a4-46a9-81d8-802d7165fe69</guid>
         <suid>51e34c6c-b07f-45f4-8a5e-8f2b617ed32f</suid>
         <isknowledge>False</isknowledge>
         <skillcategory>Magical Active</skillcategory>
@@ -1365,7 +1365,93 @@
         <buywithkarma>False</buywithkarma>
       </skill>
     </skills>
-    <knoskills />
+    <knoskills>
+      <skill>
+        <guid>11ab7ce2-73f7-484c-843b-b3426e7838b9</guid>
+        <suid>ac86aba3-a7d6-4938-b5f1-186955912643</suid>
+        <isknowledge>True</isknowledge>
+        <skillcategory>Professional</skillcategory>
+        <requiresgroundmovement>False</requiresgroundmovement>
+        <requiresswimmovement>False</requiresswimmovement>
+        <requiresflymovement>False</requiresflymovement>
+        <karma>0</karma>
+        <base>2</base>
+        <notes />
+        <notesColor>Chocolate</notesColor>
+        <name>Combat Tactics</name>
+        <buywithkarma>False</buywithkarma>
+        <type>Professional</type>
+        <isnativelanguage>False</isnativelanguage>
+      </skill>
+      <skill>
+        <guid>4a38bd8c-0ee9-4404-a4f0-e1fbb902d935</guid>
+        <suid>50a4cbd7-a0f7-474a-97ae-a781320d6780</suid>
+        <isknowledge>True</isknowledge>
+        <skillcategory>Academic</skillcategory>
+        <requiresgroundmovement>False</requiresgroundmovement>
+        <requiresswimmovement>False</requiresswimmovement>
+        <requiresflymovement>False</requiresflymovement>
+        <karma>0</karma>
+        <base>2</base>
+        <notes />
+        <notesColor>Chocolate</notesColor>
+        <name>Corporation: Aztechnology</name>
+        <buywithkarma>False</buywithkarma>
+        <type>Academic</type>
+        <isnativelanguage>False</isnativelanguage>
+      </skill>
+      <skill>
+        <guid>5c2d56b3-aac4-43f1-8e70-4e3753c99412</guid>
+        <suid>cbb44acf-10cd-4b67-afc6-bf28efe74ea4</suid>
+        <isknowledge>True</isknowledge>
+        <skillcategory>Academic</skillcategory>
+        <requiresgroundmovement>False</requiresgroundmovement>
+        <requiresswimmovement>False</requiresswimmovement>
+        <requiresflymovement>False</requiresflymovement>
+        <karma>0</karma>
+        <base>2</base>
+        <notes />
+        <notesColor>Chocolate</notesColor>
+        <name>Engineering</name>
+        <buywithkarma>False</buywithkarma>
+        <type>Academic</type>
+        <isnativelanguage>False</isnativelanguage>
+      </skill>
+      <skill>
+        <guid>cf244be0-7aa6-493e-b66f-e538d4d206c9</guid>
+        <suid>026062e0-9bdd-4a06-9cca-c3640c634cfd</suid>
+        <isknowledge>True</isknowledge>
+        <skillcategory>Language</skillcategory>
+        <requiresgroundmovement>False</requiresgroundmovement>
+        <requiresswimmovement>False</requiresswimmovement>
+        <requiresflymovement>False</requiresflymovement>
+        <karma>0</karma>
+        <base>0</base>
+        <notes />
+        <notesColor>Chocolate</notesColor>
+        <name>French</name>
+        <buywithkarma>False</buywithkarma>
+        <type>Language</type>
+        <isnativelanguage>True</isnativelanguage>
+      </skill>
+      <skill>
+        <guid>0e0f4413-0931-4318-ab93-de3389d2f8b5</guid>
+        <suid>a72084f6-3a4c-4c23-82aa-4697e543ee0b</suid>
+        <isknowledge>True</isknowledge>
+        <skillcategory>Language</skillcategory>
+        <requiresgroundmovement>False</requiresgroundmovement>
+        <requiresswimmovement>False</requiresswimmovement>
+        <requiresflymovement>False</requiresflymovement>
+        <karma>0</karma>
+        <base>4</base>
+        <notes />
+        <notesColor>Chocolate</notesColor>
+        <name>German</name>
+        <buywithkarma>False</buywithkarma>
+        <type>Language</type>
+        <isnativelanguage>False</isnativelanguage>
+      </skill>
+    </knoskills>
     <skilljackknowledgeskills />
     <groups>
       <group>
@@ -1495,6 +1581,122 @@
       <free>False</free>
       <groupenabled>True</groupenabled>
       <guid>7136be06-9580-43b8-80c7-b00c7f4e152b</guid>
+      <mainmugshotindex>-1</mainmugshotindex>
+      <mugshots />
+    </contact>
+    <contact>
+      <name>Brant</name>
+      <role>Corporate Manager</role>
+      <location>Aztech Schönewalde</location>
+      <connection>5</connection>
+      <loyalty>2</loyalty>
+      <metatype>Human</metatype>
+      <gender>Male</gender>
+      <age>Middle-Aged</age>
+      <contacttype>Corporate</contacttype>
+      <preferredpayment>Information</preferredpayment>
+      <hobbiesvice />
+      <personallife>None of Your Damn Business</personallife>
+      <type>Contact</type>
+      <file />
+      <relative />
+      <notes />
+      <notesColor>Chocolate</notesColor>
+      <groupname />
+      <colour>0</colour>
+      <group>False</group>
+      <family>False</family>
+      <blackmail>False</blackmail>
+      <free>False</free>
+      <groupenabled>True</groupenabled>
+      <guid>d3708739-fac4-4fcf-a4ee-0355d7dc8707</guid>
+      <mainmugshotindex>-1</mainmugshotindex>
+      <mugshots />
+    </contact>
+    <contact>
+      <name>Yevgeny</name>
+      <role>Fixer</role>
+      <location>Lichtenburg</location>
+      <connection>3</connection>
+      <loyalty>4</loyalty>
+      <metatype>Elf</metatype>
+      <gender>Female</gender>
+      <age>Middle-Aged</age>
+      <contacttype>Networking</contacttype>
+      <preferredpayment>Service (Shadowrunner Job)</preferredpayment>
+      <hobbiesvice>Family Obligations (Sister)</hobbiesvice>
+      <personallife>In Relationship</personallife>
+      <type>Contact</type>
+      <file />
+      <relative />
+      <notes />
+      <notesColor>Chocolate</notesColor>
+      <groupname />
+      <colour>0</colour>
+      <group>False</group>
+      <family>False</family>
+      <blackmail>False</blackmail>
+      <free>False</free>
+      <groupenabled>True</groupenabled>
+      <guid>0974db7e-e17d-408e-b100-134d22a90fb4</guid>
+      <mainmugshotindex>-1</mainmugshotindex>
+      <mugshots />
+    </contact>
+    <contact>
+      <name>Telebrane</name>
+      <role>Talismonger</role>
+      <location>Köpenick</location>
+      <connection>4</connection>
+      <loyalty>3</loyalty>
+      <metatype>Dwarf</metatype>
+      <gender>Enby</gender>
+      <age>Young</age>
+      <contacttype>Swag</contacttype>
+      <preferredpayment>Cash (Credstick)</preferredpayment>
+      <hobbiesvice>Social Habit (Elven Wines)</hobbiesvice>
+      <personallife>Single</personallife>
+      <type>Contact</type>
+      <file />
+      <relative />
+      <notes />
+      <notesColor>Chocolate</notesColor>
+      <groupname />
+      <colour>0</colour>
+      <group>False</group>
+      <family>False</family>
+      <blackmail>False</blackmail>
+      <free>False</free>
+      <groupenabled>True</groupenabled>
+      <guid>eda49129-e9d8-4651-8903-73a60b56c40a</guid>
+      <mainmugshotindex>-1</mainmugshotindex>
+      <mugshots />
+    </contact>
+    <contact>
+      <name>Penta</name>
+      <role>Infobroker</role>
+      <location>Potsdam</location>
+      <connection>2</connection>
+      <loyalty>1</loyalty>
+      <metatype>Human</metatype>
+      <gender>Male</gender>
+      <age>Young</age>
+      <contacttype>Legwork</contacttype>
+      <preferredpayment />
+      <hobbiesvice />
+      <personallife />
+      <type>Contact</type>
+      <file />
+      <relative />
+      <notes />
+      <notesColor>Chocolate</notesColor>
+      <groupname />
+      <colour>0</colour>
+      <group>False</group>
+      <family>False</family>
+      <blackmail>False</blackmail>
+      <free>False</free>
+      <groupenabled>True</groupenabled>
+      <guid>00213a15-cc9a-4086-8057-03a3d782bba6</guid>
       <mainmugshotindex>-1</mainmugshotindex>
       <mugshots />
     </contact>
@@ -2273,26 +2475,26 @@ Moderate phobias cause a –3 dice pool modifier to all actions while in the pre
   </qualities>
   <lifestyles>
     <lifestyle>
-      <sourceid>451eef87-d18e-4bee-a972-1ee165b08522</sourceid>
+      <sourceid>9cb0222c-14c1-4bea-bf83-055513a1f33e</sourceid>
       <guid>00210d46-7676-49a5-9009-ae4e744129e8</guid>
-      <name>Dirty Flat</name>
-      <cost>2000</cost>
-      <dice>3</dice>
-      <lp>3</lp>
-      <baselifestyle>Low</baselifestyle>
-      <multiplier>60</multiplier>
+      <name>Decent Spot</name>
+      <cost>5000</cost>
+      <dice>4</dice>
+      <lp>4</lp>
+      <baselifestyle>Medium</baselifestyle>
+      <multiplier>100</multiplier>
       <months>1</months>
       <roommates>0</roommates>
       <percentage>100.0</percentage>
       <area>0</area>
       <comforts>0</comforts>
       <security>0</security>
-      <basearea>2</basearea>
-      <basecomforts>2</basecomforts>
-      <basesecurity>2</basesecurity>
-      <maxarea>3</maxarea>
-      <maxcomforts>3</maxcomforts>
-      <maxsecurity>3</maxsecurity>
+      <basearea>4</basearea>
+      <basecomforts>3</basecomforts>
+      <basesecurity>3</basesecurity>
+      <maxarea>5</maxarea>
+      <maxcomforts>4</maxcomforts>
+      <maxsecurity>4</maxsecurity>
       <costforearea>0</costforearea>
       <costforcomforts>0</costforcomforts>
       <costforsecurity>0</costforsecurity>
@@ -2304,14 +2506,46 @@ Moderate phobias cause a –3 dice pool modifier to all actions while in the pre
       <splitcostwithroommates>False</splitcostwithroommates>
       <type>Standard</type>
       <increment>Month</increment>
-      <sourceid>451eef87-d18e-4bee-a972-1ee165b08522</sourceid>
+      <sourceid>9cb0222c-14c1-4bea-bf83-055513a1f33e</sourceid>
       <city>Berlin</city>
       <district>Potsdam</district>
       <borough />
       <lifestylequalities>
         <lifestylequality>
           <sourceid>adaf6b3d-874a-42e5-b08b-37adf1222f23</sourceid>
-          <guid>23a8d0e7-2bc2-4b28-b961-8962cb315358</guid>
+          <guid>f11ffa31-de95-4c0d-b2e0-84da233e295a</guid>
+          <name>Grid Subscription</name>
+          <category>Entertainment - Asset</category>
+          <extra>Local Grid</extra>
+          <cost>50</cost>
+          <multiplier>0</multiplier>
+          <basemultiplier>0</basemultiplier>
+          <lp>1</lp>
+          <areamaximum>0</areamaximum>
+          <comfortsmaximum>0</comfortsmaximum>
+          <securitymaximum>0</securitymaximum>
+          <area>0</area>
+          <comforts>0</comforts>
+          <security>0</security>
+          <uselpcost>True</uselpcost>
+          <print>True</print>
+          <lifestylequalitytype>Entertainment</lifestylequalitytype>
+          <lifestylequalitysource>BuiltIn</lifestylequalitysource>
+          <free>True</free>
+          <isfreegrid>True</isfreegrid>
+          <source>RF</source>
+          <page>222</page>
+          <allowed>Medium,High,Luxury</allowed>
+          <bonus>
+          </bonus>
+          <notes>GRID SUBSCRIPTION
+Point Cost: 1 Type: Asset Monthly Nuyen Cost: 50¥ Minimum Lifestyle: Middle Nobody “downloads” or “records” their favorite song or movie any more. It’s all based on subscriptions and purchases within the Matrix and stored virtually on a grid.
+Commlinks and home entertainment systems connect you wirelessly to everything from photos you’ve taken to corporate-sponsored lines of entertainment that you can watch whenever you want. Without a grid subscription, you might as well have a throwback commlink with an antique external storage device, as the public grid only has trid shows from like two seasons ago.</notes>
+          <notesColor>Chocolate</notesColor>
+        </lifestylequality>
+        <lifestylequality>
+          <sourceid>adaf6b3d-874a-42e5-b08b-37adf1222f23</sourceid>
+          <guid>4a98e3f1-04c3-4688-b150-f53c380e84a2</guid>
           <name>Grid Subscription</name>
           <category>Entertainment - Asset</category>
           <extra>Public Grid</extra>
@@ -2347,7 +2581,125 @@ Commlinks and home entertainment systems connect you wirelessly to everything fr
       <sortorder>0</sortorder>
     </lifestyle>
   </lifestyles>
-  <gears />
+  <gears>
+    <gear>
+      <sourceid>d55ecc94-4e6c-42ef-a301-cda5f0953cb5</sourceid>
+      <guid>da54deac-1717-4d09-a829-5e4532270afa</guid>
+      <name>Aqua Fortis</name>
+      <category>Magical Supplies</category>
+      <capacity />
+      <armorcapacity />
+      <minrating />
+      <maxrating />
+      <rating>0</rating>
+      <qty>4</qty>
+      <avail>4</avail>
+      <cost>50</cost>
+      <weight />
+      <extra />
+      <bonded>False</bonded>
+      <equipped>True</equipped>
+      <wirelesson>False</wirelesson>
+      <stolen>False</stolen>
+      <bonus />
+      <wirelessbonus />
+      <weaponbonus />
+      <flechetteweaponbonus />
+      <source>SG</source>
+      <page>211</page>
+      <isflechetteammo>False</isflechetteammo>
+      <ammoforweapontype />
+      <canformpersona />
+      <devicerating />
+      <gearname />
+      <forcedvalue />
+      <matrixcmfilled>0</matrixcmfilled>
+      <matrixcmbonus>0</matrixcmbonus>
+      <parentid />
+      <allowrename>False</allowrename>
+      <children />
+      <location />
+      <notes>AQUA FORTIS
+This substance detects traces of orichalcum and other true elements. An eight-ounce spray bottle can cover one square meter. Any traces of orichalcum left behind, such as from spilled aqua regia, glow gold. Other Awakened elements glow violet. Aqua fortis allows the user to Observe in Detail (p. 165, SR5) to see if orichalcum or other Awakened elements are present. The gamemaster determines the threshold of the test.</notes>
+      <notesColor>Chocolate</notesColor>
+      <discountedcost>False</discountedcost>
+      <programlimit />
+      <overclocked>None</overclocked>
+      <attack />
+      <sleaze />
+      <dataprocessing />
+      <firewall />
+      <attributearray />
+      <modattack />
+      <modsleaze />
+      <moddataprocessing />
+      <modfirewall />
+      <modattributearray />
+      <canswapattributes>False</canswapattributes>
+      <active>False</active>
+      <homenode>False</homenode>
+      <sortorder>0</sortorder>
+    </gear>
+    <gear>
+      <sourceid>f45f76ea-6c13-44c0-a828-2047f242e5eb</sourceid>
+      <guid>0d3f9849-a273-4d2a-8688-53bcf72a0472</guid>
+      <name>Baseline Reagents, Refined</name>
+      <category>Magical Supplies</category>
+      <capacity />
+      <armorcapacity />
+      <minrating />
+      <maxrating />
+      <rating>0</rating>
+      <qty>3</qty>
+      <avail>10R</avail>
+      <cost>250</cost>
+      <weight />
+      <extra>Black Magic [Alt]</extra>
+      <bonded>False</bonded>
+      <equipped>True</equipped>
+      <wirelesson>False</wirelesson>
+      <stolen>False</stolen>
+      <bonus>
+        <selecttradition />
+      </bonus>
+      <wirelessbonus />
+      <weaponbonus />
+      <flechetteweaponbonus />
+      <source>FA</source>
+      <page>187</page>
+      <isflechetteammo>False</isflechetteammo>
+      <ammoforweapontype />
+      <canformpersona />
+      <devicerating />
+      <gearname />
+      <forcedvalue />
+      <matrixcmfilled>0</matrixcmfilled>
+      <matrixcmbonus>0</matrixcmbonus>
+      <parentid />
+      <allowrename>False</allowrename>
+      <children />
+      <location />
+      <notes />
+      <notesColor>Chocolate</notesColor>
+      <discountedcost>False</discountedcost>
+      <programlimit />
+      <overclocked>None</overclocked>
+      <attack />
+      <sleaze />
+      <dataprocessing />
+      <firewall />
+      <attributearray />
+      <modattack />
+      <modsleaze />
+      <moddataprocessing />
+      <modfirewall />
+      <modattributearray />
+      <canswapattributes>False</canswapattributes>
+      <active>False</active>
+      <homenode>False</homenode>
+      <sortorder>0</sortorder>
+    </gear>
+  </gears>
   <vehicles />
   <metamagics />
   <arts />
@@ -2355,6 +2707,102 @@ Commlinks and home entertainment systems connect you wirelessly to everything fr
   <critterpowers />
   <initiationgrades />
   <improvements>
+    <improvement>
+      <target />
+      <improvedname>Counterspelling</improvedname>
+      <sourcename />
+      <min>0</min>
+      <max>0</max>
+      <aug>0</aug>
+      <augmax>0</augmax>
+      <val>5</val>
+      <rating>1</rating>
+      <exclude />
+      <condition />
+      <improvementttype>SkillBase</improvementttype>
+      <improvementsource>Heritage</improvementsource>
+      <custom>False</custom>
+      <customname />
+      <customid />
+      <customgroup />
+      <addtorating>0</addtorating>
+      <enabled>1</enabled>
+      <order>0</order>
+      <notes />
+      <notesColor>Chocolate</notesColor>
+    </improvement>
+    <improvement>
+      <target />
+      <improvedname>Spellcasting</improvedname>
+      <sourcename />
+      <min>0</min>
+      <max>0</max>
+      <aug>0</aug>
+      <augmax>0</augmax>
+      <val>5</val>
+      <rating>1</rating>
+      <exclude />
+      <condition />
+      <improvementttype>SkillBase</improvementttype>
+      <improvementsource>Heritage</improvementsource>
+      <custom>False</custom>
+      <customname />
+      <customid />
+      <customgroup />
+      <addtorating>0</addtorating>
+      <enabled>1</enabled>
+      <order>0</order>
+      <notes />
+      <notesColor>Chocolate</notesColor>
+    </improvement>
+    <improvement>
+      <target />
+      <improvedname>b247460b-669d-4907-94ab-1f3448afd271</improvedname>
+      <sourcename>fb348e08-936d-4d70-aab6-b8a1937e39ff</sourcename>
+      <min>0</min>
+      <max>0</max>
+      <aug>0</aug>
+      <augmax>0</augmax>
+      <val>0</val>
+      <rating>1</rating>
+      <exclude />
+      <condition />
+      <improvementttype>SpecificQuality</improvementttype>
+      <improvementsource>Tradition</improvementsource>
+      <custom>False</custom>
+      <customname />
+      <customid />
+      <customgroup />
+      <addtorating>0</addtorating>
+      <enabled>1</enabled>
+      <order>0</order>
+      <notes />
+      <notesColor>Chocolate</notesColor>
+    </improvement>
+    <improvement>
+      <target />
+      <improvedname>2a95fbfa-771a-4e38-b8c7-a48cf46e4bce</improvedname>
+      <sourcename>fb348e08-936d-4d70-aab6-b8a1937e39ff</sourcename>
+      <min>0</min>
+      <max>0</max>
+      <aug>0</aug>
+      <augmax>0</augmax>
+      <val>0</val>
+      <rating>1</rating>
+      <exclude />
+      <condition />
+      <improvementttype>SpecificQuality</improvementttype>
+      <improvementsource>Tradition</improvementsource>
+      <custom>False</custom>
+      <customname />
+      <customid />
+      <customgroup />
+      <addtorating>0</addtorating>
+      <enabled>1</enabled>
+      <order>0</order>
+      <notes />
+      <notesColor>Chocolate</notesColor>
+    </improvement>
     <improvement>
       <unique>enableattribute</unique>
       <target />
@@ -2419,150 +2867,6 @@ Commlinks and home entertainment systems connect you wirelessly to everything fr
       <condition />
       <improvementttype>SpecialSkills</improvementttype>
       <improvementsource>Quality</improvementsource>
-      <custom>False</custom>
-      <customname />
-      <customid />
-      <customgroup />
-      <addtorating>0</addtorating>
-      <enabled>1</enabled>
-      <order>0</order>
-      <notes />
-      <notesColor>Chocolate</notesColor>
-    </improvement>
-    <improvement>
-      <target />
-      <improvedname>Counterspelling</improvedname>
-      <sourcename />
-      <min>0</min>
-      <max>0</max>
-      <aug>0</aug>
-      <augmax>0</augmax>
-      <val>5</val>
-      <rating>1</rating>
-      <exclude />
-      <condition />
-      <improvementttype>SkillBase</improvementttype>
-      <improvementsource>Heritage</improvementsource>
-      <custom>False</custom>
-      <customname />
-      <customid />
-      <customgroup />
-      <addtorating>0</addtorating>
-      <enabled>1</enabled>
-      <order>0</order>
-      <notes />
-      <notesColor>Chocolate</notesColor>
-    </improvement>
-    <improvement>
-      <target />
-      <improvedname>Spellcasting</improvedname>
-      <sourcename />
-      <min>0</min>
-      <max>0</max>
-      <aug>0</aug>
-      <augmax>0</augmax>
-      <val>5</val>
-      <rating>1</rating>
-      <exclude />
-      <condition />
-      <improvementttype>SkillBase</improvementttype>
-      <improvementsource>Heritage</improvementsource>
-      <custom>False</custom>
-      <customname />
-      <customid />
-      <customgroup />
-      <addtorating>0</addtorating>
-      <enabled>1</enabled>
-      <order>0</order>
-      <notes />
-      <notesColor>Chocolate</notesColor>
-    </improvement>
-    <improvement>
-      <target />
-      <improvedname>Public Grid</improvedname>
-      <sourcename>23a8d0e7-2bc2-4b28-b961-8962cb315358</sourcename>
-      <min>0</min>
-      <max>0</max>
-      <aug>0</aug>
-      <augmax>0</augmax>
-      <val>0</val>
-      <rating>1</rating>
-      <exclude />
-      <condition />
-      <improvementttype>Text</improvementttype>
-      <improvementsource>Quality</improvementsource>
-      <custom>False</custom>
-      <customname />
-      <customid />
-      <customgroup />
-      <addtorating>0</addtorating>
-      <enabled>1</enabled>
-      <order>0</order>
-      <notes />
-      <notesColor>Chocolate</notesColor>
-    </improvement>
-    <improvement>
-      <target />
-      <improvedname>b247460b-669d-4907-94ab-1f3448afd271</improvedname>
-      <sourcename>fb348e08-936d-4d70-aab6-b8a1937e39ff</sourcename>
-      <min>0</min>
-      <max>0</max>
-      <aug>0</aug>
-      <augmax>0</augmax>
-      <val>0</val>
-      <rating>1</rating>
-      <exclude />
-      <condition />
-      <improvementttype>SpecificQuality</improvementttype>
-      <improvementsource>Tradition</improvementsource>
-      <custom>False</custom>
-      <customname />
-      <customid />
-      <customgroup />
-      <addtorating>0</addtorating>
-      <enabled>1</enabled>
-      <order>0</order>
-      <notes />
-      <notesColor>Chocolate</notesColor>
-    </improvement>
-    <improvement>
-      <target />
-      <improvedname>Boggle</improvedname>
-      <sourcename>2a95fbfa-771a-4e38-b8c7-a48cf46e4bce</sourcename>
-      <min>0</min>
-      <max>0</max>
-      <aug>0</aug>
-      <augmax>0</augmax>
-      <val>0</val>
-      <rating>1</rating>
-      <exclude />
-      <condition />
-      <improvementttype>AddSpirit</improvementttype>
-      <improvementsource>Quality</improvementsource>
-      <custom>False</custom>
-      <customname />
-      <customid />
-      <customgroup />
-      <addtorating>0</addtorating>
-      <enabled>1</enabled>
-      <order>0</order>
-      <notes />
-      <notesColor>Chocolate</notesColor>
-    </improvement>
-    <improvement>
-      <target />
-      <improvedname>2a95fbfa-771a-4e38-b8c7-a48cf46e4bce</improvedname>
-      <sourcename>fb348e08-936d-4d70-aab6-b8a1937e39ff</sourcename>
-      <min>0</min>
-      <max>0</max>
-      <aug>0</aug>
-      <augmax>0</augmax>
-      <val>0</val>
-      <rating>1</rating>
-      <exclude />
-      <condition />
-      <improvementttype>SpecificQuality</improvementttype>
-      <improvementsource>Tradition</improvementsource>
       <custom>False</custom>
       <customname />
       <customid />
@@ -2645,6 +2949,30 @@ Commlinks and home entertainment systems connect you wirelessly to everything fr
       <notes />
       <notesColor>Chocolate</notesColor>
     </improvement>
+    <improvement>
+      <target />
+      <improvedname>Black Magic [Alt]</improvedname>
+      <sourcename>0d3f9849-a273-4d2a-8688-53bcf72a0472</sourcename>
+      <min>0</min>
+      <max>0</max>
+      <aug>0</aug>
+      <augmax>0</augmax>
+      <val>0</val>
+      <rating>1</rating>
+      <exclude />
+      <condition />
+      <improvementttype>Tradition</improvementttype>
+      <improvementsource>Gear</improvementsource>
+      <custom>False</custom>
+      <customname />
+      <customid />
+      <customgroup />
+      <addtorating>0</addtorating>
+      <enabled>1</enabled>
+      <order>0</order>
+      <notes />
+      <notesColor>Chocolate</notesColor>
+    </improvement>
   </improvements>
   <sustainedobjects />
   <drugs />
@@ -2660,7 +2988,7 @@ Commlinks and home entertainment systems connect you wirelessly to everything fr
     <physicalcm>10</physicalcm>
     <physicalcmthresholdoffset>0</physicalcmthresholdoffset>
     <physicalcmoverflow>4</physicalcmoverflow>
-    <stuncm>9</stuncm>
+    <stuncm>10</stuncm>
     <stuncmthresholdoffset>0</stuncmthresholdoffset>
   </calculatedvalues>
 </character>

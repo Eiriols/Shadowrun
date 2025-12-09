@@ -13,12 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Runs/Run 2/Run 2 - The Assassins Choice.md",
+                "file": "Runs/Run 2/Run 2 - The Bosses Assassins.md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Run 2 - The Assassins Choice"
+              "title": "Run 2 - The Bosses Assassins"
             }
           }
         ]
@@ -174,15 +175,18 @@
   },
   "active": "3b9a6df05c0dae97",
   "lastOpenFiles": [
-    "World/Berlin Districts/Z-IC Tegel.md",
-    "Runs/Run 2/Run 2 - The Assassins Choice.md",
-    "Factions/Zeta-ImpChem.md",
+    "World/Berlin Districts/Mitte.md",
+    "World/Berlin - City.md",
+    "Runs/Run 2/Run 2 - The Bosses Assassins.md",
     "World/Berlin Districts/AGC Siemensstadt.md",
+    "Pasted image 20251205003940.png",
+    "Pasted image 20251204222208.png",
+    "World/Berlin Districts/Z-IC Tegel.md",
+    "Factions/Zeta-ImpChem.md",
     "Factions/Triglawer.md",
     "Runs/Run 3",
     "Runs/Untitled",
     "Runs/Run 3/Run 3.md",
-    "World/Berlin - City.md",
     "World/Berlin Districts/Aztech Schönewalde.md",
     "World/Berlin Districts/Spandau.md",
     "World/Berlin Districts/Falkensee.md",
@@ -206,7 +210,6 @@
     "Session Notes/Session 0.md",
     "#Images/Pasted image 20251123141358.png",
     "#Images",
-    "NPCs/- AI.md",
     "Factions",
     "#Chummer/Assassins.chum5",
     "#Chummer/Unnamed Character.chum5",
@@ -217,8 +220,6 @@
     "World/Maps/Zehlendorf Berlin Map.png",
     "World/Maps/Strausberg Berlin Map.png",
     "World/Maps/Spandau Berlin Map.png",
-    "World/Maps/Sconefeld Berlin Map.png",
-    "World/Maps/Templehof Berlin Map.png",
-    "World/Maps/Renrakusan Berlin Map.png"
+    "World/Maps/Sconefeld Berlin Map.png"
   ]
 }

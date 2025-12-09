@@ -5,7 +5,7 @@
   <appversion>5.225.862</appversion>
   <gameedition>SR5</gameedition>
   <settings>67e25032-2a4e-42ca-97fa-69f7f608236c</settings>
-  <settingshashcode>-175723563</settingshashcode>
+  <settingshashcode>-6104621</settingshashcode>
   <buildmethod>Priority</buildmethod>
   <sources>
     <source>SR5</source>
@@ -99,7 +99,7 @@
   <playername />
   <gamenotes />
   <primaryarm>Right</primaryarm>
-  <karma>1</karma>
+  <karma>12</karma>
   <special>0</special>
   <totalspecial>0</totalspecial>
   <totalattributes>16</totalattributes>
@@ -122,7 +122,7 @@
   <baseastralreputation>0</baseastralreputation>
   <basewildreputation>0</basewildreputation>
   <created>True</created>
-  <nuyen>7166.66666666667</nuyen>
+  <nuyen>4050.0</nuyen>
   <startingnuyen>6000</startingnuyen>
   <nuyenbp>1</nuyenbp>
   <adept>False</adept>
@@ -239,10 +239,10 @@
       <metatypemin>1</metatypemin>
       <metatypemax>6</metatypemax>
       <metatypeaugmax>10</metatypeaugmax>
-      <base>1</base>
+      <base>2</base>
       <karma>0</karma>
       <metatypecategory>Standard</metatypecategory>
-      <totalvalue>2</totalvalue>
+      <totalvalue>3</totalvalue>
     </attribute>
     <attribute>
       <name>STR</name>
@@ -259,10 +259,10 @@
       <metatypemin>1</metatypemin>
       <metatypemax>6</metatypemax>
       <metatypeaugmax>10</metatypeaugmax>
-      <base>2</base>
+      <base>1</base>
       <karma>0</karma>
       <metatypecategory>Standard</metatypecategory>
-      <totalvalue>3</totalvalue>
+      <totalvalue>2</totalvalue>
     </attribute>
     <attribute>
       <name>BOD</name>
@@ -329,7 +329,7 @@
         <name>Aeronautics Mechanic</name>
       </skill>
       <skill>
-        <guid>34024a96-09d3-45d1-b222-21bd328a650b</guid>
+        <guid>411ec889-2c38-4d54-86f6-2cfc874068bf</guid>
         <suid>fc89344f-daa6-438e-b61d-23f10dd13e44</suid>
         <isknowledge>False</isknowledge>
         <skillcategory>Magical Active</skillcategory>
@@ -337,7 +337,7 @@
         <requiresswimmovement>False</requiresswimmovement>
         <requiresflymovement>False</requiresflymovement>
         <karma>0</karma>
-        <base>0</base>
+        <base>2</base>
         <notes />
         <notesColor>Chocolate</notesColor>
         <name>Alchemy</name>
@@ -399,7 +399,7 @@
         <name>Armorer</name>
       </skill>
       <skill>
-        <guid>8775eea5-c5ca-45a0-b7ab-fbf286f2aa36</guid>
+        <guid>61431bd8-cc63-43a2-bbcc-485bb48074f2</guid>
         <suid>955d9376-3066-469d-8670-5170c1d59020</suid>
         <isknowledge>False</isknowledge>
         <skillcategory>Magical Active</skillcategory>
@@ -407,7 +407,7 @@
         <requiresswimmovement>False</requiresswimmovement>
         <requiresflymovement>False</requiresflymovement>
         <karma>0</karma>
-        <base>0</base>
+        <base>3</base>
         <notes />
         <notesColor>Chocolate</notesColor>
         <name>Artificing</name>
@@ -427,7 +427,7 @@
         <name>Artisan</name>
       </skill>
       <skill>
-        <guid>da13afd0-22fe-42e5-a233-b2f7eeb22690</guid>
+        <guid>94e2f33c-8244-469a-8df9-df4393777243</guid>
         <suid>59318078-e071-411b-9194-7222560e9f4a</suid>
         <isknowledge>False</isknowledge>
         <skillcategory>Magical Active</skillcategory>
@@ -441,7 +441,7 @@
         <name>Assensing</name>
       </skill>
       <skill>
-        <guid>c62a275c-a93b-4c6f-86da-fc41487b1b8e</guid>
+        <guid>0e27c554-89a6-47cc-83e6-e786febddd5f</guid>
         <suid>b7599a42-ceed-4558-b357-865aa3e317f5</suid>
         <isknowledge>False</isknowledge>
         <skillcategory>Magical Active</skillcategory>
@@ -483,7 +483,7 @@
         <name>Automotive Mechanic</name>
       </skill>
       <skill>
-        <guid>38b46cd2-cb81-4246-affc-fa7cd8115c97</guid>
+        <guid>86399f83-a4ca-4f2d-b2e9-26ad34ebbe28</guid>
         <suid>9a2d9175-d445-45ca-842d-90223ad13f05</suid>
         <isknowledge>False</isknowledge>
         <skillcategory>Magical Active</skillcategory>
@@ -497,7 +497,7 @@
         <name>Banishing</name>
       </skill>
       <skill>
-        <guid>0874c2ea-e7cc-430c-9123-98d8d07e6c95</guid>
+        <guid>54f9bd85-f3cb-4c86-8dd3-812fec0b3689</guid>
         <suid>dfba7c09-3d95-43fd-be75-39b3e8b22cd3</suid>
         <isknowledge>False</isknowledge>
         <skillcategory>Magical Active</skillcategory>
@@ -595,7 +595,7 @@
         <name>Con</name>
       </skill>
       <skill>
-        <guid>34e5f3a1-ea59-4e35-934a-04a7244665e0</guid>
+        <guid>1263a474-d9dc-498b-ae98-927b2aee2c00</guid>
         <suid>3db81bcc-264b-47e1-847c-06bdacd88973</suid>
         <isknowledge>False</isknowledge>
         <skillcategory>Magical Active</skillcategory>
@@ -603,7 +603,7 @@
         <requiresswimmovement>False</requiresswimmovement>
         <requiresflymovement>False</requiresflymovement>
         <karma>0</karma>
-        <base>4</base>
+        <base>0</base>
         <notes />
         <notesColor>Chocolate</notesColor>
         <name>Counterspelling</name>
@@ -651,7 +651,7 @@
         <name>Demolitions</name>
       </skill>
       <skill>
-        <guid>57ca9a2f-74db-4eaa-a8d1-3699294b38de</guid>
+        <guid>c46cdf79-023c-4667-bc5d-d90d531df973</guid>
         <suid>a9d9b686-bc4a-4347-b011-ff8f41455965</suid>
         <isknowledge>False</isknowledge>
         <skillcategory>Magical Active</skillcategory>
@@ -659,7 +659,7 @@
         <requiresswimmovement>False</requiresswimmovement>
         <requiresflymovement>False</requiresflymovement>
         <karma>0</karma>
-        <base>1</base>
+        <base>2</base>
         <notes />
         <notesColor>Chocolate</notesColor>
         <name>Disenchanting</name>
@@ -1092,7 +1092,7 @@
         <requiresgroundmovement>False</requiresgroundmovement>
         <requiresswimmovement>False</requiresswimmovement>
         <requiresflymovement>False</requiresflymovement>
-        <karma>1</karma>
+        <karma>0</karma>
         <base>0</base>
         <notes />
         <notesColor>Chocolate</notesColor>
@@ -1141,7 +1141,7 @@
         <name>Pistols</name>
       </skill>
       <skill>
-        <guid>1267676b-8fba-41be-a122-efd6b56919c3</guid>
+        <guid>d21c5095-e9b4-4032-8570-31b1d985a34f</guid>
         <suid>a6287e62-6a3b-43ce-b6e0-20f3655910e2</suid>
         <isknowledge>False</isknowledge>
         <skillcategory>Magical Active</skillcategory>
@@ -1149,7 +1149,7 @@
         <requiresswimmovement>False</requiresswimmovement>
         <requiresflymovement>False</requiresflymovement>
         <karma>0</karma>
-        <base>2</base>
+        <base>3</base>
         <notes />
         <notesColor>Chocolate</notesColor>
         <name>Ritual Spellcasting</name>
@@ -1197,7 +1197,7 @@
         <name>Software</name>
       </skill>
       <skill>
-        <guid>e5ffcf96-2c6b-4f8e-b962-c3091833e966</guid>
+        <guid>d1a308e9-d8c8-4311-9f80-69d1cfa5efee</guid>
         <suid>c4367a39-4065-4b1d-aa62-e9dce377e452</suid>
         <isknowledge>False</isknowledge>
         <skillcategory>Magical Active</skillcategory>
@@ -1205,13 +1205,13 @@
         <requiresswimmovement>False</requiresswimmovement>
         <requiresflymovement>False</requiresflymovement>
         <karma>0</karma>
-        <base>6</base>
+        <base>1</base>
         <notes />
         <notesColor>Chocolate</notesColor>
         <name>Spellcasting</name>
       </skill>
       <skill>
-        <guid>d5ad48ce-4eca-43c7-8cdf-ff1fc647f591</guid>
+        <guid>f739b6f4-80a4-46a9-81d8-802d7165fe69</guid>
         <suid>51e34c6c-b07f-45f4-8a5e-8f2b617ed32f</suid>
         <isknowledge>False</isknowledge>
         <skillcategory>Magical Active</skillcategory>
@@ -1382,14 +1382,14 @@
       <group>
         <karma>0</karma>
         <base>0</base>
-        <isbroken>True</isbroken>
+        <isbroken>False</isbroken>
         <id>f183caf4-896c-45a5-92d8-b9f52cf2a23a</id>
         <name>Acting</name>
       </group>
       <group>
         <karma>0</karma>
         <base>0</base>
-        <isbroken>True</isbroken>
+        <isbroken>False</isbroken>
         <id>3c44125a-2813-411c-9454-38821c69b6dc</id>
         <name>Athletics</name>
       </group>
@@ -1431,7 +1431,7 @@
       <group>
         <karma>0</karma>
         <base>0</base>
-        <isbroken>True</isbroken>
+        <isbroken>False</isbroken>
         <id>c2e279bf-bb9c-4093-916c-32440adc6f40</id>
         <name>Enchanting</name>
       </group>
@@ -1466,7 +1466,7 @@
       <group>
         <karma>0</karma>
         <base>0</base>
-        <isbroken>True</isbroken>
+        <isbroken>False</isbroken>
         <id>92d3eb6a-a2d3-4bf7-82ff-a527195e793c</id>
         <name>Sorcery</name>
       </group>
@@ -1647,7 +1647,7 @@
       <extra />
       <notes>These spells produce a storm of conflicting sensations and images to confuse the senses. For each net hit on the Spellcasting Test, the target suffers a –1 dice pool modifier to all tests due to the distraction.
 Confusion affects a single target. Mass Confusion is an area spell. The Chaos spell is a physical version of Confusion (above), so it also affects technological systems and sensing devices. Chaotic World is an area version of Chaos.</notes>
-      <notesColor>#FF8080</notesColor>
+      <notesColor>Blue</notesColor>
       <freebonus>False</freebonus>
       <barehandedadept>False</barehandedadept>
       <improvementsource>Spell</improvementsource>
@@ -1748,9 +1748,10 @@ Control Thoughts affects a single target, while Mob Mind affects any living targ
       <source>SG</source>
       <page>111</page>
       <extra />
-      <notes>This set of spells provides the spellcaster with an unusual set of non-lethal tools to distract his enemies by forcing great pleasure upon them. Euphoria envelops the target in the stimulating throes of a great high comparable to an empathogenic drug high or sexual climax. Many magicians utilize this spell in their private lives, granting willing targets a thrilling ecstasy. However, using this spell on unwilling subjects is considered a criminal act by law enforcement officers in many jurisdiction. Spellcasters known to excessively cast this set of spells may gain an unsavory reputation.
+      <notes>This set of spells provides the spellcaster with an unusual set of non-lethal tools to distract his enemies by forcing great pleasure upon them. Euphoria envelops the target in the stimulating throes of a great high comparable to an empathogenic drug high or sexual climax. 
+Many magicians utilize this spell in their private lives, granting willing targets a thrilling ecstasy. However, using this spell on unwilling subjects is considered a criminal act by law enforcement officers in many jurisdiction. Spellcasters known to excessively cast this set of spells may gain an unsavory reputation.
 Each net hit scored by the spellcaster applies a –1 dice pool modifier to all of the targets’ actions as they are distracted by the sensation. At the gamemaster’s discretion, a character who suffers a dice pool modifier higher than his Willpower is completely incapacitated and preoccupied. Euphoria affects a single target; Opium Den is an area spell.</notes>
-      <notesColor>#FF8080</notesColor>
+      <notesColor>Blue</notesColor>
       <freebonus>False</freebonus>
       <barehandedadept>False</barehandedadept>
       <improvementsource>Spell</improvementsource>
@@ -1800,7 +1801,7 @@ Each net hit scored by the spellcaster applies a –1 dice pool modifier to all 
       <page>108</page>
       <extra />
       <notes>Spatial Sense grants the subject an innate awareness and knowledge of his physical surroundings within range of the spell in terms of landscape, geography, and architecture. The layout knowledge lasts as only long as the spell is sustained and is not retained when the spell ends (though the subject can make a map or recite directions before ending the spell).  The net hits scored on the Detection Spell Results table (p. 286, SR5) determine how much detail the spell provides, progressing from a general idea of what’s where, to a rough map of the area, to knowing each exit and how secure they are. The spell works in all directions (three-dimensional) and may uncover hidden layout features such as ventilation shafts, secret rooms, and sewer tunnels. It will not detect security features or living things. Areas that are protected by a mana barrier are experienced as “blank spots.”</notes>
-      <notesColor>#0080FF</notesColor>
+      <notesColor>#FF8000</notesColor>
       <freebonus>False</freebonus>
       <barehandedadept>False</barehandedadept>
       <improvementsource>Spell</improvementsource>
@@ -1853,7 +1854,7 @@ The spell is permanent in that the boost to the patient’s endorphin levels doe
       <notes>This spell makes the subject more difficult to detect by normal visual senses (including low-light, thermographic, and other senses that rely on the visual spectrum). The subject is completely tangible and detectable by the other senses (hearing, smell, touch, and even taste, if it somehow comes to that). Her aura is still visible to astral perception.
 Anyone who might be in a position to perceive the subject must first successfully resist the spell. Simply make one Spellcasting Test and use the hits scored as the threshold for anyone that resists at a later point. Even if the spell is resisted, the subject might remain undetected if she’s good enough with her Sneaking Test. An invisible character may still be detected by non-visual means, such as hearing or smell. Attacks against invisible targets suffer the Blind Fire modifier if the attacker is unable to see or otherwise sense the subject of the spell.
 Invisibility affects the minds of viewers. Improved Invisibility mimics the subject’s surroundings from all angles and affects technological sensors as well.</notes>
-      <notesColor>#FF8080</notesColor>
+      <notesColor>Blue</notesColor>
       <freebonus>False</freebonus>
       <barehandedadept>False</barehandedadept>
       <improvementsource>Spell</improvementsource>
@@ -1877,7 +1878,7 @@ Invisibility affects the minds of viewers. Improved Invisibility mimics the subj
       <source>SR5</source>
       <page>288</page>
       <extra />
-      <notes>Heal repairs physical injuries. It heals a number of boxes of Physical damage equal to the spell’s hits from the Spellcasting Test. Hits can also be used to reduce the base time for the spell to become permanent; each hit spent this way shaves off 1 Combat Turn (you can split hits between healing and reducing time).
+      <notes>Heal repairs physical injuries. It heals a number of boxes of Physical damage equal to the spell’s hits from the Spellcasting Test. Hits can also be used to reduce the base time for the spell to become permanent; each hit spent this way shaves off 1 Combat Turn (you can split hits between healing and reducing time). 
 Any boxes of Physical damage your target still has after any boxes are healed magically can only be healed by time and rest.</notes>
       <notesColor>Green</notesColor>
       <freebonus>False</freebonus>
@@ -1886,18 +1887,13 @@ Any boxes of Physical damage your target still has after any boxes are healed ma
       <grade>0</grade>
     </spell>
   </spells>
-  <foci>
-    <focus>
-      <guid>0ed1ce79-8521-4ffa-b25e-98424dc03a42</guid>
-      <gearid>7f352116-db68-437f-9255-91376bdd782a</gearid>
-    </focus>
-  </foci>
+  <foci />
   <stackedfoci />
   <powers />
   <spirits>
     <spirit>
       <guid>6445170a-2162-4d01-85d2-9be08f275961</guid>
-      <name>Boggle</name>
+      <name />
       <crittername />
       <services>0</services>
       <force>6</force>
@@ -1966,57 +1962,6 @@ Boggles can’t hide their presence for very long. Their homes are influenced by
       <wirelessbonus />
       <location />
       <notes>Armor clothing: Lightweight ballistic fiber weave makes these garments almost impossible to detect as armor. It doesn’t provide as much protection as real ar- mor, but it’s available in a wide variety of styles.</notes>
-      <notesColor>Chocolate</notesColor>
-      <discountedcost>False</discountedcost>
-      <sortorder>0</sortorder>
-    </armor>
-    <armor>
-      <sourceid>36a4cd30-c32c-44d0-847a-0c15fb51072a</sourceid>
-      <guid>5aa9f448-887e-4446-82be-4d18b29ba1d1</guid>
-      <name>Armor Jacket</name>
-      <category>Armor</category>
-      <armor>12</armor>
-      <armoroverride />
-      <armorcapacity>12</armorcapacity>
-      <avail>2</avail>
-      <cost>1000</cost>
-      <weight />
-      <source>SR5</source>
-      <page>437</page>
-      <armorname />
-      <equipped>True</equipped>
-      <active>False</active>
-      <homenode>False</homenode>
-      <devicerating />
-      <programlimit />
-      <overclocked>None</overclocked>
-      <attack />
-      <sleaze />
-      <dataprocessing />
-      <firewall />
-      <attributearray />
-      <modattack />
-      <modsleaze />
-      <moddataprocessing />
-      <modfirewall />
-      <modattributearray />
-      <canswapattributes>False</canswapattributes>
-      <matrixcmfilled>0</matrixcmfilled>
-      <matrixcmbonus>0</matrixcmbonus>
-      <wirelesson>False</wirelesson>
-      <canformpersona />
-      <extra />
-      <damage>0</damage>
-      <rating>0</rating>
-      <maxrating>0</maxrating>
-      <ratinglabel>String_Rating</ratinglabel>
-      <stolen>False</stolen>
-      <emcumbrance>True</emcumbrance>
-      <armormods />
-      <bonus />
-      <wirelessbonus />
-      <location />
-      <notes>Armor jacket: The most popular armor solution on the streets comes in all styles imaginable. It offers good protection without catching too much attention. But don’t think of wearing one to a dinner party.</notes>
       <notesColor>Chocolate</notesColor>
       <discountedcost>False</discountedcost>
       <sortorder>0</sortorder>
@@ -2472,7 +2417,7 @@ Moderate phobias cause a –3 dice pool modifier to all actions while in the pre
       <lp>4</lp>
       <baselifestyle>Medium</baselifestyle>
       <multiplier>100</multiplier>
-      <months>2</months>
+      <months>1</months>
       <roommates>0</roommates>
       <percentage>100.0</percentage>
       <area>0</area>
@@ -2562,36 +2507,6 @@ Commlinks and home entertainment systems connect you wirelessly to everything fr
           <notes>GRID SUBSCRIPTION
 Point Cost: 1 Type: Asset Monthly Nuyen Cost: 50¥ Minimum Lifestyle: Middle Nobody “downloads” or “records” their favorite song or movie any more. It’s all based on subscriptions and purchases within the Matrix and stored virtually on a grid.
 Commlinks and home entertainment systems connect you wirelessly to everything from photos you’ve taken to corporate-sponsored lines of entertainment that you can watch whenever you want. Without a grid subscription, you might as well have a throwback commlink with an antique external storage device, as the public grid only has trid shows from like two seasons ago.</notes>
-          <notesColor>Chocolate</notesColor>
-        </lifestylequality>
-        <lifestylequality>
-          <sourceid>4f2d39cd-fbc7-4d02-a3eb-f8decdb9a415</sourceid>
-          <guid>97c1cc9c-9454-4787-87eb-8cd78a9fdf68</guid>
-          <name>DocWagon Contract, Gold</name>
-          <category>Contracts</category>
-          <extra />
-          <cost>25000 div 12</cost>
-          <multiplier>0</multiplier>
-          <basemultiplier>0</basemultiplier>
-          <lp>0</lp>
-          <areamaximum>0</areamaximum>
-          <comfortsmaximum>0</comfortsmaximum>
-          <securitymaximum>0</securitymaximum>
-          <area>0</area>
-          <comforts>0</comforts>
-          <security>0</security>
-          <uselpcost>True</uselpcost>
-          <print>True</print>
-          <lifestylequalitytype>Contracts</lifestylequalitytype>
-          <lifestylequalitysource>Selected</lifestylequalitysource>
-          <free>False</free>
-          <isfreegrid>False</isfreegrid>
-          <source>SR5</source>
-          <page>450</page>
-          <allowed />
-          <bonus>
-          </bonus>
-          <notes />
           <notesColor>Chocolate</notesColor>
         </lifestylequality>
       </lifestylequalities>
@@ -2719,47 +2634,670 @@ This substance detects traces of orichalcum and other true elements. An eight-ou
       <sortorder>0</sortorder>
     </gear>
     <gear>
-      <sourceid>2f485376-54c1-41be-8678-79cc98e04ebc</sourceid>
-      <guid>7f352116-db68-437f-9255-91376bdd782a</guid>
-      <name>Spellcasting Focus, Combat</name>
-      <category>Foci</category>
-      <capacity />
-      <armorcapacity />
+      <sourceid>6de5a1b0-30e2-4c74-8646-971f698cb231</sourceid>
+      <guid>5d43d4b5-70a4-4441-91bd-3a0dd160fc14</guid>
+      <name>Hermes Ikon</name>
+      <category>Commlinks</category>
+      <capacity>0</capacity>
+      <armorcapacity>[2]</armorcapacity>
       <minrating />
-      <maxrating>18</maxrating>
-      <rating>5</rating>
+      <maxrating />
+      <rating>0</rating>
       <qty>1.0</qty>
-      <avail>(Rating * 3)R</avail>
-      <cost>Rating * 4000</cost>
+      <avail>10</avail>
+      <cost>3000</cost>
       <weight />
-      <extra>Black Magic [Alt]</extra>
-      <bonded>True</bonded>
+      <extra />
+      <bonded>False</bonded>
       <equipped>True</equipped>
       <wirelesson>False</wirelesson>
       <stolen>False</stolen>
-      <bonus>
-        <spellcategory>
-          <name>Combat</name>
-          <val>Rating</val>
-        </spellcategory>
-        <selecttradition />
-      </bonus>
+      <bonus />
       <wirelessbonus />
       <weaponbonus />
       <flechetteweaponbonus />
       <source>SR5</source>
-      <page>320</page>
+      <page>438</page>
       <isflechetteammo>False</isflechetteammo>
       <ammoforweapontype />
-      <canformpersona />
-      <devicerating />
+      <canformpersona>Self</canformpersona>
+      <devicerating>5</devicerating>
       <gearname />
       <forcedvalue />
       <matrixcmfilled>0</matrixcmfilled>
       <matrixcmbonus>0</matrixcmbonus>
       <parentid />
       <allowrename>False</allowrename>
-      <children />
+      <children>
+        <gear>
+          <sourceid>b1f2dcee-7304-4e5e-b022-f3393009a78c</sourceid>
+          <guid>7dba8d67-e908-43c3-b995-03c68deeaf41</guid>
+          <name>Commlink Functionality</name>
+          <category>Electronics Accessories</category>
+          <capacity />
+          <armorcapacity />
+          <minrating />
+          <maxrating />
+          <rating>0</rating>
+          <qty>1.0</qty>
+          <avail>0</avail>
+          <cost>0</cost>
+          <weight />
+          <extra />
+          <bonded>False</bonded>
+          <equipped>True</equipped>
+          <wirelesson>False</wirelesson>
+          <stolen>False</stolen>
+          <bonus />
+          <wirelessbonus />
+          <weaponbonus />
+          <flechetteweaponbonus />
+          <source>SR5</source>
+          <page>438</page>
+          <isflechetteammo>False</isflechetteammo>
+          <ammoforweapontype />
+          <canformpersona />
+          <devicerating />
+          <gearname />
+          <forcedvalue />
+          <matrixcmfilled>0</matrixcmfilled>
+          <matrixcmbonus>0</matrixcmbonus>
+          <parentid>5d43d4b5-70a4-4441-91bd-3a0dd160fc14</parentid>
+          <allowrename>False</allowrename>
+          <children>
+            <gear>
+              <sourceid>9cd0bf83-3cfa-4c61-bfb0-ae6c01ac8f8d</sourceid>
+              <guid>613b2f52-409b-46f3-b803-261ad6a34ecd</guid>
+              <name>Music Player</name>
+              <category>Electronics Accessories</category>
+              <capacity />
+              <armorcapacity />
+              <minrating />
+              <maxrating />
+              <rating>0</rating>
+              <qty>1.0</qty>
+              <avail>0</avail>
+              <cost>0</cost>
+              <weight />
+              <extra />
+              <bonded>False</bonded>
+              <equipped>True</equipped>
+              <wirelesson>False</wirelesson>
+              <stolen>False</stolen>
+              <bonus />
+              <wirelessbonus />
+              <weaponbonus />
+              <flechetteweaponbonus />
+              <source>SR5</source>
+              <page>438</page>
+              <isflechetteammo>False</isflechetteammo>
+              <ammoforweapontype />
+              <canformpersona />
+              <devicerating />
+              <gearname />
+              <forcedvalue />
+              <matrixcmfilled>0</matrixcmfilled>
+              <matrixcmbonus>0</matrixcmbonus>
+              <parentid>7dba8d67-e908-43c3-b995-03c68deeaf41</parentid>
+              <allowrename>False</allowrename>
+              <children />
+              <location />
+              <notes />
+              <notesColor>Chocolate</notesColor>
+              <discountedcost>False</discountedcost>
+              <programlimit />
+              <overclocked>None</overclocked>
+              <attack />
+              <sleaze />
+              <dataprocessing />
+              <firewall />
+              <attributearray />
+              <modattack />
+              <modsleaze />
+              <moddataprocessing />
+              <modfirewall />
+              <modattributearray />
+              <canswapattributes>False</canswapattributes>
+              <active>False</active>
+              <homenode>False</homenode>
+              <sortorder>0</sortorder>
+            </gear>
+            <gear>
+              <sourceid>5db9c4b8-4d7a-4728-aff0-617102c57fc5</sourceid>
+              <guid>ce5acbd1-19e8-4ba1-8a72-1d4731d86a60</guid>
+              <name>Micro Trid-Projector</name>
+              <category>Electronics Accessories</category>
+              <capacity />
+              <armorcapacity />
+              <minrating />
+              <maxrating />
+              <rating>0</rating>
+              <qty>1.0</qty>
+              <avail>0</avail>
+              <cost>0</cost>
+              <weight />
+              <extra />
+              <bonded>False</bonded>
+              <equipped>True</equipped>
+              <wirelesson>False</wirelesson>
+              <stolen>False</stolen>
+              <bonus />
+              <wirelessbonus />
+              <weaponbonus />
+              <flechetteweaponbonus />
+              <source>SR5</source>
+              <page>438</page>
+              <isflechetteammo>False</isflechetteammo>
+              <ammoforweapontype />
+              <canformpersona />
+              <devicerating />
+              <gearname />
+              <forcedvalue />
+              <matrixcmfilled>0</matrixcmfilled>
+              <matrixcmbonus>0</matrixcmbonus>
+              <parentid>7dba8d67-e908-43c3-b995-03c68deeaf41</parentid>
+              <allowrename>False</allowrename>
+              <children />
+              <location />
+              <notes />
+              <notesColor>Chocolate</notesColor>
+              <discountedcost>False</discountedcost>
+              <programlimit />
+              <overclocked>None</overclocked>
+              <attack />
+              <sleaze />
+              <dataprocessing />
+              <firewall />
+              <attributearray />
+              <modattack />
+              <modsleaze />
+              <moddataprocessing />
+              <modfirewall />
+              <modattributearray />
+              <canswapattributes>False</canswapattributes>
+              <active>False</active>
+              <homenode>False</homenode>
+              <sortorder>0</sortorder>
+            </gear>
+            <gear>
+              <sourceid>b19f022c-c854-4a3f-8b7a-d2a2532a2680</sourceid>
+              <guid>5c42e90c-f1a1-4774-ae1e-b98fb741bab2</guid>
+              <name>Touchscreen Display</name>
+              <category>Electronics Accessories</category>
+              <capacity />
+              <armorcapacity />
+              <minrating />
+              <maxrating />
+              <rating>0</rating>
+              <qty>1.0</qty>
+              <avail>0</avail>
+              <cost>0</cost>
+              <weight />
+              <extra />
+              <bonded>False</bonded>
+              <equipped>True</equipped>
+              <wirelesson>False</wirelesson>
+              <stolen>False</stolen>
+              <bonus />
+              <wirelessbonus />
+              <weaponbonus />
+              <flechetteweaponbonus />
+              <source>SR5</source>
+              <page>438</page>
+              <isflechetteammo>False</isflechetteammo>
+              <ammoforweapontype />
+              <canformpersona />
+              <devicerating />
+              <gearname />
+              <forcedvalue />
+              <matrixcmfilled>0</matrixcmfilled>
+              <matrixcmbonus>0</matrixcmbonus>
+              <parentid>7dba8d67-e908-43c3-b995-03c68deeaf41</parentid>
+              <allowrename>False</allowrename>
+              <children />
+              <location />
+              <notes />
+              <notesColor>Chocolate</notesColor>
+              <discountedcost>False</discountedcost>
+              <programlimit />
+              <overclocked>None</overclocked>
+              <attack />
+              <sleaze />
+              <dataprocessing />
+              <firewall />
+              <attributearray />
+              <modattack />
+              <modsleaze />
+              <moddataprocessing />
+              <modfirewall />
+              <modattributearray />
+              <canswapattributes>False</canswapattributes>
+              <active>False</active>
+              <homenode>False</homenode>
+              <sortorder>0</sortorder>
+            </gear>
+            <gear>
+              <sourceid>fa6fa434-107b-4f36-a138-f98b044dae76</sourceid>
+              <guid>b0962405-6725-4f2a-ba46-bdff716703a5</guid>
+              <name>Camera, Micro</name>
+              <category>Vision Devices</category>
+              <capacity>[0]</capacity>
+              <armorcapacity>[1]</armorcapacity>
+              <minrating />
+              <maxrating />
+              <rating>0</rating>
+              <qty>1.0</qty>
+              <avail>0</avail>
+              <cost>0</cost>
+              <weight />
+              <extra />
+              <bonded>False</bonded>
+              <equipped>True</equipped>
+              <wirelesson>False</wirelesson>
+              <stolen>False</stolen>
+              <bonus />
+              <wirelessbonus />
+              <weaponbonus />
+              <flechetteweaponbonus />
+              <source>SR5</source>
+              <page>443</page>
+              <isflechetteammo>False</isflechetteammo>
+              <ammoforweapontype />
+              <canformpersona />
+              <devicerating />
+              <gearname />
+              <forcedvalue />
+              <matrixcmfilled>0</matrixcmfilled>
+              <matrixcmbonus>0</matrixcmbonus>
+              <parentid>7dba8d67-e908-43c3-b995-03c68deeaf41</parentid>
+              <allowrename>False</allowrename>
+              <children />
+              <location />
+              <notes />
+              <notesColor>Chocolate</notesColor>
+              <discountedcost>False</discountedcost>
+              <programlimit />
+              <overclocked>None</overclocked>
+              <attack />
+              <sleaze />
+              <dataprocessing />
+              <firewall />
+              <attributearray />
+              <modattack />
+              <modsleaze />
+              <moddataprocessing />
+              <modfirewall />
+              <modattributearray />
+              <canswapattributes>False</canswapattributes>
+              <active>False</active>
+              <homenode>False</homenode>
+              <sortorder>0</sortorder>
+            </gear>
+            <gear>
+              <sourceid>5146abd2-6ab2-4aee-b523-a63d5c5ab93b</sourceid>
+              <guid>b2b15725-09f4-4f59-8783-a46f908aa702</guid>
+              <name>RFID Tag Scanner</name>
+              <category>Electronics Accessories</category>
+              <capacity />
+              <armorcapacity />
+              <minrating />
+              <maxrating />
+              <rating>0</rating>
+              <qty>1.0</qty>
+              <avail>0</avail>
+              <cost>0</cost>
+              <weight />
+              <extra />
+              <bonded>False</bonded>
+              <equipped>True</equipped>
+              <wirelesson>False</wirelesson>
+              <stolen>False</stolen>
+              <bonus />
+              <wirelessbonus />
+              <weaponbonus />
+              <flechetteweaponbonus />
+              <source>SR5</source>
+              <page>438</page>
+              <isflechetteammo>False</isflechetteammo>
+              <ammoforweapontype />
+              <canformpersona />
+              <devicerating />
+              <gearname />
+              <forcedvalue />
+              <matrixcmfilled>0</matrixcmfilled>
+              <matrixcmbonus>0</matrixcmbonus>
+              <parentid>7dba8d67-e908-43c3-b995-03c68deeaf41</parentid>
+              <allowrename>False</allowrename>
+              <children />
+              <location />
+              <notes />
+              <notesColor>Chocolate</notesColor>
+              <discountedcost>False</discountedcost>
+              <programlimit />
+              <overclocked>None</overclocked>
+              <attack />
+              <sleaze />
+              <dataprocessing />
+              <firewall />
+              <attributearray />
+              <modattack />
+              <modsleaze />
+              <moddataprocessing />
+              <modfirewall />
+              <modattributearray />
+              <canswapattributes>False</canswapattributes>
+              <active>False</active>
+              <homenode>False</homenode>
+              <sortorder>0</sortorder>
+            </gear>
+            <gear>
+              <sourceid>82946de2-876c-46d8-a6ec-744a38257668</sourceid>
+              <guid>03898659-c14f-4543-8d5e-b669d58e4725</guid>
+              <name>GPS Guidance System</name>
+              <category>Electronics Accessories</category>
+              <capacity />
+              <armorcapacity />
+              <minrating />
+              <maxrating />
+              <rating>0</rating>
+              <qty>1.0</qty>
+              <avail>0</avail>
+              <cost>0</cost>
+              <weight />
+              <extra />
+              <bonded>False</bonded>
+              <equipped>True</equipped>
+              <wirelesson>False</wirelesson>
+              <stolen>False</stolen>
+              <bonus />
+              <wirelessbonus />
+              <weaponbonus />
+              <flechetteweaponbonus />
+              <source>SR5</source>
+              <page>438</page>
+              <isflechetteammo>False</isflechetteammo>
+              <ammoforweapontype />
+              <canformpersona />
+              <devicerating />
+              <gearname />
+              <forcedvalue />
+              <matrixcmfilled>0</matrixcmfilled>
+              <matrixcmbonus>0</matrixcmbonus>
+              <parentid>7dba8d67-e908-43c3-b995-03c68deeaf41</parentid>
+              <allowrename>False</allowrename>
+              <children />
+              <location />
+              <notes />
+              <notesColor>Chocolate</notesColor>
+              <discountedcost>False</discountedcost>
+              <programlimit />
+              <overclocked>None</overclocked>
+              <attack />
+              <sleaze />
+              <dataprocessing />
+              <firewall />
+              <attributearray />
+              <modattack />
+              <modsleaze />
+              <moddataprocessing />
+              <modfirewall />
+              <modattributearray />
+              <canswapattributes>False</canswapattributes>
+              <active>False</active>
+              <homenode>False</homenode>
+              <sortorder>0</sortorder>
+            </gear>
+            <gear>
+              <sourceid>f9995732-7d00-496c-8407-a3dc0e1a82ff</sourceid>
+              <guid>848be261-0d9b-48a7-8f18-22e308860f3e</guid>
+              <name>Chip Player</name>
+              <category>Electronics Accessories</category>
+              <capacity />
+              <armorcapacity />
+              <minrating />
+              <maxrating />
+              <rating>0</rating>
+              <qty>1.0</qty>
+              <avail>0</avail>
+              <cost>0</cost>
+              <weight />
+              <extra />
+              <bonded>False</bonded>
+              <equipped>True</equipped>
+              <wirelesson>False</wirelesson>
+              <stolen>False</stolen>
+              <bonus />
+              <wirelessbonus />
+              <weaponbonus />
+              <flechetteweaponbonus />
+              <source>SR5</source>
+              <page>438</page>
+              <isflechetteammo>False</isflechetteammo>
+              <ammoforweapontype />
+              <canformpersona />
+              <devicerating />
+              <gearname />
+              <forcedvalue />
+              <matrixcmfilled>0</matrixcmfilled>
+              <matrixcmbonus>0</matrixcmbonus>
+              <parentid>7dba8d67-e908-43c3-b995-03c68deeaf41</parentid>
+              <allowrename>False</allowrename>
+              <children />
+              <location />
+              <notes />
+              <notesColor>Chocolate</notesColor>
+              <discountedcost>False</discountedcost>
+              <programlimit />
+              <overclocked>None</overclocked>
+              <attack />
+              <sleaze />
+              <dataprocessing />
+              <firewall />
+              <attributearray />
+              <modattack />
+              <modsleaze />
+              <moddataprocessing />
+              <modfirewall />
+              <modattributearray />
+              <canswapattributes>False</canswapattributes>
+              <active>False</active>
+              <homenode>False</homenode>
+              <sortorder>0</sortorder>
+            </gear>
+            <gear>
+              <sourceid>1d6f985e-5cf0-463d-a445-fafdd387f301</sourceid>
+              <guid>29a3a7f9-a9ab-4442-aba0-62fc5d8837af</guid>
+              <name>Credstick Reader</name>
+              <category>Electronics Accessories</category>
+              <capacity />
+              <armorcapacity />
+              <minrating />
+              <maxrating />
+              <rating>0</rating>
+              <qty>1.0</qty>
+              <avail>0</avail>
+              <cost>0</cost>
+              <weight />
+              <extra />
+              <bonded>False</bonded>
+              <equipped>True</equipped>
+              <wirelesson>False</wirelesson>
+              <stolen>False</stolen>
+              <bonus />
+              <wirelessbonus />
+              <weaponbonus />
+              <flechetteweaponbonus />
+              <source>SR5</source>
+              <page>438</page>
+              <isflechetteammo>False</isflechetteammo>
+              <ammoforweapontype />
+              <canformpersona />
+              <devicerating />
+              <gearname />
+              <forcedvalue />
+              <matrixcmfilled>0</matrixcmfilled>
+              <matrixcmbonus>0</matrixcmbonus>
+              <parentid>7dba8d67-e908-43c3-b995-03c68deeaf41</parentid>
+              <allowrename>False</allowrename>
+              <children />
+              <location />
+              <notes />
+              <notesColor>Chocolate</notesColor>
+              <discountedcost>False</discountedcost>
+              <programlimit />
+              <overclocked>None</overclocked>
+              <attack />
+              <sleaze />
+              <dataprocessing />
+              <firewall />
+              <attributearray />
+              <modattack />
+              <modsleaze />
+              <moddataprocessing />
+              <modfirewall />
+              <modattributearray />
+              <canswapattributes>False</canswapattributes>
+              <active>False</active>
+              <homenode>False</homenode>
+              <sortorder>0</sortorder>
+            </gear>
+            <gear>
+              <sourceid>5d69d002-c33d-4d0f-9c4d-d78db4d78e5d</sourceid>
+              <guid>11c11316-0cdc-45cf-83ad-df9812002729</guid>
+              <name>Earbuds</name>
+              <category>Audio Devices</category>
+              <capacity>[0]</capacity>
+              <armorcapacity />
+              <minrating />
+              <maxrating>3</maxrating>
+              <rating>1</rating>
+              <qty>1.0</qty>
+              <avail>0</avail>
+              <cost>0</cost>
+              <weight />
+              <extra />
+              <bonded>False</bonded>
+              <equipped>True</equipped>
+              <wirelesson>False</wirelesson>
+              <stolen>False</stolen>
+              <bonus />
+              <wirelessbonus />
+              <weaponbonus />
+              <flechetteweaponbonus />
+              <source>SR5</source>
+              <page>445</page>
+              <isflechetteammo>False</isflechetteammo>
+              <ammoforweapontype />
+              <canformpersona />
+              <devicerating />
+              <gearname />
+              <forcedvalue />
+              <matrixcmfilled>0</matrixcmfilled>
+              <matrixcmbonus>0</matrixcmbonus>
+              <parentid>7dba8d67-e908-43c3-b995-03c68deeaf41</parentid>
+              <allowrename>False</allowrename>
+              <children />
+              <location />
+              <notes />
+              <notesColor>Chocolate</notesColor>
+              <discountedcost>False</discountedcost>
+              <programlimit />
+              <overclocked>None</overclocked>
+              <attack />
+              <sleaze />
+              <dataprocessing />
+              <firewall />
+              <attributearray />
+              <modattack />
+              <modsleaze />
+              <moddataprocessing />
+              <modfirewall />
+              <modattributearray />
+              <canswapattributes>False</canswapattributes>
+              <active>False</active>
+              <homenode>False</homenode>
+              <sortorder>0</sortorder>
+            </gear>
+            <gear>
+              <sourceid>786682fb-cbd5-4ee8-969a-233484004df7</sourceid>
+              <guid>d767c65e-5cf3-45fa-9d42-35880689d900</guid>
+              <name>Shock- and Water-Resistant Case</name>
+              <category>Commlink Accessories</category>
+              <capacity />
+              <armorcapacity />
+              <minrating />
+              <maxrating />
+              <rating>0</rating>
+              <qty>1.0</qty>
+              <avail>0</avail>
+              <cost>0</cost>
+              <weight />
+              <extra />
+              <bonded>False</bonded>
+              <equipped>True</equipped>
+              <wirelesson>False</wirelesson>
+              <stolen>False</stolen>
+              <bonus />
+              <wirelessbonus />
+              <weaponbonus />
+              <flechetteweaponbonus />
+              <source>SR5</source>
+              <page>438</page>
+              <isflechetteammo>False</isflechetteammo>
+              <ammoforweapontype />
+              <canformpersona />
+              <devicerating />
+              <gearname />
+              <forcedvalue />
+              <matrixcmfilled>0</matrixcmfilled>
+              <matrixcmbonus>0</matrixcmbonus>
+              <parentid>7dba8d67-e908-43c3-b995-03c68deeaf41</parentid>
+              <allowrename>False</allowrename>
+              <children />
+              <location />
+              <notes />
+              <notesColor>Chocolate</notesColor>
+              <discountedcost>False</discountedcost>
+              <programlimit />
+              <overclocked>None</overclocked>
+              <attack />
+              <sleaze />
+              <dataprocessing />
+              <firewall />
+              <attributearray />
+              <modattack />
+              <modsleaze />
+              <moddataprocessing />
+              <modfirewall />
+              <modattributearray />
+              <canswapattributes>False</canswapattributes>
+              <active>False</active>
+              <homenode>False</homenode>
+              <sortorder>0</sortorder>
+            </gear>
+          </children>
+          <location />
+          <notes />
+          <notesColor>Chocolate</notesColor>
+          <discountedcost>False</discountedcost>
+          <programlimit />
+          <overclocked>None</overclocked>
+          <attack />
+          <sleaze />
+          <dataprocessing />
+          <firewall />
+          <attributearray />
+          <modattack />
+          <modsleaze />
+          <moddataprocessing />
+          <modfirewall />
+          <modattributearray />
+          <canswapattributes>False</canswapattributes>
+          <active>False</active>
+          <homenode>False</homenode>
+          <sortorder>0</sortorder>
+        </gear>
+      </children>
       <location />
       <notes />
       <notesColor>Chocolate</notesColor>
@@ -2768,8 +3306,8 @@ This substance detects traces of orichalcum and other true elements. An eight-ou
       <overclocked>None</overclocked>
       <attack />
       <sleaze />
-      <dataprocessing />
-      <firewall />
+      <dataprocessing>5</dataprocessing>
+      <firewall>5</firewall>
       <attributearray />
       <modattack />
       <modsleaze />
@@ -2785,7 +3323,7 @@ This substance detects traces of orichalcum and other true elements. An eight-ou
   <vehicles>
     <vehicle>
       <sourceid>f0b4963e-d709-47a2-a290-5528c79d2cd8</sourceid>
-      <guid>4d9831fe-ddad-48ee-983f-b47c4e66b8b3</guid>
+      <guid>a6e071c0-6afb-46d2-b2eb-dedfce1e5a40</guid>
       <name>Harley-Davidson Nightmare</name>
       <category>Bikes</category>
       <handling>4</handling>
@@ -2819,23 +3357,92 @@ This substance detects traces of orichalcum and other true elements. An eight-ou
       <vehiclename />
       <mods>
         <mod>
-          <sourceid>de5bd5c7-53cd-4ffd-9e13-ec04636d50ce</sourceid>
-          <guid>7e023553-543b-45d6-bdcb-844c0284afdc</guid>
-          <name>Smuggling Compartment Shielding</name>
-          <category>Body</category>
+          <sourceid>831a60c3-f57b-40c7-9b4d-92906897ee90</sourceid>
+          <guid>6d1ded5e-d194-4ceb-b436-8978bc94e3d0</guid>
+          <name>GridLink</name>
+          <category>Electromagnetic</category>
           <limit />
-          <slots>0</slots>
+          <slots>2</slots>
           <capacity />
           <rating>0</rating>
           <maxrating>0</maxrating>
           <ratinglabel>String_Rating</ratinglabel>
           <conditionmonitor>0</conditionmonitor>
-          <avail>12F</avail>
-          <cost>3000</cost>
+          <avail>4</avail>
+          <cost>750</cost>
           <markup>0</markup>
-          <extra>Astral</extra>
+          <extra />
           <source>R5</source>
-          <page>165</page>
+          <page>166</page>
+          <included>False</included>
+          <equipped>True</equipped>
+          <wirelesson>False</wirelesson>
+          <subsystems />
+          <weaponmountcategories />
+          <ammobonus>0</ammobonus>
+          <ammobonuspercent>0</ammobonuspercent>
+          <ammoreplace />
+          <weapons />
+          <notes>GRIDLINK
+Gridlink is a fairly ubiquitous feature for modern vehicles in the Sixth World, at least in the areas where the sun of corporate control continually shines. Using a system of embedded power lines in the road system, any vehicle equipped with gridlink can use these lines to draw operational power and thus have an unlimited running time as long as it is connected. As with everything in the Sixth World, there’s a downside. In exchange for the free power, vehicles running on gridlink essentially give up control to the owner of the local GridGuidesystem. A vehicle is identified and tracked every second it is attached to the system, is limited to the legal speed limit set for the area, and can be remotely shut down by the owner of the system. Most vehicles constructed come with a gridlink system as standard, but the system can be installed afterward with a vehicle modification.
+In game terms, the host that controls the gridlink system is automatically assumed to have 3 marks (or be the owner) of any vehicle connected. Needless to say, runners consider the GridGuide system to be a major liability to their work and will always (if they’re smart) remove the system or install a gridlink override (see below).</notes>
+          <notesColor>Chocolate</notesColor>
+          <discountedcost>False</discountedcost>
+          <sortorder>0</sortorder>
+          <stolen>False</stolen>
+        </mod>
+        <mod>
+          <sourceid>2e9575fb-d141-4f1d-a1a0-63aadc261c97</sourceid>
+          <guid>bcb46aa9-35b7-4f43-af94-a47bb673a0de</guid>
+          <name>GridLink Override</name>
+          <category>Electromagnetic</category>
+          <limit />
+          <slots>1</slots>
+          <capacity />
+          <rating>0</rating>
+          <maxrating>0</maxrating>
+          <ratinglabel>String_Rating</ratinglabel>
+          <conditionmonitor>0</conditionmonitor>
+          <avail>8F</avail>
+          <cost>1000</cost>
+          <markup>0</markup>
+          <extra />
+          <source>R5</source>
+          <page>167</page>
+          <included>False</included>
+          <equipped>True</equipped>
+          <wirelesson>False</wirelesson>
+          <subsystems />
+          <weaponmountcategories />
+          <ammobonus>0</ammobonus>
+          <ammobonuspercent>0</ammobonuspercent>
+          <ammoreplace />
+          <weapons />
+          <notes>GRIDLINK OVERRIDE
+Using a combination of hardware and software modifications, a vehicle can be equipped to override its gridlink system, and retain independent control. When activated, the vehicle appears to be a interacting with the system normally but cannot be shut down, can exceed the posted speed limit, and randomly rotates its identifier so it cannot be tracked for an extended period. Since even runners are pragmatic, the vehicle still draws its operational power from the gridlink system, as long as it is available, because who doesn’t love stealing from the corps?</notes>
+          <notesColor>Chocolate</notesColor>
+          <discountedcost>False</discountedcost>
+          <sortorder>0</sortorder>
+          <stolen>False</stolen>
+        </mod>
+        <mod>
+          <sourceid>85a85cfd-7703-48f6-9745-d0a2b64c8b9e</sourceid>
+          <guid>d7007dbe-aef5-4856-889c-6d0239c26e36</guid>
+          <name>Armor (Concealed)</name>
+          <category>Protection</category>
+          <limit />
+          <slots>Rating * 3</slots>
+          <capacity />
+          <rating>1</rating>
+          <maxrating>body</maxrating>
+          <ratinglabel>String_Rating</ratinglabel>
+          <conditionmonitor>0</conditionmonitor>
+          <avail>12R</avail>
+          <cost>Rating * 3000</cost>
+          <markup>0</markup>
+          <extra />
+          <source>R5</source>
+          <page>159</page>
           <included>False</included>
           <equipped>True</equipped>
           <wirelesson>False</wirelesson>
@@ -2846,7 +3453,7 @@ This substance detects traces of orichalcum and other true elements. An eight-ou
           <ammoreplace />
           <weapons />
           <bonus>
-            <selecttext />
+            <armor>+Rating</armor>
           </bonus>
           <notes />
           <notesColor>Chocolate</notesColor>
@@ -2856,7 +3463,7 @@ This substance detects traces of orichalcum and other true elements. An eight-ou
         </mod>
         <mod>
           <sourceid>f2d9840c-22a7-4c70-943d-ffac88fe6120</sourceid>
-          <guid>6c457e8a-6f03-4049-bfb1-3d14708223a7</guid>
+          <guid>1cfb75a6-91be-4f47-9abc-a85e3861425b</guid>
           <name>Anti-Theft System</name>
           <category>Protection</category>
           <limit />
@@ -2895,23 +3502,23 @@ The explosion has a base damage of 12P and –2 AP, with damage from the blast �
           <stolen>False</stolen>
         </mod>
         <mod>
-          <sourceid>a254cd12-59c0-46ad-a291-92f0dd6da4c6</sourceid>
-          <guid>445d95c6-4169-4139-9fcf-b5cdfe2b4243</guid>
-          <name>Manual Control Override</name>
-          <category>Powertrain</category>
+          <sourceid>de5bd5c7-53cd-4ffd-9e13-ec04636d50ce</sourceid>
+          <guid>fabf9c76-1179-4326-b2fa-2746c8816c5f</guid>
+          <name>Smuggling Compartment Shielding</name>
+          <category>Body</category>
           <limit />
-          <slots>1</slots>
+          <slots>0</slots>
           <capacity />
           <rating>0</rating>
           <maxrating>0</maxrating>
           <ratinglabel>String_Rating</ratinglabel>
           <conditionmonitor>0</conditionmonitor>
-          <avail>6</avail>
-          <cost>500</cost>
+          <avail>12F</avail>
+          <cost>3000</cost>
           <markup>0</markup>
-          <extra />
+          <extra>Astral</extra>
           <source>R5</source>
-          <page>154</page>
+          <page>165</page>
           <included>False</included>
           <equipped>True</equipped>
           <wirelesson>False</wirelesson>
@@ -2921,111 +3528,10 @@ The explosion has a base damage of 12P and –2 AP, with damage from the blast �
           <ammobonuspercent>0</ammobonuspercent>
           <ammoreplace />
           <weapons />
-          <notes>MANUAL CONTROL OVERRIDE
-For runners that are extra paranoid about the Matrix security on their vehicle (or just unwilling to pay for</notes>
-          <notesColor>Chocolate</notesColor>
-          <discountedcost>False</discountedcost>
-          <sortorder>0</sortorder>
-          <stolen>False</stolen>
-        </mod>
-        <mod>
-          <sourceid>da9d087f-b0c0-4e8a-9a2f-902d1c6fe2d6</sourceid>
-          <guid>61e107b5-bd57-459b-ab13-c28deac1bca9</guid>
-          <name>Electromagnetic Shielding</name>
-          <category>Electromagnetic</category>
-          <limit />
-          <slots>2</slots>
-          <capacity />
-          <rating>0</rating>
-          <maxrating>0</maxrating>
-          <ratinglabel>String_Rating</ratinglabel>
-          <conditionmonitor>0</conditionmonitor>
-          <avail>6R</avail>
-          <cost>number(Body = 0) * 250 + Body * 500</cost>
-          <markup>0</markup>
-          <extra />
-          <source>R5</source>
-          <page>166</page>
-          <included>False</included>
-          <equipped>True</equipped>
-          <wirelesson>False</wirelesson>
-          <subsystems />
-          <weaponmountcategories />
-          <ammobonus>0</ammobonus>
-          <ammobonuspercent>0</ammobonuspercent>
-          <ammoreplace />
-          <weapons />
-          <notes>ELECTROMAGNETIC SHIELDING
-When a rigger wants absolute control over the signals that come in and out of their vehicle, there isn’t a better option than the electromagnetic shielding modification. This system builds a system of conductive metal bands into the exterior body of the vehicle, designed to conduct away and dissipate all wireless signals that attempt to penetrate the body of the vehicle, going in or out. This modification only works on vehicles that create an enclosed space—it is useless for vehicles that are open, such as a motorcycle. In game terms, the body of the vehicle acts as a Faraday cage for Noise purposes (p. 231, SR5) meaning that no communication is possible through the barrier. When the system is installed, the owner can choose to have certain systems or features be able to move through the barrier by running a physical wire through the cage. Any device that can connect to the body of the vehicle with a wired connection can bypass the Faraday cage.</notes>
-          <notesColor>Chocolate</notesColor>
-          <discountedcost>False</discountedcost>
-          <sortorder>0</sortorder>
-          <stolen>False</stolen>
-        </mod>
-        <mod>
-          <sourceid>831a60c3-f57b-40c7-9b4d-92906897ee90</sourceid>
-          <guid>c42e5b07-61b6-44f1-9a31-7651567c98d9</guid>
-          <name>GridLink</name>
-          <category>Electromagnetic</category>
-          <limit />
-          <slots>2</slots>
-          <capacity />
-          <rating>0</rating>
-          <maxrating>0</maxrating>
-          <ratinglabel>String_Rating</ratinglabel>
-          <conditionmonitor>0</conditionmonitor>
-          <avail>4</avail>
-          <cost>750</cost>
-          <markup>0</markup>
-          <extra />
-          <source>R5</source>
-          <page>166</page>
-          <included>False</included>
-          <equipped>True</equipped>
-          <wirelesson>False</wirelesson>
-          <subsystems />
-          <weaponmountcategories />
-          <ammobonus>0</ammobonus>
-          <ammobonuspercent>0</ammobonuspercent>
-          <ammoreplace />
-          <weapons />
-          <notes>GRIDLINK
-Gridlink is a fairly ubiquitous feature for modern vehicles in the Sixth World, at least in the areas where the sun of corporate control continually shines. Using a system of embedded power lines in the road system, any vehicle equipped with gridlink can use these lines to draw operational power and thus have an unlimited running time as long as it is connected. As with everything in the Sixth World, there’s a downside. In exchange for the free power, vehicles running on gridlink essentially give up control to the owner of the local GridGuidesystem. A vehicle is identified and tracked every second it is attached to the system, is limited to the legal speed limit set for the area, and can be remotely shut down by the owner of the system. Most vehicles constructed come with a gridlink system as standard, but the system can be installed afterward with a vehicle modification.
-In game terms, the host that controls the gridlink system is automatically assumed to have 3 marks (or be the owner) of any vehicle connected. Needless to say, runners consider the GridGuide system to be a major liability to their work and will always (if they’re smart) remove the system or install a gridlink override (see below).</notes>
-          <notesColor>Chocolate</notesColor>
-          <discountedcost>False</discountedcost>
-          <sortorder>0</sortorder>
-          <stolen>False</stolen>
-        </mod>
-        <mod>
-          <sourceid>2e9575fb-d141-4f1d-a1a0-63aadc261c97</sourceid>
-          <guid>a430b488-97d1-49f4-b745-4084d55ba74f</guid>
-          <name>GridLink Override</name>
-          <category>Electromagnetic</category>
-          <limit />
-          <slots>1</slots>
-          <capacity />
-          <rating>0</rating>
-          <maxrating>0</maxrating>
-          <ratinglabel>String_Rating</ratinglabel>
-          <conditionmonitor>0</conditionmonitor>
-          <avail>8F</avail>
-          <cost>1000</cost>
-          <markup>0</markup>
-          <extra />
-          <source>R5</source>
-          <page>167</page>
-          <included>False</included>
-          <equipped>True</equipped>
-          <wirelesson>False</wirelesson>
-          <subsystems />
-          <weaponmountcategories />
-          <ammobonus>0</ammobonus>
-          <ammobonuspercent>0</ammobonuspercent>
-          <ammoreplace />
-          <weapons />
-          <notes>GRIDLINK OVERRIDE
-Using a combination of hardware and software modifications, a vehicle can be equipped to override its gridlink system, and retain independent control. When activated, the vehicle appears to be a interacting with the system normally but cannot be shut down, can exceed the posted speed limit, and randomly rotates its identifier so it cannot be tracked for an extended period. Since even runners are pragmatic, the vehicle still draws its operational power from the gridlink system, as long as it is available, because who doesn’t love stealing from the corps?</notes>
+          <bonus>
+            <selecttext />
+          </bonus>
+          <notes />
           <notesColor>Chocolate</notesColor>
           <discountedcost>False</discountedcost>
           <sortorder>0</sortorder>
@@ -3036,7 +3542,7 @@ Using a combination of hardware and software modifications, a vehicle can be equ
       <gears>
         <gear>
           <sourceid>2ca81a10-d0f7-4b39-ac93-a84f2f69f9d9</sourceid>
-          <guid>150ceafc-fee7-412b-ae30-d114dae99b32</guid>
+          <guid>2e623eb0-765e-4cf9-9308-99c2e4cc379d</guid>
           <name>Sensor Array</name>
           <category>Sensors</category>
           <capacity>8/[0]</capacity>
@@ -3067,7 +3573,7 @@ Using a combination of hardware and software modifications, a vehicle can be equ
           <forcedvalue />
           <matrixcmfilled>0</matrixcmfilled>
           <matrixcmbonus>0</matrixcmbonus>
-          <parentid>4d9831fe-ddad-48ee-983f-b47c4e66b8b3</parentid>
+          <parentid>a6e071c0-6afb-46d2-b2eb-dedfce1e5a40</parentid>
           <allowrename>False</allowrename>
           <children />
           <location />
@@ -3125,80 +3631,6 @@ Rider feedback has led to a few comfort and handling improvements, as well as a 
   <critterpowers />
   <initiationgrades />
   <improvements>
-    <improvement>
-      <unique>enableattribute</unique>
-      <target />
-      <improvedname>MAG</improvedname>
-      <sourcename>1e2ccccc-a9de-4428-aec0-18326848bc1f</sourcename>
-      <min>0</min>
-      <max>0</max>
-      <aug>0</aug>
-      <augmax>0</augmax>
-      <val>0</val>
-      <rating>0</rating>
-      <exclude />
-      <condition />
-      <improvementttype>Attribute</improvementttype>
-      <improvementsource>Quality</improvementsource>
-      <custom>False</custom>
-      <customname />
-      <customid />
-      <customgroup />
-      <addtorating>0</addtorating>
-      <enabled>1</enabled>
-      <order>0</order>
-      <notes />
-      <notesColor>Chocolate</notesColor>
-    </improvement>
-    <improvement>
-      <unique>enabletab</unique>
-      <target />
-      <improvedname>Magician</improvedname>
-      <sourcename>1e2ccccc-a9de-4428-aec0-18326848bc1f</sourcename>
-      <min>0</min>
-      <max>0</max>
-      <aug>0</aug>
-      <augmax>0</augmax>
-      <val>0</val>
-      <rating>0</rating>
-      <exclude />
-      <condition />
-      <improvementttype>SpecialTab</improvementttype>
-      <improvementsource>Quality</improvementsource>
-      <custom>False</custom>
-      <customname />
-      <customid />
-      <customgroup />
-      <addtorating>0</addtorating>
-      <enabled>1</enabled>
-      <order>0</order>
-      <notes />
-      <notesColor>Chocolate</notesColor>
-    </improvement>
-    <improvement>
-      <target />
-      <improvedname>Magician</improvedname>
-      <sourcename>1e2ccccc-a9de-4428-aec0-18326848bc1f</sourcename>
-      <min>0</min>
-      <max>0</max>
-      <aug>0</aug>
-      <augmax>0</augmax>
-      <val>0</val>
-      <rating>1</rating>
-      <exclude />
-      <condition />
-      <improvementttype>SpecialSkills</improvementttype>
-      <improvementsource>Quality</improvementsource>
-      <custom>False</custom>
-      <customname />
-      <customid />
-      <customgroup />
-      <addtorating>0</addtorating>
-      <enabled>1</enabled>
-      <order>0</order>
-      <notes />
-      <notesColor>Chocolate</notesColor>
-    </improvement>
     <improvement>
       <target />
       <improvedname>Counterspelling</improvedname>
@@ -3273,8 +3705,8 @@ Rider feedback has led to a few comfort and handling improvements, as well as a 
     </improvement>
     <improvement>
       <target />
-      <improvedname>Boggle</improvedname>
-      <sourcename>2a95fbfa-771a-4e38-b8c7-a48cf46e4bce</sourcename>
+      <improvedname>2a95fbfa-771a-4e38-b8c7-a48cf46e4bce</improvedname>
+      <sourcename>fb348e08-936d-4d70-aab6-b8a1937e39ff</sourcename>
       <min>0</min>
       <max>0</max>
       <aug>0</aug>
@@ -3283,7 +3715,57 @@ Rider feedback has led to a few comfort and handling improvements, as well as a 
       <rating>1</rating>
       <exclude />
       <condition />
-      <improvementttype>AddSpirit</improvementttype>
+      <improvementttype>SpecificQuality</improvementttype>
+      <improvementsource>Tradition</improvementsource>
+      <custom>False</custom>
+      <customname />
+      <customid />
+      <customgroup />
+      <addtorating>0</addtorating>
+      <enabled>1</enabled>
+      <order>0</order>
+      <notes />
+      <notesColor>Chocolate</notesColor>
+    </improvement>
+    <improvement>
+      <unique>enableattribute</unique>
+      <target />
+      <improvedname>MAG</improvedname>
+      <sourcename>1e2ccccc-a9de-4428-aec0-18326848bc1f</sourcename>
+      <min>0</min>
+      <max>0</max>
+      <aug>0</aug>
+      <augmax>0</augmax>
+      <val>0</val>
+      <rating>0</rating>
+      <exclude />
+      <condition />
+      <improvementttype>Attribute</improvementttype>
+      <improvementsource>Quality</improvementsource>
+      <custom>False</custom>
+      <customname />
+      <customid />
+      <customgroup />
+      <addtorating>0</addtorating>
+      <enabled>1</enabled>
+      <order>0</order>
+      <notes />
+      <notesColor>Chocolate</notesColor>
+    </improvement>
+    <improvement>
+      <unique>enabletab</unique>
+      <target />
+      <improvedname>Magician</improvedname>
+      <sourcename>1e2ccccc-a9de-4428-aec0-18326848bc1f</sourcename>
+      <min>0</min>
+      <max>0</max>
+      <aug>0</aug>
+      <augmax>0</augmax>
+      <val>0</val>
+      <rating>0</rating>
+      <exclude />
+      <condition />
+      <improvementttype>SpecialTab</improvementttype>
       <improvementsource>Quality</improvementsource>
       <custom>False</custom>
       <customname />
@@ -3297,8 +3779,8 @@ Rider feedback has led to a few comfort and handling improvements, as well as a 
     </improvement>
     <improvement>
       <target />
-      <improvedname>2a95fbfa-771a-4e38-b8c7-a48cf46e4bce</improvedname>
-      <sourcename>fb348e08-936d-4d70-aab6-b8a1937e39ff</sourcename>
+      <improvedname>Magician</improvedname>
+      <sourcename>1e2ccccc-a9de-4428-aec0-18326848bc1f</sourcename>
       <min>0</min>
       <max>0</max>
       <aug>0</aug>
@@ -3307,8 +3789,8 @@ Rider feedback has led to a few comfort and handling improvements, as well as a 
       <rating>1</rating>
       <exclude />
       <condition />
-      <improvementttype>SpecificQuality</improvementttype>
-      <improvementsource>Tradition</improvementsource>
+      <improvementttype>SpecialSkills</improvementttype>
+      <improvementsource>Quality</improvementsource>
       <custom>False</custom>
       <customname />
       <customid />
@@ -3393,104 +3875,8 @@ Rider feedback has led to a few comfort and handling improvements, as well as a 
     </improvement>
     <improvement>
       <target />
-      <improvedname>Local Grid</improvedname>
-      <sourcename>f11ffa31-de95-4c0d-b2e0-84da233e295a</sourcename>
-      <min>0</min>
-      <max>0</max>
-      <aug>0</aug>
-      <augmax>0</augmax>
-      <val>0</val>
-      <rating>1</rating>
-      <exclude />
-      <condition />
-      <improvementttype>Text</improvementttype>
-      <improvementsource>Quality</improvementsource>
-      <custom>False</custom>
-      <customname />
-      <customid />
-      <customgroup />
-      <addtorating>0</addtorating>
-      <enabled>1</enabled>
-      <order>0</order>
-      <notes />
-      <notesColor>Chocolate</notesColor>
-    </improvement>
-    <improvement>
-      <target />
-      <improvedname>Public Grid</improvedname>
-      <sourcename>4a98e3f1-04c3-4688-b150-f53c380e84a2</sourcename>
-      <min>0</min>
-      <max>0</max>
-      <aug>0</aug>
-      <augmax>0</augmax>
-      <val>0</val>
-      <rating>1</rating>
-      <exclude />
-      <condition />
-      <improvementttype>Text</improvementttype>
-      <improvementsource>Quality</improvementsource>
-      <custom>False</custom>
-      <customname />
-      <customid />
-      <customgroup />
-      <addtorating>0</addtorating>
-      <enabled>1</enabled>
-      <order>0</order>
-      <notes />
-      <notesColor>Chocolate</notesColor>
-    </improvement>
-    <improvement>
-      <target />
       <improvedname>Black Magic [Alt]</improvedname>
       <sourcename>0d3f9849-a273-4d2a-8688-53bcf72a0472</sourcename>
-      <min>0</min>
-      <max>0</max>
-      <aug>0</aug>
-      <augmax>0</augmax>
-      <val>0</val>
-      <rating>1</rating>
-      <exclude />
-      <condition />
-      <improvementttype>Tradition</improvementttype>
-      <improvementsource>Gear</improvementsource>
-      <custom>False</custom>
-      <customname />
-      <customid />
-      <customgroup />
-      <addtorating>0</addtorating>
-      <enabled>1</enabled>
-      <order>0</order>
-      <notes />
-      <notesColor>Chocolate</notesColor>
-    </improvement>
-    <improvement>
-      <target />
-      <improvedname>Combat</improvedname>
-      <sourcename>7f352116-db68-437f-9255-91376bdd782a</sourcename>
-      <min>0</min>
-      <max>0</max>
-      <aug>0</aug>
-      <augmax>0</augmax>
-      <val>5</val>
-      <rating>1</rating>
-      <exclude />
-      <condition />
-      <improvementttype>SpellCategory</improvementttype>
-      <improvementsource>Gear</improvementsource>
-      <custom>False</custom>
-      <customname />
-      <customid />
-      <customgroup />
-      <addtorating>0</addtorating>
-      <enabled>1</enabled>
-      <order>0</order>
-      <notes />
-      <notesColor>Chocolate</notesColor>
-    </improvement>
-    <improvement>
-      <target />
-      <improvedname>Black Magic [Alt]</improvedname>
-      <sourcename>7f352116-db68-437f-9255-91376bdd782a</sourcename>
       <min>0</min>
       <max>0</max>
       <aug>0</aug>
@@ -3517,8 +3903,8 @@ Rider feedback has led to a few comfort and handling improvements, as well as a 
   <mentorspirits />
   <expenses>
     <expense>
-      <guid>5911f632-88da-41e0-bccd-47aec0e92c14</guid>
-      <date>2025-11-26T23:48:02</date>
+      <guid>a8df737b-1851-45f7-acd4-49832d855d49</guid>
+      <date>2025-12-09T01:54:48</date>
       <amount>6</amount>
       <reason>Starting Karma</reason>
       <type>Karma</type>
@@ -3533,9 +3919,9 @@ Rider feedback has led to a few comfort and handling improvements, as well as a 
       </undo>
     </expense>
     <expense>
-      <guid>77126727-b398-4569-b440-5d9325f4ce38</guid>
-      <date>2025-11-26T23:48:02</date>
-      <amount>2000.0</amount>
+      <guid>5cc078a0-e358-40cb-aa9a-949e61612cfd</guid>
+      <date>2025-12-09T01:54:48</date>
+      <amount>2300.0</amount>
       <reason>Starting Nuyen</reason>
       <type>Nuyen</type>
       <refund>False</refund>
@@ -3549,9 +3935,9 @@ Rider feedback has led to a few comfort and handling improvements, as well as a 
       </undo>
     </expense>
     <expense>
-      <guid>35b90bea-ee2a-4e93-b37b-8168a89c6905</guid>
-      <date>2025-11-27T10:34:59</date>
-      <amount>7</amount>
+      <guid>eb79f81e-d33b-424b-afaa-dd0fa87ea3cc</guid>
+      <date>2025-12-09T01:56:30</date>
+      <amount>6</amount>
       <reason>Mission Reward</reason>
       <type>Karma</type>
       <refund>False</refund>
@@ -3565,8 +3951,8 @@ Rider feedback has led to a few comfort and handling improvements, as well as a 
       </undo>
     </expense>
     <expense>
-      <guid>8447bba7-1819-48f6-908f-280dbc365e91</guid>
-      <date>2025-11-27T10:35:12</date>
+      <guid>270169e1-a5d6-44e5-a356-12e3bdc37151</guid>
+      <date>2025-12-09T01:56:36</date>
       <amount>7000</amount>
       <reason>Mission Reward</reason>
       <type>Nuyen</type>
@@ -3581,12 +3967,12 @@ Rider feedback has led to a few comfort and handling improvements, as well as a 
       </undo>
     </expense>
     <expense>
-      <guid>f90064b3-5be6-4374-8b85-dfa05d9408e8</guid>
-      <date>2025-11-27T10:38:00</date>
-      <amount>60000</amount>
+      <guid>c962c8c9-6cc1-434d-894b-3a574d7adb84</guid>
+      <date>2025-12-09T02:08:55</date>
+      <amount>30000</amount>
       <reason>Mission Reward</reason>
       <type>Nuyen</type>
-      <refund>False</refund>
+      <refund>True</refund>
       <forcecareervisible>False</forcecareervisible>
       <undo>
         <karmatype>ImproveAttribute</karmatype>
@@ -3597,97 +3983,8 @@ Rider feedback has led to a few comfort and handling improvements, as well as a 
       </undo>
     </expense>
     <expense>
-      <guid>35a897da-f2bf-4e37-b40a-8a64bd2337f3</guid>
-      <date>2025-11-27T10:39:00</date>
-      <amount>-20000.0</amount>
-      <reason>Purchased Gear Spellcasting Focus, Combat</reason>
-      <type>Nuyen</type>
-      <refund>False</refund>
-      <forcecareervisible>False</forcecareervisible>
-      <undo>
-        <karmatype>ImproveAttribute</karmatype>
-        <nuyentype>AddGear</nuyentype>
-        <objectid>7f352116-db68-437f-9255-91376bdd782a</objectid>
-        <qty>1.0</qty>
-        <extra />
-      </undo>
-    </expense>
-    <expense>
-      <guid>0e639898-756c-485f-aaba-d2e4303cb493</guid>
-      <date>2025-11-27T10:42:06</date>
-      <amount>-10</amount>
-      <reason>Bound Spellcasting Focus, Combat (Rating: 5) (Black Magic [Alt])</reason>
-      <type>Karma</type>
-      <refund>False</refund>
-      <forcecareervisible>False</forcecareervisible>
-      <undo>
-        <karmatype>BindFocus</karmatype>
-        <nuyentype>AddCyberware</nuyentype>
-        <objectid>0ed1ce79-8521-4ffa-b25e-98424dc03a42</objectid>
-        <qty>0</qty>
-        <extra />
-      </undo>
-    </expense>
-    <expense>
-      <guid>997f3fbb-285f-488c-8122-22ffb6bd4bc8</guid>
-      <date>2025-11-27T10:44:35</date>
-      <amount>-1000</amount>
-      <reason>Purchased Armor Armor Jacket</reason>
-      <type>Nuyen</type>
-      <refund>False</refund>
-      <forcecareervisible>False</forcecareervisible>
-      <undo>
-        <karmatype>ImproveAttribute</karmatype>
-        <nuyentype>AddArmor</nuyentype>
-        <objectid>5aa9f448-887e-4446-82be-4d18b29ba1d1</objectid>
-        <qty>0</qty>
-        <extra />
-      </undo>
-    </expense>
-    <expense>
-      <guid>51f30d50-54c4-4544-9f23-5cdc1bdc022f</guid>
-      <date>2025-11-27T10:45:13</date>
-      <amount>-2083.33333333333</amount>
-      <reason>Modified Lifestyle Medium ("Decent Spot") -&gt; Medium ("Decent Spot")</reason>
-      <type>Nuyen</type>
-      <refund>False</refund>
-      <forcecareervisible>False</forcecareervisible>
-    </expense>
-    <expense>
-      <guid>08d7c896-ab2e-4a24-8179-b16eb26c20ef</guid>
-      <date>2025-11-27T10:46:06</date>
-      <amount>-2</amount>
-      <reason>Active Skill Pilot Ground Craft 0 -&gt; 1</reason>
-      <type>Karma</type>
-      <refund>False</refund>
-      <forcecareervisible>False</forcecareervisible>
-      <undo>
-        <karmatype>AddSkill</karmatype>
-        <nuyentype>AddCyberware</nuyentype>
-        <objectid>57ad452e-05f3-4e6c-9d09-638e08671536</objectid>
-        <qty>0</qty>
-        <extra />
-      </undo>
-    </expense>
-    <expense>
-      <guid>480fc17f-586f-4494-9e55-e2cc53e8ae61</guid>
-      <date>2025-11-27T11:17:46</date>
-      <amount>-7083.33333333333</amount>
-      <reason>Purchased Lifestyle Medium</reason>
-      <type>Nuyen</type>
-      <refund>False</refund>
-      <forcecareervisible>False</forcecareervisible>
-      <undo>
-        <karmatype>ImproveAttribute</karmatype>
-        <nuyentype>IncreaseLifestyle</nuyentype>
-        <objectid>00210d46-7676-49a5-9009-ae4e744129e8</objectid>
-        <qty>0</qty>
-        <extra />
-      </undo>
-    </expense>
-    <expense>
-      <guid>319dd1ef-560c-4fbc-965c-886ba2e4b7a9</guid>
-      <date>2025-11-27T11:25:53</date>
+      <guid>6b28b13c-a0e0-405c-9d49-6a40e3feaa25</guid>
+      <date>2025-12-09T02:10:20</date>
       <amount>-22000</amount>
       <reason>Purchased Vehicle Harley-Davidson Nightmare</reason>
       <type>Nuyen</type>
@@ -3696,78 +3993,14 @@ Rider feedback has led to a few comfort and handling improvements, as well as a 
       <undo>
         <karmatype>ImproveAttribute</karmatype>
         <nuyentype>AddVehicle</nuyentype>
-        <objectid>4d9831fe-ddad-48ee-983f-b47c4e66b8b3</objectid>
+        <objectid>a6e071c0-6afb-46d2-b2eb-dedfce1e5a40</objectid>
         <qty>0</qty>
         <extra />
       </undo>
     </expense>
     <expense>
-      <guid>b1775e5a-3d96-4a2d-8a39-ac02824c3978</guid>
-      <date>2025-11-27T11:31:17</date>
-      <amount>-3000</amount>
-      <reason>Purchased Vehicle Mod Smuggling Compartment Shielding</reason>
-      <type>Nuyen</type>
-      <refund>False</refund>
-      <forcecareervisible>False</forcecareervisible>
-      <undo>
-        <karmatype>ImproveAttribute</karmatype>
-        <nuyentype>AddVehicleMod</nuyentype>
-        <objectid>7e023553-543b-45d6-bdcb-844c0284afdc</objectid>
-        <qty>0</qty>
-        <extra />
-      </undo>
-    </expense>
-    <expense>
-      <guid>e5e480fe-e367-4357-a54f-ce945071a938</guid>
-      <date>2025-11-27T11:32:23</date>
-      <amount>-2500</amount>
-      <reason>Purchased Vehicle Mod Anti-Theft System</reason>
-      <type>Nuyen</type>
-      <refund>False</refund>
-      <forcecareervisible>False</forcecareervisible>
-      <undo>
-        <karmatype>ImproveAttribute</karmatype>
-        <nuyentype>AddVehicleMod</nuyentype>
-        <objectid>6c457e8a-6f03-4049-bfb1-3d14708223a7</objectid>
-        <qty>0</qty>
-        <extra />
-      </undo>
-    </expense>
-    <expense>
-      <guid>8feea32f-4f76-41e2-8e40-45ed02ead9d0</guid>
-      <date>2025-11-27T11:34:00</date>
-      <amount>-500</amount>
-      <reason>Purchased Vehicle Mod Manual Control Override</reason>
-      <type>Nuyen</type>
-      <refund>False</refund>
-      <forcecareervisible>False</forcecareervisible>
-      <undo>
-        <karmatype>ImproveAttribute</karmatype>
-        <nuyentype>AddVehicleMod</nuyentype>
-        <objectid>445d95c6-4169-4139-9fcf-b5cdfe2b4243</objectid>
-        <qty>0</qty>
-        <extra />
-      </undo>
-    </expense>
-    <expense>
-      <guid>addf7534-3808-4942-811b-d640a2232d7f</guid>
-      <date>2025-11-27T11:34:31</date>
-      <amount>-4000</amount>
-      <reason>Purchased Vehicle Mod Electromagnetic Shielding</reason>
-      <type>Nuyen</type>
-      <refund>False</refund>
-      <forcecareervisible>False</forcecareervisible>
-      <undo>
-        <karmatype>ImproveAttribute</karmatype>
-        <nuyentype>AddVehicleMod</nuyentype>
-        <objectid>61e107b5-bd57-459b-ab13-c28deac1bca9</objectid>
-        <qty>0</qty>
-        <extra />
-      </undo>
-    </expense>
-    <expense>
-      <guid>8ed56cd5-214e-4d95-9fdd-ed733fde3bb7</guid>
-      <date>2025-11-27T11:35:16</date>
+      <guid>e6698471-bb84-4390-ab52-9cce62278033</guid>
+      <date>2025-12-09T02:10:34</date>
       <amount>-750</amount>
       <reason>Purchased Vehicle Mod GridLink</reason>
       <type>Nuyen</type>
@@ -3776,14 +4009,14 @@ Rider feedback has led to a few comfort and handling improvements, as well as a 
       <undo>
         <karmatype>ImproveAttribute</karmatype>
         <nuyentype>AddVehicleMod</nuyentype>
-        <objectid>c42e5b07-61b6-44f1-9a31-7651567c98d9</objectid>
+        <objectid>6d1ded5e-d194-4ceb-b436-8978bc94e3d0</objectid>
         <qty>0</qty>
         <extra />
       </undo>
     </expense>
     <expense>
-      <guid>26a6f574-d3fc-45ac-9d32-bcdab8e9b89b</guid>
-      <date>2025-11-27T11:35:21</date>
+      <guid>7f295e1c-ea17-4fec-abb0-c41d8781985e</guid>
+      <date>2025-12-09T02:10:39</date>
       <amount>-1000</amount>
       <reason>Purchased Vehicle Mod GridLink Override</reason>
       <type>Nuyen</type>
@@ -3792,8 +4025,72 @@ Rider feedback has led to a few comfort and handling improvements, as well as a 
       <undo>
         <karmatype>ImproveAttribute</karmatype>
         <nuyentype>AddVehicleMod</nuyentype>
-        <objectid>a430b488-97d1-49f4-b745-4084d55ba74f</objectid>
+        <objectid>bcb46aa9-35b7-4f43-af94-a47bb673a0de</objectid>
         <qty>0</qty>
+        <extra />
+      </undo>
+    </expense>
+    <expense>
+      <guid>dbb7bc8d-2f79-401d-8399-0e24829062c4</guid>
+      <date>2025-12-09T02:10:55</date>
+      <amount>-3000</amount>
+      <reason>Purchased Vehicle Mod Armor (Concealed)</reason>
+      <type>Nuyen</type>
+      <refund>False</refund>
+      <forcecareervisible>False</forcecareervisible>
+      <undo>
+        <karmatype>ImproveAttribute</karmatype>
+        <nuyentype>AddVehicleMod</nuyentype>
+        <objectid>d7007dbe-aef5-4856-889c-6d0239c26e36</objectid>
+        <qty>0</qty>
+        <extra />
+      </undo>
+    </expense>
+    <expense>
+      <guid>120912f4-ebd8-434c-947a-6c93357cd60b</guid>
+      <date>2025-12-09T02:11:13</date>
+      <amount>-2500</amount>
+      <reason>Purchased Vehicle Mod Anti-Theft System</reason>
+      <type>Nuyen</type>
+      <refund>False</refund>
+      <forcecareervisible>False</forcecareervisible>
+      <undo>
+        <karmatype>ImproveAttribute</karmatype>
+        <nuyentype>AddVehicleMod</nuyentype>
+        <objectid>1cfb75a6-91be-4f47-9abc-a85e3861425b</objectid>
+        <qty>0</qty>
+        <extra />
+      </undo>
+    </expense>
+    <expense>
+      <guid>eb1050b9-85e3-43fd-ab3f-d49c448a29e6</guid>
+      <date>2025-12-09T02:13:08</date>
+      <amount>-3000</amount>
+      <reason>Purchased Vehicle Mod Smuggling Compartment Shielding</reason>
+      <type>Nuyen</type>
+      <refund>False</refund>
+      <forcecareervisible>False</forcecareervisible>
+      <undo>
+        <karmatype>ImproveAttribute</karmatype>
+        <nuyentype>AddVehicleMod</nuyentype>
+        <objectid>fabf9c76-1179-4326-b2fa-2746c8816c5f</objectid>
+        <qty>0</qty>
+        <extra />
+      </undo>
+    </expense>
+    <expense>
+      <guid>5ab4a1e9-a049-42d9-99ff-a18eff176e92</guid>
+      <date>2025-12-09T02:14:02</date>
+      <amount>-3000.0</amount>
+      <reason>Purchased Gear Hermes Ikon</reason>
+      <type>Nuyen</type>
+      <refund>False</refund>
+      <forcecareervisible>False</forcecareervisible>
+      <undo>
+        <karmatype>ImproveAttribute</karmatype>
+        <nuyentype>AddGear</nuyentype>
+        <objectid>5d43d4b5-70a4-4441-91bd-3a0dd160fc14</objectid>
+        <qty>1.0</qty>
         <extra />
       </undo>
     </expense>
@@ -3803,20 +4100,12 @@ Rider feedback has led to a few comfort and handling improvements, as well as a 
   <vehiclelocations />
   <weaponlocations />
   <improvementgroups />
-  <calendar>
-    <week>
-      <guid>7cb85a01-3821-4511-81e2-f1a7ed073576</guid>
-      <year>2072</year>
-      <week>1</week>
-      <notes>Game Start and first Run, done on First Day</notes>
-      <notesColor>Chocolate</notesColor>
-    </week>
-  </calendar>
+  <calendar />
   <calculatedvalues>
     <physicalcm>10</physicalcm>
     <physicalcmthresholdoffset>0</physicalcmthresholdoffset>
     <physicalcmoverflow>4</physicalcmoverflow>
-    <stuncm>9</stuncm>
+    <stuncm>10</stuncm>
     <stuncmthresholdoffset>0</stuncmthresholdoffset>
   </calculatedvalues>
 </character>
